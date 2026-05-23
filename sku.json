@@ -1,1 +1,226 @@
-[]
+[
+  {
+    "SKU": "RLAJ",
+    "PRODUCTO": "Regional Lavado Jericó",
+    "100g": 170,
+    "250g": 152,
+    "340g": 138.23529411764707,
+    "500g": 116,
+    "2500g": 84,
+    "iva": 5
+  },
+  {
+    "SKU": "RLAA",
+    "PRODUCTO": "Regional Lavado Andes",
+    "100g": 170,
+    "250g": 152,
+    "340g": 138.23529411764707,
+    "500g": 116,
+    "2500g": 84,
+    "iva": 5
+  },
+  {
+    "SKU": "RLAS",
+    "PRODUCTO": "Regional Lavado SurOeste",
+    "100g": 170,
+    "250g": 152,
+    "340g": 138.23529411764707,
+    "500g": 116,
+    "2500g": 84,
+    "iva": 5
+  },
+  {
+    "SKU": "RLAC",
+    "PRODUCTO": "Regional Lavado Caicedo",
+    "100g": 170,
+    "250g": 152,
+    "340g": 138.23529411764707,
+    "500g": 116,
+    "2500g": 84,
+    "iva": 5
+  },
+  {
+    "SKU": "BHO",
+    "PRODUCTO": "Blend Honey 56h",
+    "100g": 200,
+    "250g": 168,
+    "340g": 155.88235294117646,
+    "500g": 144,
+    "2500g": 116,
+    "iva": 5
+  },
+  {
+    "SKU": "BHO72",
+    "PRODUCTO": "Blend Honey72h",
+    "100g": 200,
+    "250g": 168,
+    "340g": 155.88235294117646,
+    "500g": 144,
+    "2500g": 116,
+    "iva": 5
+  },
+  {
+    "SKU": "BHO120",
+    "PRODUCTO": "Blend Honey 120h",
+    "100g": 200,
+    "250g": 168,
+    "340g": 155.88235294117646,
+    "500g": 144,
+    "2500g": 116,
+    "iva": 5
+  },
+  {
+    "SKU": "BNA",
+    "PRODUCTO": "Blend Natural 56h",
+    "100g": 200,
+    "250g": 168,
+    "340g": 155.88235294117646,
+    "500g": 144,
+    "2500g": 116,
+    "iva": 5
+  },
+  {
+    "SKU": "BNA120",
+    "PRODUCTO": "Blend Natural 120h",
+    "100g": 200,
+    "250g": 168,
+    "340g": 155.88235294117646,
+    "500g": 144,
+    "2500g": 116,
+    "iva": 5
+  },
+  {
+    "SKU": "CHLA",
+    "PRODUCTO": "Chiroso Lavado",
+    "100g": 220,
+    "250g": 200,
+    "340g": 182.35294117647058,
+    "500g": 160,
+    "2500g": 148,
+    "iva": 5
+  },
+  {
+    "SKU": "CMA",
+    "PRODUCTO": "Cofermentado Maracuyá",
+    "100g": 230,
+    "250g": 208,
+    "340g": 200,
+    "500g": 178,
+    "2500g": 168,
+    "iva": 5
+  },
+  {
+    "SKU": "CGA",
+    "PRODUCTO": "Cofermentado Galleta",
+    "100g": 230,
+    "250g": 208,
+    "340g": 200,
+    "500g": 178,
+    "2500g": 168,
+    "iva": 5
+  },
+  {
+    "SKU": "BBO",
+    "PRODUCTO": "Blend Bourbon",
+    "100g": 260,
+    "250g": 232,
+    "340g": 220.58823529411765,
+    "500g": 198,
+    "2500g": 192,
+    "iva": 5
+  },
+  {
+    "SKU": "PANA",
+    "PRODUCTO": "Papayo Natural",
+    "100g": 380,
+    "250g": 304,
+    "340g": 285.29411764705884,
+    "500g": 278,
+    "2500g": 200,
+    "iva": 5
+  },
+  {
+    "SKU": "GELA",
+    "PRODUCTO": "Gesha Lavado",
+    "100g": 380,
+    "250g": 304,
+    "340g": 285.29411764705884,
+    "500g": 278,
+    "2500g": 200,
+    "iva": 5
+  },
+  {
+    "SKU": "MNA",
+    "PRODUCTO": "Maragogype Natural",
+    "100g": 380,
+    "250g": 304,
+    "340g": 285.29411764705884,
+    "500g": 278,
+    "2500g": 200,
+    "iva": 5
+  },
+  {
+    "SKU": "SURU",
+    "PRODUCTO": "Sudan Rumé Natural",
+    "100g": 380,
+    "250g": 304,
+    "340g": 285.29411764705884,
+    "500g": 278,
+    "2500g": 200,
+    "iva": 5
+  },
+  {
+    "SKU": "BSIN",
+    "PRODUCTO": "Bourbon Sidra",
+    "100g": 380,
+    "250g": 304,
+    "340g": 285.29411764705884,
+    "500g": 278,
+    "2500g": 200,
+    "iva": 5
+  },
+  {
+    "SKU": "PNA",
+    "PRODUCTO": "Pacamara Natural",
+    "100g": 380,
+    "250g": 304,
+    "340g": 285.29411764705884,
+    "500g": 278,
+    "2500g": 200,
+    "iva": 5
+  },
+  {
+    "SKU": "JNA",
+    "PRODUCTO": "Java Natural",
+    "100g": 380,
+    "250g": 304,
+    "340g": 285.29411764705884,
+    "500g": 278,
+    "2500g": 200,
+    "iva": 5
+  },
+  {
+    "SKU": "TANA",
+    "PRODUCTO": "Tabi Natural",
+    "100g": 380,
+    "250g": 304,
+    "340g": 285.29411764705884,
+    "500g": 278,
+    "2500g": 200,
+    "iva": 5
+  },
+  {
+    "SKU": "DOM",
+    "PRODUCTO": "Domicilio",
+    "Local Transportadora": 10000,
+    "Local Mensajero": 14000,
+    "Nacional Transportadora": 18000,
+    "Otro": 1
+  },
+  {
+    "SKU": "COWO",
+    "PRODUCTO": "Wompi",
+    "Comision 7%": 7,
+    "Comision 5%": 5
+  }
+]
