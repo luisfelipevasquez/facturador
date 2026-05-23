@@ -1,0 +1,442 @@
+[
+  {
+    "nombre": "Blend Bourbon - 2500g",
+    "sku": "BBO"
+  },
+  {
+    "nombre": "Blend Bourbon - 340g",
+    "sku": "BBO"
+  },
+  {
+    "nombre": "Blend Bourbon - 500g",
+    "sku": "BBO"
+  },
+  {
+    "nombre": "Blend Bourbon - 250g",
+    "sku": "BBO"
+  },
+  {
+    "nombre": "Blend Bourbon - 100g",
+    "sku": "BBO"
+  },
+  {
+    "nombre": "Bourbon Sidra - 2500g",
+    "sku": "BSIN"
+  },
+  {
+    "nombre": "Bourbon Sidra - 500g",
+    "sku": "BSIN"
+  },
+  {
+    "nombre": "Bourbon Sidra - 340g",
+    "sku": "BSIN"
+  },
+  {
+    "nombre": "Bourbon Sidra - 250g",
+    "sku": "BSIN"
+  },
+  {
+    "nombre": "Bourbon Sidra - 100g",
+    "sku": "BSIN"
+  },
+  {
+    "nombre": "Chiroso Lavado - 2500g",
+    "sku": "CHLA"
+  },
+  {
+    "nombre": "Chiroso Lavado - 500g",
+    "sku": "CHLA"
+  },
+  {
+    "nombre": "Chiroso Lavado - 340g",
+    "sku": "CHLA"
+  },
+  {
+    "nombre": "Chiroso Lavado - 250g",
+    "sku": "CHLA"
+  },
+  {
+    "nombre": "Chiroso Lavado - 100g",
+    "sku": "CHLA"
+  },
+  {
+    "nombre": "Galleta Mantequilla - 2500g",
+    "sku": "CGA"
+  },
+  {
+    "nombre": "Galleta Mantequilla - 340g",
+    "sku": "CGA"
+  },
+  {
+    "nombre": "Galleta Mantequilla - 500g",
+    "sku": "CGA"
+  },
+  {
+    "nombre": "Galleta Mantequilla - 250g",
+    "sku": "CGA"
+  },
+  {
+    "nombre": "Galleta Mantequilla - 100g",
+    "sku": "CGA"
+  },
+  {
+    "nombre": "Gesha Honey - 2500g",
+    "sku": "GHO"
+  },
+  {
+    "nombre": "Gesha Honey - 500g",
+    "sku": "GHO"
+  },
+  {
+    "nombre": "Gesha Honey - 340g",
+    "sku": "GHO"
+  },
+  {
+    "nombre": "Gesha Honey - 250g",
+    "sku": "GHO"
+  },
+  {
+    "nombre": "Gesha Honey - 100g",
+    "sku": "GHO"
+  },
+  {
+    "nombre": "Gesha Lavado - 340g",
+    "sku": "GELA"
+  },
+  {
+    "nombre": "Gesha Lavado - 250g",
+    "sku": "GELA"
+  },
+  {
+    "nombre": "Gesha Lavado - 500g",
+    "sku": "GELA"
+  },
+  {
+    "nombre": "Gesha Lavado - 100g",
+    "sku": "GELA"
+  },
+  {
+    "nombre": "Honey 120 Horas - 2500g",
+    "sku": "BHO120"
+  },
+  {
+    "nombre": "Honey 120 Horas - 500g",
+    "sku": "BHO120"
+  },
+  {
+    "nombre": "Honey 120 Horas - 340g",
+    "sku": "BHO120"
+  },
+  {
+    "nombre": "Honey 120 Horas - 250g",
+    "sku": "BHO120"
+  },
+  {
+    "nombre": "Honey 120 Horas - 100g",
+    "sku": "BHO120"
+  },
+  {
+    "nombre": "Honey 56 Horas - 2500g",
+    "sku": "BHO56"
+  },
+  {
+    "nombre": "Honey 56 Horas - 500g",
+    "sku": "BHO56"
+  },
+  {
+    "nombre": "Honey 56 Horas - 340g",
+    "sku": "BHO56"
+  },
+  {
+    "nombre": "Honey 56 Horas - 250g",
+    "sku": "BHO56"
+  },
+  {
+    "nombre": "Honey 56 Horas - 100g",
+    "sku": "BHO56"
+  },
+  {
+    "nombre": "Honey 72 Horas - 2500g",
+    "sku": "BHO72"
+  },
+  {
+    "nombre": "Honey 72 Horas - 500g",
+    "sku": "BHO72"
+  },
+  {
+    "nombre": "Honey 72 Horas - 340g",
+    "sku": "BHO72"
+  },
+  {
+    "nombre": "Honey 72 Horas - 250g",
+    "sku": "BHO72"
+  },
+  {
+    "nombre": "Honey 72 Horas - 100g",
+    "sku": "BHO72"
+  },
+  {
+    "nombre": "Jarra Infusora - 600ml",
+    "sku": "JI"
+  },
+  {
+    "nombre": "Java Natural - 2500g",
+    "sku": "JNA"
+  },
+  {
+    "nombre": "Java Natural - 500g",
+    "sku": "JNA"
+  },
+  {
+    "nombre": "Java Natural - 340g",
+    "sku": "JNA"
+  },
+  {
+    "nombre": "Java Natural - 250g",
+    "sku": "JNA"
+  },
+  {
+    "nombre": "Java Natural - 100g",
+    "sku": "JNA"
+  },
+  {
+    "nombre": "Maracuyá - 2500g",
+    "sku": "CMA"
+  },
+  {
+    "nombre": "Maracuyá - 340g",
+    "sku": "CMA"
+  },
+  {
+    "nombre": "Maracuyá - 500g",
+    "sku": "CMA"
+  },
+  {
+    "nombre": "Maracuyá - 250g",
+    "sku": "CMA"
+  },
+  {
+    "nombre": "Maracuyá - 100g",
+    "sku": "CMA"
+  },
+  {
+    "nombre": "Maragogype - 2500g",
+    "sku": "MNA"
+  },
+  {
+    "nombre": "Maragogype - 500g",
+    "sku": "MNA"
+  },
+  {
+    "nombre": "Maragogype - 340g",
+    "sku": "MNA"
+  },
+  {
+    "nombre": "Maragogype - 250g",
+    "sku": "MNA"
+  },
+  {
+    "nombre": "Maragogype - 100g",
+    "sku": "MNA"
+  },
+  {
+    "nombre": "Natural 120 horas - 2500g",
+    "sku": "BNA120"
+  },
+  {
+    "nombre": "Natural 120 horas - 500g",
+    "sku": "BNA120"
+  },
+  {
+    "nombre": "Natural 120 horas - 340g",
+    "sku": "BNA120"
+  },
+  {
+    "nombre": "Natural 120 horas - 250g",
+    "sku": "BNA120"
+  },
+  {
+    "nombre": "Natural 120 horas - 100g",
+    "sku": "BNA120"
+  },
+  {
+    "nombre": "Natural 56 horas - 2500g",
+    "sku": "BNA"
+  },
+  {
+    "nombre": "Natural 56 horas - 500g",
+    "sku": "BNA"
+  },
+  {
+    "nombre": "Natural 56 horas - 340g",
+    "sku": "BNA"
+  },
+  {
+    "nombre": "Natural 56 horas - 250g",
+    "sku": "BNA"
+  },
+  {
+    "nombre": "Natural 56 horas - 100g",
+    "sku": "BNA"
+  },
+  {
+    "nombre": "Pacamara Natural - 2500g",
+    "sku": "PNA"
+  },
+  {
+    "nombre": "Pacamara Natural - 500g",
+    "sku": "PNA"
+  },
+  {
+    "nombre": "Pacamara Natural - 340g",
+    "sku": "PNA"
+  },
+  {
+    "nombre": "Pacamara Natural - 250g",
+    "sku": "PNA"
+  },
+  {
+    "nombre": "Pacamara Natural - 100g",
+    "sku": "PNA"
+  },
+  {
+    "nombre": "Papayo Natural - 500g",
+    "sku": "PANA"
+  },
+  {
+    "nombre": "Papayo Natural - 340g",
+    "sku": "PANA"
+  },
+  {
+    "nombre": "Papayo Natural - 250g",
+    "sku": "PANA"
+  },
+  {
+    "nombre": "Papayo Natural - 100g",
+    "sku": "PANA"
+  },
+  {
+    "nombre": "Pocillo Doble Fondo - 200ml",
+    "sku": "PDF"
+  },
+  {
+    "nombre": "Pocillo Tipo Prensa - 200ml / Blanco",
+    "sku": "PPB"
+  },
+  {
+    "nombre": "Pocillo Tipo Prensa - 200ml / Dorado",
+    "sku": "PPD"
+  },
+  {
+    "nombre": "Pocillo Tipo Prensa - 200ml / Negro",
+    "sku": "PPN"
+  },
+  {
+    "nombre": "Prensa Francesa - 250ml",
+    "sku": "PFB1"
+  },
+  {
+    "nombre": "Regional Lavado Frutos Amarillos - 2500g",
+    "sku": "RLAS"
+  },
+  {
+    "nombre": "Regional Lavado Frutos Amarillos - 500g",
+    "sku": "RLAS"
+  },
+  {
+    "nombre": "Regional Lavado Frutos Amarillos - 340g",
+    "sku": "RLAS"
+  },
+  {
+    "nombre": "Regional Lavado Frutos Amarillos - 250g",
+    "sku": "RLAS"
+  },
+  {
+    "nombre": "Regional Lavado Frutos Amarillos - 100g",
+    "sku": "RLAS"
+  },
+  {
+    "nombre": "Regional Lavado Frutos Verdes - 100g",
+    "sku": "RLAA"
+  },
+  {
+    "nombre": "Regional Lavado Frutos Verdes - 2500gr",
+    "sku": "RLAA"
+  },
+  {
+    "nombre": "Regional Lavado Frutos Verdes - 340g",
+    "sku": "RLAA"
+  },
+  {
+    "nombre": "Regional Lavado Frutos Verdes - 500g",
+    "sku": "RLAA"
+  },
+  {
+    "nombre": "Regional Lavado Frutos Verdes - 250g",
+    "sku": "RLAA"
+  },
+  {
+    "nombre": "Regional Lavado Nueces - 2500g",
+    "sku": "RLAC"
+  },
+  {
+    "nombre": "Regional Lavado Nueces - 500g",
+    "sku": "RLAC"
+  },
+  {
+    "nombre": "Regional Lavado Nueces - 340g",
+    "sku": "RLAC"
+  },
+  {
+    "nombre": "Regional Lavado Nueces - 250g",
+    "sku": "RLAC"
+  },
+  {
+    "nombre": "Regional Lavado Nueces - 100g",
+    "sku": "RLAC"
+  },
+  {
+    "nombre": "Sudán Rume - 2500g",
+    "sku": "SURU"
+  },
+  {
+    "nombre": "Sudán Rume - 500g",
+    "sku": "SURU"
+  },
+  {
+    "nombre": "Sudán Rume - 340g",
+    "sku": "SURU"
+  },
+  {
+    "nombre": "Sudán Rume - 250g",
+    "sku": "SURU"
+  },
+  {
+    "nombre": "Sudán Rume - 100g",
+    "sku": "SURU"
+  },
+  {
+    "nombre": "Tabi Indio Natural - 2500g",
+    "sku": "TANA"
+  },
+  {
+    "nombre": "Tabi Indio Natural - 500g",
+    "sku": "TANA"
+  },
+  {
+    "nombre": "Tabi Indio Natural - 340g",
+    "sku": "TANA"
+  },
+  {
+    "nombre": "Tabi Indio Natural - 250g",
+    "sku": "TANA"
+  },
+  {
+    "nombre": "Tabi Indio Natural - 100g",
+    "sku": "TANA"
+  },
+  {
+    "nombre": "To Go Borra de Café - 350ml",
+    "sku": "TGB"
+  }
+]
