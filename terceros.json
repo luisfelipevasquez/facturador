@@ -14,5 +14,21 @@
     "Teléfono móvil de contacto": "3193713993",
     "Estado": "Activo",
     "siigoId": "6f7509b1-c882-4142-9aa4-e9027d78b8f7"
+  },
+  {
+    "Nombre tercero": "Gustavo Gregorio Ramos Carcamo",
+    "Tipo de identificación": "13",
+    "Identificación": "1007744331",
+    "Dirección": "Calle 11D # 25-71 Juan 23",
+    "Ciudad": "Santa Marta",
+    "Código departamento": "47",
+    "Código ciudad": "47001",
+    "Teléfono.": "3008942124",
+    "Correo electrónico": "gustavoramosgc1@gmail.com",
+    "Nombres contacto": "Gustavo Gregorio",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3008942124",
+    "Estado": "Activo",
+    "siigoId": "552332bf-e261-411e-b6b3-d7b9b8af1b21"
   }
 ]
