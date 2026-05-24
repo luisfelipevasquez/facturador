@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "Nombre tercero": "Omar Andrés campos Rivera",
+    "Tipo de identificación": "13",
+    "Identificación": "1032459591",
+    "Dirección": "Calle 28 # 13a-24 Torre b apto 904 Museo parque central Bavaria",
+    "Ciudad": "Bogotá D.C.",
+    "Código departamento": "11",
+    "Código ciudad": "11001",
+    "Teléfono.": "3193713993",
+    "Correo electrónico": "oa.camposr@gmail.com",
+    "Nombres contacto": "Omar Andrés",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3193713993",
+    "Estado": "Activo",
+    "siigoId": "6f7509b1-c882-4142-9aa4-e9027d78b8f7"
+  }
+]
