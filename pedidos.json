@@ -42,5 +42,49 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 1983,
+    "fecha": "2026-05-25",
+    "tercero": "Ricardo Cárdenas Sarmiento",
+    "identificacion": "1032450895",
+    "productos": "BNA120 100g x100, RLAC 100g x100, BHO72 100g x100, BNA 500g x500, CHLA 500g x500, BHO72 500g x500",
+    "domicilio": "Otro",
+    "total": 281000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": null,
+    "items_molienda": [
+      {
+        "sku": "BNA120",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "RLAC",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "BHO72",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "BNA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CHLA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO72",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
