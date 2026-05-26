@@ -30,5 +30,21 @@
     "Teléfono móvil de contacto": "3008942124",
     "Estado": "Activo",
     "siigoId": "552332bf-e261-411e-b6b3-d7b9b8af1b21"
+  },
+  {
+    "Nombre tercero": "Ricardo Cárdenas Sarmiento",
+    "Tipo de identificación": "13",
+    "Identificación": "1032450895",
+    "Dirección": "Calle 27D Sur # 28 80 Torre 2 Apto 1008",
+    "Ciudad": "Envigado",
+    "Código departamento": "05",
+    "Código ciudad": "05310",
+    "Teléfono.": "3017398719",
+    "Correo electrónico": "r_cardenas_s@hotmail.com",
+    "Nombres contacto": "Ricardo",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3017398719",
+    "Estado": "Activo",
+    "siigoId": "0eb5a294-5928-47f3-8071-208a8a759052"
   }
 ]
