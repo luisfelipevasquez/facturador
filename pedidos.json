@@ -10,6 +10,7 @@
     "forma_pago": "Efectivo",
     "status": "Completado",
     "client_type": null,
+    "recoge": null,
     "items_molienda": [
       {
         "sku": "BBO",
@@ -54,6 +55,7 @@
     "forma_pago": "T. Débito",
     "status": "En proceso",
     "client_type": null,
+    "recoge": null,
     "items_molienda": [
       {
         "sku": "BNA120",
@@ -83,6 +85,36 @@
       {
         "sku": "BHO72",
         "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
+  },
+  {
+    "consecutivo": 2030,
+    "fecha": "2026-06-07",
+    "tercero": "Cristian Rodríguez",
+    "identificacion": "1013629880",
+    "productos": "BNA120 100g x100, CMA 100g x100, PANA 100g x100",
+    "domicilio": "Nacional Transportadora",
+    "total": 90900,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": null,
+    "recoge": null,
+    "items_molienda": [
+      {
+        "sku": "BNA120",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "PANA",
+        "presentacion": "100g",
         "molienda": "grano"
       }
     ]
