@@ -171,5 +171,65 @@
       "codigo": 3,
       "valor": 281000
     }
+  },
+  {
+    "consecutivo": 2030,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1013629880",
+    "fecha_elaboracion": "2026-06-07",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 857.1428571428573,
+        "iva_pct": 5,
+        "total": 18000.000000000004,
+        "descuento_pct": 10,
+        "descuento_valor": 1904.761904761905
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 985.7142857142858,
+        "iva_pct": 5,
+        "total": 20700,
+        "descuento_pct": 10,
+        "descuento_valor": 2190.4761904761904
+      },
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1628.5714285714284,
+        "iva_pct": 5,
+        "total": 34199.99999999999,
+        "descuento_pct": 10,
+        "descuento_valor": 3619.0476190476184
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 3471.4285714285716,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 90900
+    }
   }
 ]
