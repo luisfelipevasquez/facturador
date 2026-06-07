@@ -46,5 +46,21 @@
     "Teléfono móvil de contacto": "3017398719",
     "Estado": "Activo",
     "siigoId": "0eb5a294-5928-47f3-8071-208a8a759052"
+  },
+  {
+    "Nombre tercero": "Cristian Rodríguez",
+    "Tipo de identificación": "13",
+    "Identificación": "1013629880",
+    "Dirección": "Carrera 135 # 17-35, BOGOTA DISTRITO CAPITAL to1 apto 403, BOGOTA",
+    "Ciudad": "Bogotá D.C.",
+    "Código departamento": "11",
+    "Código ciudad": "11001",
+    "Teléfono.": "3192809413",
+    "Correo electrónico": "Krixo92@gmail.com",
+    "Nombres contacto": "Cristian",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3192809413",
+    "Estado": "Activo",
+    "siigoId": "90cda263-65bc-4f5b-a77e-99e15dc89a5b"
   }
 ]
