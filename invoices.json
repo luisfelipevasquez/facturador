@@ -89,90 +89,6 @@
     "siigoSyncedAt": "2026-05-24T23:28:26.820Z"
   },
   {
-    "consecutivo": 1983,
-    "tipo_comprobante": 2,
-    "identificacion_tercero": "1032450895",
-    "fecha_elaboracion": "2026-05-25",
-    "identificacion_vendedor": "901906362",
-    "items": [
-      {
-        "sku": "BNA120",
-        "producto": "Blend Natural 120h",
-        "presentacion": "100g",
-        "cantidad": 100,
-        "valor_unitario": 190.47619047619048,
-        "iva": 952.3809523809525,
-        "iva_pct": 5,
-        "total": 20000.000000000004
-      },
-      {
-        "sku": "RLAC",
-        "producto": "Regional Lavado Caicedo",
-        "presentacion": "100g",
-        "cantidad": 100,
-        "valor_unitario": 161.9047619047619,
-        "iva": 809.5238095238095,
-        "iva_pct": 5,
-        "total": 17000
-      },
-      {
-        "sku": "BHO72",
-        "producto": "Blend Honey72h",
-        "presentacion": "100g",
-        "cantidad": 100,
-        "valor_unitario": 190.47619047619048,
-        "iva": 952.3809523809525,
-        "iva_pct": 5,
-        "total": 20000.000000000004
-      },
-      {
-        "sku": "BNA",
-        "producto": "Blend Natural 56h",
-        "presentacion": "500g",
-        "cantidad": 500,
-        "valor_unitario": 137.14285714285714,
-        "iva": 3428.5714285714284,
-        "iva_pct": 5,
-        "total": 72000
-      },
-      {
-        "sku": "CHLA",
-        "producto": "Chiroso Lavado",
-        "presentacion": "500g",
-        "cantidad": 500,
-        "valor_unitario": 152.38095238095238,
-        "iva": 3809.523809523809,
-        "iva_pct": 5,
-        "total": 80000
-      },
-      {
-        "sku": "BHO72",
-        "producto": "Blend Honey72h",
-        "presentacion": "500g",
-        "cantidad": 500,
-        "valor_unitario": 137.14285714285714,
-        "iva": 3428.5714285714284,
-        "iva_pct": 5,
-        "total": 72000
-      },
-      {
-        "sku": "DOM",
-        "producto": "Domicilio",
-        "presentacion": "Otro",
-        "cantidad": 1,
-        "valor_unitario": 0,
-        "iva": 0,
-        "iva_pct": 0,
-        "total": 0
-      }
-    ],
-    "iva_total": 13380.952380952382,
-    "forma_pago": {
-      "codigo": 3,
-      "valor": 281000
-    }
-  },
-  {
     "consecutivo": 2030,
     "tipo_comprobante": 2,
     "identificacion_tercero": "1013629880",
@@ -189,7 +105,8 @@
         "iva_pct": 5,
         "total": 18000.000000000004,
         "descuento_pct": 10,
-        "descuento_valor": 1904.761904761905
+        "descuento_valor": 1904.761904761905,
+        "molienda": "grano"
       },
       {
         "sku": "CMA",
@@ -201,7 +118,8 @@
         "iva_pct": 5,
         "total": 20700,
         "descuento_pct": 10,
-        "descuento_valor": 2190.4761904761904
+        "descuento_valor": 2190.4761904761904,
+        "molienda": "grano"
       },
       {
         "sku": "PANA",
@@ -213,7 +131,8 @@
         "iva_pct": 5,
         "total": 34199.99999999999,
         "descuento_pct": 10,
-        "descuento_valor": 3619.0476190476184
+        "descuento_valor": 3619.0476190476184,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
