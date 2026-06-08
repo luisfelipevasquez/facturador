@@ -112,5 +112,59 @@
       "codigo": 1,
       "valor": 196000
     }
+  },
+  {
+    "consecutivo": 2032,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1015443843",
+    "fecha_elaboracion": "2026-06-07",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "GELA",
+        "producto": "Gesha Lavado",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "CHLA",
+        "producto": "Chiroso Lavado",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 209.52380952380952,
+        "iva": 1047.6190476190475,
+        "iva_pct": 5,
+        "total": 21999.999999999996
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 4666.666666666666,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 115999.99999999999
+    }
   }
 ]
