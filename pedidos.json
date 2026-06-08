@@ -8,7 +8,7 @@
     "domicilio": "Local Transportadora",
     "total": 196000,
     "forma_pago": "Efectivo",
-    "status": "En proceso",
+    "status": "Completado",
     "client_type": null,
     "recoge": null,
     "items_molienda": [
@@ -26,36 +26,6 @@
         "sku": "GELA",
         "presentacion": "250g",
         "molienda": "grano"
-      }
-    ]
-  },
-  {
-    "consecutivo": 2032,
-    "fecha": "2026-06-07",
-    "tercero": "1015443843",
-    "identificacion": "1015443843",
-    "productos": "PANA 100g x100, GELA 100g x100, CHLA 100g x100",
-    "domicilio": "Nacional Transportadora",
-    "total": 115999.99999999999,
-    "forma_pago": "T. Débito",
-    "status": "Completado",
-    "client_type": null,
-    "recoge": null,
-    "items_molienda": [
-      {
-        "sku": "PANA",
-        "presentacion": "100g",
-        "molienda": "molido grueso"
-      },
-      {
-        "sku": "GELA",
-        "presentacion": "100g",
-        "molienda": "molido grueso"
-      },
-      {
-        "sku": "CHLA",
-        "presentacion": "100g",
-        "molienda": "molido grueso"
       }
     ]
   }
