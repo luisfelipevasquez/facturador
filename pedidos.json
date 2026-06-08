@@ -1,19 +1,19 @@
 [
   {
-    "consecutivo": 2031,
+    "consecutivo": 2030,
     "fecha": "2026-06-07",
-    "tercero": "1037609059",
-    "identificacion": "1037609059",
-    "productos": "BBO 250g x250, CMA 250g x250, GELA 250g x250",
-    "domicilio": "Local Transportadora",
-    "total": 196000,
-    "forma_pago": "Efectivo",
+    "tercero": "Cristian Rodríguez",
+    "identificacion": "1013629880",
+    "productos": "PANA 250g x250, CMA 250g x250, BNA120 100g x100",
+    "domicilio": "Nacional Transportadora",
+    "total": 151200,
+    "forma_pago": "T. Débito",
     "status": "Completado",
     "client_type": null,
     "recoge": null,
     "items_molienda": [
       {
-        "sku": "BBO",
+        "sku": "PANA",
         "presentacion": "250g",
         "molienda": "grano"
       },
@@ -23,8 +23,8 @@
         "molienda": "grano"
       },
       {
-        "sku": "GELA",
-        "presentacion": "250g",
+        "sku": "BNA120",
+        "presentacion": "100g",
         "molienda": "grano"
       }
     ]
