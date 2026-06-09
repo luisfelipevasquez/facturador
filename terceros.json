@@ -62,5 +62,21 @@
     "Teléfono móvil de contacto": "3192809413",
     "Estado": "Activo",
     "siigoId": "90cda263-65bc-4f5b-a77e-99e15dc89a5b"
+  },
+  {
+    "Nombre tercero": "Andrea Barriga",
+    "Tipo de identificación": "13",
+    "Identificación": "55304544",
+    "Dirección": "Calle 72 sur#35-240",
+    "Ciudad": "Sabaneta",
+    "Código departamento": "05",
+    "Código ciudad": "05631",
+    "Teléfono.": "3004340153",
+    "Correo electrónico": "Andrea.barriga@gmail.com",
+    "Nombres contacto": "Andrea",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3004340153",
+    "Estado": "Activo",
+    "siigoId": "5ab354fa-e5e8-43cc-928b-215ebcac8e61"
   }
 ]
