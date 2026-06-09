@@ -8,7 +8,7 @@
     "domicilio": "",
     "total": 37800,
     "forma_pago": "Efectivo",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": null,
     "recoge": null,
     "items_molienda": [
@@ -16,6 +16,26 @@
         "sku": "BHO72",
         "presentacion": "250g",
         "molienda": "grano"
+      }
+    ]
+  },
+  {
+    "consecutivo": 2062,
+    "fecha": "2026-06-08",
+    "tercero": "1065867911",
+    "identificacion": "1065867911",
+    "productos": "BHO72 250g x250",
+    "domicilio": "Local Mensajero",
+    "total": 51800,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": null,
+    "recoge": null,
+    "items_molienda": [
+      {
+        "sku": "BHO72",
+        "presentacion": "250g",
+        "molienda": "molido fino"
       }
     ]
   }
