@@ -16,13 +16,19 @@
         "iva_pct": 5,
         "total": 37800,
         "descuento_pct": 10,
-        "descuento_valor": 4000
+        "descuento_valor": 4000,
+        "molienda": "grano"
       }
     ],
     "iva_total": 1800,
     "forma_pago": {
       "codigo": 1,
       "valor": 37800
-    }
+    },
+    "siigoId": "32f00f64-556f-48c4-9d06-a3fdc816a98b",
+    "siigoNumber": "FV-2-2058",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-06-09T00:32:19.084Z"
   }
 ]
