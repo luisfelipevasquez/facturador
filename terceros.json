@@ -78,5 +78,21 @@
     "Teléfono móvil de contacto": "3004340153",
     "Estado": "Activo",
     "siigoId": "5ab354fa-e5e8-43cc-928b-215ebcac8e61"
+  },
+  {
+    "Nombre tercero": "Ricardo Suescun",
+    "Tipo de identificación": "13",
+    "Identificación": "17319402",
+    "Dirección": "Calle 36D sur #25b-06",
+    "Ciudad": "Envigado",
+    "Código departamento": "05",
+    "Código ciudad": "05266",
+    "Teléfono.": "3188270334",
+    "Correo electrónico": "ricardosuescunc@gmail.com",
+    "Nombres contacto": "Ricardo",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3188270334",
+    "Estado": "Activo",
+    "siigoId": "f6a999a4-e76d-46d8-9c1e-bd31bda7e5d5"
   }
 ]
