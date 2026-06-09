@@ -1,1 +1,69 @@
-[]
+[
+  {
+    "consecutivo": 2058,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "17319402",
+    "fecha_elaboracion": "2026-06-08",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO72",
+        "producto": "Blend Honey72h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 1800,
+        "iva_pct": 5,
+        "total": 37800,
+        "descuento_pct": 10,
+        "descuento_valor": 4000
+      }
+    ],
+    "iva_total": 1800,
+    "forma_pago": {
+      "codigo": 1,
+      "valor": 37800
+    },
+    "siigoId": "32f00f64-556f-48c4-9d06-a3fdc816a98b",
+    "siigoNumber": "FV-2-2058",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-06-09T00:32:19.084Z"
+  },
+  {
+    "consecutivo": 2062,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1065867911",
+    "fecha_elaboracion": "2026-06-08",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO72",
+        "producto": "Blend Honey72h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 1800,
+        "iva_pct": 5,
+        "total": 37800,
+        "descuento_pct": 10,
+        "descuento_valor": 4000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 1800,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 51800
+    }
+  }
+]
