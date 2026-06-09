@@ -1,30 +1,20 @@
 [
   {
-    "consecutivo": 2030,
-    "fecha": "2026-06-07",
-    "tercero": "Cristian Rodríguez",
-    "identificacion": "1013629880",
-    "productos": "PANA 250g x250, CMA 250g x250, BNA120 100g x100",
-    "domicilio": "Nacional Transportadora",
-    "total": 151200,
-    "forma_pago": "T. Débito",
-    "status": "Completado",
+    "consecutivo": 2058,
+    "fecha": "2026-06-08",
+    "tercero": "Ricardo Suescun",
+    "identificacion": "17319402",
+    "productos": "BHO72 250g x250",
+    "domicilio": "",
+    "total": 37800,
+    "forma_pago": "Efectivo",
+    "status": "En proceso",
     "client_type": null,
     "recoge": null,
     "items_molienda": [
       {
-        "sku": "PANA",
+        "sku": "BHO72",
         "presentacion": "250g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "CMA",
-        "presentacion": "250g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "BNA120",
-        "presentacion": "100g",
         "molienda": "grano"
       }
     ]
