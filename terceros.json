@@ -94,5 +94,21 @@
     "Teléfono móvil de contacto": "3188270334",
     "Estado": "Activo",
     "siigoId": "f6a999a4-e76d-46d8-9c1e-bd31bda7e5d5"
+  },
+  {
+    "Nombre tercero": "Sebastian Tobon Franco",
+    "Tipo de identificación": "13",
+    "Identificación": "8161410",
+    "Dirección": "Km11 via escobero-palmas Vda Carrizales Parcelación San Luis",
+    "Ciudad": "Retiro",
+    "Código departamento": "05",
+    "Código ciudad": "05607",
+    "Teléfono.": "3006140585",
+    "Correo electrónico": "sebas101@gmail.com",
+    "Nombres contacto": "Sebastian",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3006140585",
+    "Estado": "Activo",
+    "siigoId": "4c76ec20-3481-4373-8bd4-31c10fda77f4"
   }
 ]
