@@ -110,5 +110,21 @@
     "Teléfono móvil de contacto": "3006140585",
     "Estado": "Activo",
     "siigoId": "4c76ec20-3481-4373-8bd4-31c10fda77f4"
+  },
+  {
+    "Nombre tercero": "Sergio Javier Sánchez Eslava",
+    "Tipo de identificación": "13",
+    "Identificación": "1036666058",
+    "Dirección": "Cra 58 # 77-41 Reserva del sur",
+    "Ciudad": "Itagüí",
+    "Código departamento": "05",
+    "Código ciudad": "05360",
+    "Teléfono.": "3184450493",
+    "Correo electrónico": "sanchez02.sergio@gmail.com",
+    "Nombres contacto": "Sergio Javier",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3184450493",
+    "Estado": "Activo",
+    "siigoId": "b974cbb2-596d-4e3f-8d07-f64fe7b10bc3"
   }
 ]
