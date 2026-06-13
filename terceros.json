@@ -142,5 +142,21 @@
     "Teléfono móvil de contacto": "3104740429",
     "Estado": "Activo",
     "siigoId": "24ec6466-377c-46dc-9094-87ea8fbcedd9"
+  },
+  {
+    "Nombre tercero": "Stiven Ossa",
+    "Tipo de identificación": "13",
+    "Identificación": "1035922330",
+    "Dirección": "Calle 22 # 74-26 Apto 201 Belén San Bernardo",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3027579882",
+    "Correo electrónico": "stevenkazze.pay@gmail.com",
+    "Nombres contacto": "Stiven",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3027579882",
+    "Estado": "Activo",
+    "siigoId": "a9e2a593-f5b5-4863-bdf5-bb4a7c174ac6"
   }
 ]
