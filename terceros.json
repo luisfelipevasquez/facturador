@@ -126,5 +126,21 @@
     "Teléfono móvil de contacto": "3184450493",
     "Estado": "Activo",
     "siigoId": "b974cbb2-596d-4e3f-8d07-f64fe7b10bc3"
+  },
+  {
+    "Nombre tercero": "Maria Elena Londoño Jaramillo",
+    "Tipo de identificación": "13",
+    "Identificación": "26323138",
+    "Dirección": "Cra 54 # 64-34 El mirador primera etapa",
+    "Ciudad": "Bello",
+    "Código departamento": "05",
+    "Código ciudad": "05088",
+    "Teléfono.": "3104740429",
+    "Correo electrónico": "Aleja1389@gmail.com",
+    "Nombres contacto": "Maria Elena",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3104740429",
+    "Estado": "Activo",
+    "siigoId": "24ec6466-377c-46dc-9094-87ea8fbcedd9"
   }
 ]
