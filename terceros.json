@@ -158,5 +158,21 @@
     "Teléfono móvil de contacto": "3027579882",
     "Estado": "Activo",
     "siigoId": "a9e2a593-f5b5-4863-bdf5-bb4a7c174ac6"
+  },
+  {
+    "Nombre tercero": "Rafael Cuéllar",
+    "Tipo de identificación": "13",
+    "Identificación": "94323165",
+    "Dirección": "Cra 39 # 42-100 CR Dolce TorreD Apto 404 Frente al cc Unicentro",
+    "Ciudad": "Palmira",
+    "Código departamento": "76",
+    "Código ciudad": "76520",
+    "Teléfono.": "3012755704",
+    "Correo electrónico": "steinmann74@hotmail.com",
+    "Nombres contacto": "Rafael",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3012755704",
+    "Estado": "Activo",
+    "siigoId": "2dce284b-04a5-445f-946b-d09fbbed176c"
   }
 ]
