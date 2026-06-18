@@ -238,5 +238,21 @@
     "Teléfono móvil de contacto": "3506618044",
     "Estado": "Activo",
     "siigoId": "62a7a158-30c5-4faa-8b2c-99e72ce4d05b"
+  },
+  {
+    "Nombre tercero": "Juan Diego Madrigal Serna",
+    "Tipo de identificación": "13",
+    "Identificación": "1193069988",
+    "Dirección": "Calle 26 # 72-43 Belén san Bernardo",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3243359880",
+    "Correo electrónico": "madrigaljuan888@gmail.com",
+    "Nombres contacto": "Juan Diego",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3243359880",
+    "Estado": "Activo",
+    "siigoId": "010d628d-927d-4a3c-9d67-8fc12efb4abc"
   }
 ]
