@@ -174,5 +174,21 @@
     "Teléfono móvil de contacto": "3012755704",
     "Estado": "Activo",
     "siigoId": "2dce284b-04a5-445f-946b-d09fbbed176c"
+  },
+  {
+    "Nombre tercero": "Julián Mauricio Cañas",
+    "Tipo de identificación": "13",
+    "Identificación": "1053843024",
+    "Dirección": "Av libertador #30-15 Papelería Maguz Al lado de clínica los nogales",
+    "Ciudad": "Santa Marta",
+    "Código departamento": "47",
+    "Código ciudad": "47001",
+    "Teléfono.": "3216172171",
+    "Correo electrónico": "cmejiajulian@gmail.com",
+    "Nombres contacto": "Julián",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3216172171",
+    "Estado": "Activo",
+    "siigoId": "35f5f2e4-f185-44d9-ba16-f820fda01799"
   }
 ]
