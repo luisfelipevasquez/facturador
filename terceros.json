@@ -222,5 +222,21 @@
     "Teléfono móvil de contacto": "3224647613",
     "Estado": "Activo",
     "siigoId": "6b1f3e6b-c623-4ee9-82d5-f51ac733a241"
+  },
+  {
+    "Nombre tercero": "Isabella Trujillo Rojas",
+    "Tipo de identificación": "13",
+    "Identificación": "1010120214",
+    "Dirección": "Cra 76 # 53-79 Paraiso de colores",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3506618044",
+    "Correo electrónico": "isabellatrujillorojas10@gmail.com",
+    "Nombres contacto": "Isabella",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3506618044",
+    "Estado": "Activo",
+    "siigoId": "62a7a158-30c5-4faa-8b2c-99e72ce4d05b"
   }
 ]
