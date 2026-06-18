@@ -206,5 +206,21 @@
     "Teléfono móvil de contacto": "+491788993040",
     "Estado": "Activo",
     "siigoId": "b366bedc-a9ff-4a48-a2a5-6372032c0fe2"
+  },
+  {
+    "Nombre tercero": "Lucia Roa Peña",
+    "Tipo de identificación": "13",
+    "Identificación": "51794159",
+    "Dirección": "Cra 51a # 127-75 Alcazar de San Luis II TO4 Apto 503",
+    "Ciudad": "Bogotá D.C.",
+    "Código departamento": "11",
+    "Código ciudad": "11001",
+    "Teléfono.": "3224647613",
+    "Correo electrónico": "roalucia@yahoo.com",
+    "Nombres contacto": "Lucia",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3224647613",
+    "Estado": "Activo",
+    "siigoId": "6b1f3e6b-c623-4ee9-82d5-f51ac733a241"
   }
 ]
