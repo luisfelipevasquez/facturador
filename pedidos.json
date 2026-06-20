@@ -1,28 +1,8 @@
 [
   {
-    "consecutivo": 2062,
-    "fecha": "2026-06-08",
-    "tercero": "1065867911",
-    "identificacion": "1065867911",
-    "productos": "BHO72 250g x250",
-    "domicilio": "Local Mensajero",
-    "total": 51800,
-    "forma_pago": "T. Débito",
-    "status": "Completado",
-    "client_type": null,
-    "recoge": null,
-    "items_molienda": [
-      {
-        "sku": "BHO72",
-        "presentacion": "250g",
-        "molienda": "molido fino"
-      }
-    ]
-  },
-  {
     "consecutivo": 2145,
     "fecha": "2026-06-20",
-    "tercero": "8028804",
+    "tercero": "Luis Felipe Vasquez Jimenez",
     "identificacion": "8028804",
     "productos": "BSIN 250g x250",
     "domicilio": "",
