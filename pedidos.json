@@ -1,25 +1,5 @@
 [
   {
-    "consecutivo": 2058,
-    "fecha": "2026-06-08",
-    "tercero": "Ricardo Suescun",
-    "identificacion": "17319402",
-    "productos": "BHO72 250g x250",
-    "domicilio": "",
-    "total": 37800,
-    "forma_pago": "Efectivo",
-    "status": "Completado",
-    "client_type": null,
-    "recoge": null,
-    "items_molienda": [
-      {
-        "sku": "BHO72",
-        "presentacion": "250g",
-        "molienda": "grano"
-      }
-    ]
-  },
-  {
     "consecutivo": 2062,
     "fecha": "2026-06-08",
     "tercero": "1065867911",
@@ -28,7 +8,7 @@
     "domicilio": "Local Mensajero",
     "total": 51800,
     "forma_pago": "T. Débito",
-    "status": "En proceso",
+    "status": "Completado",
     "client_type": null,
     "recoge": null,
     "items_molienda": [
