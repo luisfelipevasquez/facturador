@@ -18,5 +18,25 @@
         "molienda": "molido fino"
       }
     ]
+  },
+  {
+    "consecutivo": 2145,
+    "fecha": "2026-06-20",
+    "tercero": "8028804",
+    "identificacion": "8028804",
+    "productos": "BSIN 250g x250",
+    "domicilio": "",
+    "total": 76000,
+    "forma_pago": "Efectivo",
+    "status": "En proceso",
+    "client_type": null,
+    "recoge": null,
+    "items_molienda": [
+      {
+        "sku": "BSIN",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
