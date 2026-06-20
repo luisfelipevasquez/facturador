@@ -1,0 +1,48 @@
+[
+  {
+    "id": "SOL-1781999111519-c5q7o",
+    "estado": "pendiente",
+    "creado": "2026-06-20T23:45:11.519Z",
+    "cliente": {
+      "nombre": "Felip",
+      "tipo_documento": "13",
+      "documento": "45456465",
+      "email": "luisfelipevasquezj@gmail.com",
+      "celular": "315646565",
+      "ciudad": "Medellin",
+      "direccion": "Carrera 29 # 1 - 131. apartamento 502. Ed Palmar del Tesoro",
+      "observaciones": ""
+    },
+    "productos": [
+      {
+        "sku": "BBO",
+        "nombre": "Blend Bourbon",
+        "presentacion": "100g",
+        "cantidad": 1,
+        "precio": 26000
+      },
+      {
+        "sku": "BNA",
+        "nombre": "Blend Natural 56h",
+        "presentacion": "100g",
+        "cantidad": 1,
+        "precio": 20000
+      },
+      {
+        "sku": "BSIN",
+        "nombre": "Bourbon Sidra",
+        "presentacion": "100g",
+        "cantidad": 1,
+        "precio": 38000
+      },
+      {
+        "sku": "CHLA",
+        "nombre": "Chiroso Lavado",
+        "presentacion": "100g",
+        "cantidad": 1,
+        "precio": 22000
+      }
+    ],
+    "total_estimado": 106000
+  }
+]
