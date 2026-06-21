@@ -44,59 +44,5 @@
       }
     ],
     "total_estimado": 106000
-  },
-  {
-    "id": "SOL-1782002365367-meipp",
-    "estado": "pendiente",
-    "creado": "2026-06-21T00:39:25.367Z",
-    "cliente": {
-      "nombre": "Luis Felipe Vasquez",
-      "tipo_documento": "13",
-      "documento": "8028804",
-      "email": "luisfelipevasquezj@gmail.com",
-      "celular": "604 4956795",
-      "ciudad": "Envigado",
-      "direccion": "rionegro",
-      "observaciones": "lkjfdldsfj"
-    },
-    "productos": [
-      {
-        "sku": "BBO",
-        "nombre": "Blend Bourbon",
-        "presentacion": "100g",
-        "cantidad": 1,
-        "precio": 26000
-      },
-      {
-        "sku": "BHO120",
-        "nombre": "Blend Honey 120h",
-        "presentacion": "100g",
-        "cantidad": 1,
-        "precio": 20000
-      },
-      {
-        "sku": "BHO",
-        "nombre": "Blend Honey 56h",
-        "presentacion": "100g",
-        "cantidad": 1,
-        "precio": 20000
-      },
-      {
-        "sku": "BHO72",
-        "nombre": "Blend Honey72h",
-        "presentacion": "100g",
-        "cantidad": 3,
-        "precio": 20000
-      }
-    ],
-    "total_estimado": 126000,
-    "siigo_customer_found": true,
-    "siigo_customer_id": "6606d632-33d3-40d3-bb06-e2b4201daaad",
-    "envio": {
-      "registered_address": "VDA EL PLACER SANTA ELENA PA PIEDRA BLANCA CR 36 ESTE 19 754 CA 10",
-      "shipping_address_same_as_registered": true,
-      "shipping_address": "rionegro",
-      "customer_overrode_address": true
-    }
   }
 ]
