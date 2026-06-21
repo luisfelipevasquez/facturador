@@ -1,20 +1,20 @@
 [
   {
-    "consecutivo": 2145,
+    "consecutivo": 2149,
     "fecha": "2026-06-20",
     "tercero": "Luis Felipe Vasquez Jimenez",
     "identificacion": "8028804",
-    "productos": "BSIN 250g x250",
+    "productos": "RLAS 340g x340",
     "domicilio": "",
-    "total": 76000,
+    "total": 47000.00000000001,
     "forma_pago": "Efectivo",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": null,
     "recoge": null,
     "items_molienda": [
       {
-        "sku": "BSIN",
-        "presentacion": "250g",
+        "sku": "RLAS",
+        "presentacion": "340g",
         "molienda": "grano"
       }
     ]
