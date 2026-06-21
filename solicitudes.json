@@ -98,5 +98,45 @@
       "shipping_address": "rionegro",
       "customer_overrode_address": true
     }
+  },
+  {
+    "id": "SOL-1782002970940-cfk1i",
+    "estado": "pendiente",
+    "creado": "2026-06-21T00:49:30.940Z",
+    "cliente": {
+      "nombre": "prueba",
+      "tipo_documento": "13",
+      "documento": "5464646",
+      "email": "luisfelipevasquezj@gmail.com",
+      "celular": "604 4956795",
+      "ciudad": "Medellin",
+      "direccion": "Carrera 29 # 1 - 131. apartamento 502. Ed Palmar del Tesoro",
+      "observaciones": ""
+    },
+    "productos": [
+      {
+        "sku": "MNA",
+        "nombre": "Maragogype Natural",
+        "presentacion": "100g",
+        "cantidad": 1,
+        "precio": 38000
+      },
+      {
+        "sku": "PNA",
+        "nombre": "Pacamara Natural",
+        "presentacion": "100g",
+        "cantidad": 1,
+        "precio": 38000
+      }
+    ],
+    "total_estimado": 76000,
+    "siigo_customer_found": false,
+    "siigo_customer_id": "",
+    "envio": {
+      "registered_address": "Carrera 29 # 1 - 131. apartamento 502. Ed Palmar del Tesoro",
+      "shipping_address_same_as_registered": true,
+      "shipping_address": "Carrera 29 # 1 - 131. apartamento 502. Ed Palmar del Tesoro",
+      "customer_overrode_address": false
+    }
   }
 ]
