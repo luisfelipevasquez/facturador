@@ -254,5 +254,21 @@
     "Teléfono móvil de contacto": "3243359880",
     "Estado": "Activo",
     "siigoId": "010d628d-927d-4a3c-9d67-8fc12efb4abc"
+  },
+  {
+    "Nombre tercero": "Natalia Giraldo Rios",
+    "Tipo de identificación": "13",
+    "Identificación": "10202464710",
+    "Dirección": "Cr 71 # 45 e 119  Medellin",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "301 5758705",
+    "Correo electrónico": "ngiraldor2@gmail.com",
+    "Nombres contacto": "Natalia",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "301 5758705",
+    "Estado": "Activo",
+    "siigoId": "9d0bbef6-b318-4eb5-8e10-67094972c911"
   }
 ]
