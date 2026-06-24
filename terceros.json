@@ -270,5 +270,21 @@
     "Teléfono móvil de contacto": "301 5758705",
     "Estado": "Activo",
     "siigoId": "9d0bbef6-b318-4eb5-8e10-67094972c911"
+  },
+  {
+    "Nombre tercero": "Juan Manuel Castaño Quintero",
+    "Tipo de identificación": "13",
+    "Identificación": "1015484091",
+    "Dirección": "Av las americas # 44-51 Altos de Tanambi Casa 27",
+    "Ciudad": "Pereira",
+    "Código departamento": "66",
+    "Código ciudad": "66001",
+    "Teléfono.": "3194517699",
+    "Correo electrónico": "juanmanuelcq1999@gmail.com",
+    "Nombres contacto": "Juan Manuel",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3194517699",
+    "Estado": "Activo",
+    "siigoId": "be415fc9-f32f-45d3-90cd-d5844f4dc368"
   }
 ]
