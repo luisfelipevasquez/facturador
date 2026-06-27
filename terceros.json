@@ -302,5 +302,21 @@
     "Teléfono móvil de contacto": "3217810673",
     "Estado": "Activo",
     "siigoId": "3febcef3-d08d-497f-8465-1a2de4f6b1aa"
+  },
+  {
+    "Nombre tercero": "Manuela Ardila Ospina",
+    "Tipo de identificación": "13",
+    "Identificación": "1000204180",
+    "Dirección": "Calle 7 #83-31 Urb Siempre verde Apto 1109",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3104501992",
+    "Correo electrónico": "Manuardilao@gmail.com",
+    "Nombres contacto": "Manuela",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3104501992",
+    "Estado": "Activo",
+    "siigoId": "20b5af5e-1f3a-406e-a433-879bb6718bb7"
   }
 ]
