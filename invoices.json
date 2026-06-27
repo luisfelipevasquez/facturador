@@ -466,5 +466,49 @@
       "codigo": 1,
       "valor": 75200
     }
+  },
+  {
+    "consecutivo": 2157,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1036665241",
+    "fecha_elaboracion": "2026-06-27",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 247.61904761904762,
+        "iva": 1238.0952380952383,
+        "iva_pct": 5,
+        "total": 26000
+      },
+      {
+        "sku": "RLAS",
+        "producto": "Regional Lavado SurOeste",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 161.9047619047619,
+        "iva": 809.5238095238095,
+        "iva_pct": 5,
+        "total": 17000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 2047.6190476190477,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 57000
+    }
   }
 ]
