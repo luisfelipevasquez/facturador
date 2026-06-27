@@ -80,5 +80,163 @@
       "codigo": 3,
       "valor": 170100
     }
+  },
+  {
+    "consecutivo": 2153,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1000204180",
+    "fecha_elaboracion": "2026-06-27",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "GELA",
+        "producto": "Gesha Lavado",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1628.5714285714284,
+        "iva_pct": 5,
+        "total": 34199.99999999999,
+        "descuento_pct": 10,
+        "descuento_valor": 3619.0476190476184
+      },
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1628.5714285714284,
+        "iva_pct": 5,
+        "total": 34199.99999999999,
+        "descuento_pct": 10,
+        "descuento_valor": 3619.0476190476184
+      },
+      {
+        "sku": "BSIN",
+        "producto": "Bourbon Sidra",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1628.5714285714284,
+        "iva_pct": 5,
+        "total": 34199.99999999999,
+        "descuento_pct": 10,
+        "descuento_valor": 3619.0476190476184
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 985.7142857142858,
+        "iva_pct": 5,
+        "total": 20700,
+        "descuento_pct": 10,
+        "descuento_valor": 2190.4761904761904
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 985.7142857142858,
+        "iva_pct": 5,
+        "total": 20700,
+        "descuento_pct": 10,
+        "descuento_valor": 2190.4761904761904
+      },
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 247.61904761904762,
+        "iva": 1114.2857142857144,
+        "iva_pct": 5,
+        "total": 23400,
+        "descuento_pct": 10,
+        "descuento_valor": 2476.1904761904766
+      },
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 247.61904761904762,
+        "iva": 1114.2857142857144,
+        "iva_pct": 5,
+        "total": 23400,
+        "descuento_pct": 10,
+        "descuento_valor": 2476.1904761904766
+      },
+      {
+        "sku": "BHO120",
+        "producto": "Blend Honey 120h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 857.1428571428573,
+        "iva_pct": 5,
+        "total": 18000.000000000004,
+        "descuento_pct": 10,
+        "descuento_valor": 1904.761904761905
+      },
+      {
+        "sku": "BHO72",
+        "producto": "Blend Honey72h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 857.1428571428573,
+        "iva_pct": 5,
+        "total": 18000.000000000004,
+        "descuento_pct": 10,
+        "descuento_valor": 1904.761904761905
+      },
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 857.1428571428573,
+        "iva_pct": 5,
+        "total": 18000.000000000004,
+        "descuento_pct": 10,
+        "descuento_valor": 1904.761904761905
+      },
+      {
+        "sku": "BNA",
+        "producto": "Blend Natural 56h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 857.1428571428573,
+        "iva_pct": 5,
+        "total": 18000.000000000004,
+        "descuento_pct": 10,
+        "descuento_valor": 1904.761904761905
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 14000
+      }
+    ],
+    "iva_total": 12514.285714285714,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 262800
+    }
   }
 ]
