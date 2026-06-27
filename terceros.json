@@ -286,5 +286,21 @@
     "Teléfono móvil de contacto": "3194517699",
     "Estado": "Activo",
     "siigoId": "be415fc9-f32f-45d3-90cd-d5844f4dc368"
+  },
+  {
+    "Nombre tercero": "Alejandro Lozano",
+    "Tipo de identificación": "13",
+    "Identificación": "1037610854",
+    "Dirección": "Calle 13A sur # 53b-182 Ed Palmeiras",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3217810673",
+    "Correo electrónico": "halm0291@gmail.com",
+    "Nombres contacto": "Alejandro",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3217810673",
+    "Estado": "Activo",
+    "siigoId": "3febcef3-d08d-497f-8465-1a2de4f6b1aa"
   }
 ]
