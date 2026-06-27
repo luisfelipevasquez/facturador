@@ -204,7 +204,7 @@
     "domicilio": "Local Mensajero",
     "total": 75200,
     "forma_pago": "Efectivo",
-    "status": "En proceso",
+    "status": "Completado",
     "client_type": "Antiguo",
     "recoge": null,
     "items_molienda": [
