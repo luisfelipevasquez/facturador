@@ -318,5 +318,21 @@
     "Teléfono móvil de contacto": "3104501992",
     "Estado": "Activo",
     "siigoId": "20b5af5e-1f3a-406e-a433-879bb6718bb7"
+  },
+  {
+    "Nombre tercero": "Edison Alejandro Restrepo",
+    "Tipo de identificación": "13",
+    "Identificación": "1036665241",
+    "Dirección": "Calle 37b #42-120 Barrio Los Angeles",
+    "Ciudad": "Itagüí",
+    "Código departamento": "05",
+    "Código ciudad": "05360",
+    "Teléfono.": "3008998864",
+    "Correo electrónico": "Edisonrpo15@gmail.com",
+    "Nombres contacto": "Edison",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3008998864",
+    "Estado": "Activo",
+    "siigoId": "3b3a4a9b-40f8-4820-8a31-5831f9b7a6a3"
   }
 ]
