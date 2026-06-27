@@ -10,24 +10,7 @@
     "forma_pago": "T. Débito",
     "status": "En proceso",
     "client_type": null,
-    "recoge": null,
-    "items_molienda": [
-      {
-        "sku": "CHLA",
-        "presentacion": "100g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "PANA",
-        "presentacion": "100g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "GELA",
-        "presentacion": "100g",
-        "molienda": "grano"
-      }
-    ]
+    "recoge": null
   },
   {
     "consecutivo": 2152,
@@ -40,12 +23,75 @@
     "forma_pago": "T. Débito",
     "status": "En proceso",
     "client_type": null,
+    "recoge": null
+  },
+  {
+    "consecutivo": 2153,
+    "fecha": "2026-06-27",
+    "tercero": "Manuela Ardila Ospina",
+    "identificacion": "1000204180",
+    "productos": "GELA 100g x100, PANA 100g x100, BSIN 100g x100, CMA 100g x100, CMA 100g x100, BBO 100g x100, BBO 100g x100, BHO120 100g x100, BHO72 100g x100, BNA120 100g x100, BNA 100g x100",
+    "domicilio": "Local Mensajero",
+    "total": 262800,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": null,
     "recoge": null,
     "items_molienda": [
       {
-        "sku": "RLAA",
-        "presentacion": "2500g",
-        "molienda": "molido medio"
+        "sku": "GELA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "PANA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BSIN",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BBO",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BBO",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO120",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO72",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BNA120",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BNA",
+        "presentacion": "100g",
+        "molienda": "grano"
       }
     ]
   }
