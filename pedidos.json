@@ -194,5 +194,25 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2156,
+    "fecha": "2026-06-27",
+    "tercero": "Leidy Gaviria Morales",
+    "identificacion": "1128402330",
+    "productos": "CMA 340g x340",
+    "domicilio": "Local Mensajero",
+    "total": 75200,
+    "forma_pago": "Efectivo",
+    "status": "En proceso",
+    "client_type": null,
+    "recoge": null,
+    "items_molienda": [
+      {
+        "sku": "CMA",
+        "presentacion": "340g",
+        "molienda": "molido medio"
+      }
+    ]
   }
 ]
