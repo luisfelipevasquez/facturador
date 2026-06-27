@@ -394,5 +394,41 @@
       "codigo": 3,
       "valor": 362000
     }
+  },
+  {
+    "consecutivo": 2155,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1002406729",
+    "fecha_elaboracion": "2026-06-27",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BNA",
+        "producto": "Blend Natural 56h",
+        "presentacion": "2500g",
+        "cantidad": 2500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 13809.52380952381,
+        "iva_pct": 5,
+        "total": 289999.99999999994
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 18000
+      }
+    ],
+    "iva_total": 13809.52380952381,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 289999.99999999994
+    }
   }
 ]
