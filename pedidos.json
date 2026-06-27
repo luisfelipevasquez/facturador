@@ -94,5 +94,85 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2154,
+    "fecha": "2026-06-27",
+    "tercero": "Carlos Federico Vásquez Jiménez",
+    "identificacion": "71792081",
+    "productos": "CGA 340g x340, BHO 100g x100, BSIN 100g x100, RLAS 100g x100, BBO 100g x100, CGA 100g x100, CMA 100g x100, BNA120 100g x100, GELA 100g x100, RLAA 100g x100, BBO 100g x100, CGA 100g x100, CMA 100g x100",
+    "domicilio": "Local Mensajero",
+    "total": 362000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": null,
+    "recoge": null,
+    "items_molienda": [
+      {
+        "sku": "CGA",
+        "presentacion": "340g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "BHO",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BSIN",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAS",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BBO",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BNA120",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "GELA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BBO",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
