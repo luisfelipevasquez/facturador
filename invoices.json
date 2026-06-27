@@ -430,5 +430,41 @@
       "codigo": 3,
       "valor": 289999.99999999994
     }
+  },
+  {
+    "consecutivo": 2156,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1128402330",
+    "fecha_elaboracion": "2026-06-27",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 190.47619047619048,
+        "iva": 2914.2857142857147,
+        "iva_pct": 5,
+        "total": 61200.00000000001,
+        "descuento_pct": 10,
+        "descuento_valor": 6476.190476190477
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 2914.2857142857147,
+    "forma_pago": {
+      "codigo": 1,
+      "valor": 75200
+    }
   }
 ]
