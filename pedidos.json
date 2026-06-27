@@ -1,20 +1,30 @@
 [
   {
-    "consecutivo": 2149,
-    "fecha": "2026-06-20",
-    "tercero": "Luis Felipe Vasquez Jimenez",
-    "identificacion": "8028804",
-    "productos": "RLAS 340g x340",
+    "consecutivo": 2151,
+    "fecha": "2026-06-26",
+    "tercero": "Alejandro Lozano",
+    "identificacion": "1037610854",
+    "productos": "CHLA 100g x100, PANA 100g x100, GELA 100g x100",
     "domicilio": "",
-    "total": 47000.00000000001,
-    "forma_pago": "Efectivo",
-    "status": "Completado",
+    "total": 97999.99999999997,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
     "client_type": null,
     "recoge": null,
     "items_molienda": [
       {
-        "sku": "RLAS",
-        "presentacion": "340g",
+        "sku": "CHLA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "PANA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "GELA",
+        "presentacion": "100g",
         "molienda": "grano"
       }
     ]
