@@ -447,8 +447,8 @@
         "iva": 2914.2857142857147,
         "iva_pct": 5,
         "total": 61200.00000000001,
-        "descuento_pct": 10,
-        "descuento_valor": 6476.190476190477
+        "descuento_valor": 6476.190476190477,
+        "descuento_pct": 10
       },
       {
         "sku": "DOM",
@@ -463,9 +463,10 @@
     ],
     "iva_total": 2914.2857142857147,
     "forma_pago": {
-      "codigo": 1,
+      "codigo": 3,
       "valor": 75200
-    }
+    },
+    "observaciones": ""
   },
   {
     "consecutivo": 2157,
