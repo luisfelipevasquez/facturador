@@ -598,7 +598,8 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000
+        "total": 139000,
+        "molienda": "grano"
       }
     ],
     "iva_total": 6619.047619047618,
@@ -606,6 +607,11 @@
       "codigo": 3,
       "valor": 139000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "05932440-2c07-4311-bcea-f02b27567dc8",
+    "siigoNumber": "FV-2-2174",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-06-29T03:20:34.244Z"
   }
 ]
