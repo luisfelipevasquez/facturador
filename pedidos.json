@@ -1,7 +1,7 @@
 [
   {
     "consecutivo": 2151,
-    "fecha": "2026-06-26",
+    "fecha": "2026-06-28",
     "tercero": "Alejandro Lozano",
     "identificacion": "1037610854",
     "productos": "CHLA 100g x100, PANA 100g x100, GELA 100g x100",
@@ -14,7 +14,7 @@
   },
   {
     "consecutivo": 2152,
-    "fecha": "2026-06-27",
+    "fecha": "2026-06-28",
     "tercero": "Anderson Zambrano Bermudez",
     "identificacion": "1000511999",
     "productos": "RLAA 2500g x2500",
@@ -27,7 +27,7 @@
   },
   {
     "consecutivo": 2153,
-    "fecha": "2026-06-27",
+    "fecha": "2026-06-28",
     "tercero": "Manuela Ardila Ospina",
     "identificacion": "1000204180",
     "productos": "GELA 100g x100, PANA 100g x100, BSIN 100g x100, CMA 100g x100, CMA 100g x100, BBO 100g x100, BBO 100g x100, BHO120 100g x100, BHO72 100g x100, BNA120 100g x100, BNA 100g x100",
@@ -40,7 +40,7 @@
   },
   {
     "consecutivo": 2154,
-    "fecha": "2026-06-27",
+    "fecha": "2026-06-28",
     "tercero": "Carlos Federico Vásquez Jiménez",
     "identificacion": "71792081",
     "productos": "CGA 340g x340, BHO 100g x100, BSIN 100g x100, RLAS 100g x100, BBO 100g x100, CGA 100g x100, CMA 100g x100, BNA120 100g x100, GELA 100g x100, RLAA 100g x100, BBO 100g x100, CGA 100g x100, CMA 100g x100",
@@ -53,7 +53,7 @@
   },
   {
     "consecutivo": 2155,
-    "fecha": "2026-06-27",
+    "fecha": "2026-06-28",
     "tercero": "Jhon Edison García García",
     "identificacion": "1002406729",
     "productos": "BNA 2500g x2500",
@@ -66,20 +66,20 @@
   },
   {
     "consecutivo": 2156,
-    "fecha": "2026-06-27",
+    "fecha": "2026-06-28",
     "tercero": "Leidy Gaviria Morales",
     "identificacion": "1128402330",
     "productos": "CMA 340g x340",
     "domicilio": "Local Mensajero",
     "total": 75200,
-    "forma_pago": "Efectivo",
+    "forma_pago": "T. Débito",
     "status": "En proceso",
     "client_type": null,
     "recoge": null
   },
   {
     "consecutivo": 2157,
-    "fecha": "2026-06-27",
+    "fecha": "2026-06-28",
     "tercero": "Edison Alejandro Restrepo",
     "identificacion": "1036665241",
     "productos": "BBO 100g x100, RLAS 100g x100",
@@ -99,7 +99,7 @@
     "domicilio": "",
     "total": 20000.000000000004,
     "forma_pago": "T. Débito",
-    "status": "En proceso",
+    "status": "Completado",
     "client_type": null,
     "recoge": null,
     "items_molienda": [
