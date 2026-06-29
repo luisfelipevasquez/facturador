@@ -477,7 +477,7 @@
     "consecutivo": 2157,
     "tipo_comprobante": 2,
     "identificacion_tercero": "1036665241",
-    "fecha_elaboracion": "2026-06-27",
+    "fecha_elaboracion": "2026-06-28",
     "identificacion_vendedor": "901906362",
     "items": [
       {
@@ -515,7 +515,8 @@
     "forma_pago": {
       "codigo": 3,
       "valor": 57000
-    }
+    },
+    "observaciones": ""
   },
   {
     "consecutivo": 2158,
