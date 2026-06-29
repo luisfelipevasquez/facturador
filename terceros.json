@@ -334,5 +334,21 @@
     "Teléfono móvil de contacto": "3008998864",
     "Estado": "Activo",
     "siigoId": "3b3a4a9b-40f8-4820-8a31-5831f9b7a6a3"
+  },
+  {
+    "Nombre tercero": "Paula Andrea Orozco",
+    "Tipo de identificación": "13",
+    "Identificación": "1017199785",
+    "Dirección": "Edificio guadalajara Sabaneta",
+    "Ciudad": "Sabaneta",
+    "Código departamento": "05",
+    "Código ciudad": "05631",
+    "Teléfono.": "3127352000",
+    "Correo electrónico": "anpaop@gmail.com",
+    "Nombres contacto": "Paula",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3127352000",
+    "Estado": "Activo",
+    "siigoId": "ba6ed745-0a73-4bb8-93b6-1d6578efd19c"
   }
 ]
