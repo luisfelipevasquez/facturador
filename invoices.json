@@ -510,5 +510,30 @@
       "codigo": 3,
       "valor": 57000
     }
+  },
+  {
+    "consecutivo": 2158,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "43264315",
+    "fecha_elaboracion": "2026-06-28",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO120",
+        "producto": "Blend Honey 120h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 952.3809523809525,
+        "iva_pct": 5,
+        "total": 20000.000000000004
+      }
+    ],
+    "iva_total": 952.3809523809525,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 20000.000000000004
+    },
+    "observaciones": "enviar a Beatriz"
   }
 ]
