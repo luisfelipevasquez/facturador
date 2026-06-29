@@ -582,5 +582,30 @@
     "cufe": null,
     "siigoStatus": "Sincronizado",
     "siigoSyncedAt": "2026-06-29T01:13:17.835Z"
+  },
+  {
+    "consecutivo": 2174,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1017199785",
+    "fecha_elaboracion": "2026-06-28",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "GELA",
+        "producto": "Gesha Lavado",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 264.76190476190476,
+        "iva": 6619.047619047618,
+        "iva_pct": 5,
+        "total": 139000
+      }
+    ],
+    "iva_total": 6619.047619047618,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 139000
+    },
+    "observaciones": ""
   }
 ]
