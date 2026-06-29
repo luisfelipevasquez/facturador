@@ -403,7 +403,7 @@
     "consecutivo": 2155,
     "tipo_comprobante": 2,
     "identificacion_tercero": "1002406729",
-    "fecha_elaboracion": "2026-06-27",
+    "fecha_elaboracion": "2026-06-28",
     "identificacion_vendedor": "901906362",
     "items": [
       {
@@ -425,15 +425,16 @@
         "iva": 0,
         "iva_pct": 0,
         "total": 0,
-        "descuento_pct": 100,
-        "descuento_valor": 18000
+        "descuento_valor": 18000,
+        "descuento_pct": 100
       }
     ],
     "iva_total": 13809.52380952381,
     "forma_pago": {
       "codigo": 3,
       "valor": 289999.99999999994
-    }
+    },
+    "observaciones": ""
   },
   {
     "consecutivo": 2156,
