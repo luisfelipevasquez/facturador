@@ -87,7 +87,7 @@
     "consecutivo": 2153,
     "tipo_comprobante": 2,
     "identificacion_tercero": "1000204180",
-    "fecha_elaboracion": "2026-06-27",
+    "fecha_elaboracion": "2026-06-28",
     "identificacion_vendedor": "901906362",
     "items": [
       {
@@ -99,8 +99,8 @@
         "iva": 1628.5714285714284,
         "iva_pct": 5,
         "total": 34199.99999999999,
-        "descuento_pct": 10,
-        "descuento_valor": 3619.0476190476184
+        "descuento_valor": 3619.0476190476184,
+        "descuento_pct": 10
       },
       {
         "sku": "PANA",
@@ -111,8 +111,8 @@
         "iva": 1628.5714285714284,
         "iva_pct": 5,
         "total": 34199.99999999999,
-        "descuento_pct": 10,
-        "descuento_valor": 3619.0476190476184
+        "descuento_valor": 3619.0476190476184,
+        "descuento_pct": 10
       },
       {
         "sku": "BSIN",
@@ -123,8 +123,8 @@
         "iva": 1628.5714285714284,
         "iva_pct": 5,
         "total": 34199.99999999999,
-        "descuento_pct": 10,
-        "descuento_valor": 3619.0476190476184
+        "descuento_valor": 3619.0476190476184,
+        "descuento_pct": 10
       },
       {
         "sku": "CMA",
@@ -135,8 +135,8 @@
         "iva": 985.7142857142858,
         "iva_pct": 5,
         "total": 20700,
-        "descuento_pct": 10,
-        "descuento_valor": 2190.4761904761904
+        "descuento_valor": 2190.4761904761904,
+        "descuento_pct": 10
       },
       {
         "sku": "CMA",
@@ -147,8 +147,8 @@
         "iva": 985.7142857142858,
         "iva_pct": 5,
         "total": 20700,
-        "descuento_pct": 10,
-        "descuento_valor": 2190.4761904761904
+        "descuento_valor": 2190.4761904761904,
+        "descuento_pct": 10
       },
       {
         "sku": "BBO",
@@ -159,8 +159,8 @@
         "iva": 1114.2857142857144,
         "iva_pct": 5,
         "total": 23400,
-        "descuento_pct": 10,
-        "descuento_valor": 2476.1904761904766
+        "descuento_valor": 2476.1904761904766,
+        "descuento_pct": 10
       },
       {
         "sku": "BBO",
@@ -171,8 +171,8 @@
         "iva": 1114.2857142857144,
         "iva_pct": 5,
         "total": 23400,
-        "descuento_pct": 10,
-        "descuento_valor": 2476.1904761904766
+        "descuento_valor": 2476.1904761904766,
+        "descuento_pct": 10
       },
       {
         "sku": "BHO120",
@@ -183,8 +183,8 @@
         "iva": 857.1428571428573,
         "iva_pct": 5,
         "total": 18000.000000000004,
-        "descuento_pct": 10,
-        "descuento_valor": 1904.761904761905
+        "descuento_valor": 1904.761904761905,
+        "descuento_pct": 10
       },
       {
         "sku": "BHO72",
@@ -195,8 +195,8 @@
         "iva": 857.1428571428573,
         "iva_pct": 5,
         "total": 18000.000000000004,
-        "descuento_pct": 10,
-        "descuento_valor": 1904.761904761905
+        "descuento_valor": 1904.761904761905,
+        "descuento_pct": 10
       },
       {
         "sku": "BNA120",
@@ -207,8 +207,8 @@
         "iva": 857.1428571428573,
         "iva_pct": 5,
         "total": 18000.000000000004,
-        "descuento_pct": 10,
-        "descuento_valor": 1904.761904761905
+        "descuento_valor": 1904.761904761905,
+        "descuento_pct": 10
       },
       {
         "sku": "BNA",
@@ -219,8 +219,8 @@
         "iva": 857.1428571428573,
         "iva_pct": 5,
         "total": 18000.000000000004,
-        "descuento_pct": 10,
-        "descuento_valor": 1904.761904761905
+        "descuento_valor": 1904.761904761905,
+        "descuento_pct": 10
       },
       {
         "sku": "DOM",
@@ -231,15 +231,16 @@
         "iva": 0,
         "iva_pct": 0,
         "total": 0,
-        "descuento_pct": 100,
-        "descuento_valor": 14000
+        "descuento_valor": 14000,
+        "descuento_pct": 100
       }
     ],
     "iva_total": 12514.285714285714,
     "forma_pago": {
       "codigo": 3,
       "valor": 262800
-    }
+    },
+    "observaciones": ""
   },
   {
     "consecutivo": 2154,
