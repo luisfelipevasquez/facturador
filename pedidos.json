@@ -184,5 +184,60 @@
         "molienda": "molido grueso"
       }
     ]
+  },
+  {
+    "consecutivo": 2331,
+    "fecha": "2026-07-01",
+    "tercero": "Sandra Liliana Uribe Velez",
+    "identificacion": "43264315",
+    "productos": "PANA 100g x100, BHO72 100g x100, BNA 100g x100, CHLA 100g x100, CMA 100g x100, CGA 100g x100, GELA 100g x100, BSIN 100g x100",
+    "domicilio": "Local Mensajero",
+    "total": 147200,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": null,
+    "recoge": null,
+    "items_molienda": [
+      {
+        "sku": "PANA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO72",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BNA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CHLA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "GELA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BSIN",
+        "presentacion": "100g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
