@@ -598,8 +598,7 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000,
-        "molienda": "grano"
+        "total": 139000
       }
     ],
     "iva_total": 6619.047619047618,
@@ -613,5 +612,60 @@
     "cufe": null,
     "siigoStatus": "Sincronizado",
     "siigoSyncedAt": "2026-06-29T03:20:34.244Z"
+  },
+  {
+    "consecutivo": 2329,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1016040544",
+    "fecha_elaboracion": "2026-07-01",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 148.45938375350138,
+        "iva": 2523.809523809524,
+        "iva_pct": 5,
+        "total": 53000
+      },
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 131.65266106442579,
+        "iva": 2238.0952380952385,
+        "iva_pct": 5,
+        "total": 47000.00000000001
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 7238.0952380952385,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 170000
+    },
+    "observaciones": ""
   }
 ]
