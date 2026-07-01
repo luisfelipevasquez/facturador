@@ -239,5 +239,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2332,
+    "fecha": "2026-07-01",
+    "tercero": "Santiago Vargas",
+    "identificacion": "1037637035",
+    "productos": "CHLA 250g x250",
+    "domicilio": "Local Mensajero",
+    "total": 64000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": null,
+    "recoge": null,
+    "items_molienda": [
+      {
+        "sku": "CHLA",
+        "presentacion": "250g",
+        "molienda": "molido grueso"
+      }
+    ]
   }
 ]
