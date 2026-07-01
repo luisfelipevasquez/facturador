@@ -1011,5 +1011,44 @@
       "valor": 72000
     },
     "observaciones": "Lleva don Antonio"
+  },
+  {
+    "consecutivo": 2336,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "41419882",
+    "fecha_elaboracion": "2026-07-01",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 131.65266106442579,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 44761.90476190477
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 18000
+      }
+    ],
+    "iva_total": 0,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 0
+    },
+    "observaciones": ""
   }
 ]
