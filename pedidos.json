@@ -226,5 +226,35 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2337,
+    "fecha": "2026-07-01",
+    "tercero": "Loredana Martinez",
+    "identificacion": "1050969216",
+    "productos": "PANA 100g x100, GELA 100g x100, CHLA 100g x100",
+    "domicilio": "Nacional Transportadora",
+    "total": 115999.99999999999,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": null,
+    "recoge": null,
+    "items_molienda": [
+      {
+        "sku": "PANA",
+        "presentacion": "100g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "GELA",
+        "presentacion": "100g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "CHLA",
+        "presentacion": "100g",
+        "molienda": "molido fino"
+      }
+    ]
   }
 ]
