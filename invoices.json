@@ -872,5 +872,42 @@
       "valor": 64000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2333,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "15517756",
+    "fecha_elaboracion": "2026-07-01",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 3009.0476190476193,
+        "iva_pct": 5,
+        "total": 63190,
+        "descuento_pct": 29,
+        "descuento_valor": 24580.952380952378
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 3009.0476190476193,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 77190
+    },
+    "observaciones": ""
   }
 ]
