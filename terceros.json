@@ -350,5 +350,21 @@
     "Teléfono móvil de contacto": "3127352000",
     "Estado": "Activo",
     "siigoId": "ba6ed745-0a73-4bb8-93b6-1d6578efd19c"
+  },
+  {
+    "Nombre tercero": "Yenny Alexandra Forero",
+    "Tipo de identificación": "13",
+    "Identificación": "1016040544",
+    "Dirección": "Calle 148 94 a 10 casa 86 Los robles Bogotá",
+    "Ciudad": "Bogotá D.C.",
+    "Código departamento": "11",
+    "Código ciudad": "11001",
+    "Teléfono.": "3165306485",
+    "Correo electrónico": "Ale.foreroletrado@gmail.com",
+    "Nombres contacto": "Yenny",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3165306485",
+    "Estado": "Activo",
+    "siigoId": "4348aa92-481f-4752-884d-6185dffd8c67"
   }
 ]
