@@ -366,5 +366,21 @@
     "Teléfono móvil de contacto": "3165306485",
     "Estado": "Activo",
     "siigoId": "4348aa92-481f-4752-884d-6185dffd8c67"
+  },
+  {
+    "Nombre tercero": "Luz Angelica Silva Ordoñez",
+    "Tipo de identificación": "13",
+    "Identificación": "1098819967",
+    "Dirección": "Calle 103 #13b-09 APTO904  Caminos de la fontana Bucaramanga",
+    "Ciudad": "Bucaramanga",
+    "Código departamento": "68",
+    "Código ciudad": "68001",
+    "Teléfono.": "3005052376",
+    "Correo electrónico": "angels9907@hotmail.com",
+    "Nombres contacto": "Luz Angelica",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3005052376",
+    "Estado": "Activo",
+    "siigoId": "ab16303a-fe4a-4973-a8ba-b3f9472f5c68"
   }
 ]
