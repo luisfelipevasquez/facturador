@@ -382,5 +382,21 @@
     "Teléfono móvil de contacto": "3005052376",
     "Estado": "Activo",
     "siigoId": "ab16303a-fe4a-4973-a8ba-b3f9472f5c68"
+  },
+  {
+    "Nombre tercero": "Loredana Martinez",
+    "Tipo de identificación": "13",
+    "Identificación": "1050969216",
+    "Dirección": "Cra 52AC 33A-35 TO2 Apto 701 Aqua hogares conscientes",
+    "Ciudad": "Rionegro",
+    "Código departamento": "05",
+    "Código ciudad": "05615",
+    "Teléfono.": "3003933202",
+    "Correo electrónico": "lodame8@hotmail.com",
+    "Nombres contacto": "Loredana",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3003933202",
+    "Estado": "Activo",
+    "siigoId": "3d9a0451-739e-4478-b1c9-2e56278535df"
   }
 ]
