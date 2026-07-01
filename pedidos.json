@@ -8,7 +8,7 @@
     "domicilio": "",
     "total": 97999.99999999997,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": null,
     "recoge": null
   },
@@ -21,7 +21,7 @@
     "domicilio": "Nacional Transportadora",
     "total": 170100,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": null,
     "recoge": null
   },
@@ -34,7 +34,7 @@
     "domicilio": "Local Mensajero",
     "total": 262800,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": null,
     "recoge": null
   },
@@ -47,7 +47,7 @@
     "domicilio": "Local Mensajero",
     "total": 362000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": null,
     "recoge": null
   },
@@ -60,7 +60,7 @@
     "domicilio": "Nacional Transportadora",
     "total": 289999.99999999994,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": null,
     "recoge": null
   },
@@ -73,7 +73,7 @@
     "domicilio": "Local Mensajero",
     "total": 75200,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": null,
     "recoge": null
   },
@@ -86,7 +86,7 @@
     "domicilio": "Local Mensajero",
     "total": 57000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": null,
     "recoge": null
   },
@@ -99,16 +99,9 @@
     "domicilio": "",
     "total": 20000.000000000004,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": null,
-    "recoge": null,
-    "items_molienda": [
-      {
-        "sku": "BHO120",
-        "presentacion": "100g",
-        "molienda": "grano"
-      }
-    ]
+    "recoge": null
   },
   {
     "consecutivo": 2174,
@@ -119,16 +112,9 @@
     "domicilio": "",
     "total": 139000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": null,
-    "recoge": null,
-    "items_molienda": [
-      {
-        "sku": "GELA",
-        "presentacion": "500g",
-        "molienda": "grano"
-      }
-    ]
+    "recoge": null
   },
   {
     "consecutivo": 2329,
@@ -141,24 +127,7 @@
     "forma_pago": "T. Débito",
     "status": "En proceso",
     "client_type": null,
-    "recoge": null,
-    "items_molienda": [
-      {
-        "sku": "BNA120",
-        "presentacion": "340g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "RLAC",
-        "presentacion": "340g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "CMA",
-        "presentacion": "250g",
-        "molienda": "grano"
-      }
-    ]
+    "recoge": null
   },
   {
     "consecutivo": 2330,
@@ -171,19 +140,7 @@
     "forma_pago": "T. Débito",
     "status": "En proceso",
     "client_type": null,
-    "recoge": null,
-    "items_molienda": [
-      {
-        "sku": "BHO72",
-        "presentacion": "500g",
-        "molienda": "molido grueso"
-      },
-      {
-        "sku": "CGA",
-        "presentacion": "100g",
-        "molienda": "molido grueso"
-      }
-    ]
+    "recoge": null
   },
   {
     "consecutivo": 2331,
@@ -196,49 +153,7 @@
     "forma_pago": "T. Débito",
     "status": "En proceso",
     "client_type": null,
-    "recoge": null,
-    "items_molienda": [
-      {
-        "sku": "PANA",
-        "presentacion": "100g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "BHO72",
-        "presentacion": "100g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "BNA",
-        "presentacion": "100g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "CHLA",
-        "presentacion": "100g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "CMA",
-        "presentacion": "100g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "CGA",
-        "presentacion": "100g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "GELA",
-        "presentacion": "100g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "BSIN",
-        "presentacion": "100g",
-        "molienda": "grano"
-      }
-    ]
+    "recoge": null
   },
   {
     "consecutivo": 2332,
@@ -251,14 +166,7 @@
     "forma_pago": "T. Débito",
     "status": "En proceso",
     "client_type": null,
-    "recoge": null,
-    "items_molienda": [
-      {
-        "sku": "CHLA",
-        "presentacion": "250g",
-        "molienda": "molido grueso"
-      }
-    ]
+    "recoge": null
   },
   {
     "consecutivo": 2333,
@@ -270,15 +178,8 @@
     "total": 77190,
     "forma_pago": "T. Débito",
     "status": "En proceso",
-    "client_type": "Antiguo",
-    "recoge": null,
-    "items_molienda": [
-      {
-        "sku": "CGA",
-        "presentacion": "500g",
-        "molienda": "grano"
-      }
-    ]
+    "client_type": null,
+    "recoge": null
   },
   {
     "consecutivo": 2334,
@@ -290,15 +191,8 @@
     "total": 188000,
     "forma_pago": "T. Débito",
     "status": "En proceso",
-    "client_type": "Antiguo",
-    "recoge": null,
-    "items_molienda": [
-      {
-        "sku": "RLAA",
-        "presentacion": "500g",
-        "molienda": "Molido medio"
-      }
-    ]
+    "client_type": null,
+    "recoge": null
   },
   {
     "consecutivo": 2335,
@@ -311,12 +205,25 @@
     "forma_pago": "T. Débito",
     "status": "En proceso",
     "client_type": null,
+    "recoge": null
+  },
+  {
+    "consecutivo": 2336,
+    "fecha": "2026-07-01",
+    "tercero": "Marina Perdomo",
+    "identificacion": "41419882",
+    "productos": "RLAC 340g x340",
+    "domicilio": "Nacional Transportadora",
+    "total": 0,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": null,
     "recoge": null,
     "items_molienda": [
       {
-        "sku": "RLAA",
-        "presentacion": "500g",
-        "molienda": "grano"
+        "sku": "RLAC",
+        "presentacion": "340g",
+        "molienda": "molido medio"
       }
     ]
   }
