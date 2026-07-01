@@ -159,5 +159,30 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2330,
+    "fecha": "2026-07-01",
+    "tercero": "Luz Angelica Silva Ordoñez",
+    "identificacion": "1098819967",
+    "productos": "BHO72 500g x500, CGA 100g x100",
+    "domicilio": "Nacional Transportadora",
+    "total": 103500,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": null,
+    "recoge": null,
+    "items_molienda": [
+      {
+        "sku": "BHO72",
+        "presentacion": "500g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "100g",
+        "molienda": "molido grueso"
+      }
+    ]
   }
 ]
