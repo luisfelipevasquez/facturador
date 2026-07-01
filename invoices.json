@@ -733,8 +733,8 @@
         "iva": 1085.7142857142856,
         "iva_pct": 5,
         "total": 22799.999999999996,
-        "descuento_pct": 40,
-        "descuento_valor": 14476.190476190473
+        "descuento_valor": 14476.190476190473,
+        "descuento_pct": 40
       },
       {
         "sku": "BHO72",
@@ -745,8 +745,8 @@
         "iva": 571.4285714285714,
         "iva_pct": 5,
         "total": 12000,
-        "descuento_pct": 40,
-        "descuento_valor": 7619.04761904762
+        "descuento_valor": 7619.04761904762,
+        "descuento_pct": 40
       },
       {
         "sku": "BNA",
@@ -757,8 +757,8 @@
         "iva": 571.4285714285714,
         "iva_pct": 5,
         "total": 12000,
-        "descuento_pct": 40,
-        "descuento_valor": 7619.04761904762
+        "descuento_valor": 7619.04761904762,
+        "descuento_pct": 40
       },
       {
         "sku": "CHLA",
@@ -769,8 +769,8 @@
         "iva": 628.5714285714286,
         "iva_pct": 5,
         "total": 13200,
-        "descuento_pct": 40,
-        "descuento_valor": 8380.95238095238
+        "descuento_valor": 8380.95238095238,
+        "descuento_pct": 40
       },
       {
         "sku": "CMA",
@@ -781,8 +781,8 @@
         "iva": 657.1428571428572,
         "iva_pct": 5,
         "total": 13800,
-        "descuento_pct": 40,
-        "descuento_valor": 8761.904761904761
+        "descuento_valor": 8761.904761904761,
+        "descuento_pct": 40
       },
       {
         "sku": "CGA",
@@ -793,8 +793,8 @@
         "iva": 657.1428571428572,
         "iva_pct": 5,
         "total": 13800,
-        "descuento_pct": 40,
-        "descuento_valor": 8761.904761904761
+        "descuento_valor": 8761.904761904761,
+        "descuento_pct": 40
       },
       {
         "sku": "GELA",
@@ -805,8 +805,8 @@
         "iva": 1085.7142857142856,
         "iva_pct": 5,
         "total": 22799.999999999996,
-        "descuento_pct": 40,
-        "descuento_valor": 14476.190476190473
+        "descuento_valor": 14476.190476190473,
+        "descuento_pct": 40
       },
       {
         "sku": "BSIN",
@@ -817,8 +817,8 @@
         "iva": 1085.7142857142856,
         "iva_pct": 5,
         "total": 22799.999999999996,
-        "descuento_pct": 40,
-        "descuento_valor": 14476.190476190473
+        "descuento_valor": 14476.190476190473,
+        "descuento_pct": 40
       },
       {
         "sku": "DOM",
@@ -836,7 +836,7 @@
       "codigo": 3,
       "valor": 147200
     },
-    "observaciones": "Envío con domiciliario a Isabel Cristina Estrada"
+    "observaciones": "Envío con domiciliario a Isabel Cristina Estrada Calle 37 B sur #27-17  Urbanización Brujas Campestre  Apto 202 Envigado loma de las brujas"
   },
   {
     "consecutivo": 2332,
