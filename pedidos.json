@@ -259,5 +259,25 @@
         "molienda": "molido grueso"
       }
     ]
+  },
+  {
+    "consecutivo": 2333,
+    "fecha": "2026-07-01",
+    "tercero": "Ricardo Arango García",
+    "identificacion": "15517756",
+    "productos": "CGA 500g x500",
+    "domicilio": "Local Mensajero",
+    "total": 77190,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": null,
+    "recoge": null,
+    "items_molienda": [
+      {
+        "sku": "CGA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
