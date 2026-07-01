@@ -716,5 +716,126 @@
       "valor": 103500
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2331,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "43264315",
+    "fecha_elaboracion": "2026-07-01",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1085.7142857142856,
+        "iva_pct": 5,
+        "total": 22799.999999999996,
+        "descuento_pct": 40,
+        "descuento_valor": 14476.190476190473
+      },
+      {
+        "sku": "BHO72",
+        "producto": "Blend Honey72h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 571.4285714285714,
+        "iva_pct": 5,
+        "total": 12000,
+        "descuento_pct": 40,
+        "descuento_valor": 7619.04761904762
+      },
+      {
+        "sku": "BNA",
+        "producto": "Blend Natural 56h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 571.4285714285714,
+        "iva_pct": 5,
+        "total": 12000,
+        "descuento_pct": 40,
+        "descuento_valor": 7619.04761904762
+      },
+      {
+        "sku": "CHLA",
+        "producto": "Chiroso Lavado",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 209.52380952380952,
+        "iva": 628.5714285714286,
+        "iva_pct": 5,
+        "total": 13200,
+        "descuento_pct": 40,
+        "descuento_valor": 8380.95238095238
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 657.1428571428572,
+        "iva_pct": 5,
+        "total": 13800,
+        "descuento_pct": 40,
+        "descuento_valor": 8761.904761904761
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 657.1428571428572,
+        "iva_pct": 5,
+        "total": 13800,
+        "descuento_pct": 40,
+        "descuento_valor": 8761.904761904761
+      },
+      {
+        "sku": "GELA",
+        "producto": "Gesha Lavado",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1085.7142857142856,
+        "iva_pct": 5,
+        "total": 22799.999999999996,
+        "descuento_pct": 40,
+        "descuento_valor": 14476.190476190473
+      },
+      {
+        "sku": "BSIN",
+        "producto": "Bourbon Sidra",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1085.7142857142856,
+        "iva_pct": 5,
+        "total": 22799.999999999996,
+        "descuento_pct": 40,
+        "descuento_valor": 14476.190476190473
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 6342.857142857142,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 147200
+    },
+    "observaciones": "Envío con domiciliario a Isabel Cristina Estrada"
   }
 ]
