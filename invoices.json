@@ -1105,5 +1105,30 @@
       "valor": 115999.99999999999
     },
     "observaciones": "Molido para moka\nEmpacar tarjeta de regalo sin marcar"
+  },
+  {
+    "consecutivo": 2338,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "80110874",
+    "fecha_elaboracion": "2026-07-02",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      }
+    ],
+    "iva_total": 2476.190476190476,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 51999.99999999999
+    },
+    "observaciones": ""
   }
 ]
