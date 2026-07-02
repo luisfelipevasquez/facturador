@@ -6,11 +6,11 @@
     "tercero": "Carlos Andres Lopez Ramirez",
     "identificacion": "14802380",
     "productos": "PANA Papayo Natural x1, CGA Galleta Mantequilla x2",
-    "domicilio": "Envío gratuito",
+    "domicilio": "Envío gratuito, envia_co",
     "total": 233000,
     "forma_pago": "Wompi",
-    "woo_status": "processing",
-    "status": "En proceso",
+    "woo_status": "completed",
+    "status": "Completado",
     "client_type": "Antiguo"
   },
   {
