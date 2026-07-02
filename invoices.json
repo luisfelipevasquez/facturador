@@ -1121,7 +1121,8 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999
+        "total": 51999.99999999999,
+        "molienda": "molido medio"
       }
     ],
     "iva_total": 2476.190476190476,
@@ -1129,6 +1130,6 @@
       "codigo": 3,
       "valor": 51999.99999999999
     },
-    "observaciones": ""
+    "observaciones": "Recoge"
   }
 ]
