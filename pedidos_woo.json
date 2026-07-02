@@ -1,5 +1,33 @@
 [
   {
+    "order_id": 8458,
+    "consecutivo": "8458",
+    "fecha": "2026-07-01",
+    "tercero": "Carlos Andres Lopez Ramirez",
+    "identificacion": "14802380",
+    "productos": "PANA Papayo Natural x1, CGA Galleta Mantequilla x2",
+    "domicilio": "Envío gratuito",
+    "total": 233000,
+    "forma_pago": "Wompi",
+    "woo_status": "processing",
+    "status": "En proceso",
+    "client_type": "Antiguo"
+  },
+  {
+    "order_id": 8457,
+    "consecutivo": "8457",
+    "fecha": "2026-07-01",
+    "tercero": "David Ochoa Posada",
+    "identificacion": "1039457584",
+    "productos": "RLAS Regional Lavado Frutos Amarillos x1, BNA120 Natural 120 horas x1",
+    "domicilio": "Envio Area Metropolitana (Medellin, Envigado, Itagui, La Estrella, Sabaneta, Bello) entrega el mismo día para pedidos realizados antes de mediodía o el siguiente día hábil para pedidos realizados después de mediodía",
+    "total": 94000,
+    "forma_pago": "Wompi",
+    "woo_status": "completed",
+    "status": "Completado",
+    "client_type": null
+  },
+  {
     "order_id": 8456,
     "consecutivo": "8456",
     "fecha": "2026-07-01",
@@ -9,7 +37,7 @@
     "domicilio": "Envío gratuito",
     "total": 313000,
     "forma_pago": "Wompi",
-    "woo_status": "processing",
+    "woo_status": "completed",
     "status": "En proceso",
     "client_type": "Antiguo"
   },
@@ -20,10 +48,10 @@
     "tercero": "Héctor Eduardo Munévar Fernández",
     "identificacion": "1032358860",
     "productos": "BHO120 Honey 120 Horas x1, PANA Papayo Natural x1",
-    "domicilio": "Envío gratuito",
+    "domicilio": "Envío gratuito, envia_co, envia_co",
     "total": 211000,
     "forma_pago": "Wompi",
-    "woo_status": "processing",
+    "woo_status": "completed",
     "status": "En proceso",
     "client_type": "Antiguo"
   },
@@ -37,7 +65,7 @@
     "domicilio": "Envio Area Metropolitana (Medellin, Envigado, Itagui, La Estrella, Sabaneta, Bello) entrega el mismo día para pedidos realizados antes de mediodía o el siguiente día hábil para pedidos realizados después de mediodía",
     "total": 114000,
     "forma_pago": "Wompi",
-    "woo_status": "processing",
+    "woo_status": "completed",
     "status": "En proceso",
     "client_type": null
   },
