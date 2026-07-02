@@ -256,5 +256,25 @@
         "molienda": "molido fino"
       }
     ]
+  },
+  {
+    "consecutivo": 2338,
+    "fecha": "2026-07-02",
+    "tercero": "Miguel Eduardo Urrego",
+    "identificacion": "80110874",
+    "productos": "CMA 250g x250",
+    "domicilio": "",
+    "total": 51999.99999999999,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": null,
+    "recoge": null,
+    "items_molienda": [
+      {
+        "sku": "CMA",
+        "presentacion": "250g",
+        "molienda": "molido medio"
+      }
+    ]
   }
 ]
