@@ -414,5 +414,21 @@
     "Teléfono móvil de contacto": "3103060300",
     "Estado": "Activo",
     "siigoId": "60294a54-0010-486e-94dd-227801d2479f"
+  },
+  {
+    "Nombre tercero": "Catalina Orozco Barrada",
+    "Tipo de identificación": "13",
+    "Identificación": "1128418820",
+    "Dirección": "Calle 38 # 76-06 Restaurante Ragazzi. Laureles",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3225598514",
+    "Correo electrónico": "catalinaorozcob@gmail.com",
+    "Nombres contacto": "Catalina",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3225598514",
+    "Estado": "Activo",
+    "siigoId": "2e3f8ee2-db12-4dc1-9da0-0a027eb29058"
   }
 ]
