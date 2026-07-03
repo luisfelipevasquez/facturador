@@ -343,7 +343,7 @@
     "forma_pago": "T. Débito",
     "status": "En proceso",
     "client_type": "Antiguo",
-    "recoge": null,
+    "recoge": "No",
     "items_molienda": [
       {
         "sku": "PNA",
