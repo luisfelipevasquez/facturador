@@ -118,7 +118,7 @@
   },
   {
     "consecutivo": 2329,
-    "fecha": "2026-07-01",
+    "fecha": "2026-07-02",
     "tercero": "Yenny Alexandra Forero",
     "identificacion": "1016040544",
     "productos": "BNA120 340g x340, RLAC 340g x340, CMA 250g x250",
@@ -131,7 +131,7 @@
   },
   {
     "consecutivo": 2330,
-    "fecha": "2026-07-01",
+    "fecha": "2026-07-02",
     "tercero": "Luz Angelica Silva Ordoñez",
     "identificacion": "1098819967",
     "productos": "BHO72 500g x500, CGA 100g x100",
@@ -144,7 +144,7 @@
   },
   {
     "consecutivo": 2331,
-    "fecha": "2026-07-01",
+    "fecha": "2026-07-02",
     "tercero": "Sandra Liliana Uribe Velez",
     "identificacion": "43264315",
     "productos": "PANA 100g x100, BHO72 100g x100, BNA 100g x100, CHLA 100g x100, CMA 100g x100, CGA 100g x100, GELA 100g x100, BSIN 100g x100",
@@ -157,7 +157,7 @@
   },
   {
     "consecutivo": 2332,
-    "fecha": "2026-07-01",
+    "fecha": "2026-07-02",
     "tercero": "Santiago Vargas",
     "identificacion": "1037637035",
     "productos": "CHLA 250g x250",
@@ -170,7 +170,7 @@
   },
   {
     "consecutivo": 2333,
-    "fecha": "2026-07-01",
+    "fecha": "2026-07-02",
     "tercero": "Ricardo Arango García",
     "identificacion": "15517756",
     "productos": "CGA 500g x500",
@@ -183,7 +183,7 @@
   },
   {
     "consecutivo": 2334,
-    "fecha": "2026-07-01",
+    "fecha": "2026-07-02",
     "tercero": "Juan Alejandro Pinilla",
     "identificacion": "10013680087",
     "productos": "RLAA 500g x500, RLAA 500g x500, RLAA 250g x250, RLAA 500g x500",
@@ -196,7 +196,7 @@
   },
   {
     "consecutivo": 2335,
-    "fecha": "2026-07-01",
+    "fecha": "2026-07-02",
     "tercero": "Edwar Camilo Castrillón Rivera",
     "identificacion": "1152207799",
     "productos": "RLAA 500g x500",
@@ -209,7 +209,7 @@
   },
   {
     "consecutivo": 2336,
-    "fecha": "2026-07-01",
+    "fecha": "2026-07-02",
     "tercero": "Marina Perdomo",
     "identificacion": "41419882",
     "productos": "RLAC 340g x340",
@@ -229,7 +229,7 @@
   },
   {
     "consecutivo": 2337,
-    "fecha": "2026-07-01",
+    "fecha": "2026-07-02",
     "tercero": "Loredana Martinez",
     "identificacion": "1050969216",
     "productos": "PANA 100g x100, GELA 100g x100, CHLA 100g x100",
@@ -274,6 +274,41 @@
         "sku": "CMA",
         "presentacion": "250g",
         "molienda": "molido medio"
+      }
+    ]
+  },
+  {
+    "consecutivo": 2339,
+    "fecha": "2026-07-02",
+    "tercero": "Cesar Mauricio Núñez Quintero",
+    "identificacion": "13169282",
+    "productos": "PANA 100g x100, GELA 100g x100, CHLA 100g x100, BSIN 250g x250",
+    "domicilio": "Nacional Transportadora",
+    "total": 192000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": null,
+    "recoge": null,
+    "items_molienda": [
+      {
+        "sku": "PANA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "GELA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CHLA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BSIN",
+        "presentacion": "250g",
+        "molienda": "grano"
       }
     ]
   }
