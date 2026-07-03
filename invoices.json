@@ -1255,5 +1255,50 @@
       "valor": 97000.00000000001
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2342,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1128418820",
+    "fecha_elaboracion": "2026-07-03",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 220.95238095238093,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "BHO120",
+        "producto": "Blend Honey 120h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 952.3809523809525,
+        "iva_pct": 5,
+        "total": 20000.000000000004
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 1095.2380952380952,
+        "iva_pct": 5,
+        "total": 23000
+      }
+    ],
+    "iva_total": 4809.52380952381,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 101000
+    },
+    "observaciones": "Recoge"
   }
 ]
