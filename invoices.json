@@ -1326,7 +1326,8 @@
         "valor_unitario": 148.45938375350138,
         "iva": 2523.809523809524,
         "iva_pct": 5,
-        "total": 53000
+        "total": 53000,
+        "molienda": "Molido grueso"
       }
     ],
     "iva_total": 5047.619047619048,
