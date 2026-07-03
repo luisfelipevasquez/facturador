@@ -331,5 +331,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2341,
+    "fecha": "2026-07-02",
+    "tercero": "Javier Alexis Giron Perez",
+    "identificacion": "98658895",
+    "productos": "PNA 340g x340",
+    "domicilio": "",
+    "total": 97000.00000000001,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": null,
+    "recoge": null,
+    "items_molienda": [
+      {
+        "sku": "PNA",
+        "presentacion": "340g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
