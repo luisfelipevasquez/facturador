@@ -311,5 +311,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2340,
+    "fecha": "2026-07-02",
+    "tercero": "Luis Fernando Rios",
+    "identificacion": "15929620",
+    "productos": "BNA120 500g x500",
+    "domicilio": "Nacional Transportadora",
+    "total": 90000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": null,
+    "recoge": null,
+    "items_molienda": [
+      {
+        "sku": "BNA120",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
