@@ -672,7 +672,7 @@
     "consecutivo": 2330,
     "tipo_comprobante": 2,
     "identificacion_tercero": "1098819967",
-    "fecha_elaboracion": "2026-07-01",
+    "fecha_elaboracion": "2026-07-02",
     "identificacion_vendedor": "901906362",
     "items": [
       {
@@ -684,8 +684,8 @@
         "iva": 3085.714285714286,
         "iva_pct": 5,
         "total": 64799.99999999999,
-        "descuento_pct": 10,
-        "descuento_valor": 6857.142857142857
+        "descuento_valor": 6857.142857142857,
+        "descuento_pct": 10
       },
       {
         "sku": "CGA",
@@ -696,8 +696,8 @@
         "iva": 985.7142857142858,
         "iva_pct": 5,
         "total": 20700,
-        "descuento_pct": 10,
-        "descuento_valor": 2190.4761904761904
+        "descuento_valor": 2190.4761904761904,
+        "descuento_pct": 10
       },
       {
         "sku": "DOM",
