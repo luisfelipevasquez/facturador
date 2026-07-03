@@ -666,7 +666,12 @@
       "codigo": 3,
       "valor": 170000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "8c09d902-a2c0-4aab-8119-36c1773db8f0",
+    "siigoNumber": "FV-2-2336",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-03T21:39:57.014Z"
   },
   {
     "consecutivo": 2330,
@@ -715,7 +720,12 @@
       "codigo": 3,
       "valor": 103500
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "6855b6e0-7fc0-4ceb-8432-cd4348063844",
+    "siigoNumber": "FV-2-2337",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-03T21:39:58.039Z"
   },
   {
     "consecutivo": 2331,
@@ -836,7 +846,12 @@
       "codigo": 3,
       "valor": 147200
     },
-    "observaciones": "Envío con domiciliario a Isabel Cristina Estrada Calle 37 B sur #27-17  Urbanización Brujas Campestre  Apto 202 Envigado loma de las brujas +57 320 7257377"
+    "observaciones": "Envío con domiciliario a Isabel Cristina Estrada Calle 37 B sur #27-17  Urbanización Brujas Campestre  Apto 202 Envigado loma de las brujas +57 320 7257377",
+    "siigoId": "6b854faf-3dd6-49c3-b772-d0bf9e4d9e01",
+    "siigoNumber": "FV-2-2338",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-03T21:39:58.958Z"
   },
   {
     "consecutivo": 2332,
@@ -871,7 +886,12 @@
       "codigo": 3,
       "valor": 64000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "0d777645-80dd-40fd-9a3b-cc49cb896e6d",
+    "siigoNumber": "FV-2-2339",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-03T21:39:59.879Z"
   },
   {
     "consecutivo": 2333,
@@ -908,7 +928,12 @@
       "codigo": 3,
       "valor": 77190
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "b753d642-393e-445c-8f60-b8684ccd99cc",
+    "siigoNumber": "FV-2-2340",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-03T21:40:00.597Z"
   },
   {
     "consecutivo": 2334,
@@ -975,7 +1000,12 @@
       "codigo": 3,
       "valor": 188000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "db81b147-c0f1-49ca-9135-6467f29db3aa",
+    "siigoNumber": "FV-2-2341",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-03T21:40:01.620Z"
   },
   {
     "consecutivo": 2335,
@@ -1010,7 +1040,12 @@
       "codigo": 3,
       "valor": 72000
     },
-    "observaciones": "Lleva don Antonio"
+    "observaciones": "Lleva don Antonio",
+    "siigoId": "4a758d21-d159-47c1-8018-035010f3a13d",
+    "siigoNumber": "FV-2-2342",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-03T21:40:02.233Z"
   },
   {
     "consecutivo": 2336,
@@ -1049,7 +1084,12 @@
       "codigo": 3,
       "valor": 0
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "500cb677-dc8e-4e39-961b-32deaf4c10e5",
+    "siigoNumber": "FV-2-2343",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-03T21:40:02.848Z"
   },
   {
     "consecutivo": 2337,
