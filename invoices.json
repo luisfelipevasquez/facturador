@@ -1300,5 +1300,40 @@
       "valor": 101000
     },
     "observaciones": "Recoge"
+  },
+  {
+    "consecutivo": 2343,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1018514645",
+    "fecha_elaboracion": "2026-07-03",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO",
+        "producto": "Blend Honey 56h",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 148.45938375350138,
+        "iva": 2523.809523809524,
+        "iva_pct": 5,
+        "total": 53000
+      },
+      {
+        "sku": "BHO",
+        "producto": "Blend Honey 56h",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 148.45938375350138,
+        "iva": 2523.809523809524,
+        "iva_pct": 5,
+        "total": 53000
+      }
+    ],
+    "iva_total": 5047.619047619048,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 106000
+    },
+    "observaciones": ""
   }
 ]
