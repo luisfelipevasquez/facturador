@@ -398,5 +398,21 @@
     "Teléfono móvil de contacto": "3003933202",
     "Estado": "Activo",
     "siigoId": "3d9a0451-739e-4478-b1c9-2e56278535df"
+  },
+  {
+    "Nombre tercero": "Cesar Mauricio Núñez Quintero",
+    "Tipo de identificación": "13",
+    "Identificación": "13169282",
+    "Dirección": "Calle 1 # 0-50 CR casa real Int B-6 Villa Camila",
+    "Ciudad": "Cúcuta",
+    "Código departamento": "54",
+    "Código ciudad": "54001",
+    "Teléfono.": "3103060300",
+    "Correo electrónico": "Mauro24_64@hotmail.com",
+    "Nombres contacto": "Cesar Mauricio",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3103060300",
+    "Estado": "Activo",
+    "siigoId": "60294a54-0010-486e-94dd-227801d2479f"
   }
 ]
