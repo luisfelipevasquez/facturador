@@ -1104,7 +1104,12 @@
       "codigo": 3,
       "valor": 115999.99999999999
     },
-    "observaciones": "Molido para mokaEmpacar tarjeta de regalo sin marcar"
+    "observaciones": "Molido para mokaEmpacar tarjeta de regalo sin marcar",
+    "siigoId": "9f3c8c95-b379-4cf1-8d09-518727d083e7",
+    "siigoNumber": "FV-2-2331",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-03T21:36:09.682Z"
   },
   {
     "consecutivo": 2338,
@@ -1129,7 +1134,12 @@
       "codigo": 3,
       "valor": 51999.99999999999
     },
-    "observaciones": "Recoge"
+    "observaciones": "Recoge",
+    "siigoId": "bd904c3f-443b-490c-830c-66bdeed5633a",
+    "siigoNumber": "FV-2-2332",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-03T21:36:11.423Z"
   },
   {
     "consecutivo": 2339,
@@ -1194,7 +1204,12 @@
       "codigo": 3,
       "valor": 192000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "288cfdd6-2f6f-431f-8a90-443655c665e5",
+    "siigoNumber": "FV-2-2333",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-03T21:36:12.651Z"
   },
   {
     "consecutivo": 2340,
@@ -1229,7 +1244,12 @@
       "codigo": 3,
       "valor": 90000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "e56f38f4-c1cf-4fee-9a8c-3d76e7bf02bd",
+    "siigoNumber": "FV-2-2334",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-03T21:36:13.368Z"
   },
   {
     "consecutivo": 2341,
@@ -1254,7 +1274,12 @@
       "codigo": 3,
       "valor": 97000.00000000001
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "b220acae-e232-41bb-9e2f-2322abd18e47",
+    "siigoNumber": "FV-2-2335",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-03T21:36:14.085Z"
   },
   {
     "consecutivo": 2342,
