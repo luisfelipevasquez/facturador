@@ -1299,7 +1299,12 @@
       "codigo": 3,
       "valor": 101000
     },
-    "observaciones": "Recoge"
+    "observaciones": "Recoge",
+    "siigoId": "222e42f1-76c1-4fa3-bd90-20ec86623f2b",
+    "siigoNumber": "FV-2-2329",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-03T20:38:56.899Z"
   },
   {
     "consecutivo": 2343,
@@ -1335,6 +1340,11 @@
       "codigo": 3,
       "valor": 106000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "cc8d3169-843a-4967-9315-77703b29cfd5",
+    "siigoNumber": "FV-2-2330",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-03T20:38:57.514Z"
   }
 ]
