@@ -8,7 +8,7 @@
     "domicilio": "",
     "total": 97999.99999999997,
     "forma_pago": "T. Débito",
-    "status": "En proceso",
+    "status": "Completado",
     "client_type": null,
     "recoge": null
   },
@@ -165,7 +165,7 @@
     "total": 64000,
     "forma_pago": "T. Débito",
     "status": "En proceso",
-    "client_type": null,
+    "client_type": "Antiguo",
     "recoge": null
   },
   {
@@ -178,7 +178,7 @@
     "total": 77190,
     "forma_pago": "T. Débito",
     "status": "En proceso",
-    "client_type": null,
+    "client_type": "Antiguo",
     "recoge": null
   },
   {
@@ -217,8 +217,15 @@
     "total": 0,
     "forma_pago": "T. Débito",
     "status": "En proceso",
-    "client_type": null,
-    "recoge": null
+    "client_type": "Antiguo",
+    "recoge": null,
+    "items_molienda": [
+      {
+        "sku": "RLAC",
+        "presentacion": "340g",
+        "molienda": "molido medio"
+      }
+    ]
   },
   {
     "consecutivo": 2337,
@@ -231,7 +238,24 @@
     "forma_pago": "T. Débito",
     "status": "En proceso",
     "client_type": null,
-    "recoge": null
+    "recoge": null,
+    "items_molienda": [
+      {
+        "sku": "PANA",
+        "presentacion": "100g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "GELA",
+        "presentacion": "100g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "CHLA",
+        "presentacion": "100g",
+        "molienda": "molido fino"
+      }
+    ]
   },
   {
     "consecutivo": 2338,
@@ -243,8 +267,15 @@
     "total": 51999.99999999999,
     "forma_pago": "T. Débito",
     "status": "En proceso",
-    "client_type": null,
-    "recoge": null
+    "client_type": "Antiguo",
+    "recoge": "Si",
+    "items_molienda": [
+      {
+        "sku": "CMA",
+        "presentacion": "250g",
+        "molienda": "molido medio"
+      }
+    ]
   },
   {
     "consecutivo": 2339,
@@ -257,7 +288,29 @@
     "forma_pago": "T. Débito",
     "status": "En proceso",
     "client_type": null,
-    "recoge": null
+    "recoge": null,
+    "items_molienda": [
+      {
+        "sku": "PANA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "GELA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CHLA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BSIN",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   },
   {
     "consecutivo": 2340,
@@ -269,8 +322,15 @@
     "total": 90000,
     "forma_pago": "T. Débito",
     "status": "En proceso",
-    "client_type": null,
-    "recoge": null
+    "client_type": "Antiguo",
+    "recoge": null,
+    "items_molienda": [
+      {
+        "sku": "BNA120",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
   },
   {
     "consecutivo": 2341,
@@ -282,8 +342,15 @@
     "total": 97000.00000000001,
     "forma_pago": "T. Débito",
     "status": "En proceso",
-    "client_type": null,
-    "recoge": null
+    "client_type": "Antiguo",
+    "recoge": "Si",
+    "items_molienda": [
+      {
+        "sku": "PNA",
+        "presentacion": "340g",
+        "molienda": "grano"
+      }
+    ]
   },
   {
     "consecutivo": 2342,
@@ -296,7 +363,24 @@
     "forma_pago": "T. Débito",
     "status": "En proceso",
     "client_type": null,
-    "recoge": null
+    "recoge": "Si",
+    "items_molienda": [
+      {
+        "sku": "BBO",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO120",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      }
+    ]
   },
   {
     "consecutivo": 2343,
@@ -308,8 +392,15 @@
     "total": 106000,
     "forma_pago": "T. Débito",
     "status": "En proceso",
-    "client_type": null,
-    "recoge": null
+    "client_type": "Antiguo",
+    "recoge": "Si",
+    "items_molienda": [
+      {
+        "sku": "BHO",
+        "presentacion": "340g",
+        "molienda": "Molido grueso"
+      }
+    ]
   },
   {
     "consecutivo": 2356,
@@ -321,8 +412,15 @@
     "total": 375000,
     "forma_pago": "Efectivo",
     "status": "En proceso",
-    "client_type": null,
-    "recoge": null
+    "client_type": "Antiguo",
+    "recoge": null,
+    "items_molienda": [
+      {
+        "sku": "RLAC",
+        "presentacion": "2500g",
+        "molienda": "grano"
+      }
+    ]
   },
   {
     "consecutivo": 2357,
