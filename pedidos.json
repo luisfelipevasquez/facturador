@@ -412,7 +412,7 @@
     "total": 375000,
     "forma_pago": "Efectivo",
     "status": "En proceso",
-    "client_type": null,
+    "client_type": "Antiguo",
     "recoge": null,
     "items_molienda": [
       {
