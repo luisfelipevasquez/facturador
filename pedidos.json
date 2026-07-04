@@ -401,5 +401,25 @@
         "molienda": "Molido grueso"
       }
     ]
+  },
+  {
+    "consecutivo": 2356,
+    "fecha": "2026-07-04",
+    "tercero": "Uri/Leidy Tatiana Serna Velasquez",
+    "identificacion": "1036606670",
+    "productos": "RLAC 2500g x2500",
+    "domicilio": "Otro",
+    "total": 375000,
+    "forma_pago": "Efectivo",
+    "status": "En proceso",
+    "client_type": null,
+    "recoge": null,
+    "items_molienda": [
+      {
+        "sku": "RLAC",
+        "presentacion": "2500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
