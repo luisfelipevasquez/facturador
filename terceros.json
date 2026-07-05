@@ -430,5 +430,21 @@
     "Teléfono móvil de contacto": "3225598514",
     "Estado": "Activo",
     "siigoId": "2e3f8ee2-db12-4dc1-9da0-0a027eb29058"
+  },
+  {
+    "Nombre tercero": "Deyvin Grisales Patiño",
+    "Tipo de identificación": "13",
+    "Identificación": "71228203",
+    "Dirección": "Cra 54 #24-17 casa 1er piso",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3128772874",
+    "Correo electrónico": "deyvingrisalespatino@gmail.com",
+    "Nombres contacto": "Deyvin",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3128772874",
+    "Estado": "Activo",
+    "siigoId": "8227f1fb-b178-4de0-a3ea-bdb7e48f89b1"
   }
 ]
