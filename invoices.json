@@ -1595,5 +1595,54 @@
       "valor": 72000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2363,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1022360488",
+    "fecha_elaboracion": "2026-07-05",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PNA",
+        "producto": "Pacamara Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3452.5714285714284,
+        "iva_pct": 5,
+        "total": 72504,
+        "descuento_pct": 4.6,
+        "descuento_valor": 3329.5238095238096
+      },
+      {
+        "sku": "JNA",
+        "producto": "Java Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3452.5714285714284,
+        "iva_pct": 5,
+        "total": 72504,
+        "descuento_pct": 4.6,
+        "descuento_valor": 3329.5238095238096
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 6905.142857142857,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 163008
+    },
+    "observaciones": ""
   }
 ]
