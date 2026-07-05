@@ -1644,5 +1644,42 @@
       "valor": 163008
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2364,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "890982375",
+    "fecha_elaboracion": "2026-07-05",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAA",
+        "producto": "Regional Lavado Andes",
+        "presentacion": "100g",
+        "cantidad": 5000,
+        "valor_unitario": 161.9047619047619,
+        "iva": 36428.57142857143,
+        "iva_pct": 5,
+        "total": 765000,
+        "descuento_pct": 10,
+        "descuento_valor": 80952.38095238095
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Otro",
+        "cantidad": 1,
+        "valor_unitario": 15000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 15000
+      }
+    ],
+    "iva_total": 36428.57142857143,
+    "forma_pago": {
+      "codigo": 2,
+      "valor": 780000
+    },
+    "observaciones": "Enviar domicilio a Angelly. 50 bolsas de 100g cada una"
   }
 ]
