@@ -9,8 +9,8 @@
     "total": 97999.99999999997,
     "forma_pago": "T. Débito",
     "status": "Completado",
-    "client_type": null,
-    "recoge": null
+    "client_type": "Nuevo",
+    "recoge": "No"
   },
   {
     "consecutivo": 2152,
@@ -22,8 +22,8 @@
     "total": 170100,
     "forma_pago": "T. Débito",
     "status": "Completado",
-    "client_type": null,
-    "recoge": null
+    "client_type": "Nuevo",
+    "recoge": "No"
   },
   {
     "consecutivo": 2153,
@@ -35,8 +35,8 @@
     "total": 262800,
     "forma_pago": "T. Débito",
     "status": "Completado",
-    "client_type": null,
-    "recoge": null
+    "client_type": "Nuevo",
+    "recoge": "No"
   },
   {
     "consecutivo": 2154,
@@ -48,8 +48,8 @@
     "total": 362000,
     "forma_pago": "T. Débito",
     "status": "Completado",
-    "client_type": null,
-    "recoge": null
+    "client_type": "Nuevo",
+    "recoge": "No"
   },
   {
     "consecutivo": 2155,
@@ -61,8 +61,8 @@
     "total": 289999.99999999994,
     "forma_pago": "T. Débito",
     "status": "Completado",
-    "client_type": null,
-    "recoge": null
+    "client_type": "Nuevo",
+    "recoge": "No"
   },
   {
     "consecutivo": 2156,
@@ -74,8 +74,8 @@
     "total": 75200,
     "forma_pago": "T. Débito",
     "status": "Completado",
-    "client_type": null,
-    "recoge": null
+    "client_type": "Nuevo",
+    "recoge": "No"
   },
   {
     "consecutivo": 2157,
@@ -87,8 +87,8 @@
     "total": 57000,
     "forma_pago": "T. Débito",
     "status": "Completado",
-    "client_type": null,
-    "recoge": null
+    "client_type": "Nuevo",
+    "recoge": "No"
   },
   {
     "consecutivo": 2158,
@@ -100,8 +100,8 @@
     "total": 20000.000000000004,
     "forma_pago": "T. Débito",
     "status": "Completado",
-    "client_type": null,
-    "recoge": null
+    "client_type": "Antiguo",
+    "recoge": "No"
   },
   {
     "consecutivo": 2174,
@@ -113,8 +113,8 @@
     "total": 139000,
     "forma_pago": "T. Débito",
     "status": "Completado",
-    "client_type": null,
-    "recoge": null
+    "client_type": "Nuevo",
+    "recoge": "No"
   },
   {
     "consecutivo": 2329,
@@ -126,8 +126,8 @@
     "total": 170000,
     "forma_pago": "T. Débito",
     "status": "Completado",
-    "client_type": null,
-    "recoge": null
+    "client_type": "Nuevo",
+    "recoge": "No"
   },
   {
     "consecutivo": 2330,
@@ -139,8 +139,8 @@
     "total": 103500,
     "forma_pago": "T. Débito",
     "status": "Completado",
-    "client_type": null,
-    "recoge": null
+    "client_type": "Nuevo",
+    "recoge": "No"
   },
   {
     "consecutivo": 2331,
@@ -152,8 +152,8 @@
     "total": 147200,
     "forma_pago": "T. Débito",
     "status": "Completado",
-    "client_type": null,
-    "recoge": null
+    "client_type": "Antiguo",
+    "recoge": "No"
   },
   {
     "consecutivo": 2332,
@@ -166,7 +166,7 @@
     "forma_pago": "T. Débito",
     "status": "Completado",
     "client_type": "Antiguo",
-    "recoge": null
+    "recoge": "No"
   },
   {
     "consecutivo": 2333,
@@ -179,7 +179,7 @@
     "forma_pago": "T. Débito",
     "status": "Completado",
     "client_type": "Antiguo",
-    "recoge": null
+    "recoge": "No"
   },
   {
     "consecutivo": 2334,
@@ -191,8 +191,8 @@
     "total": 188000,
     "forma_pago": "T. Débito",
     "status": "Completado",
-    "client_type": null,
-    "recoge": null
+    "client_type": "Nuevo",
+    "recoge": "No"
   },
   {
     "consecutivo": 2335,
@@ -204,8 +204,8 @@
     "total": 72000,
     "forma_pago": "T. Débito",
     "status": "Completado",
-    "client_type": null,
-    "recoge": null
+    "client_type": "Nuevo",
+    "recoge": "No"
   },
   {
     "consecutivo": 2336,
@@ -218,7 +218,7 @@
     "forma_pago": "T. Débito",
     "status": "Completado",
     "client_type": "Antiguo",
-    "recoge": null,
+    "recoge": "No",
     "items_molienda": [
       {
         "sku": "RLAC",
@@ -237,8 +237,8 @@
     "total": 115999.99999999999,
     "forma_pago": "T. Débito",
     "status": "Completado",
-    "client_type": null,
-    "recoge": null,
+    "client_type": "Nuevo",
+    "recoge": "No",
     "items_molienda": [
       {
         "sku": "PANA",
@@ -287,8 +287,8 @@
     "total": 192000,
     "forma_pago": "T. Débito",
     "status": "Completado",
-    "client_type": null,
-    "recoge": null,
+    "client_type": "Nuevo",
+    "recoge": "No",
     "items_molienda": [
       {
         "sku": "PANA",
@@ -323,7 +323,7 @@
     "forma_pago": "T. Débito",
     "status": "Completado",
     "client_type": "Antiguo",
-    "recoge": null,
+    "recoge": "No",
     "items_molienda": [
       {
         "sku": "BNA120",
@@ -362,7 +362,7 @@
     "total": 101000,
     "forma_pago": "T. Débito",
     "status": "Completado",
-    "client_type": null,
+    "client_type": "Nuevo",
     "recoge": "Si",
     "items_molienda": [
       {
@@ -413,7 +413,7 @@
     "forma_pago": "Efectivo",
     "status": "En proceso",
     "client_type": "Antiguo",
-    "recoge": null,
+    "recoge": "No",
     "items_molienda": [
       {
         "sku": "RLAC",
@@ -431,9 +431,9 @@
     "domicilio": "Nacional Transportadora",
     "total": 94000,
     "forma_pago": "T. Débito",
-    "status": "En proceso",
-    "client_type": null,
-    "recoge": null,
+    "status": "Completado",
+    "client_type": "Nuevo",
+    "recoge": "No",
     "items_molienda": [
       {
         "sku": "PNA",
