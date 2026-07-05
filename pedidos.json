@@ -441,5 +441,35 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2365,
+    "fecha": "2026-07-05",
+    "tercero": "Consumidor Final",
+    "identificacion": "222222222222",
+    "productos": "BBO 100g x100, BSIN 100g x100, CGA 100g x100",
+    "domicilio": "",
+    "total": 87000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BBO",
+        "presentacion": "100g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "BSIN",
+        "presentacion": "100g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "100g",
+        "molienda": "molido grueso"
+      }
+    ]
   }
 ]
