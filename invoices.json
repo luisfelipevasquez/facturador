@@ -1441,7 +1441,7 @@
     ],
     "iva_total": 10000,
     "forma_pago": {
-      "codigo": 1,
+      "codigo": 3,
       "valor": 375000
     },
     "observaciones": "Va para envío a Tampa Estados Unidos lo lleva Alejo al sitio de envío"
