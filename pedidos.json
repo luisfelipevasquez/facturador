@@ -396,5 +396,30 @@
         "molienda": "molido grueso"
       }
     ]
+  },
+  {
+    "consecutivo": 2363,
+    "fecha": "2026-07-05",
+    "tercero": "David Arango",
+    "identificacion": "1022360488",
+    "productos": "PNA 250g x250, JNA 250g x250",
+    "domicilio": "Nacional Transportadora",
+    "total": 163008,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "PNA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "JNA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
