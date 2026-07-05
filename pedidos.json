@@ -356,5 +356,25 @@
         "molienda": "molido fino"
       }
     ]
+  },
+  {
+    "consecutivo": 2361,
+    "fecha": "2026-07-05",
+    "tercero": "Adriana Maria Vasquez",
+    "identificacion": "43525780",
+    "productos": "CGA 500g x500",
+    "domicilio": "Local Mensajero",
+    "total": 103000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CGA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
