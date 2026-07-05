@@ -411,7 +411,7 @@
     "domicilio": "Otro",
     "total": 375000,
     "forma_pago": "Efectivo",
-    "status": "En proceso",
+    "status": "Completado",
     "client_type": "Antiguo",
     "recoge": "No",
     "items_molienda": [
