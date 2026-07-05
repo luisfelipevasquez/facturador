@@ -1444,7 +1444,12 @@
       "codigo": 3,
       "valor": 375000
     },
-    "observaciones": "Va para envío a Tampa Estados Unidos lo lleva Alejo al sitio de envío"
+    "observaciones": "Va para envío a Tampa Estados Unidos lo lleva Alejo al sitio de envío",
+    "siigoId": "6672d803-2b9d-460f-86ee-e1dbad3ae2c9",
+    "siigoNumber": "FV-2-2358",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-05T05:20:29.263Z"
   },
   {
     "consecutivo": 2357,
@@ -1479,6 +1484,11 @@
       "codigo": 3,
       "valor": 94000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "b962723d-39a2-4765-a0fa-8bae234ae15d",
+    "siigoNumber": "FV-2-2359",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-05T05:20:30.085Z"
   }
 ]
