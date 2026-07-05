@@ -8,7 +8,7 @@
     "domicilio": "",
     "total": 97999.99999999997,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Nuevo",
     "recoge": "No"
   },
@@ -21,7 +21,7 @@
     "domicilio": "Nacional Transportadora",
     "total": 170100,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Nuevo",
     "recoge": "No"
   },
@@ -34,7 +34,7 @@
     "domicilio": "Local Mensajero",
     "total": 262800,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Nuevo",
     "recoge": "No"
   },
@@ -47,7 +47,7 @@
     "domicilio": "Local Mensajero",
     "total": 362000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Nuevo",
     "recoge": "No"
   },
@@ -60,7 +60,7 @@
     "domicilio": "Nacional Transportadora",
     "total": 289999.99999999994,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Nuevo",
     "recoge": "No"
   },
@@ -73,7 +73,7 @@
     "domicilio": "Local Mensajero",
     "total": 75200,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Nuevo",
     "recoge": "No"
   },
@@ -86,7 +86,7 @@
     "domicilio": "Local Mensajero",
     "total": 57000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Nuevo",
     "recoge": "No"
   },
@@ -99,7 +99,7 @@
     "domicilio": "",
     "total": 20000.000000000004,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Antiguo",
     "recoge": "No"
   },
@@ -112,7 +112,7 @@
     "domicilio": "",
     "total": 139000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Nuevo",
     "recoge": "No"
   },
@@ -125,7 +125,7 @@
     "domicilio": "Nacional Transportadora",
     "total": 170000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Nuevo",
     "recoge": "No"
   },
@@ -138,7 +138,7 @@
     "domicilio": "Nacional Transportadora",
     "total": 103500,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Nuevo",
     "recoge": "No"
   },
@@ -151,7 +151,7 @@
     "domicilio": "Local Mensajero",
     "total": 147200,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Antiguo",
     "recoge": "No"
   },
@@ -164,8 +164,8 @@
     "domicilio": "Local Mensajero",
     "total": 64000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
-    "client_type": "Antiguo",
+    "status": "En proceso",
+    "client_type": "Nuevo",
     "recoge": "No"
   },
   {
@@ -177,8 +177,8 @@
     "domicilio": "Local Mensajero",
     "total": 77190,
     "forma_pago": "T. Débito",
-    "status": "Completado",
-    "client_type": "Antiguo",
+    "status": "En proceso",
+    "client_type": "Nuevo",
     "recoge": "No"
   },
   {
@@ -190,7 +190,7 @@
     "domicilio": "Local Mensajero",
     "total": 188000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Nuevo",
     "recoge": "No"
   },
@@ -203,7 +203,7 @@
     "domicilio": "Local Mensajero",
     "total": 72000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Nuevo",
     "recoge": "No"
   },
@@ -216,16 +216,9 @@
     "domicilio": "Nacional Transportadora",
     "total": 0,
     "forma_pago": "T. Débito",
-    "status": "Completado",
-    "client_type": "Antiguo",
-    "recoge": "No",
-    "items_molienda": [
-      {
-        "sku": "RLAC",
-        "presentacion": "340g",
-        "molienda": "molido medio"
-      }
-    ]
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No"
   },
   {
     "consecutivo": 2337,
@@ -236,26 +229,9 @@
     "domicilio": "Nacional Transportadora",
     "total": 115999.99999999999,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Nuevo",
-    "recoge": "No",
-    "items_molienda": [
-      {
-        "sku": "PANA",
-        "presentacion": "100g",
-        "molienda": "molido fino"
-      },
-      {
-        "sku": "GELA",
-        "presentacion": "100g",
-        "molienda": "molido fino"
-      },
-      {
-        "sku": "CHLA",
-        "presentacion": "100g",
-        "molienda": "molido fino"
-      }
-    ]
+    "recoge": "No"
   },
   {
     "consecutivo": 2338,
@@ -266,16 +242,9 @@
     "domicilio": "",
     "total": 51999.99999999999,
     "forma_pago": "T. Débito",
-    "status": "Completado",
-    "client_type": "Antiguo",
-    "recoge": "Si",
-    "items_molienda": [
-      {
-        "sku": "CMA",
-        "presentacion": "250g",
-        "molienda": "molido medio"
-      }
-    ]
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No"
   },
   {
     "consecutivo": 2339,
@@ -286,31 +255,9 @@
     "domicilio": "Nacional Transportadora",
     "total": 192000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Nuevo",
-    "recoge": "No",
-    "items_molienda": [
-      {
-        "sku": "PANA",
-        "presentacion": "100g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "GELA",
-        "presentacion": "100g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "CHLA",
-        "presentacion": "100g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "BSIN",
-        "presentacion": "250g",
-        "molienda": "grano"
-      }
-    ]
+    "recoge": "No"
   },
   {
     "consecutivo": 2340,
@@ -321,16 +268,9 @@
     "domicilio": "Nacional Transportadora",
     "total": 90000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
-    "client_type": "Antiguo",
-    "recoge": "No",
-    "items_molienda": [
-      {
-        "sku": "BNA120",
-        "presentacion": "500g",
-        "molienda": "grano"
-      }
-    ]
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No"
   },
   {
     "consecutivo": 2341,
@@ -341,16 +281,9 @@
     "domicilio": "",
     "total": 97000.00000000001,
     "forma_pago": "T. Débito",
-    "status": "Completado",
-    "client_type": "Antiguo",
-    "recoge": "Si",
-    "items_molienda": [
-      {
-        "sku": "PNA",
-        "presentacion": "340g",
-        "molienda": "grano"
-      }
-    ]
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No"
   },
   {
     "consecutivo": 2342,
@@ -361,26 +294,9 @@
     "domicilio": "",
     "total": 101000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Nuevo",
-    "recoge": "Si",
-    "items_molienda": [
-      {
-        "sku": "BBO",
-        "presentacion": "250g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "BHO120",
-        "presentacion": "100g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "CGA",
-        "presentacion": "100g",
-        "molienda": "grano"
-      }
-    ]
+    "recoge": "No"
   },
   {
     "consecutivo": 2343,
@@ -391,54 +307,53 @@
     "domicilio": "",
     "total": 106000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
-    "client_type": "Antiguo",
-    "recoge": "Si",
-    "items_molienda": [
-      {
-        "sku": "BHO",
-        "presentacion": "340g",
-        "molienda": "Molido grueso"
-      }
-    ]
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No"
   },
   {
     "consecutivo": 2356,
-    "fecha": "2026-07-04",
+    "fecha": "2026-07-05",
     "tercero": "Uri/Leidy Tatiana Serna Velasquez",
     "identificacion": "1036606670",
     "productos": "RLAC 2500g x2500",
     "domicilio": "Otro",
     "total": 375000,
-    "forma_pago": "Efectivo",
-    "status": "Completado",
-    "client_type": "Antiguo",
-    "recoge": "No",
-    "items_molienda": [
-      {
-        "sku": "RLAC",
-        "presentacion": "2500g",
-        "molienda": "grano"
-      }
-    ]
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No"
   },
   {
     "consecutivo": 2357,
-    "fecha": "2026-07-04",
+    "fecha": "2026-07-05",
     "tercero": "Andres David Castillo Reina",
     "identificacion": "1112039822",
     "productos": "PNA 250g x250",
     "domicilio": "Nacional Transportadora",
     "total": 94000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No"
+  },
+  {
+    "consecutivo": 2360,
+    "fecha": "2026-07-05",
+    "tercero": "Fabian Andres Suarez Mojica",
+    "identificacion": "1010245532",
+    "productos": "RLAC 500g x500",
+    "domicilio": "Nacional Transportadora",
+    "total": 76000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
     "client_type": "Nuevo",
     "recoge": "No",
     "items_molienda": [
       {
-        "sku": "PNA",
-        "presentacion": "250g",
-        "molienda": "grano"
+        "sku": "RLAC",
+        "presentacion": "500g",
+        "molienda": "molido fino"
       }
     ]
   }
