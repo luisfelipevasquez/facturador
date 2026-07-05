@@ -432,7 +432,7 @@
     "total": 780000,
     "forma_pago": "Crédito",
     "status": "En proceso",
-    "client_type": "Nuevo",
+    "client_type": "Antiguo",
     "recoge": "No",
     "items_molienda": [
       {
