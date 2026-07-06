@@ -1742,7 +1742,8 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000
+        "total": 17000,
+        "molienda": "molido medio"
       },
       {
         "sku": "CMA",
@@ -1752,7 +1753,8 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000
+        "total": 23000,
+        "molienda": "molido medio"
       },
       {
         "sku": "CGA",
@@ -1762,7 +1764,8 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000
+        "total": 23000,
+        "molienda": "molido medio"
       },
       {
         "sku": "BHO72",
@@ -1772,7 +1775,8 @@
         "valor_unitario": 190.47619047619048,
         "iva": 952.3809523809525,
         "iva_pct": 5,
-        "total": 20000.000000000004
+        "total": 20000.000000000004,
+        "molienda": "molido medio"
       },
       {
         "sku": "GELA",
@@ -1782,7 +1786,8 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999
+        "total": 37999.99999999999,
+        "molienda": "molido medio"
       },
       {
         "sku": "PANA",
@@ -1792,7 +1797,8 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999
+        "total": 37999.99999999999,
+        "molienda": "molido medio"
       }
     ],
     "iva_total": 7571.428571428571,
@@ -1817,7 +1823,8 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000
+        "total": 72000,
+        "molienda": "molido grueso"
       },
       {
         "sku": "DOM",
@@ -1852,7 +1859,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "grano"
       },
       {
         "sku": "CGA",
@@ -1862,7 +1870,8 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999
+        "total": 51999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "CMA",
@@ -1872,7 +1881,8 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999
+        "total": 51999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -1890,6 +1900,6 @@
       "codigo": 3,
       "valor": 194000
     },
-    "observaciones": ""
+    "observaciones": "Envío a dirección nueva en WhatsApp"
   }
 ]
