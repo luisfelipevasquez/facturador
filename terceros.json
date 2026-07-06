@@ -446,5 +446,21 @@
     "Teléfono móvil de contacto": "3128772874",
     "Estado": "Activo",
     "siigoId": "8227f1fb-b178-4de0-a3ea-bdb7e48f89b1"
+  },
+  {
+    "Nombre tercero": "Gabriel Salamanca",
+    "Tipo de identificación": "13",
+    "Identificación": "1140869461",
+    "Dirección": "Calle 163 # 59a - 10 Colina 163 apartamentos T2 apto 1301",
+    "Ciudad": "Bogotá D.C.",
+    "Código departamento": "11",
+    "Código ciudad": "11001",
+    "Teléfono.": "3162454944",
+    "Correo electrónico": "gabrielsaca94@gmail.com",
+    "Nombres contacto": "Gabriel",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3162454944",
+    "Estado": "Activo",
+    "siigoId": "b1f8ff29-468c-4320-8bce-2e7a3ee96598"
   }
 ]
