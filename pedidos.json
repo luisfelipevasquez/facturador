@@ -536,5 +536,35 @@
         "molienda": "molido grueso"
       }
     ]
+  },
+  {
+    "consecutivo": 2368,
+    "fecha": "2026-07-06",
+    "tercero": "Juan Pablo Granados Tobón",
+    "identificacion": "1026160991",
+    "productos": "JNA 250g x250, CGA 250g x250, CMA 250g x250",
+    "domicilio": "Local Mensajero",
+    "total": 194000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "JNA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
