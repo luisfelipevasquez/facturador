@@ -1,16 +1,30 @@
 [
   {
+    "order_id": 8502,
+    "consecutivo": "8502",
+    "fecha": "2026-07-06",
+    "tercero": "Sebastian Guarin Muñoz",
+    "identificacion": "1001724694",
+    "productos": "RLAC Regional Lavado Nueces x1, RLAS Regional Lavado Frutos Amarillos x1, BBO Blend Bourbon x1",
+    "domicilio": "Envio Area Metropolitana (Medellin, Envigado, Itagui, La Estrella, Sabaneta, Bello) entrega el mismo día para pedidos realizados antes de mediodía o el siguiente día hábil para pedidos realizados después de mediodía",
+    "total": 116000,
+    "forma_pago": "Wompi",
+    "woo_status": "processing",
+    "status": "En proceso",
+    "client_type": null
+  },
+  {
     "order_id": 8501,
     "consecutivo": "8501",
     "fecha": "2026-07-06",
     "tercero": "Valeria Rodriguez",
     "identificacion": "1067949073",
     "productos": "BHO72 Honey 72 Horas x1, RLAC Regional Lavado Nueces x1",
-    "domicilio": "Envío Nacional (3 - 5 días hábiles)",
+    "domicilio": "Envío Nacional (3 - 5 días hábiles), envia",
     "total": 148000,
     "forma_pago": "Wompi",
-    "woo_status": "processing",
-    "status": "En proceso",
+    "woo_status": "completed",
+    "status": "Completado",
     "client_type": null
   },
   {
@@ -20,10 +34,10 @@
     "tercero": "Loui Ahumada",
     "identificacion": "1140847604",
     "productos": "CMA Maracuyá x1, PANA Papayo Natural x1, BNA120 Natural 120 horas x1",
-    "domicilio": "Envío Nacional (3 - 5 días hábiles)",
+    "domicilio": "Envío Nacional (3 - 5 días hábiles), envia",
     "total": 188000,
     "forma_pago": "Wompi",
-    "woo_status": "processing",
+    "woo_status": "completed",
     "status": "En proceso",
     "client_type": null
   },
@@ -34,10 +48,10 @@
     "tercero": "Wilmer Hernandez",
     "identificacion": "1013679436",
     "productos": "CMA Maracuyá x1",
-    "domicilio": "Envío Nacional (3 - 5 días hábiles)",
+    "domicilio": "Envío Nacional (3 - 5 días hábiles), envia",
     "total": 107000,
     "forma_pago": "Wompi",
-    "woo_status": "processing",
+    "woo_status": "completed",
     "status": "En proceso",
     "client_type": null
   },
@@ -121,7 +135,7 @@
     "domicilio": "Envio Area Metropolitana (Medellin, Envigado, Itagui, La Estrella, Sabaneta, Bello) entrega el mismo día para pedidos realizados antes de mediodía o el siguiente día hábil para pedidos realizados después de mediodía",
     "total": 67000,
     "forma_pago": "Wompi",
-    "woo_status": "processing",
+    "woo_status": "completed",
     "status": "Completado",
     "client_type": null
   },
