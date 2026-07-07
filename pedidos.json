@@ -721,5 +721,35 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2376,
+    "fecha": "2026-07-07",
+    "tercero": "Mariana Builes Moreno",
+    "identificacion": "1017273730",
+    "productos": "PNA 100g x100, JNA 100g x100, CGA 100g x100",
+    "domicilio": "Local Mensajero",
+    "total": 112999.99999999999,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "PNA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "JNA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      }
+    ]
   }
 ]
