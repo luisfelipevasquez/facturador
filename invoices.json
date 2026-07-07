@@ -1981,5 +1981,30 @@
       "valor": 67000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2371,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1037668186",
+    "fecha_elaboracion": "2026-07-06",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAS",
+        "producto": "Regional Lavado SurOeste",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      }
+    ],
+    "iva_total": 2761.904761904762,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 58000
+    },
+    "observaciones": "Recoge"
   }
 ]
