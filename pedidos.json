@@ -751,5 +751,25 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2377,
+    "fecha": "2026-07-07",
+    "tercero": "Luis Fernando Sandoval Marquina",
+    "identificacion": "6375662",
+    "productos": "BHO72 500g x500",
+    "domicilio": "Local Mensajero",
+    "total": 86000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BHO72",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
