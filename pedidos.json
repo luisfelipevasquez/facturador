@@ -671,33 +671,13 @@
     "domicilio": "",
     "total": 76000,
     "forma_pago": "T. Débito",
-    "status": "En proceso",
+    "status": "Completado",
     "client_type": "Antiguo",
     "recoge": "No",
     "items_molienda": [
       {
         "sku": "JNA",
         "presentacion": "250g",
-        "molienda": "grano"
-      }
-    ]
-  },
-  {
-    "consecutivo": 2374,
-    "fecha": "2026-07-07",
-    "tercero": "Alejandra Gómez",
-    "identificacion": "1037588594",
-    "productos": "RLAC 2500g x2500",
-    "domicilio": "Local Mensajero",
-    "total": 210000,
-    "forma_pago": "T. Débito",
-    "status": "En proceso",
-    "client_type": "Nuevo",
-    "recoge": "No",
-    "items_molienda": [
-      {
-        "sku": "RLAC",
-        "presentacion": "2500g",
         "molienda": "grano"
       }
     ]
