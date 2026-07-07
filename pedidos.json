@@ -636,5 +636,30 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2372,
+    "fecha": "2026-07-07",
+    "tercero": "Carlos Dede Diaz",
+    "identificacion": "1082068949",
+    "productos": "BHO 500g x500, RLAC 340g x340",
+    "domicilio": "Nacional Transportadora",
+    "total": 137000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BHO",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAC",
+        "presentacion": "340g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
