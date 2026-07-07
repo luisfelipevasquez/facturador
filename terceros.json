@@ -462,5 +462,21 @@
     "Teléfono móvil de contacto": "3162454944",
     "Estado": "Activo",
     "siigoId": "b1f8ff29-468c-4320-8bce-2e7a3ee96598"
+  },
+  {
+    "Nombre tercero": "Juan José Molina Taborda",
+    "Tipo de identificación": "13",
+    "Identificación": "1094908367",
+    "Dirección": "Calle 77sur # 35a-105 Maderos del campo 1 TO6 Apto 702",
+    "Ciudad": "Sabaneta",
+    "Código departamento": "05",
+    "Código ciudad": "05631",
+    "Teléfono.": "3168400198",
+    "Correo electrónico": "Juanmol_19@hotmail.com",
+    "Nombres contacto": "Juan José",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3168400198",
+    "Estado": "Activo",
+    "siigoId": "87e15077-ee52-4eab-8989-7a5009237cec"
   }
 ]
