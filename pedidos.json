@@ -661,5 +661,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2373,
+    "fecha": "2026-07-07",
+    "tercero": "Simón Berrio",
+    "identificacion": "1036641212",
+    "productos": "JNA 250g x250",
+    "domicilio": "",
+    "total": 76000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "JNA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
