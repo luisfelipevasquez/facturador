@@ -596,5 +596,25 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2370,
+    "fecha": "2026-07-06",
+    "tercero": "Juan José Molina Taborda",
+    "identificacion": "1094908367",
+    "productos": "BHO120 340g x340",
+    "domicilio": "Local Mensajero",
+    "total": 67000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BHO120",
+        "presentacion": "340g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
