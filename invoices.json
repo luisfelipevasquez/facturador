@@ -2507,5 +2507,50 @@
       "valor": 159000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2383,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1144081373",
+    "fecha_elaboracion": "2026-07-09",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CHLA",
+        "producto": "Chiroso Lavado",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 152.38095238095238,
+        "iva": 3809.523809523809,
+        "iva_pct": 5,
+        "total": 80000
+      },
+      {
+        "sku": "BNA",
+        "producto": "Blend Natural 56h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 5809.523809523809,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 140000
+    },
+    "observaciones": ""
   }
 ]
