@@ -2283,5 +2283,42 @@
       "valor": 98000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2379,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1024598643",
+    "fecha_elaboracion": "2026-07-09",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "2500g",
+        "cantidad": 2500,
+        "valor_unitario": 160,
+        "iva": 20000,
+        "iva_pct": 5,
+        "total": 420000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 18000
+      }
+    ],
+    "iva_total": 20000,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 420000
+    },
+    "observaciones": ""
   }
 ]
