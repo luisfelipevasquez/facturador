@@ -2238,5 +2238,50 @@
       "valor": 86000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2378,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1018412104",
+    "fecha_elaboracion": "2026-07-09",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO72",
+        "producto": "Blend Honey72h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      },
+      {
+        "sku": "RLAS",
+        "producto": "Regional Lavado SurOeste",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 144.76190476190476,
+        "iva": 1809.5238095238096,
+        "iva_pct": 5,
+        "total": 38000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 3809.5238095238096,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 98000
+    },
+    "observaciones": ""
   }
 ]
