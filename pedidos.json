@@ -836,5 +836,40 @@
         "molienda": "molido grueso"
       }
     ]
+  },
+  {
+    "consecutivo": 2381,
+    "fecha": "2026-07-09",
+    "tercero": "Natalia Idarraga",
+    "identificacion": "1110486785",
+    "productos": "PANA 250g x250, BBO 250g x250, BHO72 250g x250, BNA 250g x250",
+    "domicilio": "Nacional Transportadora",
+    "total": 218000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "PANA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BBO",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO72",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BNA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
