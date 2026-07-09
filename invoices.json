@@ -2617,5 +2617,70 @@
       "valor": 172000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2385,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1090445667",
+    "fecha_elaboracion": "2026-07-09",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 1095.2380952380952,
+        "iva_pct": 5,
+        "total": 23000
+      },
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 247.61904761904762,
+        "iva": 1238.0952380952383,
+        "iva_pct": 5,
+        "total": 26000
+      },
+      {
+        "sku": "BHO",
+        "producto": "Blend Honey 56h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 6142.857142857143,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 147000
+    },
+    "observaciones": ""
   }
 ]
