@@ -510,5 +510,21 @@
     "Teléfono móvil de contacto": "3172312415",
     "Estado": "Activo",
     "siigoId": "90e53803-ba58-425e-abbe-4ba5d572d26c"
+  },
+  {
+    "Nombre tercero": "Mauricio A. Ortega",
+    "Tipo de identificación": "13",
+    "Identificación": "80098167",
+    "Dirección": "750 Pearson St Apt 507 Des Plaines Illinois.  Zip code 60016",
+    "Ciudad": "— Primero selecciona un departamento —",
+    "Código departamento": "",
+    "Código ciudad": "",
+    "Teléfono.": "2248447934",
+    "Correo electrónico": "ortega.energy@gmail.com",
+    "Nombres contacto": "Mauricio",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "2248447934",
+    "Estado": "Activo",
+    "siigoId": "c2ff9eb4-9f2b-422e-8876-ab70783a85d1"
   }
 ]
