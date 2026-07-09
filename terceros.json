@@ -478,5 +478,21 @@
     "Teléfono móvil de contacto": "3168400198",
     "Estado": "Activo",
     "siigoId": "87e15077-ee52-4eab-8989-7a5009237cec"
+  },
+  {
+    "Nombre tercero": "Jordan Smith Galvis Zapata",
+    "Tipo de identificación": "13",
+    "Identificación": "1019088037",
+    "Dirección": "Cra 52 # 173-71 COLANTA",
+    "Ciudad": "Bogotá D.C.",
+    "Código departamento": "11",
+    "Código ciudad": "11001",
+    "Teléfono.": "3112664318",
+    "Correo electrónico": "jsgalvis73@hotmail.com",
+    "Nombres contacto": "Jordan Smith",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3112664318",
+    "Estado": "Activo",
+    "siigoId": "6f004af6-f57a-406c-aa6e-d9837af4e505"
   }
 ]
