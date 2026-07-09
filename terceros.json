@@ -494,5 +494,21 @@
     "Teléfono móvil de contacto": "3112664318",
     "Estado": "Activo",
     "siigoId": "6f004af6-f57a-406c-aa6e-d9837af4e505"
+  },
+  {
+    "Nombre tercero": "Liris Angelica Peña Garnica",
+    "Tipo de identificación": "13",
+    "Identificación": "1090445667",
+    "Dirección": "Calle 8A # 6E-21 Ed Riviera reservado Apto 701",
+    "Ciudad": "Cúcuta",
+    "Código departamento": "54",
+    "Código ciudad": "54001",
+    "Teléfono.": "3172312415",
+    "Correo electrónico": "lirisangelicapg@hotmail.com",
+    "Nombres contacto": "Liris Angelica",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3172312415",
+    "Estado": "Activo",
+    "siigoId": "90e53803-ba58-425e-abbe-4ba5d572d26c"
   }
 ]
