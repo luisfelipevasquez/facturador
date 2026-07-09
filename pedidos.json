@@ -816,5 +816,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2380,
+    "fecha": "2026-07-09",
+    "tercero": "Catalina Velasquez Castro",
+    "identificacion": "43265404",
+    "productos": "CMA 250g x250",
+    "domicilio": "Local Mensajero",
+    "total": 66000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CMA",
+        "presentacion": "250g",
+        "molienda": "molido grueso"
+      }
+    ]
   }
 ]
