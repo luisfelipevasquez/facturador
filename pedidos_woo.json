@@ -1,5 +1,33 @@
 [
   {
+    "order_id": 8522,
+    "consecutivo": "8522",
+    "fecha": "2026-07-10",
+    "tercero": "Jose Nicolas Botero grisales",
+    "identificacion": "10248303",
+    "productos": "Kit vacaciones x1, CGA Galleta Mantequilla x1, BSIN Bourbon Sidra x1",
+    "domicilio": "Envío gratuito",
+    "total": 289000,
+    "forma_pago": "Wompi",
+    "woo_status": "processing",
+    "status": "En proceso",
+    "client_type": "Antiguo"
+  },
+  {
+    "order_id": 8520,
+    "consecutivo": "8520",
+    "fecha": "2026-07-09",
+    "tercero": "Natalia Andrea Florez Angulo",
+    "identificacion": "1096232158",
+    "productos": "BNA120 Natural 120 horas x1, BBO Blend Bourbon x1, BSIN Bourbon Sidra x1",
+    "domicilio": "Envío Nacional (3 - 5 días hábiles)",
+    "total": 194000,
+    "forma_pago": "Wompi",
+    "woo_status": "processing",
+    "status": "En proceso",
+    "client_type": null
+  },
+  {
     "order_id": 8519,
     "consecutivo": "8519",
     "fecha": "2026-07-09",
