@@ -2769,6 +2769,16 @@
         "iva": 0,
         "iva_pct": 0,
         "total": 172000
+      },
+      {
+        "sku": "Cma",
+        "producto": "",
+        "presentacion": "",
+        "cantidad": 1,
+        "valor_unitario": 0,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0
       }
     ],
     "iva_total": 22380.95238095238,
@@ -2776,7 +2786,7 @@
       "codigo": 3,
       "valor": 642000
     },
-    "observaciones": "Enviar con mensajero a Christian en Calle 55 # 80-39, interior 101"
+    "observaciones": "Adicionar 250g CMA fidelización en grano y adicionar a la factura. Enviar con mensajero a Christian en Calle 55 # 80-39, interior 101"
   },
   {
     "consecutivo": 2387,
