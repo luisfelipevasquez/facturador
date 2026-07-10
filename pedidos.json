@@ -1017,7 +1017,7 @@
     "fecha": "2026-07-09",
     "tercero": "Mauricio A. Ortega",
     "identificacion": "80098167",
-    "productos": "RLAC 500g x500, RLAS 500g x500, BNA 500g x500, BHO120 500g x500, PANA 250g x250, PNA 250g x250, BBO 250g x250",
+    "productos": "RLAC 500g x500, RLAS 500g x500, BNA 500g x500, BHO120 500g x500, PANA 250g x250, PNA 250g x250, BBO 250g x250, Cma  x1",
     "domicilio": "Otro",
     "total": 642000,
     "forma_pago": "T. Débito",
@@ -1124,6 +1124,31 @@
         "sku": "CMA",
         "presentacion": "250g",
         "molienda": "molido grueso"
+      }
+    ]
+  },
+  {
+    "consecutivo": 2389,
+    "fecha": "2026-07-10",
+    "tercero": "Arley Esteban Restrepo López",
+    "identificacion": "1152703590",
+    "productos": "PNA 250g x250, JNA 250g x250",
+    "domicilio": "Local Mensajero",
+    "total": 159008,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "PNA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "JNA",
+        "presentacion": "250g",
+        "molienda": "grano"
       }
     ]
   }
