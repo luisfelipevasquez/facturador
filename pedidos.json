@@ -1151,5 +1151,30 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2390,
+    "fecha": "2026-07-10",
+    "tercero": "Juan David Giraldo Marín",
+    "identificacion": "1017260131",
+    "productos": "PNA 250g x250, JNA 250g x250",
+    "domicilio": "",
+    "total": 145008,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "PNA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "JNA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
