@@ -1176,5 +1176,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2391,
+    "fecha": "2026-07-10",
+    "tercero": "Jaime Aquiles Rincón",
+    "identificacion": "79591596",
+    "productos": "BNA 340g x340",
+    "domicilio": "",
+    "total": 53000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BNA",
+        "presentacion": "340g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
