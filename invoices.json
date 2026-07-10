@@ -2795,8 +2795,7 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_valor": 3329.5238095238096,
-        "descuento_pct": 4.6,
-        "molienda": "grano"
+        "descuento_pct": 4.6
       },
       {
         "sku": "JNA",
@@ -2808,8 +2807,7 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_valor": 3329.5238095238096,
-        "descuento_pct": 4.6,
-        "molienda": "grano"
+        "descuento_pct": 4.6
       },
       {
         "sku": "CGA",
@@ -2819,8 +2817,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "grano"
+        "total": 23000
       },
       {
         "sku": "BBO",
@@ -2830,8 +2827,7 @@
         "valor_unitario": 220.95238095238093,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       }
     ],
     "iva_total": 10762.285714285714,
@@ -2840,5 +2836,60 @@
       "valor": 226008
     },
     "observaciones": "Envío nacional gratis y corregir factura"
+  },
+  {
+    "consecutivo": 2388,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "901285732",
+    "fecha_elaboracion": "2026-07-09",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 7428.571428571428,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 169999.99999999997
+    },
+    "observaciones": "Enviar a Felipe Zapata a Calle 9 #72-50 Bizet Ap 504"
   }
 ]
