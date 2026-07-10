@@ -2794,8 +2794,9 @@
         "iva": 3452.5714285714284,
         "iva_pct": 5,
         "total": 72504,
+        "descuento_valor": 3329.5238095238096,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096
+        "molienda": "grano"
       },
       {
         "sku": "JNA",
@@ -2806,8 +2807,9 @@
         "iva": 3452.5714285714284,
         "iva_pct": 5,
         "total": 72504,
+        "descuento_valor": 3329.5238095238096,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096
+        "molienda": "grano"
       },
       {
         "sku": "CGA",
@@ -2817,7 +2819,8 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000
+        "total": 23000,
+        "molienda": "grano"
       },
       {
         "sku": "BBO",
@@ -2827,7 +2830,8 @@
         "valor_unitario": 220.95238095238093,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "grano"
       }
     ],
     "iva_total": 10762.285714285714,
@@ -2835,6 +2839,6 @@
       "codigo": 3,
       "valor": 226008
     },
-    "observaciones": ""
+    "observaciones": "Envío nacional gratis y corregir factura"
   }
 ]
