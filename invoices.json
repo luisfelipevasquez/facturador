@@ -2950,5 +2950,44 @@
       "valor": 159008
     },
     "observaciones": "Lo lleva Luis de PyG"
+  },
+  {
+    "consecutivo": 2390,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1017260131",
+    "fecha_elaboracion": "2026-07-10",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PNA",
+        "producto": "Pacamara Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3452.5714285714284,
+        "iva_pct": 5,
+        "total": 72504,
+        "descuento_pct": 4.6,
+        "descuento_valor": 3329.5238095238096
+      },
+      {
+        "sku": "JNA",
+        "producto": "Java Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3452.5714285714284,
+        "iva_pct": 5,
+        "total": 72504,
+        "descuento_pct": 4.6,
+        "descuento_valor": 3329.5238095238096
+      }
+    ],
+    "iva_total": 6905.142857142857,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 145008
+    },
+    "observaciones": "Recoge"
   }
 ]
