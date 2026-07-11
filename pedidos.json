@@ -1266,5 +1266,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2393,
+    "fecha": "2026-07-10",
+    "tercero": "Jorge Alirio Ortega Cerón",
+    "identificacion": "98323307",
+    "productos": "BHO72 500g x500",
+    "domicilio": "Nacional Transportadora",
+    "total": 90000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BHO72",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
