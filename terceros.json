@@ -526,5 +526,21 @@
     "Teléfono móvil de contacto": "2248447934",
     "Estado": "Activo",
     "siigoId": "c2ff9eb4-9f2b-422e-8876-ab70783a85d1"
+  },
+  {
+    "Nombre tercero": "Claudia Dávila",
+    "Tipo de identificación": "13",
+    "Identificación": "43876660",
+    "Dirección": "Calle 53 #55a-67 CR Reserva del bosque TO1 apto 909 Barrio Fátima",
+    "Ciudad": "Itagüí",
+    "Código departamento": "05",
+    "Código ciudad": "05360",
+    "Teléfono.": "3006593684",
+    "Correo electrónico": "davilaclaudial@hotmail.com",
+    "Nombres contacto": "Claudia",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3006593684",
+    "Estado": "Activo",
+    "siigoId": "61cd4d45-9efd-406d-9440-c5debcbdaf81"
   }
 ]
