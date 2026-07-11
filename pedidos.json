@@ -1321,5 +1321,35 @@
         "molienda": "molido fino"
       }
     ]
+  },
+  {
+    "consecutivo": 2395,
+    "fecha": "2026-07-10",
+    "tercero": "Anthony Linero",
+    "identificacion": "1143265556",
+    "productos": "BNA 100g x100, BNA120 100g x100, BSIN 250g x250",
+    "domicilio": "Local Mensajero",
+    "total": 128000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BNA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BNA120",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BSIN",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
