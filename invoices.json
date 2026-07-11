@@ -3273,5 +3273,64 @@
       "valor": 118000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2395,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1143265556",
+    "fecha_elaboracion": "2026-07-10",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BNA",
+        "producto": "Blend Natural 56h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 904.7619047619048,
+        "iva_pct": 5,
+        "total": 19000,
+        "descuento_pct": 5,
+        "descuento_valor": 952.3809523809525
+      },
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 904.7619047619048,
+        "iva_pct": 5,
+        "total": 19000,
+        "descuento_pct": 5,
+        "descuento_valor": 952.3809523809525
+      },
+      {
+        "sku": "BSIN",
+        "producto": "Bourbon Sidra",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 5428.571428571429,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 128000
+    },
+    "observaciones": ""
   }
 ]
