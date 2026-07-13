@@ -1,7 +1,7 @@
 [
   {
     "id": "SOL-1783921220710-wb2yf",
-    "estado": "pendiente",
+    "estado": "revisado",
     "creado": "2026-07-13T05:40:20.710Z",
     "cliente": {
       "nombre": "Luis Felipe Vasquez Jimenez",
@@ -31,6 +31,7 @@
       "shipping_address_same_as_registered": true,
       "shipping_address": "VDA EL PLACER SANTA ELENA PA PIEDRA BLANCA CR 36 ESTE 19 754 CA 10",
       "customer_overrode_address": false
-    }
+    },
+    "actualizado": "2026-07-13T05:42:04.688Z"
   }
 ]
