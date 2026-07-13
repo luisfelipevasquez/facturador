@@ -1383,31 +1383,6 @@
     ]
   },
   {
-    "consecutivo": 2397,
-    "fecha": "2026-07-13",
-    "tercero": "Cristina Isabel Osorio Gutiérrez",
-    "identificacion": "1017185703",
-    "productos": "CMA 500g x500, CMA 500g x500",
-    "domicilio": "",
-    "total": 178000,
-    "forma_pago": "T. Débito",
-    "status": "Completado",
-    "client_type": "Antiguo",
-    "recoge": "No",
-    "items_molienda": [
-      {
-        "sku": "CMA",
-        "presentacion": "500g",
-        "molienda": "molido fino"
-      },
-      {
-        "sku": "CMA",
-        "presentacion": "500g",
-        "molienda": "molido fino"
-      }
-    ]
-  },
-  {
     "consecutivo": 2398,
     "fecha": "2026-07-13",
     "tercero": "Aural Code SAS Juan Camilo Londoño",
@@ -1428,6 +1403,36 @@
       {
         "sku": "JNA",
         "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
+  },
+  {
+    "consecutivo": 2399,
+    "fecha": "2026-07-13",
+    "tercero": "Cristina Isabel Osorio Gutiérrez",
+    "identificacion": "1017185703",
+    "productos": "CMA 500g x500, CMA 500g x500, BBO 250g x250",
+    "domicilio": "",
+    "total": 178000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CMA",
+        "presentacion": "500g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "500g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "BBO",
+        "presentacion": "250g",
         "molienda": "grano"
       }
     ]
