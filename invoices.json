@@ -3422,5 +3422,56 @@
       "valor": 178000
     },
     "observaciones": "Lo lleva Pipe al Hptu"
+  },
+  {
+    "consecutivo": 2398,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "901958558",
+    "fecha_elaboracion": "2026-07-13",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PNA",
+        "producto": "Pacamara Natural",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 264.76190476190476,
+        "iva": 6288.095238095238,
+        "iva_pct": 5,
+        "total": 132050,
+        "descuento_pct": 5,
+        "descuento_valor": 6619.047619047618
+      },
+      {
+        "sku": "JNA",
+        "producto": "Java Natural",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 264.76190476190476,
+        "iva": 6288.095238095238,
+        "iva_pct": 5,
+        "total": 132050,
+        "descuento_pct": 5,
+        "descuento_valor": 6619.047619047618
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 14000
+      }
+    ],
+    "iva_total": 12576.190476190475,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 264100
+    },
+    "observaciones": "Enviar a Juan Camilo en Sabaneta"
   }
 ]
