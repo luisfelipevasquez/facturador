@@ -3387,5 +3387,40 @@
       "valor": 152000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2397,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1017185703",
+    "fecha_elaboracion": "2026-07-13",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      }
+    ],
+    "iva_total": 8476.190476190477,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 178000
+    },
+    "observaciones": "Lo lleva Pipe al Hptu"
   }
 ]
