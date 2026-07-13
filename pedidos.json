@@ -1355,20 +1355,30 @@
   {
     "consecutivo": 2396,
     "fecha": "2026-07-13",
-    "tercero": "Luis Felipe Vasquez Jimenez",
-    "identificacion": "8028804",
-    "productos": "BSIN 340g x340",
-    "domicilio": "",
-    "total": 97000.00000000001,
-    "forma_pago": "Efectivo",
+    "tercero": "Bruno Ramirez",
+    "identificacion": "993014",
+    "productos": "PANA 250g x250, BNA120 100g x100, JNA 100g x100",
+    "domicilio": "Nacional Transportadora",
+    "total": 152000,
+    "forma_pago": "T. Débito",
     "status": "Completado",
     "client_type": "Antiguo",
     "recoge": "No",
     "items_molienda": [
       {
-        "sku": "BSIN",
-        "presentacion": "340g",
-        "molienda": "molido medio"
+        "sku": "PANA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BNA120",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "JNA",
+        "presentacion": "100g",
+        "molienda": "grano"
       }
     ]
   }
