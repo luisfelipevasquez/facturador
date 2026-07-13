@@ -542,5 +542,21 @@
     "Teléfono móvil de contacto": "3006593684",
     "Estado": "Activo",
     "siigoId": "61cd4d45-9efd-406d-9440-c5debcbdaf81"
+  },
+  {
+    "Nombre tercero": "Aural Code SAS Juan Camilo Londoño",
+    "Tipo de identificación": "31",
+    "Identificación": "901958558",
+    "Dirección": "Calle 63b sur # 32-550 Ciudadela MonteflorAzalea",
+    "Ciudad": "Sabaneta",
+    "Código departamento": "05",
+    "Código ciudad": "05631",
+    "Teléfono.": "3014985199",
+    "Correo electrónico": "auralcode.sas@gmail.com",
+    "Nombres contacto": "Aural Code",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3014985199",
+    "Estado": "Activo",
+    "siigoId": "69825579-7f9a-4e0b-b5f2-e77246ef5fd3"
   }
 ]
