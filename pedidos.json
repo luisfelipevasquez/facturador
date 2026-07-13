@@ -1351,5 +1351,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2396,
+    "fecha": "2026-07-13",
+    "tercero": "Luis Felipe Vasquez Jimenez",
+    "identificacion": "8028804",
+    "productos": "BSIN 340g x340",
+    "domicilio": "",
+    "total": 97000.00000000001,
+    "forma_pago": "Efectivo",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BSIN",
+        "presentacion": "340g",
+        "molienda": "molido medio"
+      }
+    ]
   }
 ]
