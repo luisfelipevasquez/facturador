@@ -3405,8 +3405,7 @@
         "iva_pct": 5,
         "total": 132050,
         "descuento_pct": 5,
-        "descuento_valor": 6619.047619047618,
-        "molienda": "grano"
+        "descuento_valor": 6619.047619047618
       },
       {
         "sku": "JNA",
@@ -3418,8 +3417,7 @@
         "iva_pct": 5,
         "total": 132050,
         "descuento_pct": 5,
-        "descuento_valor": 6619.047619047618,
-        "molienda": "grano"
+        "descuento_valor": 6619.047619047618
       },
       {
         "sku": "DOM",
@@ -3440,5 +3438,52 @@
       "valor": 264100
     },
     "observaciones": "Enviar a Juan Camilo en Sabaneta"
+  },
+  {
+    "consecutivo": 2399,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1017185703",
+    "fecha_elaboracion": "2026-07-13",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      },
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 220.95238095238093,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 55238.09523809524
+      }
+    ],
+    "iva_total": 8476.190476190477,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 178000
+    },
+    "observaciones": "Lo lleva Pipe al Hptu. Redime 250g BBO grano de fidelización. Lleva tarjeta con 1 sticker"
   }
 ]
