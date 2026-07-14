@@ -3485,5 +3485,50 @@
       "valor": 178000
     },
     "observaciones": "Lo lleva Pipe al Hptu. Redime 250g BBO grano de fidelización. Lleva tarjeta con 1 sticker"
+  },
+  {
+    "consecutivo": 2400,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1035858727",
+    "fecha_elaboracion": "2026-07-14",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 190.47619047619048,
+        "iva": 3238.0952380952385,
+        "iva_pct": 5,
+        "total": 68000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 5714.285714285715,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 134000
+    },
+    "observaciones": "Enviar a Luz Helena Goez\nCalle 34 A #85 A 49 apto 902\n+57 320 6995398"
   }
 ]
