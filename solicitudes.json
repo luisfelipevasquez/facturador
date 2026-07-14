@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "SOL-1784069627425-ywb6w",
+    "estado": "pendiente",
+    "creado": "2026-07-14T22:53:47.426Z",
+    "cliente": {
+      "nombre": "Lucas Ochoa Pérez",
+      "tipo_documento": "13",
+      "documento": "1037585897",
+      "email": "lucas8a1000@hotmail.com",
+      "celular": "57 3217805821",
+      "ciudad": "Medellín",
+      "direccion": "Carrera 15a #9a23 apto 1201 Aniz",
+      "observaciones": ""
+    },
+    "productos": [
+      {
+        "sku": "BSIN",
+        "nombre": "Bourbon Sidra",
+        "presentacion": "250g",
+        "molienda": "grano",
+        "cantidad": 1,
+        "precio": 76000
+      },
+      {
+        "sku": "BHO120",
+        "nombre": "Blend Honey 120h",
+        "presentacion": "250g",
+        "molienda": "grano",
+        "cantidad": 1,
+        "precio": 42000
+      },
+      {
+        "sku": "RLAC",
+        "nombre": "Regional Lavado Caicedo",
+        "presentacion": "340g",
+        "molienda": "grano",
+        "cantidad": 1,
+        "precio": 47000
+      }
+    ],
+    "total_estimado": 165000,
+    "siigo_customer_found": true,
+    "siigo_customer_id": "f1f7bfef-d4ad-43ea-8b12-5034571e76d5",
+    "envio": {
+      "registered_address": "Carrera 15a #9a23 apto 1201 Aniz",
+      "shipping_address_same_as_registered": true,
+      "shipping_address": "Carrera 15a #9a23 apto 1201 Aniz",
+      "customer_overrode_address": false
+    }
+  }
+]
