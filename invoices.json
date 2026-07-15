@@ -3913,5 +3913,30 @@
       "valor": 165000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2408,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "3438685",
+    "fecha_elaboracion": "2026-07-15",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PNA",
+        "producto": "Pacamara Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      }
+    ],
+    "iva_total": 3619.0476190476193,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 76000
+    },
+    "observaciones": ""
   }
 ]
