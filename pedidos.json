@@ -1461,5 +1461,30 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2401,
+    "fecha": "2026-07-15",
+    "tercero": "Ricardo Cárdenas Sarmiento",
+    "identificacion": "1032450895",
+    "productos": "BHO120 100g x100, CGA 100g x100",
+    "domicilio": "Local Mensajero",
+    "total": 57000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BHO120",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
