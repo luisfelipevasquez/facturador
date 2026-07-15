@@ -9,7 +9,7 @@
     "domicilio": "Envio Area Metropolitana (Medellin, Envigado, Itagui, La Estrella, Sabaneta, Bello) entrega el mismo día para pedidos realizados antes de mediodía o el siguiente día hábil para pedidos realizados después de mediodía",
     "total": 79000,
     "forma_pago": "Wompi",
-    "woo_status": "processing",
+    "woo_status": "completed",
     "status": "En proceso",
     "client_type": "Antiguo",
     "observaciones": ""
@@ -24,7 +24,7 @@
     "domicilio": "Envio Area Metropolitana (Medellin, Envigado, Itagui, La Estrella, Sabaneta, Bello) entrega el mismo día para pedidos realizados antes de mediodía o el siguiente día hábil para pedidos realizados después de mediodía",
     "total": 199000,
     "forma_pago": "Wompi",
-    "woo_status": "processing",
+    "woo_status": "completed",
     "status": "En proceso",
     "client_type": null,
     "observaciones": ""
@@ -36,10 +36,10 @@
     "tercero": "Yeison Herrera",
     "identificacion": "1001974711",
     "productos": "RLAC Regional Lavado Nueces x1",
-    "domicilio": "Envío Nacional (3 - 5 días hábiles)",
+    "domicilio": "Envío Nacional (3 - 5 días hábiles), envia",
     "total": 76000,
     "forma_pago": "Wompi",
-    "woo_status": "processing",
+    "woo_status": "completed",
     "status": "En proceso",
     "client_type": null,
     "observaciones": ""
@@ -54,8 +54,8 @@
     "domicilio": "Envio Area Metropolitana (Medellin, Envigado, Itagui, La Estrella, Sabaneta, Bello) entrega el mismo día para pedidos realizados antes de mediodía o el siguiente día hábil para pedidos realizados después de mediodía",
     "total": 152000,
     "forma_pago": "Wompi",
-    "woo_status": "processing",
-    "status": "En proceso",
+    "woo_status": "completed",
+    "status": "Completado",
     "client_type": null,
     "observaciones": ""
   },
