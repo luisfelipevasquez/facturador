@@ -3530,5 +3530,50 @@
       "valor": 134000
     },
     "observaciones": "Enviar a Luz Helena Goez\nCalle 34 A #85 A 49 apto 902\n+57 320 6995398"
+  },
+  {
+    "consecutivo": 2401,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1032450895",
+    "fecha_elaboracion": "2026-07-15",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO120",
+        "producto": "Blend Honey 120h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 952.3809523809525,
+        "iva_pct": 5,
+        "total": 20000.000000000004
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 1095.2380952380952,
+        "iva_pct": 5,
+        "total": 23000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 2047.6190476190477,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 57000
+    },
+    "observaciones": ""
   }
 ]
