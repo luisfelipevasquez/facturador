@@ -1,16 +1,76 @@
 [
   {
+    "order_id": 8541,
+    "consecutivo": "8541",
+    "fecha": "2026-07-14",
+    "tercero": "Yeison Herrera",
+    "identificacion": "1001974711",
+    "productos": "RLAC Regional Lavado Nueces x1",
+    "domicilio": "Envío Nacional (3 - 5 días hábiles)",
+    "total": 76000,
+    "forma_pago": "Wompi",
+    "woo_status": "processing",
+    "status": "En proceso",
+    "client_type": null,
+    "observaciones": ""
+  },
+  {
+    "order_id": 8540,
+    "consecutivo": "8540",
+    "fecha": "2026-07-14",
+    "tercero": "Juan Camilo Ospina Quintero",
+    "identificacion": "1061735209",
+    "productos": "RLAC Regional Lavado Nueces x1, BNA120 Natural 120 horas x1, PNA Pacamara Natural x1",
+    "domicilio": "Envio Area Metropolitana (Medellin, Envigado, Itagui, La Estrella, Sabaneta, Bello) entrega el mismo día para pedidos realizados antes de mediodía o el siguiente día hábil para pedidos realizados después de mediodía",
+    "total": 152000,
+    "forma_pago": "Wompi",
+    "woo_status": "processing",
+    "status": "En proceso",
+    "client_type": null,
+    "observaciones": ""
+  },
+  {
+    "order_id": 8539,
+    "consecutivo": "8539",
+    "fecha": "2026-07-13",
+    "tercero": "Juan jose Castilla",
+    "identificacion": "1072716176",
+    "productos": "BNA120 Natural 120 horas x1",
+    "domicilio": "Envío Nacional (3 - 5 días hábiles), envia",
+    "total": 60000,
+    "forma_pago": "Wompi",
+    "woo_status": "completed",
+    "status": "Completado",
+    "client_type": null,
+    "observaciones": ""
+  },
+  {
+    "order_id": 8538,
+    "consecutivo": "8538",
+    "fecha": "2026-07-13",
+    "tercero": "IVAN MARCOS GONZALEZ",
+    "identificacion": "551210",
+    "productos": "BHO72 Honey 72 Horas x1",
+    "domicilio": "Envío gratuito, envia",
+    "total": 290000,
+    "forma_pago": "Wompi",
+    "woo_status": "completed",
+    "status": "Completado",
+    "client_type": null,
+    "observaciones": ""
+  },
+  {
     "order_id": 8537,
     "consecutivo": "8537",
     "fecha": "2026-07-13",
     "tercero": "Yeison Gutierrez",
     "identificacion": "1053788440",
     "productos": "Kit vacaciones x1",
-    "domicilio": "Envío Nacional (3 - 5 días hábiles)",
+    "domicilio": "Envío Nacional (3 - 5 días hábiles), envia",
     "total": 163000,
     "forma_pago": "Wompi",
-    "woo_status": "processing",
-    "status": "En proceso",
+    "woo_status": "completed",
+    "status": "Completado",
     "client_type": "Antiguo",
     "observaciones": ""
   },
@@ -21,10 +81,10 @@
     "tercero": "Mónica Pinzón Sánchez",
     "identificacion": "52162732",
     "productos": "Kit aventurero x1",
-    "domicilio": "Envío Nacional (3 - 5 días hábiles)",
+    "domicilio": "Envío Nacional (3 - 5 días hábiles), envia",
     "total": 169000,
     "forma_pago": "Wompi",
-    "woo_status": "processing",
+    "woo_status": "completed",
     "status": "En proceso",
     "client_type": null,
     "observaciones": ""
@@ -36,10 +96,10 @@
     "tercero": "Paul Toro",
     "identificacion": "1010169888",
     "productos": "BNA120 Natural 120 horas x1",
-    "domicilio": "Envío Nacional (3 - 5 días hábiles)",
+    "domicilio": "Envío Nacional (3 - 5 días hábiles), envia",
     "total": 90000,
     "forma_pago": "Wompi",
-    "woo_status": "processing",
+    "woo_status": "completed",
     "status": "En proceso",
     "client_type": null,
     "observaciones": ""
@@ -51,10 +111,10 @@
     "tercero": "Sergio Andrés Hernández Echeverry",
     "identificacion": "1015460964",
     "productos": "BSIN Bourbon Sidra x1, RLAC Regional Lavado Nueces x1",
-    "domicilio": "Envío Nacional (3 - 5 días hábiles)",
+    "domicilio": "Envío Nacional (3 - 5 días hábiles), envia",
     "total": 152000,
     "forma_pago": "Wompi",
-    "woo_status": "processing",
+    "woo_status": "completed",
     "status": "En proceso",
     "client_type": null,
     "observaciones": ""
@@ -81,10 +141,10 @@
     "tercero": "KAREN DELGADO",
     "identificacion": "1091668340",
     "productos": "BHO Honey 56 Horas x1, BNA120 Natural 120 horas x1, BHO72 Honey 72 Horas x1",
-    "domicilio": "Envío gratuito",
+    "domicilio": "Envío gratuito, interrapidisimo",
     "total": 216000,
     "forma_pago": "Wompi",
-    "woo_status": "processing",
+    "woo_status": "completed",
     "status": "En proceso",
     "client_type": "Antiguo",
     "observaciones": ""
@@ -96,10 +156,10 @@
     "tercero": "Javier Vásquez",
     "identificacion": "73185016",
     "productos": "CHLA Chiroso Lavado x1, BBO Blend Bourbon x1, PANA Papayo Natural x1",
-    "domicilio": "Envío Nacional (3 - 5 días hábiles)",
+    "domicilio": "Envío Nacional (3 - 5 días hábiles), envia",
     "total": 104000,
     "forma_pago": "Wompi",
-    "woo_status": "processing",
+    "woo_status": "completed",
     "status": "En proceso",
     "client_type": null,
     "observaciones": ""
@@ -111,10 +171,10 @@
     "tercero": "Marco Antonio Argandoña Intriago",
     "identificacion": "476779",
     "productos": "BSIN Bourbon Sidra x1, BBO Blend Bourbon x1, CMA Maracuyá x1",
-    "domicilio": "Envío Nacional (3 - 5 días hábiles)",
+    "domicilio": "Envío Nacional (3 - 5 días hábiles), envia",
     "total": 105000,
     "forma_pago": "Wompi",
-    "woo_status": "processing",
+    "woo_status": "completed",
     "status": "En proceso",
     "client_type": null,
     "observaciones": ""
@@ -126,10 +186,10 @@
     "tercero": "Fabian Gonzalez",
     "identificacion": "13567168",
     "productos": "Kit vacaciones x1",
-    "domicilio": "Envío Nacional (3 - 5 días hábiles)",
+    "domicilio": "Envío Nacional (3 - 5 días hábiles), envia",
     "total": 163000,
     "forma_pago": "Wompi",
-    "woo_status": "processing",
+    "woo_status": "completed",
     "status": "En proceso",
     "client_type": "Antiguo",
     "observaciones": ""
@@ -141,10 +201,10 @@
     "tercero": "Ruben Orbes",
     "identificacion": "1085309694",
     "productos": "JNA Java Natural x1, CGA Galleta Mantequilla x1",
-    "domicilio": "Envío Nacional (3 - 5 días hábiles)",
+    "domicilio": "Envío Nacional (3 - 5 días hábiles), envia",
     "total": 162000,
     "forma_pago": "Wompi",
-    "woo_status": "processing",
+    "woo_status": "completed",
     "status": "En proceso",
     "client_type": null,
     "observaciones": ""
@@ -176,7 +236,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8523,
@@ -190,7 +251,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8522,
@@ -204,7 +266,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": "Antiguo"
+    "client_type": "Antiguo",
+    "observaciones": ""
   },
   {
     "order_id": 8520,
@@ -218,7 +281,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8519,
@@ -232,7 +296,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8518,
@@ -246,7 +311,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": "Antiguo"
+    "client_type": "Antiguo",
+    "observaciones": ""
   },
   {
     "order_id": 8517,
@@ -260,7 +326,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8512,
@@ -274,7 +341,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": "Antiguo"
+    "client_type": "Antiguo",
+    "observaciones": ""
   },
   {
     "order_id": 8510,
@@ -288,7 +356,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8509,
@@ -302,7 +371,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8508,
@@ -316,7 +386,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8507,
@@ -330,7 +401,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8504,
@@ -344,7 +416,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8503,
@@ -358,7 +431,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8502,
@@ -372,7 +446,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8501,
@@ -386,7 +461,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8500,
@@ -400,7 +476,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8499,
@@ -414,7 +491,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8496,
@@ -428,7 +506,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8495,
@@ -442,7 +521,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8494,
@@ -456,7 +536,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8493,
@@ -470,7 +551,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8492,
@@ -484,7 +566,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8491,
@@ -498,7 +581,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8488,
@@ -512,7 +596,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8487,
@@ -526,7 +611,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8485,
@@ -540,7 +626,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8484,
@@ -554,7 +641,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8483,
@@ -568,7 +656,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8481,
@@ -582,7 +671,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8474,
@@ -596,7 +686,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8473,
@@ -610,7 +701,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8472,
@@ -624,7 +716,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8462,
@@ -638,7 +731,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8461,
@@ -652,7 +746,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8460,
@@ -666,7 +761,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8459,
@@ -680,7 +776,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8458,
@@ -694,7 +791,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8457,
@@ -708,7 +806,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8456,
@@ -722,7 +821,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8455,
@@ -736,7 +836,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8454,
@@ -750,7 +851,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8452,
@@ -764,7 +866,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8450,
@@ -778,7 +881,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8449,
@@ -792,7 +896,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8430,
@@ -806,7 +911,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8423,
@@ -820,7 +926,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8412,
@@ -834,7 +941,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8410,
@@ -848,7 +956,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8409,
@@ -862,7 +971,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8408,
@@ -876,7 +986,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8407,
@@ -890,7 +1001,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8406,
@@ -904,7 +1016,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8403,
@@ -918,7 +1031,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8402,
@@ -932,7 +1046,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8401,
@@ -946,7 +1061,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8400,
@@ -960,7 +1076,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8399,
@@ -974,7 +1091,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8398,
@@ -988,7 +1106,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8397,
@@ -1002,7 +1121,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8394,
@@ -1016,7 +1136,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8393,
@@ -1030,7 +1151,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8391,
@@ -1044,7 +1166,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8388,
@@ -1058,7 +1181,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8387,
@@ -1072,7 +1196,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8385,
@@ -1086,7 +1211,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8384,
@@ -1100,7 +1226,8 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
-    "client_type": null
+    "client_type": null,
+    "observaciones": ""
   },
   {
     "order_id": 8381,
