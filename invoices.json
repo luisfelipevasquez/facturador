@@ -3665,5 +3665,60 @@
       "valor": 170000
     },
     "observaciones": "Enviar a Juan Pablo Hidalgo García\nCalle 72a #04-35 \ncerros de la 72 apto 301 Bogotá \n+57 311 3798724"
+  },
+  {
+    "consecutivo": 2404,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "71387615",
+    "fecha_elaboracion": "2026-07-15",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "BSIN",
+        "producto": "Bourbon Sidra",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 10000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 10000
+      }
+    ],
+    "iva_total": 8571.428571428572,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 190000
+    },
+    "observaciones": ""
   }
 ]
