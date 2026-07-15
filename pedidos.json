@@ -1511,5 +1511,30 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2403,
+    "fecha": "2026-07-15",
+    "tercero": "Víctor Uriel Leyva Medina",
+    "identificacion": "LYMDVC97121401H400",
+    "productos": "BSIN 250g x250, PANA 250g x250",
+    "domicilio": "Nacional Transportadora",
+    "total": 170000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BSIN",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "PANA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
