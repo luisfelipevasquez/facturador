@@ -606,5 +606,21 @@
     "Teléfono móvil de contacto": "3008634499‬",
     "Estado": "Activo",
     "siigoId": "0ee7398c-dc68-45df-9d64-8c1336ae34a4"
+  },
+  {
+    "Nombre tercero": "Jorge Alberto Coronado Sarmiento",
+    "Tipo de identificación": "13",
+    "Identificación": "1014207804",
+    "Dirección": "285 Buckingham Way, unit 203 San Francisco, California, U.S.A",
+    "Ciudad": "— Primero selecciona un departamento —",
+    "Código departamento": "",
+    "Código ciudad": "",
+    "Teléfono.": "3218502621",
+    "Correo electrónico": "jorge.coronado.sarmiento@gmail.com",
+    "Nombres contacto": "Jorge Alberto",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3218502621",
+    "Estado": "Activo",
+    "siigoId": "fa654861-4ac7-4482-a20e-ffa89d9fda56"
   }
 ]
