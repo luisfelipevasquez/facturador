@@ -574,5 +574,21 @@
     "Teléfono móvil de contacto": "4493946280",
     "Estado": "Activo",
     "siigoId": "59822831-ddea-486b-a269-9d5452c3d148"
+  },
+  {
+    "Nombre tercero": "Milton Blackburn",
+    "Tipo de identificación": "13",
+    "Identificación": "71387615",
+    "Dirección": "Calle 29 #57-113 Cabañas",
+    "Ciudad": "Bello",
+    "Código departamento": "05",
+    "Código ciudad": "05088",
+    "Teléfono.": "3114037035",
+    "Correo electrónico": "miltonblackburn3@hotmail.com",
+    "Nombres contacto": "Milton",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3114037035",
+    "Estado": "Activo",
+    "siigoId": "f95bccea-09da-43ff-b973-2f287c3f1608"
   }
 ]
