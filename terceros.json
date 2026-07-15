@@ -558,5 +558,21 @@
     "Teléfono móvil de contacto": "3014985199",
     "Estado": "Activo",
     "siigoId": "69825579-7f9a-4e0b-b5f2-e77246ef5fd3"
+  },
+  {
+    "Nombre tercero": "Víctor Uriel Leyva Medina",
+    "Tipo de identificación": "41",
+    "Identificación": "LYMDVC97121401H400",
+    "Dirección": "Calle 72a #4-35  Cerros de la 72 apto 301 Juan Pablo Hidalgo +573113798724",
+    "Ciudad": "Bogotá D.C.",
+    "Código departamento": "11",
+    "Código ciudad": "11001",
+    "Teléfono.": "4493946280",
+    "Correo electrónico": "u.leyva.m@gmail.com",
+    "Nombres contacto": "Víctor Uriel",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "4493946280",
+    "Estado": "Activo",
+    "siigoId": "59822831-ddea-486b-a269-9d5452c3d148"
   }
 ]
