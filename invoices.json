@@ -3868,5 +3868,50 @@
       "valor": 616240
     },
     "observaciones": "Enviar con Alejo a Christian Foronda\nCalle 55 # 80-39, interior 101\n+57 321 6709691"
+  },
+  {
+    "consecutivo": 2407,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1037585897",
+    "fecha_elaboracion": "2026-07-15",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BSIN",
+        "producto": "Bourbon Sidra",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "BHO120",
+        "producto": "Blend Honey 120h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      },
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 131.65266106442579,
+        "iva": 2238.0952380952385,
+        "iva_pct": 5,
+        "total": 47000.00000000001
+      }
+    ],
+    "iva_total": 7857.142857142858,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 165000
+    },
+    "observaciones": ""
   }
 ]
