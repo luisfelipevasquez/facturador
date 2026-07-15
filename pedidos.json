@@ -1536,5 +1536,35 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2404,
+    "fecha": "2026-07-15",
+    "tercero": "Milton Blackburn",
+    "identificacion": "71387615",
+    "productos": "CMA 250g x250, CGA 250g x250, BSIN 250g x250",
+    "domicilio": "Local Transportadora",
+    "total": 190000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CMA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BSIN",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
