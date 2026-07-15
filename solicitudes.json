@@ -1,7 +1,7 @@
 [
   {
     "id": "SOL-1784069627425-ywb6w",
-    "estado": "pendiente",
+    "estado": "revisado",
     "creado": "2026-07-14T22:53:47.426Z",
     "cliente": {
       "nombre": "Lucas Ochoa Pérez",
@@ -47,6 +47,7 @@
       "shipping_address_same_as_registered": true,
       "shipping_address": "Carrera 15a #9a23 apto 1201 Aniz",
       "customer_overrode_address": false
-    }
+    },
+    "actualizado": "2026-07-15T21:11:51.528Z"
   }
 ]
