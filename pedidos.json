@@ -1671,5 +1671,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2408,
+    "fecha": "2026-07-15",
+    "tercero": "Juan Fernando Tavera Mesías",
+    "identificacion": "3438685",
+    "productos": "PNA 250g x250",
+    "domicilio": "",
+    "total": 76000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "PNA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
