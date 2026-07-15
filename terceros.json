@@ -622,5 +622,21 @@
     "Teléfono móvil de contacto": "3218502621",
     "Estado": "Activo",
     "siigoId": "fa654861-4ac7-4482-a20e-ffa89d9fda56"
+  },
+  {
+    "Nombre tercero": "Juan Fernando Tavera Mesías",
+    "Tipo de identificación": "13",
+    "Identificación": "3438685",
+    "Dirección": "Cra 73 #52-65 Camino de colores Apto 1813",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3017399239",
+    "Correo electrónico": "jufetame@gmail.com",
+    "Nombres contacto": "Juan Fernando",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3017399239",
+    "Estado": "Activo",
+    "siigoId": "d613c993-a032-4cb2-9cf6-dfd4152f719f"
   }
 ]
