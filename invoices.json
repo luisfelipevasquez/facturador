@@ -3620,5 +3620,50 @@
       "valor": 130000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2403,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "LYMDVC97121401H400",
+    "fecha_elaboracion": "2026-07-15",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BSIN",
+        "producto": "Bourbon Sidra",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 7238.0952380952385,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 170000
+    },
+    "observaciones": "Enviar a Juan Pablo Hidalgo García\nCalle 72a #04-35 \ncerros de la 72 apto 301 Bogotá \n+57 311 3798724"
   }
 ]
