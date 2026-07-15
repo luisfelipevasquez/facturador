@@ -590,5 +590,21 @@
     "Teléfono móvil de contacto": "3114037035",
     "Estado": "Activo",
     "siigoId": "f95bccea-09da-43ff-b973-2f287c3f1608"
+  },
+  {
+    "Nombre tercero": "Edgar Antonio Meneses Cadena",
+    "Tipo de identificación": "13",
+    "Identificación": "1049627174",
+    "Dirección": "Av universitaria #65-02 CR Argami TO4 Apto 802 Barrio la Villita",
+    "Ciudad": "Tunja",
+    "Código departamento": "15",
+    "Código ciudad": "15001",
+    "Teléfono.": "3008634499‬",
+    "Correo electrónico": "edgarmenesesc7@gmail.com",
+    "Nombres contacto": "Edgar Antonio",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3008634499‬",
+    "Estado": "Activo",
+    "siigoId": "0ee7398c-dc68-45df-9d64-8c1336ae34a4"
   }
 ]
