@@ -1806,5 +1806,30 @@
         "molienda": "molido fino"
       }
     ]
+  },
+  {
+    "consecutivo": 2413,
+    "fecha": "2026-07-16",
+    "tercero": "Juan Diego Madrigal Serna",
+    "identificacion": "1193069988",
+    "productos": "RLAS 500g x500, BBO 250g x250",
+    "domicilio": "",
+    "total": 116000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAS",
+        "presentacion": "500g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "BBO",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
