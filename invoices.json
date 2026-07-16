@@ -4197,5 +4197,40 @@
       "valor": 116000
     },
     "observaciones": "Recoge"
+  },
+  {
+    "consecutivo": 2414,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1143141013",
+    "fecha_elaboracion": "2026-07-16",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 188.57142857142856,
+        "iva": 4714.285714285714,
+        "iva_pct": 5,
+        "total": 98999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 4714.285714285714,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 116999.99999999999
+    },
+    "observaciones": ""
   }
 ]
