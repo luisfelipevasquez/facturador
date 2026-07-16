@@ -3975,5 +3975,52 @@
       "valor": 289999.99999999994
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2410,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1037637035",
+    "fecha_elaboracion": "2026-07-16",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 210.08403361344537,
+        "iva": 3571.428571428571,
+        "iva_pct": 5,
+        "total": 74999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      },
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 144.76190476190476,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 36190.47619047619
+      }
+    ],
+    "iva_total": 3571.428571428571,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 88999.99999999999
+    },
+    "observaciones": "Redime fidelización BBO 250g. No lleva stickers"
   }
 ]
