@@ -1736,5 +1736,45 @@
         "molienda": "molido grueso"
       }
     ]
+  },
+  {
+    "consecutivo": 2411,
+    "fecha": "2026-07-16",
+    "tercero": "Leonardo Camilo Maya",
+    "identificacion": "70568224",
+    "productos": "RLAC 500g x500, RLAA 500g x500, RLAS 500g x500, BNA120 500g x500, BNA120 250g x250",
+    "domicilio": "Local Mensajero",
+    "total": 246000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAC",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAS",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BNA120",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BNA120",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
