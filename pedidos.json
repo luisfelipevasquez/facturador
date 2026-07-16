@@ -1831,5 +1831,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2414,
+    "fecha": "2026-07-16",
+    "tercero": "Williams Alonso Guerra González",
+    "identificacion": "1143141013",
+    "productos": "BBO 500g x500",
+    "domicilio": "Nacional Transportadora",
+    "total": 116999.99999999999,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BBO",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
