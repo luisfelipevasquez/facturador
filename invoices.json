@@ -4363,7 +4363,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "molido medio"
       },
       {
         "sku": "DOM",
