@@ -4464,5 +4464,33 @@
       "valor": 134000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2420,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1100393027",
+    "nombre_tercero": "Martha Cecilia Santiz Lara",
+    "fecha_elaboracion": "2026-07-17",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 144.76190476190476,
+        "iva": 1628.5714285714287,
+        "iva_pct": 5,
+        "total": 34200,
+        "descuento_pct": 10,
+        "descuento_valor": 3619.0476190476193
+      }
+    ],
+    "iva_total": 1628.5714285714287,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 34200
+    },
+    "observaciones": ""
   }
 ]
