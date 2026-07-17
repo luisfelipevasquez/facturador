@@ -4272,5 +4272,79 @@
       "valor": 0
     },
     "observaciones": "Recoge Thomas o Mateo"
+  },
+  {
+    "consecutivo": 2416,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1037626026",
+    "nombre_tercero": "Ivan Fernando Bedoya Jaramillo",
+    "fecha_elaboracion": "2026-07-17",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PNA",
+        "producto": "Pacamara Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3452.5714285714284,
+        "iva_pct": 5,
+        "total": 72504,
+        "descuento_pct": 4.6,
+        "descuento_valor": 3329.5238095238096
+      },
+      {
+        "sku": "JNA",
+        "producto": "Java Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3452.5714285714284,
+        "iva_pct": 5,
+        "total": 72504,
+        "descuento_pct": 4.6,
+        "descuento_valor": 3329.5238095238096
+      },
+      {
+        "sku": "RLAS",
+        "producto": "Regional Lavado SurOeste",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 14000
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 49523.80952380952
+      }
+    ],
+    "iva_total": 9667.047619047618,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 203008
+    },
+    "observaciones": "Lo lleva don Antonio"
   }
 ]
