@@ -28,7 +28,7 @@
     "woo_status": "processing",
     "status": "En proceso",
     "manual": false,
-    "client_type": null,
+    "client_type": "Antiguo",
     "observaciones": ""
   },
   {
