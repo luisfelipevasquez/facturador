@@ -49,5 +49,39 @@
       "customer_overrode_address": false
     },
     "actualizado": "2026-07-15T21:12:18.707Z"
+  },
+  {
+    "id": "SOL-1784255702172-jvpc2",
+    "estado": "pendiente",
+    "creado": "2026-07-17T02:35:02.172Z",
+    "cliente": {
+      "nombre": "Luis Felipe Vasquez Jimenez",
+      "tipo_documento": "13",
+      "documento": "8028804",
+      "email": "luisfelipevasquezj@gmail.com",
+      "celular": "604 4956795",
+      "ciudad": "Envigado",
+      "direccion": "VDA EL PLACER SANTA ELENA PA PIEDRA BLANCA CR 36 ESTE 19 754 CA 10",
+      "observaciones": ""
+    },
+    "productos": [
+      {
+        "sku": "KIT-DEL",
+        "nombre": "Kit delicado",
+        "presentacion": "Kit",
+        "molienda": "grano",
+        "cantidad": 1,
+        "precio": 174000
+      }
+    ],
+    "total_estimado": 174000,
+    "siigo_customer_found": true,
+    "siigo_customer_id": "6606d632-33d3-40d3-bb06-e2b4201daaad",
+    "envio": {
+      "registered_address": "VDA EL PLACER SANTA ELENA PA PIEDRA BLANCA CR 36 ESTE 19 754 CA 10",
+      "shipping_address_same_as_registered": true,
+      "shipping_address": "VDA EL PLACER SANTA ELENA PA PIEDRA BLANCA CR 36 ESTE 19 754 CA 10",
+      "customer_overrode_address": false
+    }
   }
 ]
