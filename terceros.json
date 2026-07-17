@@ -654,5 +654,21 @@
     "Teléfono móvil de contacto": "3107378247",
     "Estado": "Activo",
     "siigoId": "9efadaa8-4122-4290-96d1-cc290f08fd20"
+  },
+  {
+    "Nombre tercero": "Carlos Ardila",
+    "Tipo de identificación": "13",
+    "Identificación": "80734463",
+    "Dirección": "Calle 19 # 66-62 Bodega ENEL. Puente Aranda",
+    "Ciudad": "Bogotá D.C.",
+    "Código departamento": "11",
+    "Código ciudad": "11001",
+    "Teléfono.": "3134943437",
+    "Correo electrónico": "djcarlitosardila@gmail.com",
+    "Nombres contacto": "Carlos",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3134943437",
+    "Estado": "Activo",
+    "siigoId": "d350da56-0035-429e-8237-89e3e103b735"
   }
 ]
