@@ -4382,5 +4382,41 @@
       "valor": 72000
     },
     "observaciones": "Lo lleva don Antonio"
+  },
+  {
+    "consecutivo": 2418,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1037577527",
+    "nombre_tercero": "Noralba Galeano",
+    "fecha_elaboracion": "2026-07-17",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 161.9047619047619,
+        "iva": 809.5238095238095,
+        "iva_pct": 5,
+        "total": 17000
+      },
+      {
+        "sku": "BHO",
+        "producto": "Blend Honey 56h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 952.3809523809525,
+        "iva_pct": 5,
+        "total": 20000.000000000004
+      }
+    ],
+    "iva_total": 1761.904761904762,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 37000
+    },
+    "observaciones": "Enviar con mensajero al Hmua"
   }
 ]
