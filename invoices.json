@@ -4213,8 +4213,7 @@
         "valor_unitario": 188.57142857142856,
         "iva": 4714.285714285714,
         "iva_pct": 5,
-        "total": 98999.99999999999,
-        "molienda": "grano"
+        "total": 98999.99999999999
       },
       {
         "sku": "DOM",
@@ -4233,5 +4232,45 @@
       "valor": 116999.99999999999
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2415,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "901522156",
+    "nombre_tercero": "MATHES de Colombia",
+    "fecha_elaboracion": "2026-07-17",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 210.08403361344537,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 71428.57142857142
+      },
+      {
+        "sku": "CHLA",
+        "producto": "Chiroso Lavado",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 173.66946778711483,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 59047.61904761904
+      }
+    ],
+    "iva_total": 0,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 0
+    },
+    "observaciones": "Recoge Thomas o Mateo"
   }
 ]
