@@ -4346,5 +4346,41 @@
       "valor": 203008
     },
     "observaciones": "Lo lleva don Antonio"
+  },
+  {
+    "consecutivo": 2417,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1017175461",
+    "nombre_tercero": "Tatiana Pérez Jaramillo",
+    "fecha_elaboracion": "2026-07-17",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAS",
+        "producto": "Regional Lavado SurOeste",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 2761.904761904762,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 72000
+    },
+    "observaciones": "Lo lleva don Antonio"
   }
 ]
