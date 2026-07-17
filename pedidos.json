@@ -1931,5 +1931,45 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2418,
+    "fecha": "2026-07-17",
+    "tercero": "Noralba Galeano",
+    "identificacion": "1037577527",
+    "productos": "BSIN 250g x250, BHO120 250g x250, RLAC 340g x340, RLAC 100g x100, BNA120 100g x100",
+    "domicilio": "",
+    "total": 202000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BSIN",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO120",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAC",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAC",
+        "presentacion": "100g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "BNA120",
+        "presentacion": "100g",
+        "molienda": "molido grueso"
+      }
+    ]
   }
 ]
