@@ -10,8 +10,8 @@
     "total": 66000,
     "forma_pago": "Wompi",
     "woo_status": "processing",
-    "status": "En proceso",
-    "manual": false,
+    "status": "Completado",
+    "manual": true,
     "client_type": null,
     "observaciones": ""
   },
@@ -38,14 +38,14 @@
     "tercero": "Luis Gomez",
     "identificacion": "87070212",
     "productos": "BBO Blend Bourbon x1",
-    "domicilio": "Envío Nacional (3 - 5 días hábiles)",
+    "domicilio": "Envío Nacional (3 - 5 días hábiles), envia",
     "total": 93000,
     "forma_pago": "Wompi",
-    "woo_status": "processing",
-    "status": "En proceso",
+    "woo_status": "completed",
+    "status": "Completado",
     "manual": false,
     "client_type": "Antiguo",
-    "observaciones": "Enviar 100g de chiroso en grano en reposición del natural120 en revisión"
+    "observaciones": ""
   },
   {
     "order_id": 8548,
@@ -176,22 +176,6 @@
     "observaciones": ""
   },
   {
-    "order_id": 8537,
-    "consecutivo": "8537",
-    "fecha": "2026-07-13",
-    "tercero": "Yeison Gutierrez",
-    "identificacion": "1053788440",
-    "productos": "Kit vacaciones x1",
-    "domicilio": "Envío Nacional (3 - 5 días hábiles), envia",
-    "total": 163000,
-    "forma_pago": "Wompi",
-    "woo_status": "completed",
-    "status": "Completado",
-    "manual": true,
-    "client_type": "Antiguo",
-    "observaciones": ""
-  },
-  {
     "order_id": 8539,
     "consecutivo": "8539",
     "fecha": "2026-07-13",
@@ -221,6 +205,22 @@
     "status": "Completado",
     "manual": false,
     "client_type": null,
+    "observaciones": ""
+  },
+  {
+    "order_id": 8537,
+    "consecutivo": "8537",
+    "fecha": "2026-07-13",
+    "tercero": "Yeison Gutierrez",
+    "identificacion": "1053788440",
+    "productos": "Kit vacaciones x1",
+    "domicilio": "Envío Nacional (3 - 5 días hábiles), envia",
+    "total": 163000,
+    "forma_pago": "Wompi",
+    "woo_status": "completed",
+    "status": "Completado",
+    "manual": true,
+    "client_type": "Antiguo",
     "observaciones": ""
   },
   {
@@ -267,6 +267,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -280,8 +281,9 @@
     "domicilio": "Envio Area Metropolitana (Medellin, Envigado, Itagui, La Estrella, Sabaneta, Bello) entrega el mismo día para pedidos realizados antes de mediodía o el siguiente día hábil para pedidos realizados después de mediodía",
     "total": 90000,
     "forma_pago": "Wompi",
-    "woo_status": "processing",
+    "woo_status": "completed",
     "status": "Completado",
+    "manual": true,
     "client_type": null,
     "observaciones": ""
   },
@@ -297,6 +299,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": "Antiguo",
     "observaciones": ""
   },
@@ -312,6 +315,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -327,6 +331,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -342,6 +347,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": "Antiguo",
     "observaciones": ""
   },
@@ -357,6 +363,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -372,6 +379,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -387,6 +395,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -402,6 +411,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -417,6 +427,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": "Antiguo",
     "observaciones": ""
   },
@@ -432,6 +443,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -447,6 +459,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -462,6 +475,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": "Antiguo",
     "observaciones": ""
   },
@@ -477,6 +491,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -492,6 +507,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": "Antiguo",
     "observaciones": ""
   },
@@ -507,6 +523,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -522,6 +539,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -537,6 +555,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -552,6 +571,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -567,6 +587,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -582,6 +603,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -597,6 +619,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -612,6 +635,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -627,6 +651,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -642,6 +667,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -657,6 +683,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -672,6 +699,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -687,6 +715,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -702,6 +731,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -717,6 +747,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -732,6 +763,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -747,6 +779,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -762,6 +795,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -777,6 +811,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -792,6 +827,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -807,6 +843,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -822,6 +859,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -837,6 +875,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -852,6 +891,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -867,6 +907,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -882,6 +923,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -897,6 +939,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -912,6 +955,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -927,6 +971,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -942,6 +987,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -957,6 +1003,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -972,6 +1019,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -987,6 +1035,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -1002,6 +1051,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -1017,6 +1067,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -1032,6 +1083,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -1047,6 +1099,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -1062,6 +1115,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -1077,6 +1131,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -1092,6 +1147,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -1107,6 +1163,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -1122,6 +1179,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -1137,6 +1195,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -1152,6 +1211,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -1167,6 +1227,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -1182,6 +1243,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -1197,6 +1259,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -1212,6 +1275,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -1227,6 +1291,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -1242,6 +1307,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -1257,6 +1323,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
@@ -1272,6 +1339,7 @@
     "forma_pago": "Wompi",
     "woo_status": "completed",
     "status": "Completado",
+    "manual": false,
     "client_type": null,
     "observaciones": ""
   },
