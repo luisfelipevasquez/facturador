@@ -638,5 +638,21 @@
     "Teléfono móvil de contacto": "3017399239",
     "Estado": "Activo",
     "siigoId": "d613c993-a032-4cb2-9cf6-dfd4152f719f"
+  },
+  {
+    "Nombre tercero": "Tatiana Pérez Jaramillo",
+    "Tipo de identificación": "13",
+    "Identificación": "1017175461",
+    "Dirección": "Calle 49c # 6-7 Buenos Aires",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3107378247",
+    "Correo electrónico": "tatianaperez2710@gmail.com",
+    "Nombres contacto": "Tatiana",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3107378247",
+    "Estado": "Activo",
+    "siigoId": "9efadaa8-4122-4290-96d1-cc290f08fd20"
   }
 ]
