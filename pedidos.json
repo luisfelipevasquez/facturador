@@ -1886,7 +1886,7 @@
     "domicilio": "Local Mensajero",
     "total": 203008,
     "forma_pago": "T. Débito",
-    "status": "En proceso",
+    "status": "Completado",
     "client_type": "Antiguo",
     "recoge": "No",
     "items_molienda": [
@@ -1909,26 +1909,6 @@
         "sku": "CGA",
         "presentacion": "250g",
         "molienda": "grano"
-      }
-    ]
-  },
-  {
-    "consecutivo": 2417,
-    "fecha": "2026-07-17",
-    "tercero": "Tatiana Pérez Jaramillo",
-    "identificacion": "1017175461",
-    "productos": "RLAS 500g x500",
-    "domicilio": "Local Mensajero",
-    "total": 72000,
-    "forma_pago": "T. Débito",
-    "status": "En proceso",
-    "client_type": "Antiguo",
-    "recoge": "No",
-    "items_molienda": [
-      {
-        "sku": "RLAS",
-        "presentacion": "500g",
-        "molienda": "molido medio"
       }
     ]
   }
