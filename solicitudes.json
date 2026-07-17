@@ -51,48 +51,6 @@
     "actualizado": "2026-07-15T21:12:18.707Z"
   },
   {
-    "id": "SOL-1784310650696-f8p5u",
-    "estado": "pendiente",
-    "creado": "2026-07-17T17:50:50.696Z",
-    "cliente": {
-      "nombre": "Noralba Galeano",
-      "tipo_documento": "13",
-      "documento": "1037577527",
-      "email": "ngaleanos86@hotmail.com",
-      "celular": "57 3506708455",
-      "ciudad": "Itagui",
-      "direccion": "No aplica",
-      "observaciones": "Hospital Manuel Uribe angel"
-    },
-    "productos": [
-      {
-        "sku": "RLAC",
-        "nombre": "Regional Lavado Caicedo",
-        "presentacion": "100g",
-        "molienda": "molido grueso",
-        "cantidad": 1,
-        "precio": 17000
-      },
-      {
-        "sku": "BNA120",
-        "nombre": "Blend Natural 120h",
-        "presentacion": "100g",
-        "molienda": "molido grueso",
-        "cantidad": 1,
-        "precio": 20000
-      }
-    ],
-    "total_estimado": 37000,
-    "siigo_customer_found": true,
-    "siigo_customer_id": "8659d80c-8b6f-4eba-9262-ffac4d138375",
-    "envio": {
-      "registered_address": "No aplica",
-      "shipping_address_same_as_registered": false,
-      "shipping_address": "Diagonal 31 número 36 a sur 80",
-      "customer_overrode_address": true
-    }
-  },
-  {
     "id": "SOL-1784311547116-efgde",
     "estado": "pendiente",
     "creado": "2026-07-17T18:05:47.116Z",
