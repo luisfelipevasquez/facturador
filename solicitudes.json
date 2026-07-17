@@ -52,7 +52,7 @@
   },
   {
     "id": "SOL-1784311547116-efgde",
-    "estado": "pendiente",
+    "estado": "revisado",
     "creado": "2026-07-17T18:05:47.116Z",
     "cliente": {
       "nombre": "Noralba Galeano",
@@ -90,6 +90,7 @@
       "shipping_address_same_as_registered": false,
       "shipping_address": "Diagonal 31 número 36 a sur 80",
       "customer_overrode_address": true
-    }
+    },
+    "actualizado": "2026-07-17T18:10:08.656Z"
   }
 ]
