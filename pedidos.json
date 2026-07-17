@@ -1876,5 +1876,40 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2416,
+    "fecha": "2026-07-17",
+    "tercero": "Ivan Fernando Bedoya Jaramillo",
+    "identificacion": "1037626026",
+    "productos": "PNA 250g x250, JNA 250g x250, RLAS 500g x500, CGA 250g x250",
+    "domicilio": "Local Mensajero",
+    "total": 203008,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "PNA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "JNA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAS",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
