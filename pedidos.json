@@ -1981,5 +1981,25 @@
         "molienda": "molido fino"
       }
     ]
+  },
+  {
+    "consecutivo": 2420,
+    "fecha": "2026-07-17",
+    "tercero": "Martha Cecilia Santiz Lara",
+    "identificacion": "1100393027",
+    "productos": "RLAC 250g x250",
+    "domicilio": "",
+    "total": 34200,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAC",
+        "presentacion": "250g",
+        "molienda": "molido grueso"
+      }
+    ]
   }
 ]
