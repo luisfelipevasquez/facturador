@@ -4363,8 +4363,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "molido medio"
+        "total": 58000
       },
       {
         "sku": "DOM",
@@ -4383,5 +4382,71 @@
       "valor": 72000
     },
     "observaciones": "Lo lleva don Antonio"
+  },
+  {
+    "consecutivo": 2418,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1037577527",
+    "nombre_tercero": "Noralba Galeano",
+    "fecha_elaboracion": "2026-07-17",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BSIN",
+        "producto": "Bourbon Sidra",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "BHO120",
+        "producto": "Blend Honey 120h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      },
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 131.65266106442579,
+        "iva": 2238.0952380952385,
+        "iva_pct": 5,
+        "total": 47000.00000000001
+      },
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 161.9047619047619,
+        "iva": 809.5238095238095,
+        "iva_pct": 5,
+        "total": 17000
+      },
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 952.3809523809525,
+        "iva_pct": 5,
+        "total": 20000.000000000004
+      }
+    ],
+    "iva_total": 9619.04761904762,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 202000
+    },
+    "observaciones": ""
   }
 ]
