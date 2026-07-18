@@ -4590,6 +4590,19 @@
         "total": 0,
         "descuento_pct": 100,
         "descuento_valor": 14000
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 49523.80952380952,
+        "molienda": "molido medio"
       }
     ],
     "iva_total": 14883.333333333334,
@@ -4597,6 +4610,6 @@
       "codigo": 3,
       "valor": 312550
     },
-    "observaciones": ""
+    "observaciones": "Redime 250g CGA y se envía tarjeta de fidelización nueva con 2 stickers"
   }
 ]
