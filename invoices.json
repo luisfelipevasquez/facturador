@@ -4492,5 +4492,93 @@
       "valor": 34200
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2421,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "43468274",
+    "nombre_tercero": "Yefisa Catalina Marín Parra",
+    "fecha_elaboracion": "2026-07-18",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2352.3809523809523,
+        "iva_pct": 5,
+        "total": 49400,
+        "descuento_pct": 5,
+        "descuento_valor": 2476.190476190476
+      },
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 220.95238095238093,
+        "iva": 2623.809523809524,
+        "iva_pct": 5,
+        "total": 55100,
+        "descuento_pct": 5,
+        "descuento_valor": 2761.904761904762
+      },
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3438.0952380952385,
+        "iva_pct": 5,
+        "total": 72200,
+        "descuento_pct": 5,
+        "descuento_valor": 3619.0476190476193
+      },
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 148.45938375350138,
+        "iva": 2397.6190476190473,
+        "iva_pct": 5,
+        "total": 50349.99999999999,
+        "descuento_pct": 5,
+        "descuento_valor": 2523.809523809524
+      },
+      {
+        "sku": "RLAS",
+        "producto": "Regional Lavado SurOeste",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 144.76190476190476,
+        "iva": 1719.0476190476193,
+        "iva_pct": 5,
+        "total": 36100,
+        "descuento_pct": 5,
+        "descuento_valor": 1809.5238095238096
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2352.3809523809523,
+        "iva_pct": 5,
+        "total": 49400,
+        "descuento_pct": 5,
+        "descuento_valor": 2476.190476190476
+      }
+    ],
+    "iva_total": 14883.333333333334,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 312550
+    },
+    "observaciones": ""
   }
 ]
