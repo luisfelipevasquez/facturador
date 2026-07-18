@@ -2007,7 +2007,7 @@
     "fecha": "2026-07-18",
     "tercero": "Yefisa Catalina Marín Parra",
     "identificacion": "43468274",
-    "productos": "CMA 250g x250, BBO 250g x250, PANA 250g x250, BNA120 340g x340, RLAS 250g x250, CGA 250g x250",
+    "productos": "CMA 250g x250, BBO 250g x250, PANA 250g x250, BNA120 340g x340, RLAS 250g x250, CGA 250g x250, CGA 250g x250",
     "domicilio": "Local Mensajero",
     "total": 312550,
     "forma_pago": "T. Débito",
@@ -2044,6 +2044,31 @@
         "sku": "CGA",
         "presentacion": "250g",
         "molienda": "molido fino"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "250g",
+        "molienda": "molido fino"
+      }
+    ]
+  },
+  {
+    "consecutivo": 2422,
+    "fecha": "2026-07-18",
+    "tercero": "Christian Camilo Sanchez",
+    "identificacion": "1036599619",
+    "productos": "RLAS 500g x500",
+    "domicilio": "",
+    "total": 58000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAS",
+        "presentacion": "500g",
+        "molienda": "grano"
       }
     ]
   }
