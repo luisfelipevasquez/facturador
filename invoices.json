@@ -4511,8 +4511,7 @@
         "iva_pct": 5,
         "total": 49400,
         "descuento_pct": 5,
-        "descuento_valor": 2476.190476190476,
-        "molienda": "molido fino"
+        "descuento_valor": 2476.190476190476
       },
       {
         "sku": "BBO",
@@ -4524,8 +4523,7 @@
         "iva_pct": 5,
         "total": 55100,
         "descuento_pct": 5,
-        "descuento_valor": 2761.904761904762,
-        "molienda": "molido fino"
+        "descuento_valor": 2761.904761904762
       },
       {
         "sku": "PANA",
@@ -4537,8 +4535,7 @@
         "iva_pct": 5,
         "total": 72200,
         "descuento_pct": 5,
-        "descuento_valor": 3619.0476190476193,
-        "molienda": "molido fino"
+        "descuento_valor": 3619.0476190476193
       },
       {
         "sku": "BNA120",
@@ -4550,8 +4547,7 @@
         "iva_pct": 5,
         "total": 50349.99999999999,
         "descuento_pct": 5,
-        "descuento_valor": 2523.809523809524,
-        "molienda": "molido fino"
+        "descuento_valor": 2523.809523809524
       },
       {
         "sku": "RLAS",
@@ -4563,8 +4559,7 @@
         "iva_pct": 5,
         "total": 36100,
         "descuento_pct": 5,
-        "descuento_valor": 1809.5238095238096,
-        "molienda": "molido fino"
+        "descuento_valor": 1809.5238095238096
       },
       {
         "sku": "CGA",
@@ -4576,8 +4571,7 @@
         "iva_pct": 5,
         "total": 49400,
         "descuento_pct": 5,
-        "descuento_valor": 2476.190476190476,
-        "molienda": "molido fino"
+        "descuento_valor": 2476.190476190476
       },
       {
         "sku": "DOM",
@@ -4601,8 +4595,7 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 49523.80952380952,
-        "molienda": "molido fino"
+        "descuento_valor": 49523.80952380952
       }
     ],
     "iva_total": 14883.333333333334,
@@ -4611,5 +4604,31 @@
       "valor": 312550
     },
     "observaciones": "Redime 250g CGA y se envía tarjeta de fidelización nueva con 2 stickers"
+  },
+  {
+    "consecutivo": 2422,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1036599619",
+    "nombre_tercero": "Christian Camilo Sanchez",
+    "fecha_elaboracion": "2026-07-18",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAS",
+        "producto": "Regional Lavado SurOeste",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      }
+    ],
+    "iva_total": 2761.904761904762,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 58000
+    },
+    "observaciones": "Recoge"
   }
 ]
