@@ -2071,5 +2071,45 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2423,
+    "fecha": "2026-07-19",
+    "tercero": "Michel Camilo Gallego Henao",
+    "identificacion": "8030815",
+    "productos": "PANA 500g x500, PANA 500g x500, CGA 500g x500, PNA 250g x250, JNA 250g x250",
+    "domicilio": "",
+    "total": 519000,
+    "forma_pago": "Efectivo",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "PANA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "PANA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "PNA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "JNA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
