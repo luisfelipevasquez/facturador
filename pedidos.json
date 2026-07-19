@@ -2216,5 +2216,30 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2427,
+    "fecha": "2026-07-19",
+    "tercero": "Natalia Vélez López",
+    "identificacion": "1037628291",
+    "productos": "PANA 100g x100, BNA120 100g x100",
+    "domicilio": "",
+    "total": 58000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "PANA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BNA120",
+        "presentacion": "100g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
