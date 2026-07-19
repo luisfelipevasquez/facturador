@@ -4878,5 +4878,41 @@
       "valor": 163008
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2427,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1037628291",
+    "nombre_tercero": "Natalia Vélez López",
+    "fecha_elaboracion": "2026-07-19",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 952.3809523809525,
+        "iva_pct": 5,
+        "total": 20000.000000000004
+      }
+    ],
+    "iva_total": 2761.9047619047615,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 58000
+    },
+    "observaciones": "Recoge"
   }
 ]
