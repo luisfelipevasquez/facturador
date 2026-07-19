@@ -4713,7 +4713,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "grano"
       },
       {
         "sku": "GELA",
@@ -4723,7 +4724,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "grano"
       },
       {
         "sku": "CHLA",
@@ -4733,7 +4735,8 @@
         "valor_unitario": 209.52380952380952,
         "iva": 1047.6190476190475,
         "iva_pct": 5,
-        "total": 21999.999999999996
+        "total": 21999.999999999996,
+        "molienda": "grano"
       },
       {
         "sku": "BSIN",
@@ -4743,7 +4746,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "grano"
       },
       {
         "sku": "GELA",
@@ -4753,7 +4757,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "grano"
       },
       {
         "sku": "CHLA",
@@ -4763,7 +4768,8 @@
         "valor_unitario": 209.52380952380952,
         "iva": 1047.6190476190475,
         "iva_pct": 5,
-        "total": 21999.999999999996
+        "total": 21999.999999999996,
+        "molienda": "grano"
       }
     ],
     "iva_total": 16571.42857142857,
