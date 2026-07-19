@@ -4713,8 +4713,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       },
       {
         "sku": "GELA",
@@ -4724,8 +4723,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       },
       {
         "sku": "CHLA",
@@ -4735,8 +4733,7 @@
         "valor_unitario": 209.52380952380952,
         "iva": 1047.6190476190475,
         "iva_pct": 5,
-        "total": 21999.999999999996,
-        "molienda": "grano"
+        "total": 21999.999999999996
       },
       {
         "sku": "BSIN",
@@ -4746,8 +4743,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       },
       {
         "sku": "GELA",
@@ -4757,8 +4753,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       },
       {
         "sku": "CHLA",
@@ -4768,14 +4763,69 @@
         "valor_unitario": 209.52380952380952,
         "iva": 1047.6190476190475,
         "iva_pct": 5,
-        "total": 21999.999999999996,
-        "molienda": "grano"
+        "total": 21999.999999999996
       }
     ],
     "iva_total": 16571.42857142857,
     "forma_pago": {
       "codigo": 3,
       "valor": 348000
+    },
+    "observaciones": "Recoge"
+  },
+  {
+    "consecutivo": 2425,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1035433241",
+    "nombre_tercero": "Daniel Henao Perez",
+    "fecha_elaboracion": "2026-07-19",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BNA",
+        "producto": "Blend Natural 56h",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 148.45938375350138,
+        "iva": 2523.809523809524,
+        "iva_pct": 5,
+        "total": 53000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 190.47619047619048,
+        "iva": 3238.0952380952385,
+        "iva_pct": 5,
+        "total": 68000
+      },
+      {
+        "sku": "JNA",
+        "producto": "Java Natural",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "RLAS",
+        "producto": "Regional Lavado SurOeste",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 144.76190476190476,
+        "iva": 1809.5238095238096,
+        "iva_pct": 5,
+        "total": 38000
+      }
+    ],
+    "iva_total": 9380.952380952382,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 197000
     },
     "observaciones": "Recoge"
   }
