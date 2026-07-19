@@ -2111,5 +2111,50 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2424,
+    "fecha": "2026-07-19",
+    "tercero": "María Isabel Morales Galeano",
+    "identificacion": "1152437223",
+    "productos": "BSIN 250g x250, GELA 250g x250, CHLA 100g x100, BSIN 250g x250, GELA 250g x250, CHLA 100g x100",
+    "domicilio": "",
+    "total": 348000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BSIN",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "GELA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CHLA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BSIN",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "GELA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CHLA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
