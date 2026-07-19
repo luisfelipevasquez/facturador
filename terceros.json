@@ -670,5 +670,21 @@
     "Teléfono móvil de contacto": "3134943437",
     "Estado": "Activo",
     "siigoId": "d350da56-0035-429e-8237-89e3e103b735"
+  },
+  {
+    "Nombre tercero": "María Isabel Morales Galeano",
+    "Tipo de identificación": "13",
+    "Identificación": "1152437223",
+    "Dirección": "Calle 84 # 58-50 Villa sol Bloque 4 Apto1421. Viviendas del sur",
+    "Ciudad": "Itagüí",
+    "Código departamento": "05",
+    "Código ciudad": "05360",
+    "Teléfono.": "3023507908",
+    "Correo electrónico": "maria-isabel29@hotmail.com",
+    "Nombres contacto": "María Isabel",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3023507908",
+    "Estado": "Activo",
+    "siigoId": "d85c8671-fdfc-4117-aca8-fa87ffa49162"
   }
 ]
