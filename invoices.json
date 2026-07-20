@@ -1681,7 +1681,12 @@
       "codigo": 2,
       "valor": 780000
     },
-    "observaciones": "Enviar domicilio con Alejo a Angelly. 50 bolsas de 100g cada una"
+    "observaciones": "Enviar domicilio con Alejo a Angelly. 50 bolsas de 100g cada una",
+    "siigoId": "0fcbbabf-49fc-4d21-984c-01b89433c97e",
+    "siigoNumber": "FV-2-2366",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-20T01:44:16.421Z"
   },
   {
     "consecutivo": 2365,
