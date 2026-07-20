@@ -1649,7 +1649,7 @@
     "consecutivo": 2364,
     "tipo_comprobante": 2,
     "identificacion_tercero": "890982375",
-    "fecha_elaboracion": "2026-07-05",
+    "fecha_elaboracion": "2026-07-19",
     "identificacion_vendedor": "901906362",
     "items": [
       {
@@ -1661,8 +1661,9 @@
         "iva": 36428.57142857143,
         "iva_pct": 5,
         "total": 765000,
+        "descuento_pct": 10,
         "descuento_valor": 80952.38095238095,
-        "descuento_pct": 10
+        "molienda": "molido medio"
       },
       {
         "sku": "DOM",
