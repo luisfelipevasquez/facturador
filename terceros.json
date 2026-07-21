@@ -718,5 +718,21 @@
     "Teléfono móvil de contacto": "3132861992",
     "Estado": "Activo",
     "siigoId": "f99d9876-aa68-47c6-9b03-8ed7e2d5276f"
+  },
+  {
+    "Nombre tercero": "Yudy Lorena Cardona Gallego",
+    "Tipo de identificación": "13",
+    "Identificación": "1001755787",
+    "Dirección": "Calle 39sur #79-12 parque San Antonio Prado",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3194061143",
+    "Correo electrónico": "Yudylorena192025@gmail.com",
+    "Nombres contacto": "Yudy Lorena",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3194061143",
+    "Estado": "Activo",
+    "siigoId": "e0fc1de9-76c5-4659-bb1e-6bcdc568b9d2"
   }
 ]
