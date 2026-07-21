@@ -95,7 +95,7 @@
   },
   {
     "id": "SOL-1784313229048-9nenv",
-    "estado": "pendiente",
+    "estado": "completado",
     "creado": "2026-07-17T18:33:49.048Z",
     "cliente": {
       "nombre": "Martha Cecilia Santiz Lara",
@@ -125,7 +125,8 @@
       "shipping_address_same_as_registered": true,
       "shipping_address": "Cra 47 # 97-54",
       "customer_overrode_address": false
-    }
+    },
+    "actualizado": "2026-07-21T18:25:40.494Z"
   },
   {
     "id": "SOL-1784648897750-7bcxx",
