@@ -686,5 +686,21 @@
     "Teléfono móvil de contacto": "3023507908",
     "Estado": "Activo",
     "siigoId": "d85c8671-fdfc-4117-aca8-fa87ffa49162"
+  },
+  {
+    "Nombre tercero": "Juan Carlos Ramirez",
+    "Tipo de identificación": "13",
+    "Identificación": "1020835316",
+    "Dirección": "Cra 7a bis # 183-35 San Cayetano Apto 801",
+    "Ciudad": "Bogotá D.C.",
+    "Código departamento": "11",
+    "Código ciudad": "11001",
+    "Teléfono.": "3224502421",
+    "Correo electrónico": "cjuan1198@gmail.com",
+    "Nombres contacto": "Juan",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3224502421",
+    "Estado": "Activo",
+    "siigoId": "59cbe96c-dcf7-4cff-adfd-2e86cb42e47f"
   }
 ]
