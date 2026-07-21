@@ -5286,5 +5286,41 @@
       "valor": 134000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2435,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1047408315",
+    "nombre_tercero": "Félix de Jesús Marrugo Palomino",
+    "fecha_elaboracion": "2026-07-21",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 4238.0952380952385,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 107000
+    },
+    "observaciones": ""
   }
 ]
