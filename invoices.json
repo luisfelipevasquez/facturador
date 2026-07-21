@@ -5084,5 +5084,63 @@
       "valor": 136000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2430,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "87217703",
+    "nombre_tercero": "David Mauricio Pantoja Bastidas",
+    "fecha_elaboracion": "2026-07-21",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO120",
+        "producto": "Blend Honey 120h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      },
+      {
+        "sku": "JNA",
+        "producto": "Java Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "PNA",
+        "producto": "Pacamara Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 18000
+      }
+    ],
+    "iva_total": 9238.095238095239,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 194000
+    },
+    "observaciones": "Enviar por interrapidisimo a of. ppal pueblo nuevo/puerto Gaitan"
   }
 ]
