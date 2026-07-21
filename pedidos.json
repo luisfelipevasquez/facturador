@@ -2311,5 +2311,35 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2430,
+    "fecha": "2026-07-21",
+    "tercero": "David Mauricio Pantoja Bastidas",
+    "identificacion": "87217703",
+    "productos": "BHO120 250g x250, JNA 250g x250, PNA 250g x250",
+    "domicilio": "Nacional Transportadora",
+    "total": 194000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BHO120",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "JNA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "PNA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
