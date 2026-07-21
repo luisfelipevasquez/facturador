@@ -5141,7 +5141,12 @@
       "codigo": 3,
       "valor": 194000
     },
-    "observaciones": "Enviar por interrapidisimo a of. ppal pueblo nuevo/puerto Gaitan"
+    "observaciones": "Enviar por interrapidisimo a of. ppal pueblo nuevo/puerto Gaitan",
+    "siigoId": "0c625a3f-7a18-4123-bd8d-01f76ccc9dcd",
+    "siigoNumber": "FV-2-2375",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-21T23:54:07.526Z"
   },
   {
     "consecutivo": 2431,
@@ -5213,7 +5218,12 @@
       "codigo": 3,
       "valor": 64000
     },
-    "observaciones": "Enviar a Andes felipe Barragán La Tebsida -Quindío"
+    "observaciones": "Enviar a Andes felipe Barragán La Tebsida -Quindío",
+    "siigoId": "d4abfddf-cf49-4612-bdd0-afe58bcf6304",
+    "siigoNumber": "FV-2-2376",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-21T23:54:08.135Z"
   },
   {
     "consecutivo": 2433,
@@ -5249,7 +5259,12 @@
       "codigo": 3,
       "valor": 75000
     },
-    "observaciones": "Domi lo lleva Alejo 22.000"
+    "observaciones": "Domi lo lleva Alejo 22.000",
+    "siigoId": "331a5ede-8e02-47ed-9083-e76be57be5d4",
+    "siigoNumber": "FV-2-2377",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-21T23:54:08.757Z"
   },
   {
     "consecutivo": 2434,
@@ -5267,7 +5282,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 5523.809523809524,
         "iva_pct": 5,
-        "total": 116000
+        "total": 116000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -5285,7 +5301,12 @@
       "codigo": 3,
       "valor": 134000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "f0d4a8d5-047b-4c3e-8aad-4f5665659bdf",
+    "siigoNumber": "FV-2-2378",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-21T23:54:09.509Z"
   },
   {
     "consecutivo": 2435,
@@ -5303,7 +5324,8 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000
+        "total": 89000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -5321,6 +5343,11 @@
       "codigo": 3,
       "valor": 107000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "6b80b31e-e340-4239-9d8a-41d682c71561",
+    "siigoNumber": "FV-2-2379",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-21T23:54:10.695Z"
   }
 ]
