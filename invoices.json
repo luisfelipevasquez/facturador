@@ -1662,8 +1662,7 @@
         "iva_pct": 5,
         "total": 765000,
         "descuento_pct": 10,
-        "descuento_valor": 80952.38095238095,
-        "molienda": "molido medio"
+        "descuento_valor": 80952.38095238095
       },
       {
         "sku": "DOM",
@@ -4964,8 +4963,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "BHO72",
@@ -4977,8 +4975,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "BHO120",
@@ -4990,8 +4987,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "CGA",
@@ -5001,8 +4997,7 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999,
-        "molienda": "grano"
+        "total": 51999.99999999999
       },
       {
         "sku": "DOM",
@@ -5024,8 +5019,7 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 47619.04761904762,
-        "molienda": "grano"
+        "descuento_valor": 47619.04761904762
       }
     ],
     "iva_total": 5190.476190476191,
@@ -5034,5 +5028,61 @@
       "valor": 127000
     },
     "observaciones": "Enviar x interrapidisimo, reclama en oficina. Redime 250g CHLA. No enviar tarjeta ni stickers"
+  },
+  {
+    "consecutivo": 2429,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1020835316",
+    "nombre_tercero": "Juan Carlos Ramirez",
+    "fecha_elaboracion": "2026-07-20",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAA",
+        "producto": "Regional Lavado Andes",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 144.76190476190476,
+        "iva": 1809.5238095238096,
+        "iva_pct": 5,
+        "total": 38000
+      },
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      },
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 5619.047619047618,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 136000
+    },
+    "observaciones": ""
   }
 ]
