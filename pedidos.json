@@ -2361,5 +2361,30 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2432,
+    "fecha": "2026-07-21",
+    "tercero": "Eduardo Vallejo",
+    "identificacion": "1072749518",
+    "productos": "CGA 100g x100, CMA 100g x100",
+    "domicilio": "Nacional Transportadora",
+    "total": 64000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CGA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
