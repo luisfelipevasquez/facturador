@@ -162,5 +162,39 @@
       "customer_overrode_address": false
     },
     "actualizado": "2026-07-21T17:17:33.670Z"
+  },
+  {
+    "id": "SOL-1784669117833-9wosa",
+    "estado": "pendiente",
+    "creado": "2026-07-21T21:25:17.833Z",
+    "cliente": {
+      "nombre": "Christian Duque Garzón",
+      "tipo_documento": "13",
+      "documento": "1126319247",
+      "email": "gcduque28@gmail.com",
+      "celular": "57 3175901698",
+      "ciudad": "Medellín",
+      "direccion": "Cra 42# 68-34 Segundo piso",
+      "observaciones": "Christian DuqueDigonal 182#20-72 Bogotá Conjunto residencial secoyas Torre 3 apartamento 1004"
+    },
+    "productos": [
+      {
+        "sku": "RLAA",
+        "nombre": "Regional Lavado Andes",
+        "presentacion": "500g",
+        "molienda": "grano",
+        "cantidad": 2,
+        "precio": 58000
+      }
+    ],
+    "total_estimado": 116000,
+    "siigo_customer_found": true,
+    "siigo_customer_id": "d1a6ee8e-1f83-4dd0-9b9c-24c68017e228",
+    "envio": {
+      "registered_address": "Cra 42# 68-34 Segundo piso",
+      "shipping_address_same_as_registered": false,
+      "shipping_address": "Digonal 182#20-72 Bogotá",
+      "customer_overrode_address": true
+    }
   }
 ]
