@@ -1662,7 +1662,8 @@
         "iva_pct": 5,
         "total": 765000,
         "descuento_pct": 10,
-        "descuento_valor": 80952.38095238095
+        "descuento_valor": 80952.38095238095,
+        "molienda": "molido medio"
       },
       {
         "sku": "DOM",
@@ -4963,7 +4964,8 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525
+        "descuento_valor": 952.3809523809525,
+        "molienda": "grano"
       },
       {
         "sku": "BHO72",
@@ -4975,7 +4977,8 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525
+        "descuento_valor": 952.3809523809525,
+        "molienda": "grano"
       },
       {
         "sku": "BHO120",
@@ -4987,7 +4990,8 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525
+        "descuento_valor": 952.3809523809525,
+        "molienda": "grano"
       },
       {
         "sku": "CGA",
@@ -4997,7 +5001,8 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999
+        "total": 51999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -5008,6 +5013,19 @@
         "iva": 0,
         "iva_pct": 0,
         "total": 18000
+      },
+      {
+        "sku": "CHLA",
+        "producto": "Chiroso Lavado",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 190.47619047619048,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 47619.04761904762,
+        "molienda": "grano"
       }
     ],
     "iva_total": 5190.476190476191,
