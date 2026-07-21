@@ -126,5 +126,39 @@
       "shipping_address": "Cra 47 # 97-54",
       "customer_overrode_address": false
     }
+  },
+  {
+    "id": "SOL-1784648897750-7bcxx",
+    "estado": "pendiente",
+    "creado": "2026-07-21T15:48:17.750Z",
+    "cliente": {
+      "nombre": "Santiago Guzmán Martínez",
+      "tipo_documento": "13",
+      "documento": "1112773294",
+      "email": "santi.guzman0428@gmail.com",
+      "celular": "3136954258",
+      "ciudad": "Envigado",
+      "direccion": "Carrera 27F 34DD sur 23 Mirasur apto 405",
+      "observaciones": ""
+    },
+    "productos": [
+      {
+        "sku": "RLAA",
+        "nombre": "Regional Lavado Andes",
+        "presentacion": "2500g",
+        "molienda": "molido medio",
+        "cantidad": 1,
+        "precio": 210000
+      }
+    ],
+    "total_estimado": 210000,
+    "siigo_customer_found": false,
+    "siigo_customer_id": "",
+    "envio": {
+      "registered_address": "Carrera 27F 34DD sur 23 Mirasur apto 405",
+      "shipping_address_same_as_registered": true,
+      "shipping_address": "Carrera 27F 34DD sur 23 Mirasur apto 405",
+      "customer_overrode_address": false
+    }
   }
 ]
