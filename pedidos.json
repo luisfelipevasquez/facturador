@@ -2341,5 +2341,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2431,
+    "fecha": "2026-07-21",
+    "tercero": "1112773294",
+    "identificacion": "1112773294",
+    "productos": "RLAA 2500g x2500",
+    "domicilio": "",
+    "total": 210000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAA",
+        "presentacion": "2500g",
+        "molienda": "molido medio"
+      }
+    ]
   }
 ]
