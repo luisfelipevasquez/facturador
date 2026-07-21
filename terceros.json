@@ -702,5 +702,21 @@
     "Teléfono móvil de contacto": "3224502421",
     "Estado": "Activo",
     "siigoId": "59cbe96c-dcf7-4cff-adfd-2e86cb42e47f"
+  },
+  {
+    "Nombre tercero": "David Mauricio Pantoja Bastidas",
+    "Tipo de identificación": "13",
+    "Identificación": "87217703",
+    "Dirección": "Pueblo nuevo / meta / puerto Gaitan oficina ppal interrapidisimo",
+    "Ciudad": "Puerto Gaitán",
+    "Código departamento": "50",
+    "Código ciudad": "50573",
+    "Teléfono.": "3132861992",
+    "Correo electrónico": "dmpbas@gmail.com",
+    "Nombres contacto": "David Mauricio",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3132861992",
+    "Estado": "Activo",
+    "siigoId": "f99d9876-aa68-47c6-9b03-8ed7e2d5276f"
   }
 ]
