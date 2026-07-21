@@ -1662,8 +1662,7 @@
         "iva_pct": 5,
         "total": 765000,
         "descuento_pct": 10,
-        "descuento_valor": 80952.38095238095,
-        "molienda": "molido medio"
+        "descuento_valor": 80952.38095238095
       },
       {
         "sku": "DOM",
@@ -4945,5 +4944,77 @@
     "cufe": null,
     "siigoStatus": "Sincronizado",
     "siigoSyncedAt": "2026-07-20T00:55:21.440Z"
+  },
+  {
+    "consecutivo": 2428,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1072749518",
+    "nombre_tercero": "Eduardo Vallejo",
+    "fecha_elaboracion": "2026-07-20",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO",
+        "producto": "Blend Honey 56h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 904.7619047619048,
+        "iva_pct": 5,
+        "total": 19000,
+        "descuento_pct": 5,
+        "descuento_valor": 952.3809523809525
+      },
+      {
+        "sku": "BHO72",
+        "producto": "Blend Honey72h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 904.7619047619048,
+        "iva_pct": 5,
+        "total": 19000,
+        "descuento_pct": 5,
+        "descuento_valor": 952.3809523809525
+      },
+      {
+        "sku": "BHO120",
+        "producto": "Blend Honey 120h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 904.7619047619048,
+        "iva_pct": 5,
+        "total": 19000,
+        "descuento_pct": 5,
+        "descuento_valor": 952.3809523809525
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 5190.476190476191,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 127000
+    },
+    "observaciones": "Enviar x interrapidisimo, reclama en oficina. Redime 250g CHLA. No enviar tarjeta ni stickers"
   }
 ]
