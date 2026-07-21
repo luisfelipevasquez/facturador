@@ -2201,7 +2201,7 @@
     "domicilio": "Nacional Transportadora",
     "total": 163008,
     "forma_pago": "T. Débito",
-    "status": "En proceso",
+    "status": "Completado",
     "client_type": "Antiguo",
     "recoge": "No",
     "items_molienda": [
@@ -2390,7 +2390,7 @@
   {
     "consecutivo": 2433,
     "fecha": "2026-07-21",
-    "tercero": "Yudy Lorena Cardona Gallego",
+    "tercero": "1001755787",
     "identificacion": "1001755787",
     "productos": "BHO 340g x340",
     "domicilio": "Otro",
