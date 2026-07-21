@@ -5214,5 +5214,41 @@
       "valor": 64000
     },
     "observaciones": "Enviar a Andes felipe Barragán La Tebsida -Quindío"
+  },
+  {
+    "consecutivo": 2433,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1001755787",
+    "nombre_tercero": "Yudy Lorena Cardona Gallego",
+    "fecha_elaboracion": "2026-07-21",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO",
+        "producto": "Blend Honey 56h",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 148.45938375350138,
+        "iva": 2523.809523809524,
+        "iva_pct": 5,
+        "total": 53000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Otro",
+        "cantidad": 1,
+        "valor_unitario": 22000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 22000
+      }
+    ],
+    "iva_total": 2523.809523809524,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 75000
+    },
+    "observaciones": "Domi lo lleva Alejo 22.000"
   }
 ]
