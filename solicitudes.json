@@ -129,7 +129,7 @@
   },
   {
     "id": "SOL-1784648897750-7bcxx",
-    "estado": "pendiente",
+    "estado": "revisado",
     "creado": "2026-07-21T15:48:17.750Z",
     "cliente": {
       "nombre": "Santiago Guzmán Martínez",
@@ -159,6 +159,7 @@
       "shipping_address_same_as_registered": true,
       "shipping_address": "Carrera 27F 34DD sur 23 Mirasur apto 405",
       "customer_overrode_address": false
-    }
+    },
+    "actualizado": "2026-07-21T17:17:33.670Z"
   }
 ]
