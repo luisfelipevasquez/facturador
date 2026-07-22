@@ -1696,7 +1696,7 @@
     "consecutivo": 2365,
     "tipo_comprobante": 2,
     "identificacion_tercero": "222222222222",
-    "fecha_elaboracion": "2026-07-05",
+    "fecha_elaboracion": "2026-07-21",
     "identificacion_vendedor": "901906362",
     "items": [
       {
@@ -1707,7 +1707,8 @@
         "valor_unitario": 247.61904761904762,
         "iva": 1238.0952380952383,
         "iva_pct": 5,
-        "total": 26000
+        "total": 26000,
+        "molienda": "grano"
       },
       {
         "sku": "BSIN",
@@ -1717,7 +1718,8 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999
+        "total": 37999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "CGA",
@@ -1727,7 +1729,8 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000
+        "total": 23000,
+        "molienda": "grano"
       }
     ],
     "iva_total": 4142.857142857143,
