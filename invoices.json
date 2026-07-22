@@ -1506,8 +1506,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       },
       {
         "sku": "DOM",
@@ -1547,8 +1546,7 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000,
-        "molienda": "grano"
+        "total": 89000
       },
       {
         "sku": "DOM",
@@ -1588,8 +1586,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       },
       {
         "sku": "DOM",
@@ -1631,8 +1628,7 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096,
-        "molienda": "grano"
+        "descuento_valor": 3329.5238095238096
       },
       {
         "sku": "JNA",
@@ -1644,8 +1640,7 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096,
-        "molienda": "grano"
+        "descuento_valor": 3329.5238095238096
       },
       {
         "sku": "DOM",
@@ -1727,8 +1722,7 @@
         "valor_unitario": 247.61904761904762,
         "iva": 1238.0952380952383,
         "iva_pct": 5,
-        "total": 26000,
-        "molienda": "grano"
+        "total": 26000
       },
       {
         "sku": "BSIN",
@@ -1738,8 +1732,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "grano"
+        "total": 37999.99999999999
       },
       {
         "sku": "CGA",
@@ -1749,8 +1742,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "grano"
+        "total": 23000
       }
     ],
     "iva_total": 4142.857142857143,
@@ -1780,8 +1772,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "grano"
+        "total": 17000
       },
       {
         "sku": "CMA",
@@ -1791,8 +1782,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "grano"
+        "total": 23000
       },
       {
         "sku": "CGA",
@@ -1802,8 +1792,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "grano"
+        "total": 23000
       },
       {
         "sku": "BHO72",
@@ -1813,8 +1802,7 @@
         "valor_unitario": 190.47619047619048,
         "iva": 952.3809523809525,
         "iva_pct": 5,
-        "total": 20000.000000000004,
-        "molienda": "grano"
+        "total": 20000.000000000004
       },
       {
         "sku": "GELA",
@@ -1824,8 +1812,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "grano"
+        "total": 37999.99999999999
       },
       {
         "sku": "PANA",
@@ -1835,8 +1822,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "grano"
+        "total": 37999.99999999999
       }
     ],
     "iva_total": 7571.428571428571,
@@ -1866,8 +1852,7 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000,
-        "molienda": "grano"
+        "total": 72000
       },
       {
         "sku": "DOM",
@@ -1907,8 +1892,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       },
       {
         "sku": "CGA",
@@ -1918,8 +1902,7 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999,
-        "molienda": "grano"
+        "total": 51999.99999999999
       },
       {
         "sku": "CMA",
@@ -1929,8 +1912,7 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999,
-        "molienda": "grano"
+        "total": 51999.99999999999
       },
       {
         "sku": "DOM",
@@ -1970,8 +1952,7 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999,
-        "molienda": "grano"
+        "total": 51999.99999999999
       },
       {
         "sku": "CGA",
@@ -1981,8 +1962,7 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999,
-        "molienda": "grano"
+        "total": 51999.99999999999
       },
       {
         "sku": "PANA",
@@ -1992,8 +1972,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       },
       {
         "sku": "DOM",
@@ -2033,8 +2012,7 @@
         "valor_unitario": 148.45938375350138,
         "iva": 2523.809523809524,
         "iva_pct": 5,
-        "total": 53000,
-        "molienda": "grano"
+        "total": 53000
       },
       {
         "sku": "DOM",
@@ -2074,8 +2052,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       }
     ],
     "iva_total": 2761.904761904762,
@@ -2105,8 +2082,7 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000,
-        "molienda": "grano"
+        "total": 72000
       },
       {
         "sku": "RLAC",
@@ -2116,8 +2092,7 @@
         "valor_unitario": 131.65266106442579,
         "iva": 2238.0952380952385,
         "iva_pct": 5,
-        "total": 47000.00000000001,
-        "molienda": "grano"
+        "total": 47000.00000000001
       },
       {
         "sku": "DOM",
@@ -2157,8 +2132,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       }
     ],
     "iva_total": 3619.0476190476193,
@@ -2188,8 +2162,7 @@
         "valor_unitario": 80,
         "iva": 10000,
         "iva_pct": 5,
-        "total": 210000,
-        "molienda": "grano"
+        "total": 210000
       },
       {
         "sku": "DOM",
@@ -2231,8 +2204,7 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000,
-        "molienda": "grano"
+        "total": 89000
       },
       {
         "sku": "DOM",
@@ -2272,8 +2244,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "grano"
+        "total": 37999.99999999999
       },
       {
         "sku": "JNA",
@@ -2283,8 +2254,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "grano"
+        "total": 37999.99999999999
       },
       {
         "sku": "CGA",
@@ -2294,8 +2264,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "grano"
+        "total": 23000
       },
       {
         "sku": "DOM",
@@ -2335,8 +2304,7 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000,
-        "molienda": "grano"
+        "total": 72000
       },
       {
         "sku": "DOM",
@@ -2376,8 +2344,7 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000,
-        "molienda": "grano"
+        "total": 42000
       },
       {
         "sku": "RLAS",
@@ -2387,8 +2354,7 @@
         "valor_unitario": 144.76190476190476,
         "iva": 1809.5238095238096,
         "iva_pct": 5,
-        "total": 38000,
-        "molienda": "grano"
+        "total": 38000
       },
       {
         "sku": "DOM",
@@ -2428,8 +2394,7 @@
         "valor_unitario": 160,
         "iva": 20000,
         "iva_pct": 5,
-        "total": 420000,
-        "molienda": "grano"
+        "total": 420000
       },
       {
         "sku": "DOM",
@@ -2471,8 +2436,7 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999,
-        "molienda": "grano"
+        "total": 51999.99999999999
       },
       {
         "sku": "DOM",
@@ -2512,8 +2476,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       },
       {
         "sku": "BBO",
@@ -2523,8 +2486,7 @@
         "valor_unitario": 220.95238095238093,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       },
       {
         "sku": "BHO72",
@@ -2534,8 +2496,7 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000,
-        "molienda": "grano"
+        "total": 42000
       },
       {
         "sku": "BNA",
@@ -2545,8 +2506,7 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000,
-        "molienda": "grano"
+        "total": 42000
       },
       {
         "sku": "DOM",
@@ -2588,8 +2548,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "grano"
+        "total": 17000
       },
       {
         "sku": "BNA120",
@@ -2599,8 +2558,7 @@
         "valor_unitario": 190.47619047619048,
         "iva": 952.3809523809525,
         "iva_pct": 5,
-        "total": 20000.000000000004,
-        "molienda": "grano"
+        "total": 20000.000000000004
       },
       {
         "sku": "BHO",
@@ -2610,8 +2568,7 @@
         "valor_unitario": 190.47619047619048,
         "iva": 952.3809523809525,
         "iva_pct": 5,
-        "total": 20000.000000000004,
-        "molienda": "grano"
+        "total": 20000.000000000004
       },
       {
         "sku": "CGA",
@@ -2621,8 +2578,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "grano"
+        "total": 23000
       },
       {
         "sku": "CMA",
@@ -2632,8 +2588,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "grano"
+        "total": 23000
       },
       {
         "sku": "PANA",
@@ -2643,8 +2598,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "grano"
+        "total": 37999.99999999999
       },
       {
         "sku": "DOM",
@@ -2684,8 +2638,7 @@
         "valor_unitario": 152.38095238095238,
         "iva": 3809.523809523809,
         "iva_pct": 5,
-        "total": 80000,
-        "molienda": "grano"
+        "total": 80000
       },
       {
         "sku": "BNA",
@@ -2695,8 +2648,7 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000,
-        "molienda": "grano"
+        "total": 42000
       },
       {
         "sku": "DOM",
@@ -2736,8 +2688,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       },
       {
         "sku": "RLAS",
@@ -2747,8 +2698,7 @@
         "valor_unitario": 144.76190476190476,
         "iva": 1809.5238095238096,
         "iva_pct": 5,
-        "total": 38000,
-        "molienda": "grano"
+        "total": 38000
       },
       {
         "sku": "RLAA",
@@ -2758,8 +2708,7 @@
         "valor_unitario": 144.76190476190476,
         "iva": 1809.5238095238096,
         "iva_pct": 5,
-        "total": 38000,
-        "molienda": "grano"
+        "total": 38000
       },
       {
         "sku": "BHO120",
@@ -2769,8 +2718,7 @@
         "valor_unitario": 190.47619047619048,
         "iva": 952.3809523809525,
         "iva_pct": 5,
-        "total": 20000.000000000004,
-        "molienda": "grano"
+        "total": 20000.000000000004
       },
       {
         "sku": "DOM",
@@ -2810,8 +2758,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "grano"
+        "total": 37999.99999999999
       },
       {
         "sku": "CMA",
@@ -2821,8 +2768,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "grano"
+        "total": 23000
       },
       {
         "sku": "BBO",
@@ -2832,8 +2778,7 @@
         "valor_unitario": 247.61904761904762,
         "iva": 1238.0952380952383,
         "iva_pct": 5,
-        "total": 26000,
-        "molienda": "grano"
+        "total": 26000
       },
       {
         "sku": "BHO",
@@ -2843,8 +2788,7 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000,
-        "molienda": "grano"
+        "total": 42000
       },
       {
         "sku": "DOM",
@@ -2884,8 +2828,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       },
       {
         "sku": "RLAS",
@@ -2895,8 +2838,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       },
       {
         "sku": "BNA",
@@ -2906,8 +2848,7 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000,
-        "molienda": "grano"
+        "total": 72000
       },
       {
         "sku": "BHO120",
@@ -2917,8 +2858,7 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000,
-        "molienda": "grano"
+        "total": 72000
       },
       {
         "sku": "PANA",
@@ -2928,8 +2868,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       },
       {
         "sku": "PNA",
@@ -2939,8 +2878,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       },
       {
         "sku": "BBO",
@@ -2950,8 +2888,7 @@
         "valor_unitario": 220.95238095238093,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       },
       {
         "sku": "DOM",
@@ -2973,8 +2910,7 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 49523.80952380952,
-        "molienda": "grano"
+        "descuento_valor": 49523.80952380952
       }
     ],
     "iva_total": 22380.95238095238,
@@ -3006,8 +2942,7 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096,
-        "molienda": "grano"
+        "descuento_valor": 3329.5238095238096
       },
       {
         "sku": "JNA",
@@ -3019,8 +2954,7 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096,
-        "molienda": "grano"
+        "descuento_valor": 3329.5238095238096
       },
       {
         "sku": "CGA",
@@ -3030,8 +2964,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "grano"
+        "total": 23000
       },
       {
         "sku": "BBO",
@@ -3041,8 +2974,7 @@
         "valor_unitario": 220.95238095238093,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       },
       {
         "sku": "DOM",
@@ -3084,8 +3016,7 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999,
-        "molienda": "grano"
+        "total": 51999.99999999999
       },
       {
         "sku": "CMA",
@@ -3095,8 +3026,7 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999,
-        "molienda": "grano"
+        "total": 51999.99999999999
       },
       {
         "sku": "CMA",
@@ -3106,8 +3036,7 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999,
-        "molienda": "grano"
+        "total": 51999.99999999999
       },
       {
         "sku": "DOM",
@@ -3149,8 +3078,7 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096,
-        "molienda": "grano"
+        "descuento_valor": 3329.5238095238096
       },
       {
         "sku": "JNA",
@@ -3162,8 +3090,7 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096,
-        "molienda": "grano"
+        "descuento_valor": 3329.5238095238096
       },
       {
         "sku": "DOM",
@@ -3205,8 +3132,7 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096,
-        "molienda": "grano"
+        "descuento_valor": 3329.5238095238096
       },
       {
         "sku": "JNA",
@@ -3218,8 +3144,7 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096,
-        "molienda": "grano"
+        "descuento_valor": 3329.5238095238096
       }
     ],
     "iva_total": 6905.142857142857,
@@ -3249,8 +3174,7 @@
         "valor_unitario": 148.45938375350138,
         "iva": 2523.809523809524,
         "iva_pct": 5,
-        "total": 53000,
-        "molienda": "grano"
+        "total": 53000
       }
     ],
     "iva_total": 2523.809523809524,
@@ -3282,8 +3206,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "BNA120",
@@ -3295,8 +3218,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "BHO",
@@ -3308,8 +3230,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "BHO72",
@@ -3321,8 +3242,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "BHO120",
@@ -3334,8 +3254,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "BHO",
@@ -3347,8 +3266,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "BHO72",
@@ -3360,8 +3278,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "BHO120",
@@ -3373,8 +3290,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "CMA",
@@ -3384,8 +3300,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "grano"
+        "total": 23000
       },
       {
         "sku": "CMA",
@@ -3395,8 +3310,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "grano"
+        "total": 23000
       },
       {
         "sku": "BSIN",
@@ -3406,8 +3320,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "grano"
+        "total": 37999.99999999999
       },
       {
         "sku": "DOM",
@@ -3449,8 +3362,7 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000,
-        "molienda": "grano"
+        "total": 72000
       },
       {
         "sku": "DOM",
@@ -3492,8 +3404,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "BHO72",
@@ -3505,8 +3416,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "BHO120",
@@ -3518,8 +3428,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "RLAC",
@@ -3529,8 +3438,7 @@
         "valor_unitario": 131.65266106442579,
         "iva": 2238.0952380952385,
         "iva_pct": 5,
-        "total": 47000.00000000001,
-        "molienda": "grano"
+        "total": 47000.00000000001
       },
       {
         "sku": "DOM",
@@ -3572,8 +3480,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "BNA120",
@@ -3585,8 +3492,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "BSIN",
@@ -3596,8 +3502,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       },
       {
         "sku": "DOM",
@@ -3637,8 +3542,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       },
       {
         "sku": "BNA120",
@@ -3648,8 +3552,7 @@
         "valor_unitario": 190.47619047619048,
         "iva": 952.3809523809525,
         "iva_pct": 5,
-        "total": 20000.000000000004,
-        "molienda": "grano"
+        "total": 20000.000000000004
       },
       {
         "sku": "JNA",
@@ -3659,8 +3562,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "grano"
+        "total": 37999.99999999999
       },
       {
         "sku": "DOM",
@@ -3702,8 +3604,7 @@
         "iva_pct": 5,
         "total": 132050,
         "descuento_pct": 5,
-        "descuento_valor": 6619.047619047618,
-        "molienda": "grano"
+        "descuento_valor": 6619.047619047618
       },
       {
         "sku": "JNA",
@@ -3715,8 +3616,7 @@
         "iva_pct": 5,
         "total": 132050,
         "descuento_pct": 5,
-        "descuento_valor": 6619.047619047618,
-        "molienda": "grano"
+        "descuento_valor": 6619.047619047618
       },
       {
         "sku": "DOM",
@@ -3758,8 +3658,7 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000,
-        "molienda": "grano"
+        "total": 89000
       },
       {
         "sku": "CMA",
@@ -3769,8 +3668,7 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000,
-        "molienda": "grano"
+        "total": 89000
       },
       {
         "sku": "BBO",
@@ -3782,8 +3680,7 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 55238.09523809524,
-        "molienda": "grano"
+        "descuento_valor": 55238.09523809524
       }
     ],
     "iva_total": 8476.190476190477,
@@ -3813,8 +3710,7 @@
         "valor_unitario": 190.47619047619048,
         "iva": 3238.0952380952385,
         "iva_pct": 5,
-        "total": 68000,
-        "molienda": "grano"
+        "total": 68000
       },
       {
         "sku": "CMA",
@@ -3824,8 +3720,7 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999,
-        "molienda": "grano"
+        "total": 51999.99999999999
       },
       {
         "sku": "DOM",
@@ -3865,8 +3760,7 @@
         "valor_unitario": 190.47619047619048,
         "iva": 952.3809523809525,
         "iva_pct": 5,
-        "total": 20000.000000000004,
-        "molienda": "grano"
+        "total": 20000.000000000004
       },
       {
         "sku": "CGA",
@@ -3876,8 +3770,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "grano"
+        "total": 23000
       },
       {
         "sku": "DOM",
@@ -3917,8 +3810,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       },
       {
         "sku": "RLAC",
@@ -3928,8 +3820,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       },
       {
         "sku": "DOM",
@@ -3969,8 +3860,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       },
       {
         "sku": "PANA",
@@ -3980,8 +3870,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       },
       {
         "sku": "DOM",
@@ -4021,8 +3910,7 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999,
-        "molienda": "grano"
+        "total": 51999.99999999999
       },
       {
         "sku": "CGA",
@@ -4032,8 +3920,7 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999,
-        "molienda": "grano"
+        "total": 51999.99999999999
       },
       {
         "sku": "BSIN",
@@ -4043,8 +3930,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       },
       {
         "sku": "DOM",
@@ -4086,8 +3972,7 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096,
-        "molienda": "grano"
+        "descuento_valor": 3329.5238095238096
       },
       {
         "sku": "JNA",
@@ -4099,8 +3984,7 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096,
-        "molienda": "grano"
+        "descuento_valor": 3329.5238095238096
       },
       {
         "sku": "BSIN",
@@ -4110,8 +3994,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "molido grueso"
+        "total": 76000
       },
       {
         "sku": "DOM",
@@ -4153,8 +4036,7 @@
         "valor_unitario": 188.57142857142856,
         "iva": 4714.285714285714,
         "iva_pct": 5,
-        "total": 98999.99999999999,
-        "molienda": "grano"
+        "total": 98999.99999999999
       },
       {
         "sku": "BBO",
@@ -4164,8 +4046,7 @@
         "valor_unitario": 188.57142857142856,
         "iva": 4714.285714285714,
         "iva_pct": 5,
-        "total": 98999.99999999999,
-        "molienda": "grano"
+        "total": 98999.99999999999
       },
       {
         "sku": "BHO120",
@@ -4175,8 +4056,7 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000,
-        "molienda": "grano"
+        "total": 72000
       },
       {
         "sku": "BHO120",
@@ -4186,8 +4066,7 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000,
-        "molienda": "grano"
+        "total": 72000
       },
       {
         "sku": "BNA",
@@ -4199,8 +4078,7 @@
         "iva_pct": 5,
         "total": 30240,
         "descuento_pct": 58,
-        "descuento_valor": 39771.428571428565,
-        "molienda": "grano"
+        "descuento_valor": 39771.428571428565
       },
       {
         "sku": "BNA",
@@ -4210,8 +4088,7 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000,
-        "molienda": "grano"
+        "total": 72000
       },
       {
         "sku": "DOM",
@@ -4251,8 +4128,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       },
       {
         "sku": "BHO120",
@@ -4262,8 +4138,7 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000,
-        "molienda": "grano"
+        "total": 42000
       },
       {
         "sku": "RLAC",
@@ -4273,8 +4148,7 @@
         "valor_unitario": 131.65266106442579,
         "iva": 2238.0952380952385,
         "iva_pct": 5,
-        "total": 47000.00000000001,
-        "molienda": "grano"
+        "total": 47000.00000000001
       }
     ],
     "iva_total": 7857.142857142858,
@@ -4304,8 +4178,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       }
     ],
     "iva_total": 3619.0476190476193,
@@ -4355,12 +4228,7 @@
       "codigo": 3,
       "valor": 289999.99999999994
     },
-    "observaciones": "",
-    "siigoId": "88f46158-4a17-465e-9e6c-a7135d92024d",
-    "siigoNumber": "FV-2-2433",
-    "cufe": null,
-    "siigoStatus": "Sincronizado",
-    "siigoSyncedAt": "2026-07-22T02:57:20.213Z"
+    "observaciones": ""
   },
   {
     "consecutivo": 2410,
@@ -4407,12 +4275,7 @@
       "codigo": 3,
       "valor": 88999.99999999999
     },
-    "observaciones": "Redime fidelización BBO 250g. No lleva stickers",
-    "siigoId": "c7dbb39a-dc6b-4514-8e30-330d25fa0352",
-    "siigoNumber": "FV-2-2434",
-    "cufe": null,
-    "siigoStatus": "Sincronizado",
-    "siigoSyncedAt": "2026-07-22T02:57:21.543Z"
+    "observaciones": "Redime fidelización BBO 250g. No lleva stickers"
   },
   {
     "consecutivo": 2411,
@@ -4491,12 +4354,7 @@
       "codigo": 3,
       "valor": 246000
     },
-    "observaciones": "Paga contraentrega 246.000",
-    "siigoId": "4ce7077f-65ba-4c55-bffc-7b73aba3744b",
-    "siigoNumber": "FV-2-2435",
-    "cufe": null,
-    "siigoStatus": "Sincronizado",
-    "siigoSyncedAt": "2026-07-22T02:57:22.568Z"
+    "observaciones": "Paga contraentrega 246.000"
   },
   {
     "consecutivo": 2412,
@@ -4557,12 +4415,7 @@
       "codigo": 3,
       "valor": 75000
     },
-    "observaciones": "",
-    "siigoId": "df6c8ffb-92b0-48e4-b88c-c598b90bff89",
-    "siigoNumber": "FV-2-2436",
-    "cufe": null,
-    "siigoStatus": "Sincronizado",
-    "siigoSyncedAt": "2026-07-22T02:57:23.284Z"
+    "observaciones": ""
   },
   {
     "consecutivo": 2413,
@@ -4597,12 +4450,7 @@
       "codigo": 3,
       "valor": 116000
     },
-    "observaciones": "Recoge",
-    "siigoId": "d0f2a10d-abdf-4479-980c-0786020489fa",
-    "siigoNumber": "FV-2-2437",
-    "cufe": null,
-    "siigoStatus": "Sincronizado",
-    "siigoSyncedAt": "2026-07-22T02:57:23.974Z"
+    "observaciones": "Recoge"
   },
   {
     "consecutivo": 2414,
@@ -4637,12 +4485,7 @@
       "codigo": 3,
       "valor": 116999.99999999999
     },
-    "observaciones": "",
-    "siigoId": "bc0d14ec-725b-4704-b97f-40213f99ef09",
-    "siigoNumber": "FV-2-2438",
-    "cufe": null,
-    "siigoStatus": "Sincronizado",
-    "siigoSyncedAt": "2026-07-22T02:57:24.718Z"
+    "observaciones": ""
   },
   {
     "consecutivo": 2415,
@@ -4682,12 +4525,7 @@
       "codigo": 3,
       "valor": 0
     },
-    "observaciones": "Recoge Thomas o Mateo",
-    "siigoId": "07a4e99a-2f37-4368-9a69-d2c94f615861",
-    "siigoNumber": "FV-2-2439",
-    "cufe": null,
-    "siigoStatus": "Sincronizado",
-    "siigoSyncedAt": "2026-07-22T02:57:25.436Z"
+    "observaciones": "Recoge Thomas o Mateo"
   },
   {
     "consecutivo": 2416,
@@ -4761,12 +4599,7 @@
       "codigo": 3,
       "valor": 203008
     },
-    "observaciones": "Lo lleva don Antonio",
-    "siigoId": "bc3c2ab2-4eff-4265-aa7f-d4bfa3e5a7f6",
-    "siigoNumber": "FV-2-2440",
-    "cufe": null,
-    "siigoStatus": "Sincronizado",
-    "siigoSyncedAt": "2026-07-22T02:57:26.272Z"
+    "observaciones": "Lo lleva don Antonio"
   },
   {
     "consecutivo": 2417,
@@ -4802,12 +4635,7 @@
       "codigo": 3,
       "valor": 72000
     },
-    "observaciones": "Lo lleva don Antonio",
-    "siigoId": "5220158c-a75e-4565-8cc9-d8651a386de6",
-    "siigoNumber": "FV-2-2441",
-    "cufe": null,
-    "siigoStatus": "Sincronizado",
-    "siigoSyncedAt": "2026-07-22T02:57:27.521Z"
+    "observaciones": "Lo lleva don Antonio"
   },
   {
     "consecutivo": 2418,
@@ -4843,12 +4671,7 @@
       "codigo": 3,
       "valor": 37000
     },
-    "observaciones": "Enviar con mensajero al Hmua",
-    "siigoId": "f9dd6e99-a514-49ab-ab88-1c00e1632f4b",
-    "siigoNumber": "FV-2-2442",
-    "cufe": null,
-    "siigoStatus": "Sincronizado",
-    "siigoSyncedAt": "2026-07-22T02:57:28.508Z"
+    "observaciones": "Enviar con mensajero al Hmua"
   },
   {
     "consecutivo": 2419,
@@ -4894,12 +4717,7 @@
       "codigo": 3,
       "valor": 134000
     },
-    "observaciones": "",
-    "siigoId": "fdba316a-ef6a-4c8a-a142-949c10e61265",
-    "siigoNumber": "FV-2-2443",
-    "cufe": null,
-    "siigoStatus": "Sincronizado",
-    "siigoSyncedAt": "2026-07-22T02:57:29.191Z"
+    "observaciones": ""
   },
   {
     "consecutivo": 2420,
@@ -4927,12 +4745,7 @@
       "codigo": 3,
       "valor": 34200
     },
-    "observaciones": "",
-    "siigoId": "5d7dcb75-5e14-44a7-a9d3-aba998681f13",
-    "siigoNumber": "FV-2-2444",
-    "cufe": null,
-    "siigoStatus": "Sincronizado",
-    "siigoSyncedAt": "2026-07-22T02:57:30.010Z"
+    "observaciones": ""
   },
   {
     "consecutivo": 2421,
@@ -4952,8 +4765,7 @@
         "iva_pct": 5,
         "total": 49400,
         "descuento_pct": 5,
-        "descuento_valor": 2476.190476190476,
-        "molienda": "molido fino"
+        "descuento_valor": 2476.190476190476
       },
       {
         "sku": "BBO",
@@ -4965,8 +4777,7 @@
         "iva_pct": 5,
         "total": 55100,
         "descuento_pct": 5,
-        "descuento_valor": 2761.904761904762,
-        "molienda": "molido fino"
+        "descuento_valor": 2761.904761904762
       },
       {
         "sku": "PANA",
@@ -4978,8 +4789,7 @@
         "iva_pct": 5,
         "total": 72200,
         "descuento_pct": 5,
-        "descuento_valor": 3619.0476190476193,
-        "molienda": "molido fino"
+        "descuento_valor": 3619.0476190476193
       },
       {
         "sku": "BNA120",
@@ -4991,8 +4801,7 @@
         "iva_pct": 5,
         "total": 50349.99999999999,
         "descuento_pct": 5,
-        "descuento_valor": 2523.809523809524,
-        "molienda": "molido fino"
+        "descuento_valor": 2523.809523809524
       },
       {
         "sku": "RLAS",
@@ -5004,8 +4813,7 @@
         "iva_pct": 5,
         "total": 36100,
         "descuento_pct": 5,
-        "descuento_valor": 1809.5238095238096,
-        "molienda": "molido fino"
+        "descuento_valor": 1809.5238095238096
       },
       {
         "sku": "CGA",
@@ -5017,8 +4825,7 @@
         "iva_pct": 5,
         "total": 49400,
         "descuento_pct": 5,
-        "descuento_valor": 2476.190476190476,
-        "molienda": "molido fino"
+        "descuento_valor": 2476.190476190476
       },
       {
         "sku": "DOM",
@@ -5042,8 +4849,7 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 49523.80952380952,
-        "molienda": "molido fino"
+        "descuento_valor": 49523.80952380952
       }
     ],
     "iva_total": 14883.333333333334,
@@ -5074,8 +4880,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       }
     ],
     "iva_total": 2761.904761904762,
@@ -5417,8 +5222,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "BHO72",
@@ -5430,8 +5234,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "BHO120",
@@ -5443,8 +5246,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "CGA",
@@ -5454,8 +5256,7 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999,
-        "molienda": "grano"
+        "total": 51999.99999999999
       },
       {
         "sku": "DOM",
@@ -5477,8 +5278,7 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 47619.04761904762,
-        "molienda": "grano"
+        "descuento_valor": 47619.04761904762
       }
     ],
     "iva_total": 5190.476190476191,
@@ -5509,8 +5309,7 @@
         "valor_unitario": 144.76190476190476,
         "iva": 1809.5238095238096,
         "iva_pct": 5,
-        "total": 38000,
-        "molienda": "grano"
+        "total": 38000
       },
       {
         "sku": "BNA120",
@@ -5520,8 +5319,7 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000,
-        "molienda": "grano"
+        "total": 42000
       },
       {
         "sku": "PANA",
@@ -5531,8 +5329,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "grano"
+        "total": 37999.99999999999
       },
       {
         "sku": "DOM",
@@ -5728,8 +5525,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 5523.809523809524,
         "iva_pct": 5,
-        "total": 116000,
-        "molienda": "grano"
+        "total": 116000
       },
       {
         "sku": "DOM",
@@ -5770,8 +5566,7 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000,
-        "molienda": "grano"
+        "total": 89000
       },
       {
         "sku": "DOM",
@@ -5812,8 +5607,7 @@
         "valor_unitario": 80,
         "iva": 10000,
         "iva_pct": 5,
-        "total": 210000,
-        "molienda": "molido medio"
+        "total": 210000
       }
     ],
     "iva_total": 10000,
@@ -5844,8 +5638,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       }
     ],
     "iva_total": 3619.0476190476193,
@@ -5859,5 +5652,31 @@
     "cufe": null,
     "siigoStatus": "Sincronizado",
     "siigoSyncedAt": "2026-07-22T00:23:23.466Z"
+  },
+  {
+    "consecutivo": 2445,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "12345678901",
+    "nombre_tercero": "Prueba 2",
+    "fecha_elaboracion": "2026-07-21",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAA",
+        "producto": "Regional Lavado Andes",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 131.65266106442579,
+        "iva": 2238.0952380952385,
+        "iva_pct": 5,
+        "total": 47000.00000000001
+      }
+    ],
+    "iva_total": 2238.0952380952385,
+    "forma_pago": {
+      "codigo": 1,
+      "valor": 47000.00000000001
+    },
+    "observaciones": ""
   }
 ]
