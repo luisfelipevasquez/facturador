@@ -5018,7 +5018,12 @@
       "codigo": 3,
       "valor": 58000
     },
-    "observaciones": "Recoge"
+    "observaciones": "Recoge",
+    "siigoId": "9327ce59-efb6-4000-b203-e609e682ba04",
+    "siigoNumber": "FV-2-2431",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T02:43:27.022Z"
   },
   {
     "consecutivo": 2423,
