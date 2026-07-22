@@ -750,5 +750,21 @@
     "Teléfono móvil de contacto": "3136954258",
     "Estado": "Activo",
     "siigoId": "dc4307af-fd50-4fc4-85f9-77049c149524"
+  },
+  {
+    "Nombre tercero": "Prueba 2",
+    "Tipo de identificación": "13",
+    "Identificación": "12345678901",
+    "Dirección": "CAlle 10 # 20 - 30",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "57 3123456789",
+    "Correo electrónico": "prueba@prueba.com",
+    "Nombres contacto": "Prueba",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "57 3123456789",
+    "Estado": "Activo",
+    "siigoId": "f81e1d51-b58e-4f85-9b78-bd0e6e532901"
   }
 ]
