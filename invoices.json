@@ -3249,7 +3249,7 @@
     "consecutivo": 2392,
     "tipo_comprobante": 2,
     "identificacion_tercero": "1032502835",
-    "fecha_elaboracion": "2026-07-10",
+    "fecha_elaboracion": "2026-07-21",
     "identificacion_vendedor": "901906362",
     "items": [
       {
@@ -3262,7 +3262,8 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525
+        "descuento_valor": 952.3809523809525,
+        "molienda": "grano"
       },
       {
         "sku": "BNA120",
@@ -3274,7 +3275,8 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525
+        "descuento_valor": 952.3809523809525,
+        "molienda": "grano"
       },
       {
         "sku": "BHO",
@@ -3286,7 +3288,8 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525
+        "descuento_valor": 952.3809523809525,
+        "molienda": "grano"
       },
       {
         "sku": "BHO72",
@@ -3298,7 +3301,8 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525
+        "descuento_valor": 952.3809523809525,
+        "molienda": "grano"
       },
       {
         "sku": "BHO120",
@@ -3310,7 +3314,8 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525
+        "descuento_valor": 952.3809523809525,
+        "molienda": "grano"
       },
       {
         "sku": "BHO",
@@ -3322,7 +3327,8 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525
+        "descuento_valor": 952.3809523809525,
+        "molienda": "grano"
       },
       {
         "sku": "BHO72",
@@ -3334,7 +3340,8 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525
+        "descuento_valor": 952.3809523809525,
+        "molienda": "grano"
       },
       {
         "sku": "BHO120",
@@ -3346,7 +3353,8 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525
+        "descuento_valor": 952.3809523809525,
+        "molienda": "grano"
       },
       {
         "sku": "CMA",
@@ -3356,7 +3364,8 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000
+        "total": 23000,
+        "molienda": "grano"
       },
       {
         "sku": "CMA",
@@ -3366,7 +3375,8 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000
+        "total": 23000,
+        "molienda": "grano"
       },
       {
         "sku": "BSIN",
@@ -3376,7 +3386,8 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999
+        "total": 37999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
