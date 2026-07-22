@@ -4963,8 +4963,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "BHO72",
@@ -4976,8 +4975,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "BHO120",
@@ -4989,8 +4987,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "CGA",
@@ -5000,8 +4997,7 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999,
-        "molienda": "grano"
+        "total": 51999.99999999999
       },
       {
         "sku": "DOM",
@@ -5023,8 +5019,7 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 47619.04761904762,
-        "molienda": "grano"
+        "descuento_valor": 47619.04761904762
       }
     ],
     "iva_total": 5190.476190476191,
@@ -5050,8 +5045,7 @@
         "valor_unitario": 144.76190476190476,
         "iva": 1809.5238095238096,
         "iva_pct": 5,
-        "total": 38000,
-        "molienda": "grano"
+        "total": 38000
       },
       {
         "sku": "BNA120",
@@ -5061,8 +5055,7 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000,
-        "molienda": "grano"
+        "total": 42000
       },
       {
         "sku": "PANA",
@@ -5072,8 +5065,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "grano"
+        "total": 37999.99999999999
       },
       {
         "sku": "DOM",
@@ -5290,8 +5282,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 5523.809523809524,
         "iva_pct": 5,
-        "total": 116000,
-        "molienda": "grano"
+        "total": 116000
       },
       {
         "sku": "DOM",
@@ -5332,8 +5323,7 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000,
-        "molienda": "grano"
+        "total": 89000
       },
       {
         "sku": "DOM",
@@ -5357,5 +5347,31 @@
     "cufe": null,
     "siigoStatus": "Sincronizado",
     "siigoSyncedAt": "2026-07-21T23:54:10.695Z"
+  },
+  {
+    "consecutivo": 2436,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1112773294",
+    "nombre_tercero": "Santiago Guzmán Martínez",
+    "fecha_elaboracion": "2026-07-21",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAA",
+        "producto": "Regional Lavado Andes",
+        "presentacion": "2500g",
+        "cantidad": 2500,
+        "valor_unitario": 80,
+        "iva": 10000,
+        "iva_pct": 5,
+        "total": 210000
+      }
+    ],
+    "iva_total": 10000,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 210000
+    },
+    "observaciones": ""
   }
 ]
