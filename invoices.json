@@ -3649,7 +3649,7 @@
     "consecutivo": 2398,
     "tipo_comprobante": 2,
     "identificacion_tercero": "901958558",
-    "fecha_elaboracion": "2026-07-13",
+    "fecha_elaboracion": "2026-07-21",
     "identificacion_vendedor": "901906362",
     "items": [
       {
@@ -3662,7 +3662,8 @@
         "iva_pct": 5,
         "total": 132050,
         "descuento_pct": 5,
-        "descuento_valor": 6619.047619047618
+        "descuento_valor": 6619.047619047618,
+        "molienda": "grano"
       },
       {
         "sku": "JNA",
@@ -3674,7 +3675,8 @@
         "iva_pct": 5,
         "total": 132050,
         "descuento_pct": 5,
-        "descuento_valor": 6619.047619047618
+        "descuento_valor": 6619.047619047618,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
