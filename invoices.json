@@ -2406,7 +2406,12 @@
       "codigo": 3,
       "valor": 98000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "fe8b1f6c-e004-43a5-8c16-80775ef62215",
+    "siigoNumber": "FV-2-2401",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T01:04:34.154Z"
   },
   {
     "consecutivo": 2379,
@@ -2444,7 +2449,12 @@
       "codigo": 3,
       "valor": 420000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "02fa2c91-f6e4-4f85-9283-ceba31501cf0",
+    "siigoNumber": "FV-2-2402",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T01:04:34.837Z"
   },
   {
     "consecutivo": 2380,
@@ -2480,7 +2490,12 @@
       "codigo": 3,
       "valor": 66000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "5876e85d-a828-4a52-b443-6a50c0b445db",
+    "siigoNumber": "FV-2-2403",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T01:04:35.486Z"
   },
   {
     "consecutivo": 2381,
@@ -2551,7 +2566,12 @@
       "codigo": 3,
       "valor": 218000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "77b3b94f-ab68-4aef-bf44-2179b6c2f196",
+    "siigoNumber": "FV-2-2404",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T01:04:36.408Z"
   },
   {
     "consecutivo": 2382,
@@ -2642,7 +2662,12 @@
       "codigo": 3,
       "valor": 159000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "8f77e987-8c35-4e9b-8638-775b4e9abc7d",
+    "siigoNumber": "FV-2-2405",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T01:04:37.231Z"
   },
   {
     "consecutivo": 2383,
@@ -2689,7 +2714,12 @@
       "codigo": 3,
       "valor": 140000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "c703234e-a4ee-438f-9d0d-266454097dc3",
+    "siigoNumber": "FV-2-2406",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T01:04:37.943Z"
   },
   {
     "consecutivo": 2384,
@@ -2758,7 +2788,12 @@
       "codigo": 3,
       "valor": 172000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "b524ef0d-14fa-4aed-b0b6-77b95b603880",
+    "siigoNumber": "FV-2-2407",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T01:04:38.659Z"
   },
   {
     "consecutivo": 2385,
@@ -2827,7 +2862,12 @@
       "codigo": 3,
       "valor": 147000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "ebff4ffe-82a0-46fd-a371-88b89511d65a",
+    "siigoNumber": "FV-2-2408",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T01:04:39.380Z"
   },
   {
     "consecutivo": 2386,
@@ -2942,7 +2982,12 @@
       "codigo": 3,
       "valor": 642000
     },
-    "observaciones": "Adicionar 250g CMA fidelización en grano y adicionar a la factura. Enviar con mensajero a Christian en Calle 55 # 80-39, interior 101"
+    "observaciones": "Adicionar 250g CMA fidelización en grano y adicionar a la factura. Enviar con mensajero a Christian en Calle 55 # 80-39, interior 101",
+    "siigoId": "7edfb43a-933d-47ca-b911-3c42fcd61197",
+    "siigoNumber": "FV-2-2409",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T01:04:40.071Z"
   },
   {
     "consecutivo": 2387,
@@ -3017,7 +3062,12 @@
       "codigo": 3,
       "valor": 226008
     },
-    "observaciones": "Envío nacional gratis y corregir factura"
+    "observaciones": "Envío nacional gratis y corregir factura",
+    "siigoId": "4d054b8b-0363-45f2-a77b-f17fa2d4d4f9",
+    "siigoNumber": "FV-2-2410",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T01:04:41.014Z"
   },
   {
     "consecutivo": 2388,
@@ -3075,7 +3125,12 @@
       "codigo": 3,
       "valor": 169999.99999999997
     },
-    "observaciones": "Enviar a Felipe Zapata a Calle 9 #72-50 Bizet Ap 504"
+    "observaciones": "Enviar a Felipe Zapata a Calle 9 #72-50 Bizet Ap 504",
+    "siigoId": "b5f21cf8-eabc-42cc-9132-c240d0bc744b",
+    "siigoNumber": "FV-2-2411",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T01:04:42.858Z"
   },
   {
     "consecutivo": 2389,
