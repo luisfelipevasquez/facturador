@@ -2410,7 +2410,7 @@
     "consecutivo": 2379,
     "tipo_comprobante": 2,
     "identificacion_tercero": "1024598643",
-    "fecha_elaboracion": "2026-07-09",
+    "fecha_elaboracion": "2026-07-21",
     "identificacion_vendedor": "901906362",
     "items": [
       {
@@ -2421,7 +2421,8 @@
         "valor_unitario": 160,
         "iva": 20000,
         "iva_pct": 5,
-        "total": 420000
+        "total": 420000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
