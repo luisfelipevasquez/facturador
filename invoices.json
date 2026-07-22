@@ -4355,7 +4355,12 @@
       "codigo": 3,
       "valor": 289999.99999999994
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "88f46158-4a17-465e-9e6c-a7135d92024d",
+    "siigoNumber": "FV-2-2433",
+    "cufe": "b12ad05f003516228f8ddf056cf77bc19a8a174cbb5c084811d61ecd8dd3c9e65b9e0a46fc9a60a0f013019c27bba309",
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T04:01:49.964Z"
   },
   {
     "consecutivo": 2410,
@@ -4402,7 +4407,12 @@
       "codigo": 3,
       "valor": 88999.99999999999
     },
-    "observaciones": "Redime fidelización BBO 250g. No lleva stickers"
+    "observaciones": "Redime fidelización BBO 250g. No lleva stickers",
+    "siigoId": "c7dbb39a-dc6b-4514-8e30-330d25fa0352",
+    "siigoNumber": "FV-2-2434",
+    "cufe": "2ba1d2b97e205b8b93d2cd638a3dd82c32eb254a46e0a2ac2bd6dac9bc0f972eae55051badffe1f8f0fddd21431d1089",
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T04:01:49.964Z"
   },
   {
     "consecutivo": 2411,
@@ -4481,7 +4491,12 @@
       "codigo": 3,
       "valor": 246000
     },
-    "observaciones": "Paga contraentrega 246.000"
+    "observaciones": "Paga contraentrega 246.000",
+    "siigoId": "4ce7077f-65ba-4c55-bffc-7b73aba3744b",
+    "siigoNumber": "FV-2-2435",
+    "cufe": "a397954abcb54b8b5fd43fba940e82c2d32ccb81665887b96151b004c342bc9f0b7bf7ae8cab1a670046d9c3bc47694a",
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T04:01:49.964Z"
   },
   {
     "consecutivo": 2412,
@@ -4542,7 +4557,12 @@
       "codigo": 3,
       "valor": 75000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "df6c8ffb-92b0-48e4-b88c-c598b90bff89",
+    "siigoNumber": "FV-2-2436",
+    "cufe": "a59a4346624199dbef39ade76dd84a108bd85b2a1106d615f5f8690e28b75ac794fc2fdddb740c9bb0754a0c0325ede6",
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T04:01:49.964Z"
   },
   {
     "consecutivo": 2413,
@@ -4577,7 +4597,12 @@
       "codigo": 3,
       "valor": 116000
     },
-    "observaciones": "Recoge"
+    "observaciones": "Recoge",
+    "siigoId": "d0f2a10d-abdf-4479-980c-0786020489fa",
+    "siigoNumber": "FV-2-2437",
+    "cufe": "c29db70f08d97e387456fe25d6b3e8705361339de897ab2af488eaaa6d2a488df0d290b01e780f4b064a4f5b09e04fac",
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T04:01:49.964Z"
   },
   {
     "consecutivo": 2414,
@@ -4612,7 +4637,12 @@
       "codigo": 3,
       "valor": 116999.99999999999
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "bc0d14ec-725b-4704-b97f-40213f99ef09",
+    "siigoNumber": "FV-2-2438",
+    "cufe": "463466f7f28adaeeefe71fbb027f2784d8e049fcb1244ee7a065439ac211f11c3d85fc4d9721f01d5144a574bd8dbfc1",
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T04:01:49.964Z"
   },
   {
     "consecutivo": 2415,
@@ -4726,7 +4756,12 @@
       "codigo": 3,
       "valor": 203008
     },
-    "observaciones": "Lo lleva don Antonio"
+    "observaciones": "Lo lleva don Antonio",
+    "siigoId": "bc3c2ab2-4eff-4265-aa7f-d4bfa3e5a7f6",
+    "siigoNumber": "FV-2-2440",
+    "cufe": "1cfba75569e5b5c343311ee32c3479ee41a3143b8070adba30e1164c37ebc86964c21a637f0a8186a2fdec12b8a6703f",
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T04:01:49.964Z"
   },
   {
     "consecutivo": 2417,
@@ -4762,7 +4797,12 @@
       "codigo": 3,
       "valor": 72000
     },
-    "observaciones": "Lo lleva don Antonio"
+    "observaciones": "Lo lleva don Antonio",
+    "siigoId": "5220158c-a75e-4565-8cc9-d8651a386de6",
+    "siigoNumber": "FV-2-2441",
+    "cufe": "353af750d7aac233cfccc9316e3d5055c9d1a7e5295be549c265e7900a4c39bb907147d5f37bb544d91d8c28509981ad",
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T04:01:49.964Z"
   },
   {
     "consecutivo": 2418,
@@ -4798,7 +4838,12 @@
       "codigo": 3,
       "valor": 37000
     },
-    "observaciones": "Enviar con mensajero al Hmua"
+    "observaciones": "Enviar con mensajero al Hmua",
+    "siigoId": "f9dd6e99-a514-49ab-ab88-1c00e1632f4b",
+    "siigoNumber": "FV-2-2442",
+    "cufe": "ce160e1458346baf5d6c210da34389b1da8852a46f7cb593cad497ac4f082b682e370ec95fa78d8ccd13ef71d25d6dbc",
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T04:01:49.964Z"
   },
   {
     "consecutivo": 2419,
@@ -4844,7 +4889,12 @@
       "codigo": 3,
       "valor": 134000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "fdba316a-ef6a-4c8a-a142-949c10e61265",
+    "siigoNumber": "FV-2-2443",
+    "cufe": "58d63bf5a76475a9a2d15a9e0b64151e37d09a4c1dfe8916f6ab17dad8a1a7caa1b58c69ab0947869b92c03d865df9a4",
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T04:01:49.964Z"
   },
   {
     "consecutivo": 2420,
@@ -4872,7 +4922,12 @@
       "codigo": 3,
       "valor": 34200
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "5d7dcb75-5e14-44a7-a9d3-aba998681f13",
+    "siigoNumber": "FV-2-2444",
+    "cufe": "b37e7cc7a880b97725f048ebe12b0cebd7bc426ec2c23b70ee8b9908645c8c2d1ae20a00708c6b71f8ab54370fa0cedf",
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T04:01:49.964Z"
   },
   {
     "consecutivo": 2421,
