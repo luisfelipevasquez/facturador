@@ -5034,7 +5034,7 @@
     "tipo_comprobante": 2,
     "identificacion_tercero": "1020835316",
     "nombre_tercero": "Juan Carlos Ramirez",
-    "fecha_elaboracion": "2026-07-20",
+    "fecha_elaboracion": "2026-07-21",
     "identificacion_vendedor": "901906362",
     "items": [
       {
@@ -5045,7 +5045,8 @@
         "valor_unitario": 144.76190476190476,
         "iva": 1809.5238095238096,
         "iva_pct": 5,
-        "total": 38000
+        "total": 38000,
+        "molienda": "grano"
       },
       {
         "sku": "BNA120",
@@ -5055,7 +5056,8 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000
+        "total": 42000,
+        "molienda": "grano"
       },
       {
         "sku": "PANA",
@@ -5065,7 +5067,8 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999
+        "total": 37999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
