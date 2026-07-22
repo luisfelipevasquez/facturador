@@ -2365,7 +2365,7 @@
     "consecutivo": 2378,
     "tipo_comprobante": 2,
     "identificacion_tercero": "1018412104",
-    "fecha_elaboracion": "2026-07-09",
+    "fecha_elaboracion": "2026-07-21",
     "identificacion_vendedor": "901906362",
     "items": [
       {
@@ -2376,7 +2376,8 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000
+        "total": 42000,
+        "molienda": "grano"
       },
       {
         "sku": "RLAS",
@@ -2386,7 +2387,8 @@
         "valor_unitario": 144.76190476190476,
         "iva": 1809.5238095238096,
         "iva_pct": 5,
-        "total": 38000
+        "total": 38000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
