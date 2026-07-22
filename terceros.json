@@ -734,5 +734,21 @@
     "Teléfono móvil de contacto": "3194061143",
     "Estado": "Activo",
     "siigoId": "e0fc1de9-76c5-4659-bb1e-6bcdc568b9d2"
+  },
+  {
+    "Nombre tercero": "Santiago Guzmán Martínez",
+    "Tipo de identificación": "13",
+    "Identificación": "1112773294",
+    "Dirección": "Carrera 27F 34DD sur 23 Mirasur apto 405",
+    "Ciudad": "Envigado",
+    "Código departamento": "05",
+    "Código ciudad": "05266",
+    "Teléfono.": "3136954258",
+    "Correo electrónico": "santi.guzman0428@gmail.com",
+    "Nombres contacto": "Santiago",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3136954258",
+    "Estado": "Activo",
+    "siigoId": "dc4307af-fd50-4fc4-85f9-77049c149524"
   }
 ]
