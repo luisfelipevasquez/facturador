@@ -2679,7 +2679,7 @@
     "consecutivo": 2384,
     "tipo_comprobante": 2,
     "identificacion_tercero": "56079340",
-    "fecha_elaboracion": "2026-07-09",
+    "fecha_elaboracion": "2026-07-21",
     "identificacion_vendedor": "901906362",
     "items": [
       {
@@ -2690,7 +2690,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "grano"
       },
       {
         "sku": "RLAS",
@@ -2700,7 +2701,8 @@
         "valor_unitario": 144.76190476190476,
         "iva": 1809.5238095238096,
         "iva_pct": 5,
-        "total": 38000
+        "total": 38000,
+        "molienda": "grano"
       },
       {
         "sku": "RLAA",
@@ -2710,7 +2712,8 @@
         "valor_unitario": 144.76190476190476,
         "iva": 1809.5238095238096,
         "iva_pct": 5,
-        "total": 38000
+        "total": 38000,
+        "molienda": "grano"
       },
       {
         "sku": "BHO120",
@@ -2720,7 +2723,8 @@
         "valor_unitario": 190.47619047619048,
         "iva": 952.3809523809525,
         "iva_pct": 5,
-        "total": 20000.000000000004
+        "total": 20000.000000000004,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
