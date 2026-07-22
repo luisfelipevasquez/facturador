@@ -4112,7 +4112,7 @@
     "consecutivo": 2406,
     "tipo_comprobante": 2,
     "identificacion_tercero": "1014207804",
-    "fecha_elaboracion": "2026-07-15",
+    "fecha_elaboracion": "2026-07-21",
     "identificacion_vendedor": "901906362",
     "items": [
       {
@@ -4123,7 +4123,8 @@
         "valor_unitario": 188.57142857142856,
         "iva": 4714.285714285714,
         "iva_pct": 5,
-        "total": 98999.99999999999
+        "total": 98999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "BBO",
@@ -4133,7 +4134,8 @@
         "valor_unitario": 188.57142857142856,
         "iva": 4714.285714285714,
         "iva_pct": 5,
-        "total": 98999.99999999999
+        "total": 98999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "BHO120",
@@ -4143,7 +4145,8 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000
+        "total": 72000,
+        "molienda": "grano"
       },
       {
         "sku": "BHO120",
@@ -4153,7 +4156,8 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000
+        "total": 72000,
+        "molienda": "grano"
       },
       {
         "sku": "BNA",
@@ -4165,7 +4169,8 @@
         "iva_pct": 5,
         "total": 30240,
         "descuento_pct": 58,
-        "descuento_valor": 39771.428571428565
+        "descuento_valor": 39771.428571428565,
+        "molienda": "grano"
       },
       {
         "sku": "BNA",
@@ -4175,7 +4180,8 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000
+        "total": 72000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -4193,7 +4199,7 @@
       "codigo": 3,
       "valor": 616240
     },
-    "observaciones": "Enviar con Alejo a Christian Foronda\nCalle 55 # 80-39, interior 101\n+57 321 6709691"
+    "observaciones": "Enviar con Alejo a Christian ForondaCalle 55 # 80-39, interior 101+57 321 6709691"
   },
   {
     "consecutivo": 2407,
