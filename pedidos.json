@@ -339,7 +339,7 @@
   },
   {
     "consecutivo": 2360,
-    "fecha": "2026-07-05",
+    "fecha": "2026-07-21",
     "tercero": "Fabian Andres Suarez Mojica",
     "identificacion": "1010245532",
     "productos": "RLAC 500g x500",
@@ -353,13 +353,13 @@
       {
         "sku": "RLAC",
         "presentacion": "500g",
-        "molienda": "molido fino"
+        "molienda": "grano"
       }
     ]
   },
   {
     "consecutivo": 2361,
-    "fecha": "2026-07-05",
+    "fecha": "2026-07-21",
     "tercero": "Adriana Maria Vasquez",
     "identificacion": "43525780",
     "productos": "CGA 500g x500",
@@ -379,7 +379,7 @@
   },
   {
     "consecutivo": 2362,
-    "fecha": "2026-07-05",
+    "fecha": "2026-07-21",
     "tercero": "Deyvin Grisales Patiño",
     "identificacion": "71228203",
     "productos": "RLAC 500g x500",
@@ -393,13 +393,13 @@
       {
         "sku": "RLAC",
         "presentacion": "500g",
-        "molienda": "molido grueso"
+        "molienda": "grano"
       }
     ]
   },
   {
     "consecutivo": 2363,
-    "fecha": "2026-07-05",
+    "fecha": "2026-07-21",
     "tercero": "David Arango",
     "identificacion": "1022360488",
     "productos": "PNA 250g x250, JNA 250g x250",
@@ -444,7 +444,7 @@
   },
   {
     "consecutivo": 2365,
-    "fecha": "2026-07-05",
+    "fecha": "2026-07-21",
     "tercero": "Consumidor Final",
     "identificacion": "222222222222",
     "productos": "BBO 100g x100, BSIN 100g x100, CGA 100g x100",
@@ -458,23 +458,23 @@
       {
         "sku": "BBO",
         "presentacion": "100g",
-        "molienda": "molido grueso"
+        "molienda": "grano"
       },
       {
         "sku": "BSIN",
         "presentacion": "100g",
-        "molienda": "molido grueso"
+        "molienda": "grano"
       },
       {
         "sku": "CGA",
         "presentacion": "100g",
-        "molienda": "molido grueso"
+        "molienda": "grano"
       }
     ]
   },
   {
     "consecutivo": 2366,
-    "fecha": "2026-07-05",
+    "fecha": "2026-07-21",
     "tercero": "Luis Felipe Vasquez Jimenez",
     "identificacion": "8028804",
     "productos": "RLAS 100g x100, CMA 100g x100, CGA 100g x100, BHO72 100g x100, GELA 100g x100, PANA 100g x100",
@@ -488,38 +488,38 @@
       {
         "sku": "RLAS",
         "presentacion": "100g",
-        "molienda": "molido medio"
+        "molienda": "grano"
       },
       {
         "sku": "CMA",
         "presentacion": "100g",
-        "molienda": "molido medio"
+        "molienda": "grano"
       },
       {
         "sku": "CGA",
         "presentacion": "100g",
-        "molienda": "molido medio"
+        "molienda": "grano"
       },
       {
         "sku": "BHO72",
         "presentacion": "100g",
-        "molienda": "molido medio"
+        "molienda": "grano"
       },
       {
         "sku": "GELA",
         "presentacion": "100g",
-        "molienda": "molido medio"
+        "molienda": "grano"
       },
       {
         "sku": "PANA",
         "presentacion": "100g",
-        "molienda": "molido medio"
+        "molienda": "grano"
       }
     ]
   },
   {
     "consecutivo": 2367,
-    "fecha": "2026-07-06",
+    "fecha": "2026-07-21",
     "tercero": "Ricardo León Lopera Echeverri",
     "identificacion": "98561035",
     "productos": "BHO120 500g x500",
@@ -533,13 +533,13 @@
       {
         "sku": "BHO120",
         "presentacion": "500g",
-        "molienda": "molido grueso"
+        "molienda": "grano"
       }
     ]
   },
   {
     "consecutivo": 2368,
-    "fecha": "2026-07-06",
+    "fecha": "2026-07-21",
     "tercero": "Juan Pablo Granados Tobón",
     "identificacion": "1026160991",
     "productos": "JNA 250g x250, CGA 250g x250, CMA 250g x250",
@@ -569,7 +569,7 @@
   },
   {
     "consecutivo": 2369,
-    "fecha": "2026-07-06",
+    "fecha": "2026-07-21",
     "tercero": "Gabriel Salamanca",
     "identificacion": "1140869461",
     "productos": "CMA 250g x250, CGA 250g x250, PANA 250g x250",
@@ -583,23 +583,23 @@
       {
         "sku": "CMA",
         "presentacion": "250g",
-        "molienda": "molido medio"
+        "molienda": "grano"
       },
       {
         "sku": "CGA",
         "presentacion": "250g",
-        "molienda": "molido medio"
+        "molienda": "grano"
       },
       {
         "sku": "PANA",
         "presentacion": "250g",
-        "molienda": "molido medio"
+        "molienda": "grano"
       }
     ]
   },
   {
     "consecutivo": 2370,
-    "fecha": "2026-07-06",
+    "fecha": "2026-07-21",
     "tercero": "Juan José Molina Taborda",
     "identificacion": "1094908367",
     "productos": "BHO120 340g x340",
@@ -619,7 +619,7 @@
   },
   {
     "consecutivo": 2371,
-    "fecha": "2026-07-06",
+    "fecha": "2026-07-21",
     "tercero": "Alejandro Alvarez Uribe",
     "identificacion": "1037668186",
     "productos": "RLAS 500g x500",
@@ -639,7 +639,7 @@
   },
   {
     "consecutivo": 2372,
-    "fecha": "2026-07-07",
+    "fecha": "2026-07-21",
     "tercero": "Carlos Dede Diaz",
     "identificacion": "1082068949",
     "productos": "BHO 500g x500, RLAC 340g x340",
@@ -664,7 +664,7 @@
   },
   {
     "consecutivo": 2373,
-    "fecha": "2026-07-07",
+    "fecha": "2026-07-21",
     "tercero": "Simón Berrio",
     "identificacion": "1036641212",
     "productos": "JNA 250g x250",
@@ -684,7 +684,7 @@
   },
   {
     "consecutivo": 2374,
-    "fecha": "2026-07-07",
+    "fecha": "2026-07-21",
     "tercero": "Alejandra Gómez",
     "identificacion": "1037588594",
     "productos": "RLAC 2500g x2500",
@@ -704,7 +704,7 @@
   },
   {
     "consecutivo": 2375,
-    "fecha": "2026-07-07",
+    "fecha": "2026-07-21",
     "tercero": "Adriana Maria Vasquez",
     "identificacion": "43525780",
     "productos": "CGA 500g x500",
@@ -724,7 +724,7 @@
   },
   {
     "consecutivo": 2376,
-    "fecha": "2026-07-07",
+    "fecha": "2026-07-21",
     "tercero": "Mariana Builes Moreno",
     "identificacion": "1017273730",
     "productos": "PNA 100g x100, JNA 100g x100, CGA 100g x100",
@@ -738,23 +738,23 @@
       {
         "sku": "PNA",
         "presentacion": "100g",
-        "molienda": "molido medio"
+        "molienda": "grano"
       },
       {
         "sku": "JNA",
         "presentacion": "100g",
-        "molienda": "molido medio"
+        "molienda": "grano"
       },
       {
         "sku": "CGA",
         "presentacion": "100g",
-        "molienda": "molido medio"
+        "molienda": "grano"
       }
     ]
   },
   {
     "consecutivo": 2377,
-    "fecha": "2026-07-07",
+    "fecha": "2026-07-21",
     "tercero": "Luis Fernando Sandoval Marquina",
     "identificacion": "6375662",
     "productos": "BHO72 500g x500",
@@ -774,7 +774,7 @@
   },
   {
     "consecutivo": 2378,
-    "fecha": "2026-07-09",
+    "fecha": "2026-07-21",
     "tercero": "Pedro Pablo Camacho Agudelo",
     "identificacion": "1018412104",
     "productos": "BHO72 250g x250, RLAS 250g x250",
@@ -799,7 +799,7 @@
   },
   {
     "consecutivo": 2379,
-    "fecha": "2026-07-09",
+    "fecha": "2026-07-21",
     "tercero": "Jeym Marina Cañon",
     "identificacion": "1024598643",
     "productos": "CGA 2500g x2500",
@@ -819,7 +819,7 @@
   },
   {
     "consecutivo": 2380,
-    "fecha": "2026-07-09",
+    "fecha": "2026-07-21",
     "tercero": "Catalina Velasquez Castro",
     "identificacion": "43265404",
     "productos": "CMA 250g x250",
@@ -833,13 +833,13 @@
       {
         "sku": "CMA",
         "presentacion": "250g",
-        "molienda": "molido grueso"
+        "molienda": "grano"
       }
     ]
   },
   {
     "consecutivo": 2381,
-    "fecha": "2026-07-09",
+    "fecha": "2026-07-21",
     "tercero": "Natalia Idarraga",
     "identificacion": "1110486785",
     "productos": "PANA 250g x250, BBO 250g x250, BHO72 250g x250, BNA 250g x250",
@@ -874,7 +874,7 @@
   },
   {
     "consecutivo": 2382,
-    "fecha": "2026-07-09",
+    "fecha": "2026-07-21",
     "tercero": "Jordan Smith Galvis Zapata",
     "identificacion": "1019088037",
     "productos": "RLAS 100g x100, BNA120 100g x100, BHO 100g x100, CGA 100g x100, CMA 100g x100, PANA 100g x100",
@@ -888,38 +888,38 @@
       {
         "sku": "RLAS",
         "presentacion": "100g",
-        "molienda": "molido medio"
+        "molienda": "grano"
       },
       {
         "sku": "BNA120",
         "presentacion": "100g",
-        "molienda": "molido medio"
+        "molienda": "grano"
       },
       {
         "sku": "BHO",
         "presentacion": "100g",
-        "molienda": "molido medio"
+        "molienda": "grano"
       },
       {
         "sku": "CGA",
         "presentacion": "100g",
-        "molienda": "molido medio"
+        "molienda": "grano"
       },
       {
         "sku": "CMA",
         "presentacion": "100g",
-        "molienda": "molido medio"
+        "molienda": "grano"
       },
       {
         "sku": "PANA",
         "presentacion": "100g",
-        "molienda": "molido medio"
+        "molienda": "grano"
       }
     ]
   },
   {
     "consecutivo": 2383,
-    "fecha": "2026-07-09",
+    "fecha": "2026-07-21",
     "tercero": "Gustavo Sardi",
     "identificacion": "1144081373",
     "productos": "CHLA 500g x500, BNA 250g x250",
@@ -933,7 +933,7 @@
       {
         "sku": "CHLA",
         "presentacion": "500g",
-        "molienda": "molido grueso"
+        "molienda": "grano"
       },
       {
         "sku": "BNA",
@@ -944,7 +944,7 @@
   },
   {
     "consecutivo": 2384,
-    "fecha": "2026-07-09",
+    "fecha": "2026-07-21",
     "tercero": "Diana Marcela Sarmiento González",
     "identificacion": "56079340",
     "productos": "RLAC 500g x500, RLAS 250g x250, RLAA 250g x250, BHO120 100g x100",
@@ -979,7 +979,7 @@
   },
   {
     "consecutivo": 2385,
-    "fecha": "2026-07-09",
+    "fecha": "2026-07-21",
     "tercero": "Liris Angelica Peña Garnica",
     "identificacion": "1090445667",
     "productos": "PANA 100g x100, CMA 100g x100, BBO 100g x100, BHO 250g x250",
@@ -993,31 +993,31 @@
       {
         "sku": "PANA",
         "presentacion": "100g",
-        "molienda": "molido medio"
+        "molienda": "grano"
       },
       {
         "sku": "CMA",
         "presentacion": "100g",
-        "molienda": "molido medio"
+        "molienda": "grano"
       },
       {
         "sku": "BBO",
         "presentacion": "100g",
-        "molienda": "molido medio"
+        "molienda": "grano"
       },
       {
         "sku": "BHO",
         "presentacion": "250g",
-        "molienda": "molido medio"
+        "molienda": "grano"
       }
     ]
   },
   {
     "consecutivo": 2386,
-    "fecha": "2026-07-09",
+    "fecha": "2026-07-21",
     "tercero": "Mauricio A. Ortega",
     "identificacion": "80098167",
-    "productos": "RLAC 500g x500, RLAS 500g x500, BNA 500g x500, BHO120 500g x500, PANA 250g x250, PNA 250g x250, BBO 250g x250, Cma  x1",
+    "productos": "RLAC 500g x500, RLAS 500g x500, BNA 500g x500, BHO120 500g x500, PANA 250g x250, PNA 250g x250, BBO 250g x250, CMA 250g x250",
     "domicilio": "Otro",
     "total": 642000,
     "forma_pago": "T. Débito",
@@ -1059,16 +1059,21 @@
         "sku": "BBO",
         "presentacion": "250g",
         "molienda": "grano"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "250g",
+        "molienda": "grano"
       }
     ]
   },
   {
     "consecutivo": 2387,
-    "fecha": "2026-07-09",
+    "fecha": "2026-07-21",
     "tercero": "Juan Camilo Rubio Arrieta",
     "identificacion": "1143382182",
     "productos": "PNA 250g x250, JNA 250g x250, CGA 100g x100, BBO 250g x250",
-    "domicilio": "",
+    "domicilio": "Nacional Transportadora",
     "total": 226008,
     "forma_pago": "T. Débito",
     "status": "Completado",
@@ -1099,7 +1104,7 @@
   },
   {
     "consecutivo": 2388,
-    "fecha": "2026-07-09",
+    "fecha": "2026-07-21",
     "tercero": "Fernamol SAS",
     "identificacion": "901285732",
     "productos": "CMA 250g x250, CMA 250g x250, CMA 250g x250",
@@ -1113,17 +1118,17 @@
       {
         "sku": "CMA",
         "presentacion": "250g",
-        "molienda": "molido grueso"
+        "molienda": "grano"
       },
       {
         "sku": "CMA",
         "presentacion": "250g",
-        "molienda": "molido grueso"
+        "molienda": "grano"
       },
       {
         "sku": "CMA",
         "presentacion": "250g",
-        "molienda": "molido grueso"
+        "molienda": "grano"
       }
     ]
   },
@@ -2436,7 +2441,7 @@
     "domicilio": "",
     "total": 210000,
     "forma_pago": "T. Débito",
-    "status": "En proceso",
+    "status": "Completado",
     "client_type": "Antiguo",
     "recoge": "No",
     "items_molienda": [
