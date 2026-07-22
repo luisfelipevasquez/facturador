@@ -3943,7 +3943,7 @@
     "consecutivo": 2403,
     "tipo_comprobante": 2,
     "identificacion_tercero": "LYMDVC97121401H400",
-    "fecha_elaboracion": "2026-07-15",
+    "fecha_elaboracion": "2026-07-21",
     "identificacion_vendedor": "901906362",
     "items": [
       {
@@ -3954,7 +3954,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "grano"
       },
       {
         "sku": "PANA",
@@ -3964,7 +3965,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -3982,7 +3984,7 @@
       "codigo": 3,
       "valor": 170000
     },
-    "observaciones": "Enviar a Juan Pablo Hidalgo García\nCalle 72a #04-35 \ncerros de la 72 apto 301 Bogotá \n+57 311 3798724"
+    "observaciones": "Enviar a Juan Pablo Hidalgo GarcíaCalle 72a #04-35 cerros de la 72 apto 301 Bogotá +57 311 3798724"
   },
   {
     "consecutivo": 2404,
