@@ -3185,7 +3185,7 @@
     "consecutivo": 2390,
     "tipo_comprobante": 2,
     "identificacion_tercero": "1017260131",
-    "fecha_elaboracion": "2026-07-10",
+    "fecha_elaboracion": "2026-07-21",
     "identificacion_vendedor": "901906362",
     "items": [
       {
@@ -3198,7 +3198,8 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096
+        "descuento_valor": 3329.5238095238096,
+        "molienda": "grano"
       },
       {
         "sku": "JNA",
@@ -3210,7 +3211,8 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096
+        "descuento_valor": 3329.5238095238096,
+        "molienda": "grano"
       }
     ],
     "iva_total": 6905.142857142857,
