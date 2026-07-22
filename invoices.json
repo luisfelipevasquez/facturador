@@ -3591,7 +3591,7 @@
     "consecutivo": 2396,
     "tipo_comprobante": 2,
     "identificacion_tercero": "993014",
-    "fecha_elaboracion": "2026-07-13",
+    "fecha_elaboracion": "2026-07-21",
     "identificacion_vendedor": "901906362",
     "items": [
       {
@@ -3602,7 +3602,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "grano"
       },
       {
         "sku": "BNA120",
@@ -3612,7 +3613,8 @@
         "valor_unitario": 190.47619047619048,
         "iva": 952.3809523809525,
         "iva_pct": 5,
-        "total": 20000.000000000004
+        "total": 20000.000000000004,
+        "molienda": "grano"
       },
       {
         "sku": "JNA",
@@ -3622,7 +3624,8 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999
+        "total": 37999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
