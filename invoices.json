@@ -4991,7 +4991,12 @@
       "codigo": 3,
       "valor": 312550
     },
-    "observaciones": "Redime 250g CGA y se envía tarjeta de fidelización nueva con 2 stickers"
+    "observaciones": "Redime 250g CGA y se envía tarjeta de fidelización nueva con 2 stickers",
+    "siigoId": "c9e522e5-ef00-42b6-beb4-39d350392200",
+    "siigoNumber": "FV-2-2432",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T02:45:09.835Z"
   },
   {
     "consecutivo": 2422,
