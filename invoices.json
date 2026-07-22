@@ -4048,7 +4048,7 @@
     "consecutivo": 2405,
     "tipo_comprobante": 2,
     "identificacion_tercero": "1049627174",
-    "fecha_elaboracion": "2026-07-15",
+    "fecha_elaboracion": "2026-07-21",
     "identificacion_vendedor": "901906362",
     "items": [
       {
@@ -4061,7 +4061,8 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096
+        "descuento_valor": 3329.5238095238096,
+        "molienda": "grano"
       },
       {
         "sku": "JNA",
@@ -4073,7 +4074,8 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096
+        "descuento_valor": 3329.5238095238096,
+        "molienda": "grano"
       },
       {
         "sku": "BSIN",
@@ -4083,7 +4085,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "molido grueso"
       },
       {
         "sku": "DOM",
