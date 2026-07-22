@@ -2914,7 +2914,7 @@
     "consecutivo": 2387,
     "tipo_comprobante": 2,
     "identificacion_tercero": "1143382182",
-    "fecha_elaboracion": "2026-07-09",
+    "fecha_elaboracion": "2026-07-21",
     "identificacion_vendedor": "901906362",
     "items": [
       {
@@ -2926,8 +2926,9 @@
         "iva": 3452.5714285714284,
         "iva_pct": 5,
         "total": 72504,
+        "descuento_pct": 4.6,
         "descuento_valor": 3329.5238095238096,
-        "descuento_pct": 4.6
+        "molienda": "grano"
       },
       {
         "sku": "JNA",
@@ -2938,8 +2939,9 @@
         "iva": 3452.5714285714284,
         "iva_pct": 5,
         "total": 72504,
+        "descuento_pct": 4.6,
         "descuento_valor": 3329.5238095238096,
-        "descuento_pct": 4.6
+        "molienda": "grano"
       },
       {
         "sku": "CGA",
@@ -2949,7 +2951,8 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000
+        "total": 23000,
+        "molienda": "grano"
       },
       {
         "sku": "BBO",
@@ -2959,7 +2962,20 @@
         "valor_unitario": 220.95238095238093,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "grano"
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 18000
       }
     ],
     "iva_total": 10762.285714285714,
