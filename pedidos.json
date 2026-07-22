@@ -2546,5 +2546,40 @@
         "molienda": "molido fino"
       }
     ]
+  },
+  {
+    "consecutivo": 2467,
+    "fecha": "2026-07-22",
+    "tercero": "Cristian David Florian",
+    "identificacion": "1037650120",
+    "productos": "BHO 100g x100, BHO72 100g x100, BHO120 100g x100, CGA 250g x250",
+    "domicilio": "Local Mensajero",
+    "total": 123000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BHO",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO72",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO120",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
