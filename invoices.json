@@ -3702,7 +3702,7 @@
     "consecutivo": 2399,
     "tipo_comprobante": 2,
     "identificacion_tercero": "1017185703",
-    "fecha_elaboracion": "2026-07-13",
+    "fecha_elaboracion": "2026-07-21",
     "identificacion_vendedor": "901906362",
     "items": [
       {
@@ -3713,7 +3713,8 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000
+        "total": 89000,
+        "molienda": "grano"
       },
       {
         "sku": "CMA",
@@ -3723,7 +3724,8 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000
+        "total": 89000,
+        "molienda": "grano"
       },
       {
         "sku": "BBO",
@@ -3735,7 +3737,8 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 55238.09523809524
+        "descuento_valor": 55238.09523809524,
+        "molienda": "grano"
       }
     ],
     "iva_total": 8476.190476190477,
