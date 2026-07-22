@@ -2244,7 +2244,7 @@
   },
   {
     "consecutivo": 2428,
-    "fecha": "2026-07-20",
+    "fecha": "2026-07-21",
     "tercero": "Eduardo Vallejo",
     "identificacion": "1072749518",
     "productos": "BHO 100g x100, BHO72 100g x100, BHO120 100g x100, CGA 250g x250, CHLA 250g x250",
@@ -2284,7 +2284,7 @@
   },
   {
     "consecutivo": 2429,
-    "fecha": "2026-07-20",
+    "fecha": "2026-07-21",
     "tercero": "Juan Carlos Ramirez",
     "identificacion": "1020835316",
     "productos": "RLAA 250g x250, BNA120 250g x250, PANA 100g x100",
@@ -2345,7 +2345,7 @@
   {
     "consecutivo": 2431,
     "fecha": "2026-07-21",
-    "tercero": "1112773294",
+    "tercero": "Santiago Guzmán Martínez",
     "identificacion": "1112773294",
     "productos": "RLAA 2500g x2500",
     "domicilio": "",
@@ -2444,6 +2444,26 @@
         "sku": "CGA",
         "presentacion": "500g",
         "molienda": "grano"
+      }
+    ]
+  },
+  {
+    "consecutivo": 2436,
+    "fecha": "2026-07-21",
+    "tercero": "Santiago Guzmán Martínez",
+    "identificacion": "1112773294",
+    "productos": "RLAA 2500g x2500",
+    "domicilio": "",
+    "total": 210000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAA",
+        "presentacion": "2500g",
+        "molienda": "molido medio"
       }
     ]
   }
