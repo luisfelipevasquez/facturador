@@ -2473,21 +2473,31 @@
     ]
   },
   {
-    "consecutivo": 2445,
-    "fecha": "2026-07-21",
-    "tercero": "Prueba 2",
-    "identificacion": "12345678901",
-    "productos": "RLAA 340g x340",
+    "consecutivo": 2458,
+    "fecha": "2026-07-22",
+    "tercero": "Andres Felipe Ramirez Vélez",
+    "identificacion": "1144076054",
+    "productos": "CGA 500g x500, RLAC 500g x500, CHLA 250g x250",
     "domicilio": "",
-    "total": 47000.00000000001,
-    "forma_pago": "Efectivo",
-    "status": "Completado",
+    "total": 147000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
     "client_type": "Nuevo",
     "recoge": "No",
     "items_molienda": [
       {
-        "sku": "RLAA",
-        "presentacion": "340g",
+        "sku": "CGA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAC",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CHLA",
+        "presentacion": "250g",
         "molienda": "grano"
       }
     ]
