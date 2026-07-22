@@ -2343,26 +2343,6 @@
     ]
   },
   {
-    "consecutivo": 2431,
-    "fecha": "2026-07-21",
-    "tercero": "Santiago Guzmán Martínez",
-    "identificacion": "1112773294",
-    "productos": "RLAA 2500g x2500",
-    "domicilio": "",
-    "total": 210000,
-    "forma_pago": "T. Débito",
-    "status": "Completado",
-    "client_type": "Nuevo",
-    "recoge": "No",
-    "items_molienda": [
-      {
-        "sku": "RLAA",
-        "presentacion": "2500g",
-        "molienda": "molido medio"
-      }
-    ]
-  },
-  {
     "consecutivo": 2432,
     "fecha": "2026-07-21",
     "tercero": "Eduardo Vallejo",
@@ -2464,6 +2444,26 @@
         "sku": "RLAA",
         "presentacion": "2500g",
         "molienda": "molido medio"
+      }
+    ]
+  },
+  {
+    "consecutivo": 2437,
+    "fecha": "2026-07-21",
+    "tercero": "Seneida Lopera Cardona",
+    "identificacion": "42884648",
+    "productos": "PANA 250g x250",
+    "domicilio": "",
+    "total": 76000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "PANA",
+        "presentacion": "250g",
+        "molienda": "grano"
       }
     ]
   }
