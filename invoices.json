@@ -5822,5 +5822,77 @@
       "valor": 178000
     },
     "observaciones": "Pipe lo lleva al hptu"
+  },
+  {
+    "consecutivo": 2467,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1037650120",
+    "nombre_tercero": "Cristian David Florian",
+    "fecha_elaboracion": "2026-07-22",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO",
+        "producto": "Blend Honey 56h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 904.7619047619048,
+        "iva_pct": 5,
+        "total": 19000,
+        "descuento_pct": 5,
+        "descuento_valor": 952.3809523809525
+      },
+      {
+        "sku": "BHO72",
+        "producto": "Blend Honey72h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 904.7619047619048,
+        "iva_pct": 5,
+        "total": 19000,
+        "descuento_pct": 5,
+        "descuento_valor": 952.3809523809525
+      },
+      {
+        "sku": "BHO120",
+        "producto": "Blend Honey 120h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 904.7619047619048,
+        "iva_pct": 5,
+        "total": 19000,
+        "descuento_pct": 5,
+        "descuento_valor": 952.3809523809525
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 5190.476190476191,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 123000
+    },
+    "observaciones": "Lo lleva don Antonio"
   }
 ]
