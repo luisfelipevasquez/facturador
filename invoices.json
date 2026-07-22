@@ -3181,7 +3181,12 @@
       "codigo": 3,
       "valor": 159008
     },
-    "observaciones": "Lo lleva Luis de PyG"
+    "observaciones": "Lo lleva Luis de PyG",
+    "siigoId": "dbec0bed-0e50-4a5e-b1ad-d759cd51c003",
+    "siigoNumber": "FV-2-2412",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T01:56:17.492Z"
   },
   {
     "consecutivo": 2390,
@@ -3222,7 +3227,12 @@
       "codigo": 3,
       "valor": 145008
     },
-    "observaciones": "Recoge"
+    "observaciones": "Recoge",
+    "siigoId": "9389dd43-5cd9-467b-a8c3-87d5aa5b1688",
+    "siigoNumber": "FV-2-2413",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T01:56:19.776Z"
   },
   {
     "consecutivo": 2391,
@@ -3248,7 +3258,12 @@
       "codigo": 3,
       "valor": 53000
     },
-    "observaciones": "Recoge"
+    "observaciones": "Recoge",
+    "siigoId": "91a3be54-7e9c-477a-9494-393f53829ee8",
+    "siigoNumber": "FV-2-2414",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T01:56:21.881Z"
   },
   {
     "consecutivo": 2392,
@@ -3412,7 +3427,12 @@
       "codigo": 3,
       "valor": 236000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "3c78553b-ab74-4b8a-a68b-10bd1276010f",
+    "siigoNumber": "FV-2-2415",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T01:56:24.935Z"
   },
   {
     "consecutivo": 2393,
@@ -3448,7 +3468,12 @@
       "codigo": 3,
       "valor": 90000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "e60f0d23-12d8-43d3-ba24-b6d83f5da4c9",
+    "siigoNumber": "FV-2-2416",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T01:56:27.182Z"
   },
   {
     "consecutivo": 2394,
@@ -3523,7 +3548,12 @@
       "codigo": 3,
       "valor": 118000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "dbadbdc6-7e9c-4400-b4b1-60330590ab0f",
+    "siigoNumber": "FV-2-2417",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T01:56:28.310Z"
   },
   {
     "consecutivo": 2395,
@@ -3585,7 +3615,12 @@
       "codigo": 3,
       "valor": 128000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "54fdd585-d2fd-4f63-a91e-595a3d990941",
+    "siigoNumber": "FV-2-2418",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T01:56:31.661Z"
   },
   {
     "consecutivo": 2396,
@@ -3643,7 +3678,12 @@
       "codigo": 3,
       "valor": 152000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "f285ec99-dff2-4842-8793-6d520b2c1c8d",
+    "siigoNumber": "FV-2-2419",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T01:56:34.271Z"
   },
   {
     "consecutivo": 2398,
@@ -3696,7 +3736,12 @@
       "codigo": 3,
       "valor": 264100
     },
-    "observaciones": "Enviar a Juan Camilo en Sabaneta"
+    "observaciones": "Enviar a Juan Camilo en Sabaneta",
+    "siigoId": "335f1279-be30-406e-b03e-ffeb444e17a1",
+    "siigoNumber": "FV-2-2420",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T01:56:36.377Z"
   },
   {
     "consecutivo": 2399,
@@ -3746,7 +3791,12 @@
       "codigo": 3,
       "valor": 178000
     },
-    "observaciones": "Lo lleva Pipe al Hptu. Redime 250g BBO grano de fidelización. Lleva tarjeta con 1 sticker"
+    "observaciones": "Lo lleva Pipe al Hptu. Redime 250g BBO grano de fidelización. Lleva tarjeta con 1 sticker",
+    "siigoId": "6230c0d6-5f0f-4b6c-86e6-7a5373a844f6",
+    "siigoNumber": "FV-2-2421",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T01:56:38.893Z"
   },
   {
     "consecutivo": 2400,
