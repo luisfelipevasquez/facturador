@@ -2481,7 +2481,7 @@
     "domicilio": "",
     "total": 47000.00000000001,
     "forma_pago": "Efectivo",
-    "status": "En proceso",
+    "status": "Completado",
     "client_type": "Nuevo",
     "recoge": "No",
     "items_molienda": [
