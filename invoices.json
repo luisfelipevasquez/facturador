@@ -1525,7 +1525,12 @@
       "codigo": 3,
       "valor": 76000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "231dd686-fffa-4b51-a587-8e9c58df6a95",
+    "siigoNumber": "FV-2-2383",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T00:22:31.455Z"
   },
   {
     "consecutivo": 2361,
@@ -1561,7 +1566,12 @@
       "codigo": 3,
       "valor": 103000
     },
-    "observaciones": "Enviar domi con Alejo a Beatriz Vásquez"
+    "observaciones": "Enviar domi con Alejo a Beatriz Vásquez",
+    "siigoId": "15c21997-9e22-46fa-a849-03a2c4e15ea6",
+    "siigoNumber": "FV-2-2384",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T00:22:32.193Z"
   },
   {
     "consecutivo": 2362,
@@ -1597,7 +1607,12 @@
       "codigo": 3,
       "valor": 72000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "378278b5-2676-45ae-8c1e-490f95d762a8",
+    "siigoNumber": "FV-2-2385",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T00:22:33.781Z"
   },
   {
     "consecutivo": 2363,
@@ -1648,7 +1663,12 @@
       "codigo": 3,
       "valor": 163008
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "f0ecfccd-0d72-4cac-a4db-0cc27e9eb87c",
+    "siigoNumber": "FV-2-2386",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T00:22:35.118Z"
   },
   {
     "consecutivo": 2364,
@@ -1738,7 +1758,12 @@
       "codigo": 3,
       "valor": 87000
     },
-    "observaciones": "Recoge Mauricio, en caja blanca de regalo con tarjeta sin marcar"
+    "observaciones": "Recoge Mauricio, en caja blanca de regalo con tarjeta sin marcar",
+    "siigoId": "565eaf8e-5c7a-4bec-9d99-33befea9ceec",
+    "siigoNumber": "FV-2-2387",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T00:22:36.137Z"
   },
   {
     "consecutivo": 2366,
@@ -1819,7 +1844,12 @@
       "codigo": 3,
       "valor": 159000
     },
-    "observaciones": "Para Manuela en caja negra. Lo lleva Felipe"
+    "observaciones": "Para Manuela en caja negra. Lo lleva Felipe",
+    "siigoId": "bd6b88ad-ca73-46d8-a8c0-a04ab0685ee1",
+    "siigoNumber": "FV-2-2388",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T00:22:37.058Z"
   },
   {
     "consecutivo": 2367,
@@ -5413,6 +5443,11 @@
       "codigo": 3,
       "valor": 76000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "292ada2e-5140-4941-b984-5bb24fc465c5",
+    "siigoNumber": "FV-2-2389",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T00:23:23.466Z"
   }
 ]
