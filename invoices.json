@@ -3224,7 +3224,7 @@
     "consecutivo": 2391,
     "tipo_comprobante": 2,
     "identificacion_tercero": "79591596",
-    "fecha_elaboracion": "2026-07-10",
+    "fecha_elaboracion": "2026-07-21",
     "identificacion_vendedor": "901906362",
     "items": [
       {
@@ -3235,7 +3235,8 @@
         "valor_unitario": 148.45938375350138,
         "iva": 2523.809523809524,
         "iva_pct": 5,
-        "total": 53000
+        "total": 53000,
+        "molienda": "grano"
       }
     ],
     "iva_total": 2523.809523809524,
