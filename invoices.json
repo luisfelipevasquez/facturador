@@ -2634,7 +2634,7 @@
     "consecutivo": 2383,
     "tipo_comprobante": 2,
     "identificacion_tercero": "1144081373",
-    "fecha_elaboracion": "2026-07-09",
+    "fecha_elaboracion": "2026-07-21",
     "identificacion_vendedor": "901906362",
     "items": [
       {
@@ -2645,7 +2645,8 @@
         "valor_unitario": 152.38095238095238,
         "iva": 3809.523809523809,
         "iva_pct": 5,
-        "total": 80000
+        "total": 80000,
+        "molienda": "grano"
       },
       {
         "sku": "BNA",
@@ -2655,7 +2656,8 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000
+        "total": 42000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
