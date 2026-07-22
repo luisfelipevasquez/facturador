@@ -4963,8 +4963,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "BHO72",
@@ -4976,8 +4975,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "BHO120",
@@ -4989,8 +4987,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "CGA",
@@ -5000,8 +4997,7 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999,
-        "molienda": "grano"
+        "total": 51999.99999999999
       },
       {
         "sku": "DOM",
@@ -5023,8 +5019,7 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 47619.04761904762,
-        "molienda": "grano"
+        "descuento_valor": 47619.04761904762
       }
     ],
     "iva_total": 5190.476190476191,
@@ -5055,8 +5050,7 @@
         "valor_unitario": 144.76190476190476,
         "iva": 1809.5238095238096,
         "iva_pct": 5,
-        "total": 38000,
-        "molienda": "grano"
+        "total": 38000
       },
       {
         "sku": "BNA120",
@@ -5066,8 +5060,7 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000,
-        "molienda": "grano"
+        "total": 42000
       },
       {
         "sku": "PANA",
@@ -5077,8 +5070,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "grano"
+        "total": 37999.99999999999
       },
       {
         "sku": "DOM",
@@ -5274,8 +5266,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 5523.809523809524,
         "iva_pct": 5,
-        "total": 116000,
-        "molienda": "grano"
+        "total": 116000
       },
       {
         "sku": "DOM",
@@ -5316,8 +5307,7 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000,
-        "molienda": "grano"
+        "total": 89000
       },
       {
         "sku": "DOM",
@@ -5358,8 +5348,7 @@
         "valor_unitario": 80,
         "iva": 10000,
         "iva_pct": 5,
-        "total": 210000,
-        "molienda": "molido medio"
+        "total": 210000
       }
     ],
     "iva_total": 10000,
@@ -5373,5 +5362,31 @@
     "cufe": null,
     "siigoStatus": "Sincronizado",
     "siigoSyncedAt": "2026-07-22T00:11:14.801Z"
+  },
+  {
+    "consecutivo": 2437,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "42884648",
+    "nombre_tercero": "Seneida Lopera Cardona",
+    "fecha_elaboracion": "2026-07-21",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      }
+    ],
+    "iva_total": 3619.0476190476193,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 76000
+    },
+    "observaciones": ""
   }
 ]
