@@ -5032,7 +5032,12 @@
       "codigo": 3,
       "valor": 127000
     },
-    "observaciones": "Enviar x interrapidisimo, reclama en oficina. Redime 250g CHLA. No enviar tarjeta ni stickers"
+    "observaciones": "Enviar x interrapidisimo, reclama en oficina. Redime 250g CHLA. No enviar tarjeta ni stickers",
+    "siigoId": "2d2a7de7-ddb3-4688-aa17-781f68d7daf5",
+    "siigoNumber": "FV-2-2380",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T00:11:11.281Z"
   },
   {
     "consecutivo": 2429,
@@ -5091,7 +5096,12 @@
       "codigo": 3,
       "valor": 136000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "60bce31b-1456-452b-b70c-febfbf6f953f",
+    "siigoNumber": "FV-2-2381",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T00:11:13.062Z"
   },
   {
     "consecutivo": 2430,
@@ -5357,6 +5367,11 @@
       "codigo": 3,
       "valor": 210000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "6d06b1b9-c0d1-4b02-83a2-53ed8237018c",
+    "siigoNumber": "FV-2-2382",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T00:11:14.801Z"
   }
 ]
