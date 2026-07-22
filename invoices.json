@@ -4682,7 +4682,12 @@
       "codigo": 3,
       "valor": 0
     },
-    "observaciones": "Recoge Thomas o Mateo"
+    "observaciones": "Recoge Thomas o Mateo",
+    "siigoId": "509bc1f8-5837-4b4f-a2ca-71a6ac081eb7",
+    "siigoNumber": "FV-2-2445",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T04:01:53.072Z"
   },
   {
     "consecutivo": 2416,
