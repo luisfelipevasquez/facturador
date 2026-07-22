@@ -1885,7 +1885,12 @@
       "codigo": 3,
       "valor": 86000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "fd05cfec-3f9d-4b7e-87f2-4bbeabed4083",
+    "siigoNumber": "FV-2-2390",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T00:44:53.380Z"
   },
   {
     "consecutivo": 2368,
@@ -1943,7 +1948,12 @@
       "codigo": 3,
       "valor": 194000
     },
-    "observaciones": "Envío a dirección nueva en WhatsApp"
+    "observaciones": "Envío a dirección nueva en WhatsApp",
+    "siigoId": "ecbdc1cd-00ff-45bb-a6d9-135ede88d1a5",
+    "siigoNumber": "FV-2-2391",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T00:44:54.187Z"
   },
   {
     "consecutivo": 2369,
@@ -2001,7 +2011,12 @@
       "codigo": 3,
       "valor": 198000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "b4da86a5-7c61-4abe-80f2-c7bed9356c4b",
+    "siigoNumber": "FV-2-2392",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T00:44:55.418Z"
   },
   {
     "consecutivo": 2370,
@@ -2037,7 +2052,12 @@
       "codigo": 3,
       "valor": 67000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "0dee7044-aaa2-4c67-9a3d-bd83573df0a5",
+    "siigoNumber": "FV-2-2393",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T00:44:56.545Z"
   },
   {
     "consecutivo": 2371,
@@ -2063,7 +2083,12 @@
       "codigo": 3,
       "valor": 58000
     },
-    "observaciones": "Recoge"
+    "observaciones": "Recoge",
+    "siigoId": "ce0e79c7-d379-4869-8bbd-d16b403841e6",
+    "siigoNumber": "FV-2-2394",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T00:44:57.465Z"
   },
   {
     "consecutivo": 2372,
@@ -2110,7 +2135,12 @@
       "codigo": 3,
       "valor": 137000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "57e3deeb-2805-4b6d-8e9c-be62a3159d0d",
+    "siigoNumber": "FV-2-2395",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T00:44:58.076Z"
   },
   {
     "consecutivo": 2373,
@@ -2136,7 +2166,12 @@
       "codigo": 3,
       "valor": 76000
     },
-    "observaciones": "Lo lleva Pipe al hptu"
+    "observaciones": "Lo lleva Pipe al hptu",
+    "siigoId": "e9c0d7aa-2ec7-4b8b-8aa9-302631acb5b5",
+    "siigoNumber": "FV-2-2396",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T00:44:58.797Z"
   },
   {
     "consecutivo": 2374,
@@ -2174,7 +2209,12 @@
       "codigo": 3,
       "valor": 210000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "2f463425-f007-47f6-a139-1715807d21a4",
+    "siigoNumber": "FV-2-2397",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T00:44:59.410Z"
   },
   {
     "consecutivo": 2375,
@@ -2210,7 +2250,12 @@
       "codigo": 3,
       "valor": 103000
     },
-    "observaciones": "Enviar con mensajero a Beatriz Vásquez"
+    "observaciones": "Enviar con mensajero a Beatriz Vásquez",
+    "siigoId": "d0ff441e-345d-4c81-9270-32f18ad772eb",
+    "siigoNumber": "FV-2-2398",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T00:45:00.027Z"
   },
   {
     "consecutivo": 2376,
@@ -2268,7 +2313,12 @@
       "codigo": 3,
       "valor": 112999.99999999999
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "a5182fc1-48c3-4006-b808-c490f5be4909",
+    "siigoNumber": "FV-2-2399",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T00:45:01.254Z"
   },
   {
     "consecutivo": 2377,
@@ -2304,7 +2354,12 @@
       "codigo": 3,
       "valor": 86000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "dd4e03a6-2755-4a0c-a07b-151bde625fae",
+    "siigoNumber": "FV-2-2400",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-22T00:45:01.977Z"
   },
   {
     "consecutivo": 2378,
