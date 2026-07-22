@@ -197,5 +197,39 @@
       "customer_overrode_address": true
     },
     "actualizado": "2026-07-21T22:33:18.220Z"
+  },
+  {
+    "id": "SOL-1784689371877-ywsi1",
+    "estado": "pendiente",
+    "creado": "2026-07-22T03:02:51.877Z",
+    "cliente": {
+      "nombre": "Prueba 2",
+      "tipo_documento": "13",
+      "documento": "12345678901",
+      "email": "prueba@prueba.com",
+      "celular": "57 3123456789",
+      "ciudad": "Medellin",
+      "direccion": "CAlle 10 # 20 - 30",
+      "observaciones": ""
+    },
+    "productos": [
+      {
+        "sku": "RLAA",
+        "nombre": "Regional Lavado Andes",
+        "presentacion": "340g",
+        "molienda": "grano",
+        "cantidad": 1,
+        "precio": 47000
+      }
+    ],
+    "total_estimado": 47000,
+    "siigo_customer_found": false,
+    "siigo_customer_id": "",
+    "envio": {
+      "registered_address": "CAlle 10 # 20 - 30",
+      "shipping_address_same_as_registered": true,
+      "shipping_address": "CAlle 10 # 20 - 30",
+      "customer_overrode_address": false
+    }
   }
 ]
