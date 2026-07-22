@@ -4950,7 +4950,7 @@
     "tipo_comprobante": 2,
     "identificacion_tercero": "1072749518",
     "nombre_tercero": "Eduardo Vallejo",
-    "fecha_elaboracion": "2026-07-20",
+    "fecha_elaboracion": "2026-07-21",
     "identificacion_vendedor": "901906362",
     "items": [
       {
@@ -4963,7 +4963,8 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525
+        "descuento_valor": 952.3809523809525,
+        "molienda": "grano"
       },
       {
         "sku": "BHO72",
@@ -4975,7 +4976,8 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525
+        "descuento_valor": 952.3809523809525,
+        "molienda": "grano"
       },
       {
         "sku": "BHO120",
@@ -4987,7 +4989,8 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525
+        "descuento_valor": 952.3809523809525,
+        "molienda": "grano"
       },
       {
         "sku": "CGA",
@@ -4997,7 +5000,8 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999
+        "total": 51999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -5019,7 +5023,8 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 47619.04761904762
+        "descuento_valor": 47619.04761904762,
+        "molienda": "grano"
       }
     ],
     "iva_total": 5190.476190476191,
