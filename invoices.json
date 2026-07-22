@@ -4892,7 +4892,8 @@
         "iva_pct": 5,
         "total": 49400,
         "descuento_pct": 5,
-        "descuento_valor": 2476.190476190476
+        "descuento_valor": 2476.190476190476,
+        "molienda": "molido fino"
       },
       {
         "sku": "BBO",
@@ -4904,7 +4905,8 @@
         "iva_pct": 5,
         "total": 55100,
         "descuento_pct": 5,
-        "descuento_valor": 2761.904761904762
+        "descuento_valor": 2761.904761904762,
+        "molienda": "molido fino"
       },
       {
         "sku": "PANA",
@@ -4916,7 +4918,8 @@
         "iva_pct": 5,
         "total": 72200,
         "descuento_pct": 5,
-        "descuento_valor": 3619.0476190476193
+        "descuento_valor": 3619.0476190476193,
+        "molienda": "molido fino"
       },
       {
         "sku": "BNA120",
@@ -4928,7 +4931,8 @@
         "iva_pct": 5,
         "total": 50349.99999999999,
         "descuento_pct": 5,
-        "descuento_valor": 2523.809523809524
+        "descuento_valor": 2523.809523809524,
+        "molienda": "molido fino"
       },
       {
         "sku": "RLAS",
@@ -4940,7 +4944,8 @@
         "iva_pct": 5,
         "total": 36100,
         "descuento_pct": 5,
-        "descuento_valor": 1809.5238095238096
+        "descuento_valor": 1809.5238095238096,
+        "molienda": "molido fino"
       },
       {
         "sku": "CGA",
@@ -4952,7 +4957,8 @@
         "iva_pct": 5,
         "total": 49400,
         "descuento_pct": 5,
-        "descuento_valor": 2476.190476190476
+        "descuento_valor": 2476.190476190476,
+        "molienda": "molido fino"
       },
       {
         "sku": "DOM",
@@ -4976,7 +4982,8 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 49523.80952380952
+        "descuento_valor": 49523.80952380952,
+        "molienda": "molido fino"
       }
     ],
     "iva_total": 14883.333333333334,
