@@ -4205,7 +4205,7 @@
     "consecutivo": 2407,
     "tipo_comprobante": 2,
     "identificacion_tercero": "1037585897",
-    "fecha_elaboracion": "2026-07-15",
+    "fecha_elaboracion": "2026-07-21",
     "identificacion_vendedor": "901906362",
     "items": [
       {
@@ -4216,7 +4216,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "grano"
       },
       {
         "sku": "BHO120",
@@ -4226,7 +4227,8 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000
+        "total": 42000,
+        "molienda": "grano"
       },
       {
         "sku": "RLAC",
@@ -4236,7 +4238,8 @@
         "valor_unitario": 131.65266106442579,
         "iva": 2238.0952380952385,
         "iva_pct": 5,
-        "total": 47000.00000000001
+        "total": 47000.00000000001,
+        "molienda": "grano"
       }
     ],
     "iva_total": 7857.142857142858,
