@@ -2711,7 +2711,7 @@
     "domicilio": "Nacional Transportadora",
     "total": 382000,
     "forma_pago": "T. Débito",
-    "status": "En proceso",
+    "status": "Completado",
     "client_type": "Nuevo",
     "recoge": "No",
     "items_molienda": [
@@ -2765,7 +2765,7 @@
   {
     "consecutivo": 2474,
     "fecha": "2026-07-24",
-    "tercero": "Sergio Luengas",
+    "tercero": "1018510008",
     "identificacion": "1018510008",
     "productos": "RLAA 500g x500, BHO 100g x100, BHO72 100g x100",
     "domicilio": "Nacional Transportadora",
