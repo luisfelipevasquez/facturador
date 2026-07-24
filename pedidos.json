@@ -2611,5 +2611,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2469,
+    "fecha": "2026-07-24",
+    "tercero": "Anderson Zambrano Bermudez",
+    "identificacion": "1000511999",
+    "productos": "RLAC 2500g x2500",
+    "domicilio": "Nacional Transportadora",
+    "total": 170100,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAC",
+        "presentacion": "2500g",
+        "molienda": "molido medio"
+      }
+    ]
   }
 ]
