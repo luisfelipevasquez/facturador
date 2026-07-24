@@ -1,5 +1,37 @@
 [
   {
+    "order_id": 8624,
+    "consecutivo": "8624",
+    "fecha": "2026-07-24",
+    "tercero": "Gabriel Salamanca",
+    "identificacion": "1140869461",
+    "productos": "JNA Java Natural x1, BBO Blend Bourbon x1",
+    "domicilio": "Envío Nacional (3 - 5 días hábiles), envia",
+    "total": 152000,
+    "forma_pago": "Wompi",
+    "woo_status": "completed",
+    "status": "Completado",
+    "manual": false,
+    "client_type": null,
+    "observaciones": ""
+  },
+  {
+    "order_id": 8623,
+    "consecutivo": "8623",
+    "fecha": "2026-07-24",
+    "tercero": "Kevin Rafael Puente Morales",
+    "identificacion": "1001974958",
+    "productos": "BSIN Bourbon Sidra x1, CGA Galleta Mantequilla x1",
+    "domicilio": "Envío gratuito, envia",
+    "total": 228000,
+    "forma_pago": "Wompi",
+    "woo_status": "completed",
+    "status": "Completado",
+    "manual": false,
+    "client_type": null,
+    "observaciones": ""
+  },
+  {
     "order_id": 8591,
     "consecutivo": "8591",
     "fecha": "2026-07-23",
@@ -26,8 +58,8 @@
     "total": 48200,
     "forma_pago": "Wompi",
     "woo_status": "processing",
-    "status": "En proceso",
-    "manual": false,
+    "status": "Completado",
+    "manual": true,
     "client_type": null,
     "observaciones": ""
   },
