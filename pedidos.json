@@ -2656,5 +2656,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2471,
+    "fecha": "2026-07-24",
+    "tercero": "Carolina Arias Botero",
+    "identificacion": "43220408",
+    "productos": "RLAS 250g x250",
+    "domicilio": "",
+    "total": 38000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAS",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
