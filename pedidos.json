@@ -2631,5 +2631,30 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2470,
+    "fecha": "2026-07-24",
+    "tercero": "Pablo Yepes",
+    "identificacion": "1000205038",
+    "productos": "CHLA 250g x250, BBO 100g x100",
+    "domicilio": "Local Mensajero",
+    "total": 90000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CHLA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BBO",
+        "presentacion": "100g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
