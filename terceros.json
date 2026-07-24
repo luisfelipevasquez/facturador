@@ -782,5 +782,21 @@
     "Teléfono móvil de contacto": "3013988461",
     "Estado": "Activo",
     "siigoId": "bd706306-9866-41f8-8bfa-61e49b1f059c"
+  },
+  {
+    "Nombre tercero": "Sergio Luengas",
+    "Tipo de identificación": "13",
+    "Identificación": "1018510008",
+    "Dirección": "Calle 6sur # 72d-34 Casa en esquina",
+    "Ciudad": "Bogotá D.C.",
+    "Código departamento": "11",
+    "Código ciudad": "11001",
+    "Teléfono.": "3167809546",
+    "Correo electrónico": "sergioluen99@gmail.com",
+    "Nombres contacto": "Sergio",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3167809546",
+    "Estado": "Activo",
+    "siigoId": "f2d9d22c-f767-4a89-b9ff-fc7da22541c8"
   }
 ]
