@@ -2701,5 +2701,65 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2473,
+    "fecha": "2026-07-24",
+    "tercero": "Nathalia Trujillo",
+    "identificacion": "1032370131",
+    "productos": "BHO 100g x100, BHO72 100g x100, BHO120 100g x100, PANA 250g x250, CMA 250g x250, CGA 100g x100, BSIN 250g x250, GELA 250g x250, CHLA 100g x100",
+    "domicilio": "Nacional Transportadora",
+    "total": 382000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BHO",
+        "presentacion": "100g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "BHO72",
+        "presentacion": "100g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "BHO120",
+        "presentacion": "100g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "PANA",
+        "presentacion": "250g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "250g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "100g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "BSIN",
+        "presentacion": "250g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "GELA",
+        "presentacion": "250g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "CHLA",
+        "presentacion": "100g",
+        "molienda": "molido grueso"
+      }
+    ]
   }
 ]
