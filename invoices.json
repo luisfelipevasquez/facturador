@@ -6068,5 +6068,51 @@
       "valor": 38000
     },
     "observaciones": "Recoge"
+  },
+  {
+    "consecutivo": 2472,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1066187074",
+    "nombre_tercero": "Alejandra María Castillo",
+    "fecha_elaboracion": "2026-07-24",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BSIN",
+        "producto": "Bourbon Sidra",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "PNA",
+        "producto": "Pacamara Natural",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 5428.571428571428,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 128000
+    },
+    "observaciones": ""
   }
 ]
