@@ -5956,5 +5956,45 @@
       "valor": 71000
     },
     "observaciones": "Lo lleva don Antonio"
+  },
+  {
+    "consecutivo": 2469,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1000511999",
+    "nombre_tercero": "Anderson Zambrano Bermudez",
+    "fecha_elaboracion": "2026-07-24",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "2500g",
+        "cantidad": 2500,
+        "valor_unitario": 80,
+        "iva": 8100,
+        "iva_pct": 5,
+        "total": 170100,
+        "descuento_pct": 19,
+        "descuento_valor": 38000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 18000
+      }
+    ],
+    "iva_total": 8100,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 170100
+    },
+    "observaciones": "Molido medio-grueso"
   }
 ]
