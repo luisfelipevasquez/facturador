@@ -6294,5 +6294,151 @@
       "valor": 116000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2475,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "51794159",
+    "nombre_tercero": "Lucia Roa Peña",
+    "fecha_elaboracion": "2026-07-25",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO",
+        "producto": "Blend Honey 56h",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 137.14285714285714,
+        "iva": 3428.5714285714284,
+        "iva_pct": 5,
+        "total": 72000
+      },
+      {
+        "sku": "PNA",
+        "producto": "Pacamara Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3452.5714285714284,
+        "iva_pct": 5,
+        "total": 72504,
+        "descuento_pct": 4.6,
+        "descuento_valor": 3329.5238095238096
+      },
+      {
+        "sku": "JNA",
+        "producto": "Java Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3452.5714285714284,
+        "iva_pct": 5,
+        "total": 72504,
+        "descuento_pct": 4.6,
+        "descuento_valor": 3329.5238095238096
+      },
+      {
+        "sku": "BHO",
+        "producto": "Blend Honey 56h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 904.7619047619048,
+        "iva_pct": 5,
+        "total": 19000,
+        "descuento_pct": 5,
+        "descuento_valor": 952.3809523809525
+      },
+      {
+        "sku": "BHO72",
+        "producto": "Blend Honey72h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 904.7619047619048,
+        "iva_pct": 5,
+        "total": 19000,
+        "descuento_pct": 5,
+        "descuento_valor": 952.3809523809525
+      },
+      {
+        "sku": "BHO120",
+        "producto": "Blend Honey 120h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 904.7619047619048,
+        "iva_pct": 5,
+        "total": 19000,
+        "descuento_pct": 5,
+        "descuento_valor": 952.3809523809525
+      },
+      {
+        "sku": "BHO",
+        "producto": "Blend Honey 56h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 904.7619047619048,
+        "iva_pct": 5,
+        "total": 19000,
+        "descuento_pct": 5,
+        "descuento_valor": 952.3809523809525
+      },
+      {
+        "sku": "BHO72",
+        "producto": "Blend Honey72h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 904.7619047619048,
+        "iva_pct": 5,
+        "total": 19000,
+        "descuento_pct": 5,
+        "descuento_valor": 952.3809523809525
+      },
+      {
+        "sku": "BHO120",
+        "producto": "Blend Honey 120h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 904.7619047619048,
+        "iva_pct": 5,
+        "total": 19000,
+        "descuento_pct": 5,
+        "descuento_valor": 952.3809523809525
+      },
+      {
+        "sku": "BNA",
+        "producto": "Blend Natural 56h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 904.7619047619048,
+        "iva_pct": 5,
+        "total": 19000,
+        "descuento_pct": 5,
+        "descuento_valor": 952.3809523809525
+      },
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 904.7619047619048,
+        "iva_pct": 5,
+        "total": 19000,
+        "descuento_pct": 5,
+        "descuento_valor": 952.3809523809525
+      }
+    ],
+    "iva_total": 17571.809523809523,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 369008
+    },
+    "observaciones": ""
   }
 ]
