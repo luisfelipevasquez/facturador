@@ -2798,11 +2798,11 @@
     "tercero": "Lucia Roa Peña",
     "identificacion": "51794159",
     "productos": "BHO 500g x500, PNA 250g x250, JNA 250g x250, BHO 100g x100, BHO72 100g x100, BHO120 100g x100, BHO 100g x100, BHO72 100g x100, BHO120 100g x100, BNA 100g x100, BNA120 100g x100",
-    "domicilio": "",
+    "domicilio": "Nacional Transportadora",
     "total": 369008,
     "forma_pago": "T. Débito",
     "status": "En proceso",
-    "client_type": "Nuevo",
+    "client_type": "Antiguo",
     "recoge": "No",
     "items_molienda": [
       {
