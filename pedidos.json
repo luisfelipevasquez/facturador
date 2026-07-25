@@ -2765,7 +2765,7 @@
   {
     "consecutivo": 2474,
     "fecha": "2026-07-24",
-    "tercero": "1018510008",
+    "tercero": "Sergio Luengas",
     "identificacion": "1018510008",
     "productos": "RLAA 500g x500, BHO 100g x100, BHO72 100g x100",
     "domicilio": "Nacional Transportadora",
@@ -2787,6 +2787,76 @@
       },
       {
         "sku": "BHO72",
+        "presentacion": "100g",
+        "molienda": "grano"
+      }
+    ]
+  },
+  {
+    "consecutivo": 2475,
+    "fecha": "2026-07-25",
+    "tercero": "Lucia Roa Peña",
+    "identificacion": "51794159",
+    "productos": "BHO 500g x500, PNA 250g x250, JNA 250g x250, BHO 100g x100, BHO72 100g x100, BHO120 100g x100, BHO 100g x100, BHO72 100g x100, BHO120 100g x100, BNA 100g x100, BNA120 100g x100",
+    "domicilio": "",
+    "total": 369008,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BHO",
+        "presentacion": "500g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "PNA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "JNA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO72",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO120",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "BHO72",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "BHO120",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "BNA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BNA120",
         "presentacion": "100g",
         "molienda": "grano"
       }
