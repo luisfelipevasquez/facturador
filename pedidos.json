@@ -2911,5 +2911,25 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2478,
+    "fecha": "2026-07-25",
+    "tercero": "Maria Camila Cano Rave",
+    "identificacion": "1023628465",
+    "productos": "BNA 100g x100",
+    "domicilio": "Local Mensajero",
+    "total": 34000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BNA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      }
+    ]
   }
 ]
