@@ -6311,8 +6311,7 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000,
-        "molienda": "molido fino"
+        "total": 72000
       },
       {
         "sku": "PNA",
@@ -6324,8 +6323,7 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096,
-        "molienda": "grano"
+        "descuento_valor": 3329.5238095238096
       },
       {
         "sku": "JNA",
@@ -6337,8 +6335,7 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096,
-        "molienda": "grano"
+        "descuento_valor": 3329.5238095238096
       },
       {
         "sku": "BHO",
@@ -6350,8 +6347,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "BHO72",
@@ -6363,8 +6359,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "BHO120",
@@ -6376,8 +6371,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "BHO",
@@ -6389,8 +6383,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "molido medio"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "BHO72",
@@ -6402,8 +6395,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "molido medio"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "BHO120",
@@ -6415,8 +6407,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "molido medio"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "BNA",
@@ -6428,8 +6419,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "BNA120",
@@ -6441,8 +6431,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "DOM",
@@ -6461,6 +6450,52 @@
     "forma_pago": {
       "codigo": 3,
       "valor": 369008
+    },
+    "observaciones": ""
+  },
+  {
+    "consecutivo": 2476,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1114239331",
+    "nombre_tercero": "Juan Diego Leguizamo",
+    "fecha_elaboracion": "2026-07-25",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO",
+        "producto": "Blend Honey 56h",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 137.14285714285714,
+        "iva": 3428.5714285714284,
+        "iva_pct": 5,
+        "total": 72000
+      },
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 137.14285714285714,
+        "iva": 3428.5714285714284,
+        "iva_pct": 5,
+        "total": 72000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 6857.142857142857,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 162000
     },
     "observaciones": ""
   }
