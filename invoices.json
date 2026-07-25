@@ -6311,7 +6311,8 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000
+        "total": 72000,
+        "molienda": "molido fino"
       },
       {
         "sku": "PNA",
@@ -6323,7 +6324,8 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096
+        "descuento_valor": 3329.5238095238096,
+        "molienda": "grano"
       },
       {
         "sku": "JNA",
@@ -6335,7 +6337,8 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096
+        "descuento_valor": 3329.5238095238096,
+        "molienda": "grano"
       },
       {
         "sku": "BHO",
@@ -6347,7 +6350,8 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525
+        "descuento_valor": 952.3809523809525,
+        "molienda": "grano"
       },
       {
         "sku": "BHO72",
@@ -6359,7 +6363,8 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525
+        "descuento_valor": 952.3809523809525,
+        "molienda": "grano"
       },
       {
         "sku": "BHO120",
@@ -6371,7 +6376,8 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525
+        "descuento_valor": 952.3809523809525,
+        "molienda": "grano"
       },
       {
         "sku": "BHO",
@@ -6383,7 +6389,8 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525
+        "descuento_valor": 952.3809523809525,
+        "molienda": "molido medio"
       },
       {
         "sku": "BHO72",
@@ -6395,7 +6402,8 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525
+        "descuento_valor": 952.3809523809525,
+        "molienda": "molido medio"
       },
       {
         "sku": "BHO120",
@@ -6407,7 +6415,8 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525
+        "descuento_valor": 952.3809523809525,
+        "molienda": "molido medio"
       },
       {
         "sku": "BNA",
@@ -6419,7 +6428,8 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525
+        "descuento_valor": 952.3809523809525,
+        "molienda": "grano"
       },
       {
         "sku": "BNA120",
@@ -6431,7 +6441,20 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525
+        "descuento_valor": 952.3809523809525,
+        "molienda": "grano"
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 18000
       }
     ],
     "iva_total": 17571.809523809523,
