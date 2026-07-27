@@ -6898,5 +6898,41 @@
       "valor": 289999.99999999994
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2485,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1085945832",
+    "nombre_tercero": "Esteban Revelo",
+    "fecha_elaboracion": "2026-07-27",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 4238.0952380952385,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 103000
+    },
+    "observaciones": ""
   }
 ]
