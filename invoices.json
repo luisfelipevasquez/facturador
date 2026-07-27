@@ -6597,8 +6597,7 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000,
-        "molienda": "molido grueso"
+        "total": 89000
       },
       {
         "sku": "DOM",
@@ -6620,8 +6619,7 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 40000,
-        "molienda": "molido grueso"
+        "descuento_valor": 40000
       }
     ],
     "iva_total": 4238.0952380952385,
@@ -6647,8 +6645,7 @@
         "valor_unitario": 80,
         "iva": 10000,
         "iva_pct": 5,
-        "total": 210000,
-        "molienda": "grano"
+        "total": 210000
       }
     ],
     "iva_total": 10000,
@@ -6674,8 +6671,7 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000,
-        "molienda": "grano"
+        "total": 139000
       },
       {
         "sku": "PANA",
@@ -6685,8 +6681,7 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000,
-        "molienda": "grano"
+        "total": 139000
       },
       {
         "sku": "GELA",
@@ -6696,8 +6691,7 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000,
-        "molienda": "grano"
+        "total": 139000
       },
       {
         "sku": "CHLA",
@@ -6707,8 +6701,7 @@
         "valor_unitario": 152.38095238095238,
         "iva": 3809.523809523809,
         "iva_pct": 5,
-        "total": 80000,
-        "molienda": "grano"
+        "total": 80000
       },
       {
         "sku": "JNA",
@@ -6718,8 +6711,7 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000,
-        "molienda": "grano"
+        "total": 139000
       },
       {
         "sku": "BSIN",
@@ -6729,8 +6721,7 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000,
-        "molienda": "grano"
+        "total": 139000
       },
       {
         "sku": "DOM",
@@ -6751,5 +6742,41 @@
       "valor": 775000
     },
     "observaciones": "Pendiente datos completos envío"
+  },
+  {
+    "consecutivo": 2482,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1128271533",
+    "nombre_tercero": "Ayla Supurgeci Bermudez",
+    "fecha_elaboracion": "2026-07-26",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 3619.0476190476193,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 90000
+    },
+    "observaciones": ""
   }
 ]
