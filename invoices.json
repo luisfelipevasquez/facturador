@@ -6671,7 +6671,8 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000
+        "total": 139000,
+        "molienda": "grano"
       },
       {
         "sku": "PANA",
@@ -6681,7 +6682,8 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000
+        "total": 139000,
+        "molienda": "grano"
       },
       {
         "sku": "GELA",
@@ -6691,7 +6693,8 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000
+        "total": 139000,
+        "molienda": "grano"
       },
       {
         "sku": "CHLA",
@@ -6701,7 +6704,8 @@
         "valor_unitario": 152.38095238095238,
         "iva": 3809.523809523809,
         "iva_pct": 5,
-        "total": 80000
+        "total": 80000,
+        "molienda": "grano"
       },
       {
         "sku": "JNA",
@@ -6711,7 +6715,8 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000
+        "total": 139000,
+        "molienda": "grano"
       },
       {
         "sku": "BSIN",
@@ -6721,7 +6726,8 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000
+        "total": 139000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -6741,7 +6747,7 @@
       "codigo": 3,
       "valor": 775000
     },
-    "observaciones": "Cra. 75 #48-39, Laureles. The Somos S hotel Hab 703"
+    "observaciones": "Redime 250g Maracuyá grano. Cra. 75 #48-39, Laureles. The Somos S hotel Hab 703"
   },
   {
     "consecutivo": 2482,
@@ -6795,7 +6801,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 13809.52380952381,
         "iva_pct": 5,
-        "total": 289999.99999999994
+        "total": 289999.99999999994,
+        "molienda": "grano"
       },
       {
         "sku": "BNA",
@@ -6805,7 +6812,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 13809.52380952381,
         "iva_pct": 5,
-        "total": 289999.99999999994
+        "total": 289999.99999999994,
+        "molienda": "grano"
       },
       {
         "sku": "BBO",
@@ -6815,7 +6823,8 @@
         "valor_unitario": 188.57142857142856,
         "iva": 4714.285714285714,
         "iva_pct": 5,
-        "total": 98999.99999999999
+        "total": 98999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "JNA",
@@ -6827,7 +6836,8 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096
+        "descuento_valor": 3329.5238095238096,
+        "molienda": "grano"
       },
       {
         "sku": "PNA",
@@ -6839,7 +6849,8 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096
+        "descuento_valor": 3329.5238095238096,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
