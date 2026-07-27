@@ -6597,7 +6597,8 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000
+        "total": 89000,
+        "molienda": "molido grueso"
       },
       {
         "sku": "DOM",
@@ -6608,6 +6609,19 @@
         "iva": 0,
         "iva_pct": 0,
         "total": 14000
+      },
+      {
+        "sku": "BNA",
+        "producto": "Blend Natural 56h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 40000,
+        "molienda": "molido grueso"
       }
     ],
     "iva_total": 4238.0952380952385,
@@ -6615,7 +6629,7 @@
       "codigo": 3,
       "valor": 103000
     },
-    "observaciones": "Redime fidelización"
+    "observaciones": "Redime fidelización 250g natural 56"
   },
   {
     "consecutivo": 2480,
@@ -6633,7 +6647,8 @@
         "valor_unitario": 80,
         "iva": 10000,
         "iva_pct": 5,
-        "total": 210000
+        "total": 210000,
+        "molienda": "grano"
       }
     ],
     "iva_total": 10000,
@@ -6659,7 +6674,8 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000
+        "total": 139000,
+        "molienda": "grano"
       },
       {
         "sku": "PANA",
@@ -6669,7 +6685,8 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000
+        "total": 139000,
+        "molienda": "grano"
       },
       {
         "sku": "GELA",
@@ -6679,7 +6696,8 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000
+        "total": 139000,
+        "molienda": "grano"
       },
       {
         "sku": "CHLA",
@@ -6689,7 +6707,8 @@
         "valor_unitario": 152.38095238095238,
         "iva": 3809.523809523809,
         "iva_pct": 5,
-        "total": 80000
+        "total": 80000,
+        "molienda": "grano"
       },
       {
         "sku": "JNA",
@@ -6699,7 +6718,8 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000
+        "total": 139000,
+        "molienda": "grano"
       },
       {
         "sku": "BSIN",
@@ -6709,7 +6729,8 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000
+        "total": 139000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
