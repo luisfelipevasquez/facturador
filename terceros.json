@@ -846,5 +846,21 @@
     "Teléfono móvil de contacto": "+507 6678-6264",
     "Estado": "Activo",
     "siigoId": "02f33aaa-f41e-4779-938b-3335c969bafb"
+  },
+  {
+    "Nombre tercero": "Camilo A. Guio Chaparro",
+    "Tipo de identificación": "13",
+    "Identificación": "1072714663",
+    "Dirección": "Calle 9A #14f-28 Refugio de rio frío Casa 25",
+    "Ciudad": "Chía",
+    "Código departamento": "25",
+    "Código ciudad": "25258",
+    "Teléfono.": "3108806020",
+    "Correo electrónico": "camiloguio@yahoo.com",
+    "Nombres contacto": "Camilo A.",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3108806020",
+    "Estado": "Activo",
+    "siigoId": "0c0afe1e-d37a-4d60-a105-7f545bf1a0f3"
   }
 ]
