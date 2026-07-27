@@ -798,5 +798,21 @@
     "Teléfono móvil de contacto": "3167809546",
     "Estado": "Activo",
     "siigoId": "f2d9d22c-f767-4a89-b9ff-fc7da22541c8"
+  },
+  {
+    "Nombre tercero": "Beatriz Vásquez Puerta",
+    "Tipo de identificación": "13",
+    "Identificación": "43057889",
+    "Dirección": "Calle 5A # 33-05 Villas de Sauzalito Casa 9",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3178939555",
+    "Correo electrónico": "beatrizvasquez19@gmail.com",
+    "Nombres contacto": "Beatriz",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3178939555",
+    "Estado": "Activo",
+    "siigoId": "0f5d7b20-a6c3-402b-b866-d9edfdf45839"
   }
 ]
