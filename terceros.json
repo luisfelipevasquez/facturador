@@ -814,5 +814,21 @@
     "Teléfono móvil de contacto": "3178939555",
     "Estado": "Activo",
     "siigoId": "0f5d7b20-a6c3-402b-b866-d9edfdf45839"
+  },
+  {
+    "Nombre tercero": "Gustavo Adolfo Ramírez Sánchez",
+    "Tipo de identificación": "13",
+    "Identificación": "1037368897",
+    "Dirección": "Cra 52 # 86-34 Ed. San Miguel Apto 201",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3104990154",
+    "Correo electrónico": "Gapsa89@gmail.com",
+    "Nombres contacto": "Gustavo Adolfo",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3104990154",
+    "Estado": "Activo",
+    "siigoId": "a9393a28-28d4-49d6-872a-4ef090444085"
   }
 ]
