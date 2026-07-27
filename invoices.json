@@ -6671,8 +6671,7 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000,
-        "molienda": "grano"
+        "total": 139000
       },
       {
         "sku": "PANA",
@@ -6682,8 +6681,7 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000,
-        "molienda": "grano"
+        "total": 139000
       },
       {
         "sku": "GELA",
@@ -6693,8 +6691,7 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000,
-        "molienda": "grano"
+        "total": 139000
       },
       {
         "sku": "CHLA",
@@ -6704,8 +6701,7 @@
         "valor_unitario": 152.38095238095238,
         "iva": 3809.523809523809,
         "iva_pct": 5,
-        "total": 80000,
-        "molienda": "grano"
+        "total": 80000
       },
       {
         "sku": "JNA",
@@ -6715,8 +6711,7 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000,
-        "molienda": "grano"
+        "total": 139000
       },
       {
         "sku": "BSIN",
@@ -6726,8 +6721,7 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000,
-        "molienda": "grano"
+        "total": 139000
       },
       {
         "sku": "DOM",
@@ -6801,8 +6795,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 13809.52380952381,
         "iva_pct": 5,
-        "total": 289999.99999999994,
-        "molienda": "grano"
+        "total": 289999.99999999994
       },
       {
         "sku": "BNA",
@@ -6812,8 +6805,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 13809.52380952381,
         "iva_pct": 5,
-        "total": 289999.99999999994,
-        "molienda": "grano"
+        "total": 289999.99999999994
       },
       {
         "sku": "BBO",
@@ -6823,8 +6815,7 @@
         "valor_unitario": 188.57142857142856,
         "iva": 4714.285714285714,
         "iva_pct": 5,
-        "total": 98999.99999999999,
-        "molienda": "grano"
+        "total": 98999.99999999999
       },
       {
         "sku": "JNA",
@@ -6836,8 +6827,7 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096,
-        "molienda": "grano"
+        "descuento_valor": 3329.5238095238096
       },
       {
         "sku": "PNA",
@@ -6849,8 +6839,7 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096,
-        "molienda": "grano"
+        "descuento_valor": 3329.5238095238096
       },
       {
         "sku": "DOM",
@@ -6869,6 +6858,44 @@
     "forma_pago": {
       "codigo": 3,
       "valor": 824007.9999999999
+    },
+    "observaciones": ""
+  },
+  {
+    "consecutivo": 2484,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1022376180",
+    "nombre_tercero": "Alejandra Flechas",
+    "fecha_elaboracion": "2026-07-27",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "2500g",
+        "cantidad": 2500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 13809.52380952381,
+        "iva_pct": 5,
+        "total": 289999.99999999994
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 18000
+      }
+    ],
+    "iva_total": 13809.52380952381,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 289999.99999999994
     },
     "observaciones": ""
   }
