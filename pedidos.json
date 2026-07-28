@@ -3127,7 +3127,7 @@
     "fecha": "2026-07-28",
     "tercero": "Jhon Danilo Leon Salgado",
     "identificacion": "1003659657",
-    "productos": "BHO72 340g x340, CMA 500g x500, CMA 500g x500",
+    "productos": "BHO72 340g x340, CMA 500g x500, CMA 500g x500, CHLA 250g x250",
     "domicilio": "Nacional Transportadora",
     "total": 231000,
     "forma_pago": "T. Débito",
@@ -3149,6 +3149,31 @@
         "sku": "CMA",
         "presentacion": "500g",
         "molienda": "grano"
+      },
+      {
+        "sku": "CHLA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
+  },
+  {
+    "consecutivo": 2487,
+    "fecha": "2026-07-28",
+    "tercero": "Ana María Consuegra",
+    "identificacion": "32837710",
+    "productos": "RLAA 340g x340",
+    "domicilio": "Local Transportadora",
+    "total": 57000.00000000001,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAA",
+        "presentacion": "340g",
+        "molienda": "molido fino"
       }
     ]
   }
