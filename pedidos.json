@@ -3176,5 +3176,30 @@
         "molienda": "molido fino"
       }
     ]
+  },
+  {
+    "consecutivo": 2488,
+    "fecha": "2026-07-28",
+    "tercero": "Andrés Márquez",
+    "identificacion": "1151954418",
+    "productos": "CMA 100g x100, CGA 100g x100",
+    "domicilio": "Local Mensajero",
+    "total": 60000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CMA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
