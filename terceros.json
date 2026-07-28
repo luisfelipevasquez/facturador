@@ -894,5 +894,21 @@
     "Teléfono móvil de contacto": "3214670515",
     "Estado": "Activo",
     "siigoId": "b635b3be-7ec6-4965-915d-6caf6d96e620"
+  },
+  {
+    "Nombre tercero": "Andrés Márquez",
+    "Tipo de identificación": "13",
+    "Identificación": "1151954418",
+    "Dirección": "Cra 27b # 27sur-40 Sonata Apto1205",
+    "Ciudad": "Envigado",
+    "Código departamento": "05",
+    "Código ciudad": "05266",
+    "Teléfono.": "3218622227",
+    "Correo electrónico": "andreskylie123@gmail.com",
+    "Nombres contacto": "Andrés",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3218622227",
+    "Estado": "Activo",
+    "siigoId": "2cf983de-a119-42dc-93fa-943bedde988c"
   }
 ]
