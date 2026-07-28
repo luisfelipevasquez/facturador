@@ -6951,8 +6951,7 @@
         "valor_unitario": 148.45938375350138,
         "iva": 2523.809523809524,
         "iva_pct": 5,
-        "total": 53000,
-        "molienda": "grano"
+        "total": 53000
       },
       {
         "sku": "CMA",
@@ -6962,8 +6961,7 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000,
-        "molienda": "grano"
+        "total": 89000
       },
       {
         "sku": "CMA",
@@ -6973,8 +6971,7 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000,
-        "molienda": "grano"
+        "total": 89000
       },
       {
         "sku": "DOM",
@@ -6998,8 +6995,7 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 47619.04761904762,
-        "molienda": "grano"
+        "descuento_valor": 47619.04761904762
       }
     ],
     "iva_total": 11000,
@@ -7008,5 +7004,41 @@
       "valor": 231000
     },
     "observaciones": "Redime chiroso y se le envía tarjeta nueva con 1 sticker"
+  },
+  {
+    "consecutivo": 2487,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "32837710",
+    "nombre_tercero": "Ana María Consuegra",
+    "fecha_elaboracion": "2026-07-28",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAA",
+        "producto": "Regional Lavado Andes",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 131.65266106442579,
+        "iva": 2238.0952380952385,
+        "iva_pct": 5,
+        "total": 47000.00000000001
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 10000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 10000
+      }
+    ],
+    "iva_total": 2238.0952380952385,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 57000.00000000001
+    },
+    "observaciones": "Molido Moka"
   }
 ]
