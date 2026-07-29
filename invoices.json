@@ -7057,7 +7057,8 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000
+        "total": 23000,
+        "molienda": "grano"
       },
       {
         "sku": "CGA",
@@ -7067,7 +7068,8 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000
+        "total": 23000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -7085,7 +7087,7 @@
       "codigo": 3,
       "valor": 60000
     },
-    "observaciones": "Paga contraentrega 60.000"
+    "observaciones": "Recoge Alejo 10am. Paga contraentrega 60.000"
   },
   {
     "consecutivo": 2489,
