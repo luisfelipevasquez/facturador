@@ -3231,5 +3231,35 @@
         "molienda": "molido grueso"
       }
     ]
+  },
+  {
+    "consecutivo": 2490,
+    "fecha": "2026-07-29",
+    "tercero": "Julian Monsalve Cañas",
+    "identificacion": "1020415700",
+    "productos": "BHO72 500g x500, RLAS 500g x500, RLAC 500g x500",
+    "domicilio": "Local Mensajero",
+    "total": 202000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BHO72",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAS",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAC",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
