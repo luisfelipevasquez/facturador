@@ -910,5 +910,21 @@
     "Teléfono móvil de contacto": "3218622227",
     "Estado": "Activo",
     "siigoId": "2cf983de-a119-42dc-93fa-943bedde988c"
+  },
+  {
+    "Nombre tercero": "Julian Monsalve Cañas",
+    "Tipo de identificación": "13",
+    "Identificación": "1020415700",
+    "Dirección": "Calle 94a # 63a-80 Bloque 11 Apto322. Tricentenario",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3185409659",
+    "Correo electrónico": "Julianmon1020@hotmail.es",
+    "Nombres contacto": "Julian",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3185409659",
+    "Estado": "Activo",
+    "siigoId": "b86bd8ab-f926-40e8-bb6b-ca7ec6d19c8c"
   }
 ]
