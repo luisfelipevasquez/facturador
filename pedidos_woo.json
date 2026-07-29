@@ -1,5 +1,21 @@
 [
   {
+    "order_id": 8650,
+    "consecutivo": "8650",
+    "fecha": "2026-07-29",
+    "tercero": "Hernando Polania",
+    "identificacion": "12194904",
+    "productos": "CHLA Chiroso Lavado x1",
+    "domicilio": "Envío Nacional (3 - 5 días hábiles)",
+    "total": 80000,
+    "forma_pago": "Wompi",
+    "woo_status": "processing",
+    "status": "En proceso",
+    "manual": false,
+    "client_type": null,
+    "observaciones": ""
+  },
+  {
     "order_id": 8649,
     "consecutivo": "8649",
     "fecha": "2026-07-29",
@@ -22,11 +38,11 @@
     "tercero": "ALEJANDRO VARGAS torres",
     "identificacion": "1121928108",
     "productos": "BBO Blend Bourbon x1",
-    "domicilio": "Envío Nacional (3 - 5 días hábiles)",
+    "domicilio": "Envío Nacional (3 - 5 días hábiles), envia",
     "total": 117000,
     "forma_pago": "Wompi",
-    "woo_status": "processing",
-    "status": "En proceso",
+    "woo_status": "completed",
+    "status": "Completado",
     "manual": false,
     "client_type": null,
     "observaciones": ""
@@ -298,8 +314,8 @@
     "total": 630000,
     "forma_pago": "Wompi",
     "woo_status": "processing",
-    "status": "En proceso",
-    "manual": false,
+    "status": "Completado",
+    "manual": true,
     "client_type": "Antiguo",
     "observaciones": ""
   },
