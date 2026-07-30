@@ -7234,5 +7234,71 @@
       "valor": 37000
     },
     "observaciones": "Recoge"
+  },
+  {
+    "consecutivo": 2501,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1037668186",
+    "nombre_tercero": "Alejandro Alvarez Uribe",
+    "fecha_elaboracion": "2026-07-30",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "JNA",
+        "producto": "Java Natural",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 1095.2380952380952,
+        "iva_pct": 5,
+        "total": 23000
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 1095.2380952380952,
+        "iva_pct": 5,
+        "total": 23000
+      },
+      {
+        "sku": "PNA",
+        "producto": "Pacamara Natural",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 5809.523809523809,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 136000
+    },
+    "observaciones": ""
   }
 ]
