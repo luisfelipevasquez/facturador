@@ -3377,7 +3377,7 @@
     "fecha": "2026-07-31",
     "tercero": "Marlon Cabarcas Gómez",
     "identificacion": "1042446851",
-    "productos": "RLAC 250g x250, RLAC 340g x340, BBO 340g x340, BBO 250g x250, BNA 250g x250",
+    "productos": "RLAC 250g x250, RLAC 340g x340, BBO 340g x340, BBO 250g x250, BNA 250g x250, BHO72 250g x250",
     "domicilio": "Nacional Transportadora",
     "total": 260000,
     "forma_pago": "T. Débito",
@@ -3409,6 +3409,36 @@
         "sku": "BNA",
         "presentacion": "250g",
         "molienda": "molido medio"
+      },
+      {
+        "sku": "BHO72",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
+  },
+  {
+    "consecutivo": 2565,
+    "fecha": "2026-07-31",
+    "tercero": "Angie Aleman",
+    "identificacion": "1002248665",
+    "productos": "BNA 340g x340, BHO 340g x340",
+    "domicilio": "Nacional Transportadora",
+    "total": 124000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BNA",
+        "presentacion": "340g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "BHO",
+        "presentacion": "340g",
+        "molienda": "molido grueso"
       }
     ]
   }
