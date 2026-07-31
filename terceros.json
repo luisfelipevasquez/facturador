@@ -926,5 +926,21 @@
     "Teléfono móvil de contacto": "3185409659",
     "Estado": "Activo",
     "siigoId": "b86bd8ab-f926-40e8-bb6b-ca7ec6d19c8c"
+  },
+  {
+    "Nombre tercero": "Angie Aleman",
+    "Tipo de identificación": "13",
+    "Identificación": "1002248665",
+    "Dirección": "Calle 28 # 27-23 Ed. Seaport 3 Piso 24 Barrio manga",
+    "Ciudad": "Cartagena de Indias",
+    "Código departamento": "13",
+    "Código ciudad": "13001",
+    "Teléfono.": "3153440647",
+    "Correo electrónico": "aaleman608@gmail.com",
+    "Nombres contacto": "Angie",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3153440647",
+    "Estado": "Activo",
+    "siigoId": "4b6cca46-7ce0-45d9-ad6f-246d3e2740b1"
   }
 ]
