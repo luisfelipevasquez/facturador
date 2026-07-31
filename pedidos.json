@@ -3441,5 +3441,30 @@
         "molienda": "molido grueso"
       }
     ]
+  },
+  {
+    "consecutivo": 2566,
+    "fecha": "2026-07-31",
+    "tercero": "Catalina Gómez",
+    "identificacion": "1082857075",
+    "productos": "JNA 250g x250, PNA 100g x100",
+    "domicilio": "Local Mensajero",
+    "total": 128000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "JNA",
+        "presentacion": "250g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "PNA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      }
+    ]
   }
 ]
