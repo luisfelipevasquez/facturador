@@ -7541,7 +7541,12 @@
       "codigo": 3,
       "valor": 143000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "bbb5efa3-1407-41f2-8652-4a9e9b2bce3e",
+    "siigoNumber": "FV-2-2563",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-31T19:33:04.844Z"
   },
   {
     "consecutivo": 2564,
@@ -7631,7 +7636,12 @@
       "codigo": 3,
       "valor": 260000
     },
-    "observaciones": "Redime 250g honey 72 grano"
+    "observaciones": "Redime 250g honey 72 grano",
+    "siigoId": "a0de755b-73f2-4a1f-b5bf-f8a78e242c10",
+    "siigoNumber": "FV-2-2564",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-31T19:33:08.199Z"
   },
   {
     "consecutivo": 2565,
@@ -7677,7 +7687,12 @@
       "codigo": 3,
       "valor": 124000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "8db6b619-996a-4d9d-ad38-b7e6ac501ed7",
+    "siigoNumber": "FV-2-2565",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-31T19:33:09.719Z"
   },
   {
     "consecutivo": 2566,
@@ -7695,7 +7710,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "molido medio"
       },
       {
         "sku": "PNA",
@@ -7705,7 +7721,8 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999
+        "total": 37999.99999999999,
+        "molienda": "molido medio"
       },
       {
         "sku": "DOM",
@@ -7723,6 +7740,11 @@
       "codigo": 3,
       "valor": 128000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "adbd2b39-a94d-4e7f-a27b-517f216b8885",
+    "siigoNumber": "FV-2-2566",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-07-31T19:33:12.762Z"
   }
 ]
