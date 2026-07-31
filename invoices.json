@@ -7678,5 +7678,51 @@
       "valor": 124000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2566,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1082857075",
+    "nombre_tercero": "Catalina Gómez",
+    "fecha_elaboracion": "2026-07-31",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "JNA",
+        "producto": "Java Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "PNA",
+        "producto": "Pacamara Natural",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 5428.571428571428,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 128000
+    },
+    "observaciones": ""
   }
 ]
