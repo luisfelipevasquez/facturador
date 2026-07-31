@@ -3371,5 +3371,45 @@
         "molienda": "molido grueso"
       }
     ]
+  },
+  {
+    "consecutivo": 2564,
+    "fecha": "2026-07-31",
+    "tercero": "Marlon Cabarcas Gómez",
+    "identificacion": "1042446851",
+    "productos": "RLAC 250g x250, RLAC 340g x340, BBO 340g x340, BBO 250g x250, BNA 250g x250",
+    "domicilio": "Nacional Transportadora",
+    "total": 260000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAC",
+        "presentacion": "250g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "RLAC",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BBO",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BBO",
+        "presentacion": "250g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "BNA",
+        "presentacion": "250g",
+        "molienda": "molido medio"
+      }
+    ]
   }
 ]
