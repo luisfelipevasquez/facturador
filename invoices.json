@@ -7902,5 +7902,51 @@
       "valor": 236000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2570,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1019130620",
+    "nombre_tercero": "Juan Esteban Martinez Alonso",
+    "fecha_elaboracion": "2026-08-01",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BSIN",
+        "producto": "Bourbon Sidra",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 271.7086834733894,
+        "iva": 4619.04761904762,
+        "iva_pct": 5,
+        "total": 97000.00000000001
+      },
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 271.7086834733894,
+        "iva": 4619.04761904762,
+        "iva_pct": 5,
+        "total": 97000.00000000001
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 9238.09523809524,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 212000.00000000003
+    },
+    "observaciones": ""
   }
 ]
