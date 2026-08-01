@@ -7836,5 +7836,71 @@
       "valor": 134000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2569,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1035433241",
+    "nombre_tercero": "Daniel Henao Perez",
+    "fecha_elaboracion": "2026-08-01",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BSIN",
+        "producto": "Bourbon Sidra",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "PNA",
+        "producto": "Pacamara Natural",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "JNA",
+        "producto": "Java Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "BNA",
+        "producto": "Blend Natural 56h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 952.3809523809525,
+        "iva_pct": 5,
+        "total": 20000.000000000004
+      },
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 247.61904761904762,
+        "iva": 1238.0952380952383,
+        "iva_pct": 5,
+        "total": 26000
+      }
+    ],
+    "iva_total": 11238.095238095239,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 236000
+    },
+    "observaciones": ""
   }
 ]
