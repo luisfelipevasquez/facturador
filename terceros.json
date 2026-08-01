@@ -942,5 +942,21 @@
     "Teléfono móvil de contacto": "3153440647",
     "Estado": "Activo",
     "siigoId": "4b6cca46-7ce0-45d9-ad6f-246d3e2740b1"
+  },
+  {
+    "Nombre tercero": "Andres David Hernandez Leal",
+    "Tipo de identificación": "13",
+    "Identificación": "1083458679",
+    "Dirección": "Oficina interrapidisimo del municipio de Ataco Tolima",
+    "Ciudad": "Ataco",
+    "Código departamento": "73",
+    "Código ciudad": "73067",
+    "Teléfono.": "3107372540",
+    "Correo electrónico": "andres8704.ahl@gmail.com",
+    "Nombres contacto": "Andres David",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3107372540",
+    "Estado": "Activo",
+    "siigoId": "03baf72d-767f-4b65-ba21-1d58ffe0cc52"
   }
 ]
