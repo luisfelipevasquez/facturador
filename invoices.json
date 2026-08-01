@@ -7710,8 +7710,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "molido medio"
+        "total": 76000
       },
       {
         "sku": "PNA",
@@ -7721,8 +7720,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "molido medio"
+        "total": 37999.99999999999
       },
       {
         "sku": "DOM",
@@ -7746,5 +7744,51 @@
     "cufe": null,
     "siigoStatus": "Sincronizado",
     "siigoSyncedAt": "2026-07-31T19:33:12.762Z"
+  },
+  {
+    "consecutivo": 2567,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1018412104",
+    "nombre_tercero": "Pedro Pablo Camacho Agudelo",
+    "fecha_elaboracion": "2026-08-01",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 220.95238095238093,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 5238.0952380952385,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 128000
+    },
+    "observaciones": ""
   }
 ]
