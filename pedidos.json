@@ -3556,5 +3556,30 @@
         "molienda": "molido grueso"
       }
     ]
+  },
+  {
+    "consecutivo": 2570,
+    "fecha": "2026-08-01",
+    "tercero": "Juan Esteban Martinez Alonso",
+    "identificacion": "1019130620",
+    "productos": "BSIN 340g x340, PANA 340g x340",
+    "domicilio": "Nacional Transportadora",
+    "total": 212000.00000000003,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BSIN",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "PANA",
+        "presentacion": "340g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
