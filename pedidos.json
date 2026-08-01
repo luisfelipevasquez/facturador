@@ -3491,5 +3491,30 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2568,
+    "fecha": "2026-08-01",
+    "tercero": "Andres David Hernandez Leal",
+    "identificacion": "1083458679",
+    "productos": "RLAC 500g x500, RLAC 500g x500",
+    "domicilio": "Nacional Transportadora",
+    "total": 134000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAC",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAC",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
