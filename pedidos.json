@@ -3466,5 +3466,30 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2567,
+    "fecha": "2026-08-01",
+    "tercero": "Pedro Pablo Camacho Agudelo",
+    "identificacion": "1018412104",
+    "productos": "CMA 250g x250, BBO 250g x250",
+    "domicilio": "Nacional Transportadora",
+    "total": 128000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CMA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BBO",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
