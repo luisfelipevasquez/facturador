@@ -1,5 +1,21 @@
 [
   {
+    "order_id": 8665,
+    "consecutivo": "8665",
+    "fecha": "2026-08-01",
+    "tercero": "Alejandra Buitrago",
+    "identificacion": "1019088914",
+    "productos": "RLAA Regional Lavado Frutos Verdes x1",
+    "domicilio": "Envío Nacional (3 - 5 días hábiles), envia",
+    "total": 76000,
+    "forma_pago": "Wompi",
+    "woo_status": "completed",
+    "status": "Completado",
+    "manual": false,
+    "client_type": null,
+    "observaciones": ""
+  },
+  {
     "order_id": 8662,
     "consecutivo": "8662",
     "fecha": "2026-07-31",
@@ -10,8 +26,8 @@
     "total": 210000,
     "forma_pago": "Wompi",
     "woo_status": "processing",
-    "status": "En proceso",
-    "manual": false,
+    "status": "Completado",
+    "manual": true,
     "client_type": "Antiguo",
     "observaciones": ""
   },
