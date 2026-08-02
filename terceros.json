@@ -974,5 +974,21 @@
     "Teléfono móvil de contacto": "3146621536",
     "Estado": "Activo",
     "siigoId": "347322cc-4ba6-4b28-a591-b58118d2f18d"
+  },
+  {
+    "Nombre tercero": "Darwin Velez",
+    "Tipo de identificación": "13",
+    "Identificación": "1121526987",
+    "Dirección": "Calle 22 #1b1 barrio san Antonio Después de la iglesia san Antonio antes de llegar al CDI callejón de portones grises",
+    "Ciudad": "Maicao",
+    "Código departamento": "44",
+    "Código ciudad": "44430",
+    "Teléfono.": "3247348118",
+    "Correo electrónico": "tracx@firemail.cc",
+    "Nombres contacto": "Darwin",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3247348118",
+    "Estado": "Activo",
+    "siigoId": "3d4080bb-e6e0-4e4a-9458-1e5f1601e186"
   }
 ]
