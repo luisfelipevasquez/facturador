@@ -7984,5 +7984,51 @@
       "valor": 111000.00000000001
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2572,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1121526987",
+    "nombre_tercero": "Darwin Velez",
+    "fecha_elaboracion": "2026-08-02",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "RLAA",
+        "producto": "Regional Lavado Andes",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 161.9047619047619,
+        "iva": 809.5238095238095,
+        "iva_pct": 5,
+        "total": 17000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 3571.4285714285716,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 93000
+    },
+    "observaciones": ""
   }
 ]
