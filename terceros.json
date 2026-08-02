@@ -958,5 +958,21 @@
     "Teléfono móvil de contacto": "3107372540",
     "Estado": "Activo",
     "siigoId": "03baf72d-767f-4b65-ba21-1d58ffe0cc52"
+  },
+  {
+    "Nombre tercero": "Carlos Mario Sierra Piedrahita",
+    "Tipo de identificación": "13",
+    "Identificación": "1039884655",
+    "Dirección": "Calle 85 # 42-380 planta San Fernando EPM",
+    "Ciudad": "Itagüí",
+    "Código departamento": "05",
+    "Código ciudad": "05360",
+    "Teléfono.": "3146621536",
+    "Correo electrónico": "carlosmariosierrapiedraita@gmail.com",
+    "Nombres contacto": "Carlos Mario",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3146621536",
+    "Estado": "Activo",
+    "siigoId": "347322cc-4ba6-4b28-a591-b58118d2f18d"
   }
 ]
