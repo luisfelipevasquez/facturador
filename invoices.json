@@ -7789,7 +7789,12 @@
       "codigo": 3,
       "valor": 128000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "6da7164d-f77c-4ddb-818e-8559ce4733fa",
+    "siigoNumber": "FV-2-2567",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-03T05:22:06.561Z"
   },
   {
     "consecutivo": 2568,
@@ -7835,7 +7840,12 @@
       "codigo": 3,
       "valor": 134000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "96433de7-2c63-4448-9406-05709c2af265",
+    "siigoNumber": "FV-2-2568",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-03T05:22:07.106Z"
   },
   {
     "consecutivo": 2569,
@@ -7901,7 +7911,12 @@
       "codigo": 3,
       "valor": 236000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "237f9d62-d769-4121-b5df-abc4bc220d2d",
+    "siigoNumber": "FV-2-2569",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-03T05:22:07.614Z"
   },
   {
     "consecutivo": 2570,
@@ -7947,7 +7962,12 @@
       "codigo": 3,
       "valor": 212000.00000000003
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "d5d33026-4ade-4496-94b4-c17e2119908e",
+    "siigoNumber": "FV-2-2570",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-03T05:22:08.089Z"
   },
   {
     "consecutivo": 2571,
@@ -7983,7 +8003,12 @@
       "codigo": 3,
       "valor": 111000.00000000001
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "03e2178a-2831-400c-9dbd-9d0029c60eb8",
+    "siigoNumber": "FV-2-2571",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-03T05:22:08.485Z"
   },
   {
     "consecutivo": 2572,
@@ -8029,6 +8054,11 @@
       "codigo": 3,
       "valor": 93000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "aaabcdd4-3194-4278-8c6f-938ac616d3f0",
+    "siigoNumber": "FV-2-2572",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-03T05:22:09.047Z"
   }
 ]
