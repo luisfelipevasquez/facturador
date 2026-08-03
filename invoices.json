@@ -8060,5 +8060,41 @@
     "cufe": null,
     "siigoStatus": "Sincronizado",
     "siigoSyncedAt": "2026-08-03T05:22:09.047Z"
+  },
+  {
+    "consecutivo": 2578,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "98561035",
+    "nombre_tercero": "Ricardo León Lopera Echeverri",
+    "fecha_elaboracion": "2026-08-03",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO120",
+        "producto": "Blend Honey 120h",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 137.14285714285714,
+        "iva": 3428.5714285714284,
+        "iva_pct": 5,
+        "total": 72000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 3428.5714285714284,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 86000
+    },
+    "observaciones": ""
   }
 ]
