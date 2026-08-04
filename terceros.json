@@ -990,5 +990,21 @@
     "Teléfono móvil de contacto": "3247348118",
     "Estado": "Activo",
     "siigoId": "3d4080bb-e6e0-4e4a-9458-1e5f1601e186"
+  },
+  {
+    "Nombre tercero": "María Paula Beltran",
+    "Tipo de identificación": "13",
+    "Identificación": "1032433467",
+    "Dirección": "Calle 29 # 32-20",
+    "Ciudad": "Bogotá D.C.",
+    "Código departamento": "11",
+    "Código ciudad": "11001",
+    "Teléfono.": "3176568849",
+    "Correo electrónico": "mpaula.beltran@gmail.com",
+    "Nombres contacto": "María",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3176568849",
+    "Estado": "Activo",
+    "siigoId": "04574c25-713b-4dac-ad83-846d10da6f76"
   }
 ]
