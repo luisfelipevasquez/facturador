@@ -1022,5 +1022,21 @@
     "Teléfono móvil de contacto": "3024308927",
     "Estado": "Activo",
     "siigoId": "16f58806-8fec-4d40-a7e9-66ab23514ecc"
+  },
+  {
+    "Nombre tercero": "Juan David Salazar",
+    "Tipo de identificación": "13",
+    "Identificación": "1049619309",
+    "Dirección": "Calle 41 # 1 este 51 Villas de Aranjuez TO 1 Apto 408",
+    "Ciudad": "Tunja",
+    "Código departamento": "15",
+    "Código ciudad": "15001",
+    "Teléfono.": "3013001933",
+    "Correo electrónico": "maccanx@hotmail.com",
+    "Nombres contacto": "Juan",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3013001933",
+    "Estado": "Activo",
+    "siigoId": "57fc6714-10d6-48ed-93ec-567a676c1c2b"
   }
 ]
