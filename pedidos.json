@@ -3646,5 +3646,25 @@
         "molienda": "molido grueso"
       }
     ]
+  },
+  {
+    "consecutivo": 2579,
+    "fecha": "2026-08-04",
+    "tercero": "Luis Fernando Rios",
+    "identificacion": "15929620",
+    "productos": "CMA 500g x500",
+    "domicilio": "Nacional Transportadora",
+    "total": 107000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CMA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
