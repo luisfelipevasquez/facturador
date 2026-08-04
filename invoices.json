@@ -8132,5 +8132,51 @@
       "valor": 107000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2580,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1037668186",
+    "nombre_tercero": "Alejandro Alvarez Uribe",
+    "fecha_elaboracion": "2026-08-04",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 1095.2380952380952,
+        "iva_pct": 5,
+        "total": 23000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 1095.2380952380952,
+        "iva_pct": 5,
+        "total": 23000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 2190.4761904761904,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 60000
+    },
+    "observaciones": ""
   }
 ]
