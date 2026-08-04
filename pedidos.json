@@ -3751,5 +3751,30 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2583,
+    "fecha": "2026-08-04",
+    "tercero": "Edwin Cruz Silva",
+    "identificacion": "1016020084",
+    "productos": "CGA 340g x340, CMA 340g x340",
+    "domicilio": "Nacional Transportadora",
+    "total": 128024,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CGA",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "340g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
