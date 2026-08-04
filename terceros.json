@@ -1038,5 +1038,21 @@
     "Teléfono móvil de contacto": "3013001933",
     "Estado": "Activo",
     "siigoId": "57fc6714-10d6-48ed-93ec-567a676c1c2b"
+  },
+  {
+    "Nombre tercero": "Julian Arias Cardona",
+    "Tipo de identificación": "13",
+    "Identificación": "1017233138",
+    "Dirección": "Cra 84f # 3c-40 Aura Apto 212 Loma los Bernal",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3507319993",
+    "Correo electrónico": "Julian197a@gmail.com",
+    "Nombres contacto": "Julian",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3507319993",
+    "Estado": "Activo",
+    "siigoId": "253b29ca-18ce-45fd-8e37-1002a67cf1f2"
   }
 ]
