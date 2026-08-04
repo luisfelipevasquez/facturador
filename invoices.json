@@ -8290,5 +8290,53 @@
       "valor": 109000
     },
     "observaciones": "Paga Contraentrega 109.000, devuelta de 110.000"
+  },
+  {
+    "consecutivo": 2583,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1016020084",
+    "nombre_tercero": "Edwin Cruz Silva",
+    "fecha_elaboracion": "2026-08-04",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 190.47619047619048,
+        "iva": 3238.0952380952385,
+        "iva_pct": 5,
+        "total": 68000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 190.47619047619048,
+        "iva": 2001.1428571428573,
+        "iva_pct": 5,
+        "total": 42024,
+        "descuento_pct": 38.2,
+        "descuento_valor": 24739.04761904762
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 5239.238095238095,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 128024
+    },
+    "observaciones": ""
   }
 ]
