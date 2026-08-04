@@ -8307,8 +8307,7 @@
         "valor_unitario": 190.47619047619048,
         "iva": 3238.0952380952385,
         "iva_pct": 5,
-        "total": 68000,
-        "molienda": "grano"
+        "total": 68000
       },
       {
         "sku": "CMA",
@@ -8320,8 +8319,7 @@
         "iva_pct": 5,
         "total": 42024,
         "descuento_pct": 38.2,
-        "descuento_valor": 24739.04761904762,
-        "molienda": "grano"
+        "descuento_valor": 24739.04761904762
       },
       {
         "sku": "DOM",
@@ -8340,5 +8338,51 @@
       "valor": 128024
     },
     "observaciones": "Redime 50% fidelización. Enviar nueva tarjeta con la compra de hoy"
+  },
+  {
+    "consecutivo": 2584,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1049619309",
+    "nombre_tercero": "Juan David Salazar",
+    "fecha_elaboracion": "2026-08-04",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BNA",
+        "producto": "Blend Natural 56h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 1095.2380952380952,
+        "iva_pct": 5,
+        "total": 23000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 3095.2380952380954,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 83000
+    },
+    "observaciones": ""
   }
 ]
