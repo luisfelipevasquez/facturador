@@ -8178,5 +8178,61 @@
       "valor": 60000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2581,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1032433467",
+    "nombre_tercero": "María Paula Beltran",
+    "fecha_elaboracion": "2026-08-04",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "JNA",
+        "producto": "Java Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "RLAS",
+        "producto": "Regional Lavado SurOeste",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 144.76190476190476,
+        "iva": 1809.5238095238096,
+        "iva_pct": 5,
+        "total": 38000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 7904.761904761905,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 184000
+    },
+    "observaciones": ""
   }
 ]
