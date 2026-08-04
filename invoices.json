@@ -8307,7 +8307,8 @@
         "valor_unitario": 190.47619047619048,
         "iva": 3238.0952380952385,
         "iva_pct": 5,
-        "total": 68000
+        "total": 68000,
+        "molienda": "grano"
       },
       {
         "sku": "CMA",
@@ -8319,7 +8320,8 @@
         "iva_pct": 5,
         "total": 42024,
         "descuento_pct": 38.2,
-        "descuento_valor": 24739.04761904762
+        "descuento_valor": 24739.04761904762,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -8337,6 +8339,6 @@
       "codigo": 3,
       "valor": 128024
     },
-    "observaciones": ""
+    "observaciones": "Redime 50% fidelización. Enviar nueva tarjeta con la compra de hoy"
   }
 ]
