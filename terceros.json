@@ -1006,5 +1006,21 @@
     "Teléfono móvil de contacto": "3176568849",
     "Estado": "Activo",
     "siigoId": "04574c25-713b-4dac-ad83-846d10da6f76"
+  },
+  {
+    "Nombre tercero": "Lilian Paola Hernandez Parada",
+    "Tipo de identificación": "13",
+    "Identificación": "52819641",
+    "Dirección": "Aires de Valencia",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3024308927",
+    "Correo electrónico": "paolahz@hotmail.com",
+    "Nombres contacto": "Lilian Paola",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3024308927",
+    "Estado": "Activo",
+    "siigoId": "16f58806-8fec-4d40-a7e9-66ab23514ecc"
   }
 ]
