@@ -8596,5 +8596,61 @@
       "valor": 186000
     },
     "observaciones": "Recoge y paga en efectivo 186.000 devuelta de 200.000"
+  },
+  {
+    "consecutivo": 2587,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "101722713",
+    "nombre_tercero": "Katherine Salazar Cardona",
+    "fecha_elaboracion": "2026-08-05",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 190.47619047619048,
+        "iva": 3238.0952380952385,
+        "iva_pct": 5,
+        "total": 68000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 190.47619047619048,
+        "iva": 3238.0952380952385,
+        "iva_pct": 5,
+        "total": 68000
+      },
+      {
+        "sku": "RLAS",
+        "producto": "Regional Lavado SurOeste",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 131.65266106442579,
+        "iva": 2238.0952380952385,
+        "iva_pct": 5,
+        "total": 47000.00000000001
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 8714.285714285716,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 197000
+    },
+    "observaciones": "Enviar al trabajo con mensajero"
   }
 ]
