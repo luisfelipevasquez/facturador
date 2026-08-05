@@ -1070,5 +1070,21 @@
     "Teléfono móvil de contacto": "01772673223",
     "Estado": "Activo",
     "siigoId": "155fdc88-9cd6-4620-85e6-4e78641b6aa6"
+  },
+  {
+    "Nombre tercero": "Cristian Javier Mayorga Carreño",
+    "Tipo de identificación": "13",
+    "Identificación": "1065246500",
+    "Dirección": "Mz 7 barrio Provenza Lote 23 Apto 101",
+    "Ciudad": "Ocaña",
+    "Código departamento": "54",
+    "Código ciudad": "54599",
+    "Teléfono.": "3157390301",
+    "Correo electrónico": "cristianmayorga25@gmail.com",
+    "Nombres contacto": "Cristian Javier",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3157390301",
+    "Estado": "Activo",
+    "siigoId": "40006419-3378-4d0f-961a-af9335d54121"
   }
 ]
