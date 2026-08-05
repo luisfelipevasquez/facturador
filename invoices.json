@@ -8550,5 +8550,51 @@
       "valor": 884000
     },
     "observaciones": "Llevar a Christian, lo lleva Alejo"
+  },
+  {
+    "consecutivo": 2586,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1152206577",
+    "nombre_tercero": "Juan Camilo Vargas Gómez",
+    "fecha_elaboracion": "2026-08-05",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO",
+        "producto": "Blend Honey 56h",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 137.14285714285714,
+        "iva": 3428.5714285714284,
+        "iva_pct": 5,
+        "total": 72000
+      },
+      {
+        "sku": "BHO",
+        "producto": "Blend Honey 56h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      },
+      {
+        "sku": "BNA",
+        "producto": "Blend Natural 56h",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 137.14285714285714,
+        "iva": 3428.5714285714284,
+        "iva_pct": 5,
+        "total": 72000
+      }
+    ],
+    "iva_total": 8857.142857142857,
+    "forma_pago": {
+      "codigo": 1,
+      "valor": 186000
+    },
+    "observaciones": "Recoge y paga en efectivo 186.000 devuelta de 200.000"
   }
 ]
