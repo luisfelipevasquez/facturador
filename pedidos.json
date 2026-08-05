@@ -3916,5 +3916,35 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2587,
+    "fecha": "2026-08-05",
+    "tercero": "Katherine Salazar Cardona",
+    "identificacion": "101722713",
+    "productos": "CMA 340g x340, CMA 340g x340, RLAS 340g x340",
+    "domicilio": "Local Mensajero",
+    "total": 197000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CMA",
+        "presentacion": "340g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "340g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "RLAS",
+        "presentacion": "340g",
+        "molienda": "molido fino"
+      }
+    ]
   }
 ]
