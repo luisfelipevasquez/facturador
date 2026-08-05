@@ -3801,5 +3801,90 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2585,
+    "fecha": "2026-08-05",
+    "tercero": "Hugo Arley Vargas Motta",
+    "identificacion": "1084898962",
+    "productos": "CMA 500g x500, CGA 500g x500, BNA120 250g x250, RLAA 250g x250, PANA 100g x100, BSIN 250g x250, GELA 250g x250, CHLA 100g x100, RLAS 100g x100, BHO 100g x100, CMA 100g x100, CGA 100g x100, BBO 100g x100, PNA 100g x100",
+    "domicilio": "Otro",
+    "total": 884000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CMA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BNA120",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "PANA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BSIN",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "GELA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CHLA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAS",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BBO",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "PNA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
