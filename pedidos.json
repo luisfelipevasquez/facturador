@@ -3971,5 +3971,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2600,
+    "fecha": "2026-08-06",
+    "tercero": "Nestor Rafael Calvo Ariza",
+    "identificacion": "1118871837",
+    "productos": "BNA120 340g x340",
+    "domicilio": "Local Mensajero",
+    "total": 67000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BNA120",
+        "presentacion": "340g",
+        "molienda": "molido medio"
+      }
+    ]
   }
 ]
