@@ -8817,5 +8817,31 @@
       "valor": 97000.00000000001
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2602,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "71318180",
+    "nombre_tercero": "Santiago Jaramillo",
+    "fecha_elaboracion": "2026-08-06",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BRO",
+        "producto": "Bourbon Rosado",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      }
+    ],
+    "iva_total": 3619.0476190476193,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 76000
+    },
+    "observaciones": ""
   }
 ]
