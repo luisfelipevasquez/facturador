@@ -3991,5 +3991,25 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2601,
+    "fecha": "2026-08-06",
+    "tercero": "Luz Adriana Ortiz",
+    "identificacion": "1020407113",
+    "productos": "BRO 340g x340",
+    "domicilio": "",
+    "total": 97000.00000000001,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BRO",
+        "presentacion": "340g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
