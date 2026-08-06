@@ -222,5 +222,14 @@
     "PRODUCTO": "Wompi",
     "Comision 7%": 7,
     "Comision 5%": 5
+  },
+  {
+    "SKU": "BRO",
+    "PRODUCTO": "Bourbon Rosado",
+    "100g": 380,
+    "250g": 304,
+    "340g": 285.29411764705884,
+    "500g": 278,
+    "iva": 5
   }
 ]
