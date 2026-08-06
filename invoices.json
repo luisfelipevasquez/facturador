@@ -8095,7 +8095,12 @@
       "codigo": 3,
       "valor": 86000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "d5e6ed95-658f-4795-ac3f-a74f7cda353a",
+    "siigoNumber": "FV-2-2579",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-06T02:41:34.965Z"
   },
   {
     "consecutivo": 2579,
@@ -8131,7 +8136,12 @@
       "codigo": 3,
       "valor": 107000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "4fb19a7b-2fad-4025-b48e-df4ef3a25cd5",
+    "siigoNumber": "FV-2-2580",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-06T02:41:35.877Z"
   },
   {
     "consecutivo": 2580,
@@ -8177,7 +8187,12 @@
       "codigo": 3,
       "valor": 60000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "9c949e54-833e-4446-a0cc-5c84abd818df",
+    "siigoNumber": "FV-2-2581",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-06T02:41:37.924Z"
   },
   {
     "consecutivo": 2581,
@@ -8233,7 +8248,12 @@
       "codigo": 3,
       "valor": 184000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "323800d6-204e-4e4a-bb1b-3392c77efcd1",
+    "siigoNumber": "FV-2-2582",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-06T02:41:38.873Z"
   },
   {
     "consecutivo": 2582,
@@ -8289,7 +8309,12 @@
       "codigo": 3,
       "valor": 109000
     },
-    "observaciones": "Paga Contraentrega 109.000, devuelta de 110.000"
+    "observaciones": "Paga Contraentrega 109.000, devuelta de 110.000",
+    "siigoId": "1d4105bf-0746-46be-a7f2-54e2b8b98c4d",
+    "siigoNumber": "FV-2-2583",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-06T02:41:39.747Z"
   },
   {
     "consecutivo": 2583,
@@ -8337,7 +8362,12 @@
       "codigo": 3,
       "valor": 128024
     },
-    "observaciones": "Redime 50% fidelización. Enviar nueva tarjeta con la compra de hoy"
+    "observaciones": "Redime 50% fidelización. Enviar nueva tarjeta con la compra de hoy",
+    "siigoId": "556b7ec8-8af4-455b-a197-90fdfd7b9fdc",
+    "siigoNumber": "FV-2-2584",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-06T02:41:40.510Z"
   },
   {
     "consecutivo": 2584,
@@ -8383,7 +8413,12 @@
       "codigo": 3,
       "valor": 83000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "793dee83-e7f4-4a43-b36f-7c79b780e17a",
+    "siigoNumber": "FV-2-2585",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-06T02:41:41.544Z"
   },
   {
     "consecutivo": 2585,
@@ -8549,7 +8584,12 @@
       "codigo": 3,
       "valor": 884000
     },
-    "observaciones": "Llevar a Christian, lo lleva Alejo"
+    "observaciones": "Llevar a Christian, lo lleva Alejo",
+    "siigoId": "4633483c-e4e2-46c2-8584-817598363800",
+    "siigoNumber": "FV-2-2586",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-06T02:41:42.567Z"
   },
   {
     "consecutivo": 2586,
@@ -8595,7 +8635,12 @@
       "codigo": 1,
       "valor": 186000
     },
-    "observaciones": "Recoge y paga en efectivo 186.000 devuelta de 200.000"
+    "observaciones": "Recoge y paga en efectivo 186.000 devuelta de 200.000",
+    "siigoId": "53a312d6-81de-4c67-914a-bf5d5279cfa5",
+    "siigoNumber": "FV-2-2587",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-06T02:41:43.317Z"
   },
   {
     "consecutivo": 2587,
@@ -8651,7 +8696,12 @@
       "codigo": 3,
       "valor": 197000
     },
-    "observaciones": "Enviar al trabajo con mensajero"
+    "observaciones": "Enviar al trabajo con mensajero",
+    "siigoId": "e465b641-3f64-441e-bf12-107cdf47951e",
+    "siigoNumber": "FV-2-2588",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-06T02:41:44.107Z"
   },
   {
     "consecutivo": 2588,
@@ -8669,7 +8719,8 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000
+        "total": 139000,
+        "molienda": "grano"
       },
       {
         "sku": "BRO",
@@ -8679,7 +8730,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -8699,6 +8751,11 @@
       "codigo": 3,
       "valor": 215000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "ef218611-5099-4c1d-8644-57e15928cbf8",
+    "siigoNumber": "FV-2-2589",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-06T02:41:45.800Z"
   }
 ]
