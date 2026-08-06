@@ -8791,5 +8791,31 @@
       "valor": 67000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2601,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1020407113",
+    "nombre_tercero": "Luz Adriana Ortiz",
+    "fecha_elaboracion": "2026-08-06",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BRO",
+        "producto": "Bourbon Rosado",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 271.7086834733894,
+        "iva": 4619.04761904762,
+        "iva_pct": 5,
+        "total": 97000.00000000001
+      }
+    ],
+    "iva_total": 4619.04761904762,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 97000.00000000001
+    },
+    "observaciones": ""
   }
 ]
