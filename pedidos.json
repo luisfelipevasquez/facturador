@@ -4011,5 +4011,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2602,
+    "fecha": "2026-08-06",
+    "tercero": "Santiago Jaramillo",
+    "identificacion": "71318180",
+    "productos": "BRO 250g x250",
+    "domicilio": "",
+    "total": 76000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BRO",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
