@@ -4031,5 +4031,45 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2603,
+    "fecha": "2026-08-06",
+    "tercero": "Lilian Paola Hernandez Parada",
+    "identificacion": "52819641",
+    "productos": "BNA 100g x100, CHLA 100g x100, PANA 100g x100, BRO 100g x100, RLAS 100g x100",
+    "domicilio": "",
+    "total": 135000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BNA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CHLA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "PANA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BRO",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAS",
+        "presentacion": "100g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
