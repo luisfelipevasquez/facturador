@@ -8790,7 +8790,12 @@
       "codigo": 3,
       "valor": 67000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "4cb9f1ef-d3ac-4e4e-ad06-bc245bb3528b",
+    "siigoNumber": "FV-2-2600",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-06T22:19:43.459Z"
   },
   {
     "consecutivo": 2601,
@@ -8808,7 +8813,8 @@
         "valor_unitario": 271.7086834733894,
         "iva": 4619.04761904762,
         "iva_pct": 5,
-        "total": 97000.00000000001
+        "total": 97000.00000000001,
+        "molienda": "grano"
       }
     ],
     "iva_total": 4619.04761904762,
@@ -8816,7 +8822,12 @@
       "codigo": 3,
       "valor": 97000.00000000001
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "bc7a9344-78c3-4c35-9fff-cfb74010f747",
+    "siigoNumber": "FV-2-2601",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-06T22:19:45.510Z"
   },
   {
     "consecutivo": 2602,
@@ -8834,7 +8845,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "grano"
       }
     ],
     "iva_total": 3619.0476190476193,
@@ -8842,7 +8854,12 @@
       "codigo": 3,
       "valor": 76000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "8e50f321-2534-4894-8a6e-1db6fb8e70d8",
+    "siigoNumber": "FV-2-2602",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-06T22:19:46.839Z"
   },
   {
     "consecutivo": 2603,
@@ -8860,7 +8877,8 @@
         "valor_unitario": 190.47619047619048,
         "iva": 952.3809523809525,
         "iva_pct": 5,
-        "total": 20000.000000000004
+        "total": 20000.000000000004,
+        "molienda": "grano"
       },
       {
         "sku": "CHLA",
@@ -8870,7 +8888,8 @@
         "valor_unitario": 209.52380952380952,
         "iva": 1047.6190476190475,
         "iva_pct": 5,
-        "total": 21999.999999999996
+        "total": 21999.999999999996,
+        "molienda": "grano"
       },
       {
         "sku": "PANA",
@@ -8880,7 +8899,8 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999
+        "total": 37999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "BRO",
@@ -8890,7 +8910,8 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999
+        "total": 37999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "RLAS",
@@ -8900,7 +8921,8 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000
+        "total": 17000,
+        "molienda": "grano"
       }
     ],
     "iva_total": 6428.5714285714275,
@@ -8908,6 +8930,11 @@
       "codigo": 3,
       "valor": 135000
     },
-    "observaciones": "Recoge"
+    "observaciones": "Recoge",
+    "siigoId": "123e16b9-5fe3-4519-8973-62be398f71f1",
+    "siigoNumber": "FV-2-2603",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-06T22:19:48.580Z"
   }
 ]
