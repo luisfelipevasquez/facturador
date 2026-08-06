@@ -1086,5 +1086,21 @@
     "Teléfono móvil de contacto": "3157390301",
     "Estado": "Activo",
     "siigoId": "40006419-3378-4d0f-961a-af9335d54121"
+  },
+  {
+    "Nombre tercero": "Mario Alonso Pérez Gómez",
+    "Tipo de identificación": "13",
+    "Identificación": "0930569199",
+    "Dirección": "Mucho lote 2 Guayaquil",
+    "Ciudad": "— Primero selecciona un departamento —",
+    "Código departamento": "",
+    "Código ciudad": "",
+    "Teléfono.": "0986481464",
+    "Correo electrónico": "marioperezgomez@hotmail.com",
+    "Nombres contacto": "Mario Alonso",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "0986481464",
+    "Estado": "Activo",
+    "siigoId": "7287e8f7-785b-45fb-9554-ca90527a26cc"
   }
 ]
