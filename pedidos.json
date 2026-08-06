@@ -3946,5 +3946,30 @@
         "molienda": "molido fino"
       }
     ]
+  },
+  {
+    "consecutivo": 2588,
+    "fecha": "2026-08-05",
+    "tercero": "Rodolfo/Nicolas Morales Martínez",
+    "identificacion": "1061735742",
+    "productos": "BRO 500g x500, BRO 250g x250",
+    "domicilio": "Nacional Transportadora",
+    "total": 215000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BRO",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BRO",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
