@@ -9028,7 +9028,8 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000
+        "total": 42000,
+        "molienda": "grano"
       },
       {
         "sku": "BHO120",
@@ -9038,7 +9039,8 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000
+        "total": 42000,
+        "molienda": "grano"
       },
       {
         "sku": "GELA",
@@ -9048,7 +9050,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "grano"
       },
       {
         "sku": "PNA",
@@ -9060,7 +9063,8 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096
+        "descuento_valor": 3329.5238095238096,
+        "molienda": "grano"
       },
       {
         "sku": "JNA",
@@ -9072,7 +9076,8 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096
+        "descuento_valor": 3329.5238095238096,
+        "molienda": "grano"
       },
       {
         "sku": "PANA",
@@ -9082,7 +9087,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -9095,6 +9101,32 @@
         "total": 0,
         "descuento_pct": 100,
         "descuento_valor": 18000
+      },
+      {
+        "sku": "CHLA",
+        "producto": "Chiroso Lavado",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 190.47619047619048,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 47619.04761904762,
+        "molienda": "grano"
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 49523.80952380952,
+        "molienda": "grano"
       }
     ],
     "iva_total": 18143.238095238095,
@@ -9102,7 +9134,7 @@
       "codigo": 3,
       "valor": 381008
     },
-    "observaciones": "Envío a  San Andrés de Tumaco,  Calle del comercio #12 - 70 barrio la calavera\nA nombre de: Angela del Castillo\nTelf: +573163637993\nPago con bold"
+    "observaciones": "Envío a  San Andrés de Tumaco,  Calle del comercio #12 - 70 barrio la calaveraA nombre de: Angela del CastilloTelf: +573163637993Pago con bold"
   },
   {
     "consecutivo": 2617,
@@ -9120,7 +9152,8 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000
+        "total": 89000,
+        "molienda": "grano"
       },
       {
         "sku": "PANA",
@@ -9130,7 +9163,8 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000
+        "total": 139000,
+        "molienda": "grano"
       },
       {
         "sku": "JNA",
@@ -9142,7 +9176,8 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096
+        "descuento_valor": 3329.5238095238096,
+        "molienda": "grano"
       },
       {
         "sku": "PNA",
@@ -9154,7 +9189,8 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096
+        "descuento_valor": 3329.5238095238096,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -9192,7 +9228,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "grano"
       },
       {
         "sku": "CMA",
@@ -9202,7 +9239,8 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999
+        "total": 51999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "BHO",
@@ -9212,7 +9250,8 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000
+        "total": 42000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -9250,7 +9289,8 @@
         "valor_unitario": 220.95238095238093,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "grano"
       },
       {
         "sku": "BNA",
@@ -9260,7 +9300,8 @@
         "valor_unitario": 148.45938375350138,
         "iva": 2523.809523809524,
         "iva_pct": 5,
-        "total": 53000
+        "total": 53000,
+        "molienda": "grano"
       },
       {
         "sku": "CHLA",
@@ -9270,7 +9311,8 @@
         "valor_unitario": 190.47619047619048,
         "iva": 2380.952380952381,
         "iva_pct": 5,
-        "total": 50000
+        "total": 50000,
+        "molienda": "grano"
       }
     ],
     "iva_total": 7666.666666666668,
@@ -9296,7 +9338,8 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000
+        "total": 17000,
+        "molienda": "grano"
       },
       {
         "sku": "PANA",
@@ -9306,7 +9349,8 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999
+        "total": 37999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "BBO",
@@ -9316,7 +9360,8 @@
         "valor_unitario": 247.61904761904762,
         "iva": 1238.0952380952383,
         "iva_pct": 5,
-        "total": 26000
+        "total": 26000,
+        "molienda": "grano"
       },
       {
         "sku": "CMA",
@@ -9326,7 +9371,8 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000
+        "total": 23000,
+        "molienda": "grano"
       },
       {
         "sku": "CGA",
@@ -9336,7 +9382,8 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000
+        "total": 23000,
+        "molienda": "grano"
       },
       {
         "sku": "BNA",
@@ -9346,7 +9393,8 @@
         "valor_unitario": 190.47619047619048,
         "iva": 952.3809523809525,
         "iva_pct": 5,
-        "total": 20000.000000000004
+        "total": 20000.000000000004,
+        "molienda": "grano"
       }
     ],
     "iva_total": 7000,
