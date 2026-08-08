@@ -9028,7 +9028,8 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000
+        "total": 42000,
+        "molienda": "grano"
       },
       {
         "sku": "BHO120",
@@ -9038,7 +9039,8 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000
+        "total": 42000,
+        "molienda": "grano"
       },
       {
         "sku": "GELA",
@@ -9048,7 +9050,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "grano"
       },
       {
         "sku": "PNA",
@@ -9060,7 +9063,8 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096
+        "descuento_valor": 3329.5238095238096,
+        "molienda": "grano"
       },
       {
         "sku": "JNA",
@@ -9072,7 +9076,8 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096
+        "descuento_valor": 3329.5238095238096,
+        "molienda": "grano"
       },
       {
         "sku": "PANA",
@@ -9082,7 +9087,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -9120,7 +9126,8 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000
+        "total": 89000,
+        "molienda": "grano"
       },
       {
         "sku": "PANA",
@@ -9130,7 +9137,8 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000
+        "total": 139000,
+        "molienda": "grano"
       },
       {
         "sku": "JNA",
@@ -9142,7 +9150,8 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096
+        "descuento_valor": 3329.5238095238096,
+        "molienda": "grano"
       },
       {
         "sku": "PNA",
@@ -9154,7 +9163,8 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096
+        "descuento_valor": 3329.5238095238096,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -9174,6 +9184,6 @@
       "codigo": 3,
       "valor": 373008
     },
-    "observaciones": ""
+    "observaciones": "Enviar a Ángela a tumaco"
   }
 ]
