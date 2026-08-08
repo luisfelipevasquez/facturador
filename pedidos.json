@@ -4201,5 +4201,35 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2618,
+    "fecha": "2026-08-08",
+    "tercero": "Angie Shanney Valdivieso Cruz",
+    "identificacion": "0953197969",
+    "productos": "PANA 250g x250, CMA 250g x250, BHO 250g x250",
+    "domicilio": "Nacional Transportadora",
+    "total": 170000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "PANA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
