@@ -4121,5 +4121,50 @@
         "molienda": "molido grueso"
       }
     ]
+  },
+  {
+    "consecutivo": 2616,
+    "fecha": "2026-08-08",
+    "tercero": "Erick Conde Bermeo",
+    "identificacion": "0930389192",
+    "productos": "BNA120 250g x250, BHO120 250g x250, GELA 250g x250, PNA 250g x250, JNA 250g x250, PANA 250g x250",
+    "domicilio": "Nacional Transportadora",
+    "total": 381008,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BNA120",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO120",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "GELA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "PNA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "JNA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "PANA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
