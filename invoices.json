@@ -9028,8 +9028,7 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000,
-        "molienda": "grano"
+        "total": 42000
       },
       {
         "sku": "BHO120",
@@ -9039,8 +9038,7 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000,
-        "molienda": "grano"
+        "total": 42000
       },
       {
         "sku": "GELA",
@@ -9050,8 +9048,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       },
       {
         "sku": "PNA",
@@ -9063,8 +9060,7 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096,
-        "molienda": "grano"
+        "descuento_valor": 3329.5238095238096
       },
       {
         "sku": "JNA",
@@ -9076,8 +9072,7 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096,
-        "molienda": "grano"
+        "descuento_valor": 3329.5238095238096
       },
       {
         "sku": "PANA",
@@ -9087,8 +9082,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       },
       {
         "sku": "DOM",
@@ -9126,8 +9120,7 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000,
-        "molienda": "grano"
+        "total": 89000
       },
       {
         "sku": "PANA",
@@ -9137,8 +9130,7 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000,
-        "molienda": "grano"
+        "total": 139000
       },
       {
         "sku": "JNA",
@@ -9150,8 +9142,7 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096,
-        "molienda": "grano"
+        "descuento_valor": 3329.5238095238096
       },
       {
         "sku": "PNA",
@@ -9163,8 +9154,7 @@
         "iva_pct": 5,
         "total": 72504,
         "descuento_pct": 4.6,
-        "descuento_valor": 3329.5238095238096,
-        "molienda": "grano"
+        "descuento_valor": 3329.5238095238096
       },
       {
         "sku": "DOM",
@@ -9185,5 +9175,63 @@
       "valor": 373008
     },
     "observaciones": "Enviar a Ángela a tumaco"
+  },
+  {
+    "consecutivo": 2618,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "0953197969",
+    "nombre_tercero": "Angie Shanney Valdivieso Cruz",
+    "fecha_elaboracion": "2026-08-08",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "BHO",
+        "producto": "Blend Honey 56h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 18000
+      }
+    ],
+    "iva_total": 8095.238095238095,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 170000
+    },
+    "observaciones": "120g cáscara.  Enviar a Ángela a Tumaco. Arreglar factura"
   }
 ]
