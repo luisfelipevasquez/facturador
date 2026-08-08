@@ -1166,5 +1166,21 @@
     "Teléfono móvil de contacto": "0963679012",
     "Estado": "Activo",
     "siigoId": "501a5d36-003a-42f9-a317-a7966e548049"
+  },
+  {
+    "Nombre tercero": "Erick Conde Bermeo",
+    "Tipo de identificación": "13",
+    "Identificación": "0930389192",
+    "Dirección": "Guayaquil Ecuador",
+    "Ciudad": "— Primero selecciona un departamento —",
+    "Código departamento": "",
+    "Código ciudad": "",
+    "Teléfono.": "3994165196",
+    "Correo electrónico": "jr.cond91@gmail.com",
+    "Nombres contacto": "Erick",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3994165196",
+    "Estado": "Activo",
+    "siigoId": "1f3951ed-fb8e-407c-9ac1-746f86be0223"
   }
 ]
