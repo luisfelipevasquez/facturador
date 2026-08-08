@@ -9011,5 +9011,97 @@
       "valor": 86000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2616,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "0930389192",
+    "nombre_tercero": "Erick Conde Bermeo",
+    "fecha_elaboracion": "2026-08-08",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      },
+      {
+        "sku": "BHO120",
+        "producto": "Blend Honey 120h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      },
+      {
+        "sku": "GELA",
+        "producto": "Gesha Lavado",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "PNA",
+        "producto": "Pacamara Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3452.5714285714284,
+        "iva_pct": 5,
+        "total": 72504,
+        "descuento_pct": 4.6,
+        "descuento_valor": 3329.5238095238096
+      },
+      {
+        "sku": "JNA",
+        "producto": "Java Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3452.5714285714284,
+        "iva_pct": 5,
+        "total": 72504,
+        "descuento_pct": 4.6,
+        "descuento_valor": 3329.5238095238096
+      },
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 18000
+      }
+    ],
+    "iva_total": 18143.238095238095,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 381008
+    },
+    "observaciones": "Envío a  San Andrés de Tumaco,  Calle del comercio #12 - 70 barrio la calavera\nA nombre de: Angela del Castillo\nTelf: +573163637993\nPago con bold"
   }
 ]
