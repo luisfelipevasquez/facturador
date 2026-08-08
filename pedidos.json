@@ -4101,5 +4101,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2615,
+    "fecha": "2026-08-07",
+    "tercero": "Juan Pablo Torres Arias",
+    "identificacion": "1104937239",
+    "productos": "CMA 340g x340",
+    "domicilio": "Nacional Transportadora",
+    "total": 86000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CMA",
+        "presentacion": "340g",
+        "molienda": "molido grueso"
+      }
+    ]
   }
 ]
