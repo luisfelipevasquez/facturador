@@ -1102,5 +1102,21 @@
     "Teléfono móvil de contacto": "0986481464",
     "Estado": "Activo",
     "siigoId": "7287e8f7-785b-45fb-9554-ca90527a26cc"
+  },
+  {
+    "Nombre tercero": "Juan Pablo Torres Arias",
+    "Tipo de identificación": "13",
+    "Identificación": "1104937239",
+    "Dirección": "Cra 11 # 65c-70sur Prados del portal 1 TO 15 Apto 603",
+    "Ciudad": "Bogotá D.C.",
+    "Código departamento": "11",
+    "Código ciudad": "11001",
+    "Teléfono.": "3197799752",
+    "Correo electrónico": "juanpablotorres0430@gmail.com",
+    "Nombres contacto": "Juan Pablo",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3197799752",
+    "Estado": "Activo",
+    "siigoId": "8b0c1f1f-9f7c-48ea-ba62-9742d2d794b7"
   }
 ]
