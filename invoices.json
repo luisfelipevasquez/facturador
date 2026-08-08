@@ -9103,5 +9103,77 @@
       "valor": 381008
     },
     "observaciones": "Envío a  San Andrés de Tumaco,  Calle del comercio #12 - 70 barrio la calavera\nA nombre de: Angela del Castillo\nTelf: +573163637993\nPago con bold"
+  },
+  {
+    "consecutivo": 2617,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1004038079",
+    "nombre_tercero": "Abner José Zambrano Chica",
+    "fecha_elaboracion": "2026-08-08",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      },
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 264.76190476190476,
+        "iva": 6619.047619047618,
+        "iva_pct": 5,
+        "total": 139000
+      },
+      {
+        "sku": "JNA",
+        "producto": "Java Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3452.5714285714284,
+        "iva_pct": 5,
+        "total": 72504,
+        "descuento_pct": 4.6,
+        "descuento_valor": 3329.5238095238096
+      },
+      {
+        "sku": "PNA",
+        "producto": "Pacamara Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3452.5714285714284,
+        "iva_pct": 5,
+        "total": 72504,
+        "descuento_pct": 4.6,
+        "descuento_valor": 3329.5238095238096
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 18000
+      }
+    ],
+    "iva_total": 17762.285714285714,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 373008
+    },
+    "observaciones": ""
   }
 ]
