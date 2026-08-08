@@ -9233,5 +9233,51 @@
       "valor": 170000
     },
     "observaciones": "120g cáscara.  Enviar a Ángela a Tumaco. Arreglar factura"
+  },
+  {
+    "consecutivo": 2619,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1250483409",
+    "nombre_tercero": "Genesis Javquelina Mackliff Cedeño",
+    "fecha_elaboracion": "2026-08-08",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 220.95238095238093,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "BNA",
+        "producto": "Blend Natural 56h",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 148.45938375350138,
+        "iva": 2523.809523809524,
+        "iva_pct": 5,
+        "total": 53000
+      },
+      {
+        "sku": "CHLA",
+        "producto": "Chiroso Lavado",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 190.47619047619048,
+        "iva": 2380.952380952381,
+        "iva_pct": 5,
+        "total": 50000
+      }
+    ],
+    "iva_total": 7666.666666666668,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 161000
+    },
+    "observaciones": "Enviar a Ángela a Tumaco"
   }
 ]
