@@ -4127,7 +4127,7 @@
     "fecha": "2026-08-08",
     "tercero": "Erick Conde Bermeo",
     "identificacion": "0930389192",
-    "productos": "BNA120 250g x250, BHO120 250g x250, GELA 250g x250, PNA 250g x250, JNA 250g x250, PANA 250g x250",
+    "productos": "BNA120 250g x250, BHO120 250g x250, GELA 250g x250, PNA 250g x250, JNA 250g x250, PANA 250g x250, CHLA 250g x250, CGA 250g x250",
     "domicilio": "Nacional Transportadora",
     "total": 381008,
     "forma_pago": "T. Débito",
@@ -4162,6 +4162,16 @@
       },
       {
         "sku": "PANA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CHLA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CGA",
         "presentacion": "250g",
         "molienda": "grano"
       }
@@ -4304,6 +4314,26 @@
         "sku": "BNA",
         "presentacion": "100g",
         "molienda": "grano"
+      }
+    ]
+  },
+  {
+    "consecutivo": 2621,
+    "fecha": "2026-08-09",
+    "tercero": "Anderson Zambrano Bermudez",
+    "identificacion": "1000511999",
+    "productos": "RLAC 2500g x2500",
+    "domicilio": "Nacional Transportadora",
+    "total": 170100,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAC",
+        "presentacion": "2500g",
+        "molienda": "molido medio"
       }
     ]
   }
