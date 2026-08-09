@@ -4336,5 +4336,25 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2622,
+    "fecha": "2026-08-09",
+    "tercero": "Sergio Luengas",
+    "identificacion": "1018510008",
+    "productos": "RLAC 2500g x2500",
+    "domicilio": "Nacional Transportadora",
+    "total": 210000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAC",
+        "presentacion": "2500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
