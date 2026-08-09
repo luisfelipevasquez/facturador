@@ -231,5 +231,19 @@
     "340g": 285.29411764705884,
     "500g": 278,
     "iva": 5
+  },
+  {
+    "SKU": "CAMA",
+    "PRODUCTO": "Cáscara de Maragogype",
+    "Sachet": 6000,
+    "Bolsa 5 sachets": 25000,
+    "Bolsa": 30000,
+    "iva": 0,
+    "molienda": false,
+    "gramos": {
+      "Sachet": 20,
+      "Bolsa 5 sachets": 100,
+      "Bolsa": 120
+    }
   }
 ]
