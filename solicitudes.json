@@ -200,7 +200,7 @@
   },
   {
     "id": "SOL-1786312281609-ja5vs",
-    "estado": "pendiente",
+    "estado": "completado",
     "creado": "2026-08-09T21:51:21.609Z",
     "cliente": {
       "nombre": "Luis Felipe Vasquez Jimenez",
@@ -244,6 +244,7 @@
       "status": "sent",
       "wamid": "wamid.HBgMNTczMTE2MDk5MTk0FQIAERgSQzYxMDJBRTRBRTAxNzUzRjFBAA==",
       "to": "573116099194"
-    }
+    },
+    "actualizado": "2026-08-09T22:20:02.145Z"
   }
 ]
