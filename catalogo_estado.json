@@ -1,7 +1,8 @@
 {
   "overrides": {
     "BHO": true,
-    "TANA": false
+    "TANA": false,
+    "JNA": false
   },
-  "actualizado": "2026-08-10T03:55:31.355Z"
+  "actualizado": "2026-08-10T03:56:22.110Z"
 }
