@@ -1,0 +1,405 @@
+{
+ "version": 1,
+ "creado": "2026-08-10T02:01:13.524Z",
+ "seq": {
+  "compra": 0,
+  "lote": 0,
+  "tanda": 0,
+  "mov": 0
+ },
+ "parametros": {
+  "tarifa_trilla_kg": 900,
+  "tarifa_tueste_kg": 3500,
+  "tarifa_seleccion_kg": 400,
+  "rend_tueste_min": 0.78,
+  "rend_tueste_max": 0.88,
+  "merma_seleccion_max": 0.05,
+  "mod_por_bolsa": {
+   "100g": 833.33,
+   "250g": 2083.33,
+   "340g": 3525.64,
+   "500g": 3525.64,
+   "2500g": 3525.64
+  },
+  "cif_por_bolsa": {
+   "100g": 11,
+   "250g": 16,
+   "340g": 21,
+   "500g": 32,
+   "2500g": 112
+  }
+ },
+ "bom": {
+  "100g": [
+   "bolsa_100",
+   "etiqueta_100"
+  ],
+  "250g": [
+   "bolsa_250_340",
+   "etiqueta_grande"
+  ],
+  "340g": [
+   "bolsa_250_340",
+   "etiqueta_grande"
+  ],
+  "500g": [
+   "bolsa_500",
+   "etiqueta_grande"
+  ],
+  "2500g": [
+   "bolsa_2500",
+   "etiqueta_2500"
+  ]
+ },
+ "insumos_por_pedido": [
+  "bolsa_envio",
+  "bolsa_tela_peq",
+  "tarjeta_pres",
+  "tarjeta_fid"
+ ],
+ "cafes": [
+  {
+   "sku": "RLAJ",
+   "nombre": "Regional Lavado Jericó",
+   "categoria": "Regionales",
+   "origen": "Antioquia",
+   "municipio": "Jericó",
+   "finca": "La Milagrosa",
+   "caficultor": "Andrea",
+   "variedad": "Cenicafé, Colombia",
+   "proceso": "Lavado",
+   "activo": true
+  },
+  {
+   "sku": "RLAA",
+   "nombre": "Regional lavado frutos verdes",
+   "categoria": "Regionales",
+   "origen": "Antioquia",
+   "municipio": "Andes",
+   "finca": "Villa Luz",
+   "caficultor": "Juan Fernando",
+   "variedad": "Castillo, Colombia",
+   "proceso": "Lavado",
+   "activo": true
+  },
+  {
+   "sku": "RLAS",
+   "nombre": "Regional lavado frutos amarillos",
+   "categoria": "Regionales",
+   "origen": "Antioquia",
+   "municipio": "Provincia Cartama",
+   "finca": "Sur Oeste",
+   "caficultor": "Ana María",
+   "variedad": "Castillo, Colombia",
+   "proceso": "Lavado",
+   "activo": true
+  },
+  {
+   "sku": "RLAC",
+   "nombre": "Regional lavado nueces",
+   "categoria": "Regionales",
+   "origen": "Antioquia",
+   "municipio": "Caicedo",
+   "finca": "La Cenobia",
+   "caficultor": "Victor Pineda",
+   "variedad": "Castillo, Colombia",
+   "proceso": "Lavado",
+   "activo": true
+  },
+  {
+   "sku": "BHO",
+   "nombre": "Blend Honey 56h",
+   "categoria": "Especiales",
+   "origen": "Antioquia",
+   "municipio": "Abejorral",
+   "finca": "Los Saltos",
+   "caficultor": "Adrián",
+   "variedad": "Colombia",
+   "proceso": "Honey 56h",
+   "activo": true
+  },
+  {
+   "sku": "BHO72",
+   "nombre": "Honey 72h",
+   "categoria": "Especiales",
+   "origen": "Antioquia",
+   "municipio": "Andes",
+   "finca": "Villa Luz",
+   "caficultor": "Juan Fdo Serna",
+   "variedad": "Castillo, Colombia",
+   "proceso": "Honey 72h",
+   "activo": true
+  },
+  {
+   "sku": "BHO120",
+   "nombre": "Honey 120h",
+   "categoria": "Especiales",
+   "origen": "Antioquia",
+   "municipio": "Caicedo",
+   "finca": "El Nogal",
+   "caficultor": "Sergio Roldan",
+   "variedad": "Castillo",
+   "proceso": "Honey 120h",
+   "activo": true
+  },
+  {
+   "sku": "BNA",
+   "nombre": "Natural 56h",
+   "categoria": "Especiales",
+   "origen": "Antioquia",
+   "municipio": "Abejorral",
+   "finca": "Los Saltos",
+   "caficultor": "Adrián",
+   "variedad": "Colombia",
+   "proceso": "Natural 56h",
+   "activo": true
+  },
+  {
+   "sku": "BNA120",
+   "nombre": "Natural 120h",
+   "categoria": "Especiales",
+   "origen": "Antioquia",
+   "municipio": "Ciudad Bolivar",
+   "finca": "El Cañón",
+   "caficultor": "Cesar Ruiz",
+   "variedad": "Caturra",
+   "proceso": "Natural 120h",
+   "activo": true
+  },
+  {
+   "sku": "CHLA",
+   "nombre": "Chiroso Lavado",
+   "categoria": "Especiales",
+   "origen": "Antioquia",
+   "municipio": "Caicedo",
+   "finca": "La Cenobia",
+   "caficultor": "Victor Pineda",
+   "variedad": "Chiroso",
+   "proceso": "Lavado",
+   "activo": true
+  },
+  {
+   "sku": "CMA",
+   "nombre": "Maracuyá",
+   "categoria": "Innovacion",
+   "origen": "Risaralda",
+   "municipio": "Arabia / Pereira",
+   "finca": "Milán",
+   "caficultor": "Mario",
+   "variedad": "Castillo-Caturra",
+   "proceso": "Cofermentado / Maracuyá",
+   "activo": true
+  },
+  {
+   "sku": "CGA",
+   "nombre": "Galleta Mantequilla",
+   "categoria": "Innovacion",
+   "origen": "Risaralda",
+   "municipio": "Arabia / Pereira",
+   "finca": "Milán",
+   "caficultor": "Mario",
+   "variedad": "Castillo-Caturra",
+   "proceso": "Cofermentado / Galleta",
+   "activo": true
+  },
+  {
+   "sku": "BBO",
+   "nombre": "Blend Bourbon",
+   "categoria": "Especiales",
+   "origen": "Risaralda",
+   "municipio": "Santa Rosa de Cabal",
+   "finca": "La Riviera",
+   "caficultor": "Mario",
+   "variedad": "Blend Bourbon",
+   "proceso": "Lavado",
+   "activo": true
+  },
+  {
+   "sku": "PANA",
+   "nombre": "Papayo Natural",
+   "categoria": "Exoticos",
+   "origen": "Huila",
+   "municipio": "Acevedo",
+   "finca": "Bellavista",
+   "caficultor": "Hector Montes",
+   "variedad": "Papayo",
+   "proceso": "Natural",
+   "activo": true
+  },
+  {
+   "sku": "GELA",
+   "nombre": "Gesha Lavado",
+   "categoria": "Exoticos",
+   "origen": "Risaralda",
+   "municipio": "Marsella",
+   "finca": "Casa Blanca",
+   "caficultor": "Esteban Cifuentes",
+   "variedad": "Gesha",
+   "proceso": "Lavado",
+   "activo": true
+  },
+  {
+   "sku": "MNA",
+   "nombre": "Maragogype Natural",
+   "categoria": "Exoticos",
+   "origen": "Cundinamarca",
+   "municipio": "Sasaima",
+   "finca": "San Jorge",
+   "caficultor": "Andrés",
+   "variedad": "Maragogype",
+   "proceso": "Natural",
+   "activo": true
+  },
+  {
+   "sku": "SURU",
+   "nombre": "Sudan Rumé Natural",
+   "categoria": "Exoticos",
+   "origen": "Cundinamarca",
+   "municipio": "Sasaima",
+   "finca": "San Jorge",
+   "caficultor": "Andrés",
+   "variedad": "Sudán Rumé",
+   "proceso": "Natural",
+   "activo": true
+  },
+  {
+   "sku": "BSIN",
+   "nombre": "Bourbon Sidra",
+   "categoria": "Exoticos",
+   "origen": "Cundinamarca",
+   "municipio": "Sasaima",
+   "finca": "San Jorge",
+   "caficultor": "Andrés",
+   "variedad": "Bourbon Sidra",
+   "proceso": "Natural",
+   "activo": true
+  },
+  {
+   "sku": "PNA",
+   "nombre": "Pacamara Natural",
+   "categoria": "Exoticos",
+   "origen": "Valle del Cauca",
+   "municipio": "Trujillo",
+   "finca": "La Julia",
+   "caficultor": "Nicolás Ocampo",
+   "variedad": "Pacamara",
+   "proceso": "Natural",
+   "activo": true
+  },
+  {
+   "sku": "JNA",
+   "nombre": "Java Natural",
+   "categoria": "Exoticos",
+   "origen": "Valle del Cauca",
+   "municipio": "Trujillo",
+   "finca": "La Julia",
+   "caficultor": "Nicolás Ocampo",
+   "variedad": "Java",
+   "proceso": "Natural",
+   "activo": true
+  },
+  {
+   "sku": "TANA",
+   "nombre": "Tabi Natural",
+   "categoria": "Exoticos",
+   "origen": "Valle del Cauca",
+   "municipio": "Trujillo",
+   "finca": "La Julia",
+   "caficultor": "Nicolás Ocampo",
+   "variedad": "Tabi",
+   "proceso": "Natural",
+   "activo": true
+  },
+  {
+   "sku": "BRO",
+   "nombre": "Bourbon Rosado",
+   "categoria": "",
+   "origen": "",
+   "municipio": "",
+   "finca": "",
+   "caficultor": "",
+   "variedad": "",
+   "proceso": "",
+   "activo": true
+  }
+ ],
+ "insumos": [
+  {
+   "id": "bolsa_100",
+   "nombre": "Bolsa de café 100 g",
+   "costo_promedio": 2228.87,
+   "stock": 0
+  },
+  {
+   "id": "bolsa_250_340",
+   "nombre": "Bolsa de café 250/340 g",
+   "costo_promedio": 1100,
+   "stock": 0
+  },
+  {
+   "id": "bolsa_500",
+   "nombre": "Bolsa de café 500 g",
+   "costo_promedio": 1350,
+   "stock": 0
+  },
+  {
+   "id": "bolsa_2500",
+   "nombre": "Bolsa de café 2500 g",
+   "costo_promedio": 2080,
+   "stock": 0
+  },
+  {
+   "id": "etiqueta_100",
+   "nombre": "Etiqueta 100 g",
+   "costo_promedio": 620,
+   "stock": 0
+  },
+  {
+   "id": "etiqueta_grande",
+   "nombre": "Etiqueta 250/340/500 g",
+   "costo_promedio": 3100,
+   "stock": 0
+  },
+  {
+   "id": "etiqueta_2500",
+   "nombre": "Etiqueta 2500 g",
+   "costo_promedio": 3444.44,
+   "stock": 0
+  },
+  {
+   "id": "bolsa_tela_peq",
+   "nombre": "Bolsa de tela pequeña (23x30)",
+   "costo_promedio": 1700,
+   "stock": 0
+  },
+  {
+   "id": "bolsa_tela_gde",
+   "nombre": "Bolsa de tela grande (30x40)",
+   "costo_promedio": 2000,
+   "stock": 0
+  },
+  {
+   "id": "bolsa_envio",
+   "nombre": "Bolsa de envío (25x33)",
+   "costo_promedio": 380,
+   "stock": 0
+  },
+  {
+   "id": "tarjeta_pres",
+   "nombre": "Tarjeta de presentación",
+   "costo_promedio": 240,
+   "stock": 0
+  },
+  {
+   "id": "tarjeta_fid",
+   "nombre": "Tarjeta de fidelización",
+   "costo_promedio": 280,
+   "stock": 0
+  }
+ ],
+ "compras": [],
+ "lotes": [],
+ "tandas": [],
+ "kardex": [],
+ "ventas": []
+}
