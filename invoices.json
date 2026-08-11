@@ -10051,14 +10051,15 @@
     "identificacion_vendedor": "901906362",
     "items": [
       {
-        "sku": "RLAS",
-        "producto": "Regional Lavado SurOeste",
+        "sku": "RLAA",
+        "producto": "Regional Lavado Andes",
         "presentacion": "500g",
         "cantidad": 500,
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "grano"
       },
       {
         "sku": "RLAS",
@@ -10068,7 +10069,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "grano"
       }
     ],
     "iva_total": 5523.809523809524,
