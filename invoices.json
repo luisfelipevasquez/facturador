@@ -9637,5 +9637,81 @@
       "valor": 90000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2626,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1017261566",
+    "nombre_tercero": "Camila Ramírez Rivera",
+    "fecha_elaboracion": "2026-08-11",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PNA",
+        "producto": "Pacamara Natural",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 1095.2380952380952,
+        "iva_pct": 5,
+        "total": 23000
+      },
+      {
+        "sku": "BHO72",
+        "producto": "Blend Honey72h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 952.3809523809525,
+        "iva_pct": 5,
+        "total": 20000.000000000004
+      },
+      {
+        "sku": "GELA",
+        "producto": "Gesha Lavado",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 7476.190476190475,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 170999.99999999997
+    },
+    "observaciones": "Paga contraentrega 171.000"
   }
 ]
