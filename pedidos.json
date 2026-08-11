@@ -4531,5 +4531,80 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2629,
+    "fecha": "2026-08-11",
+    "tercero": "Angélica María López Velásquez",
+    "identificacion": "42690616",
+    "productos": "BNA120 250g x250, RLAA 250g x250, PANA 100g x100, BNA120 250g x250, RLAA 250g x250, PANA 100g x100, BNA120 250g x250, RLAA 250g x250, PANA 100g x100, PANA 250g x250, CMA 250g x250, CGA 100g x100",
+    "domicilio": "Local Mensajero",
+    "total": 505000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BNA120",
+        "presentacion": "250g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "RLAA",
+        "presentacion": "250g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "PANA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "BNA120",
+        "presentacion": "250g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "RLAA",
+        "presentacion": "250g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "PANA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "BNA120",
+        "presentacion": "250g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "RLAA",
+        "presentacion": "250g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "PANA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "PANA",
+        "presentacion": "250g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "250g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      }
+    ]
   }
 ]
