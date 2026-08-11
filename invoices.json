@@ -9654,7 +9654,8 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999
+        "total": 37999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "PANA",
@@ -9664,7 +9665,8 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999
+        "total": 37999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "CMA",
@@ -9674,7 +9676,8 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000
+        "total": 23000,
+        "molienda": "grano"
       },
       {
         "sku": "BHO72",
@@ -9684,7 +9687,8 @@
         "valor_unitario": 190.47619047619048,
         "iva": 952.3809523809525,
         "iva_pct": 5,
-        "total": 20000.000000000004
+        "total": 20000.000000000004,
+        "molienda": "grano"
       },
       {
         "sku": "GELA",
@@ -9694,7 +9698,8 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999
+        "total": 37999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -9730,7 +9735,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -9766,7 +9772,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "molido medio"
       },
       {
         "sku": "RLAS",
@@ -9776,7 +9783,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "molido medio"
       },
       {
         "sku": "DOM",
@@ -9798,7 +9806,8 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 49523.80952380952
+        "descuento_valor": 49523.80952380952,
+        "molienda": "molido medio"
       }
     ],
     "iva_total": 5523.809523809524,
@@ -9824,7 +9833,8 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000
+        "total": 42000,
+        "molienda": "molido medio"
       },
       {
         "sku": "RLAA",
@@ -9834,7 +9844,8 @@
         "valor_unitario": 144.76190476190476,
         "iva": 1809.5238095238096,
         "iva_pct": 5,
-        "total": 38000
+        "total": 38000,
+        "molienda": "molido medio"
       },
       {
         "sku": "PANA",
@@ -9844,7 +9855,8 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999
+        "total": 37999.99999999999,
+        "molienda": "molido medio"
       },
       {
         "sku": "BNA120",
@@ -9854,7 +9866,8 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000
+        "total": 42000,
+        "molienda": "molido medio"
       },
       {
         "sku": "RLAA",
@@ -9864,7 +9877,8 @@
         "valor_unitario": 144.76190476190476,
         "iva": 1809.5238095238096,
         "iva_pct": 5,
-        "total": 38000
+        "total": 38000,
+        "molienda": "molido medio"
       },
       {
         "sku": "PANA",
@@ -9874,7 +9888,8 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999
+        "total": 37999.99999999999,
+        "molienda": "molido medio"
       },
       {
         "sku": "BNA120",
@@ -9884,7 +9899,8 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000
+        "total": 42000,
+        "molienda": "molido medio"
       },
       {
         "sku": "RLAA",
@@ -9894,7 +9910,8 @@
         "valor_unitario": 144.76190476190476,
         "iva": 1809.5238095238096,
         "iva_pct": 5,
-        "total": 38000
+        "total": 38000,
+        "molienda": "molido medio"
       },
       {
         "sku": "PANA",
@@ -9904,7 +9921,8 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999
+        "total": 37999.99999999999,
+        "molienda": "molido medio"
       },
       {
         "sku": "PANA",
@@ -9914,7 +9932,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "molido medio"
       },
       {
         "sku": "CMA",
@@ -9924,7 +9943,8 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999
+        "total": 51999.99999999999,
+        "molienda": "molido medio"
       },
       {
         "sku": "CGA",
@@ -9934,7 +9954,8 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000
+        "total": 23000,
+        "molienda": "molido medio"
       },
       {
         "sku": "DOM",
@@ -9947,6 +9968,19 @@
         "total": 0,
         "descuento_pct": 100,
         "descuento_valor": 14000
+      },
+      {
+        "sku": "RLAS",
+        "producto": "Regional Lavado SurOeste",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 144.76190476190476,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 36190.47619047619,
+        "molienda": "molido medio"
       }
     ],
     "iva_total": 24047.619047619046,
@@ -9954,6 +9988,6 @@
       "codigo": 3,
       "valor": 505000
     },
-    "observaciones": ""
+    "observaciones": "Redime 250g suroeste"
   }
 ]
