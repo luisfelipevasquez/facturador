@@ -4631,5 +4631,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2631,
+    "fecha": "2026-08-11",
+    "tercero": "Gustavo Fajardo Cuartas",
+    "identificacion": "1098653455",
+    "productos": "CMA 2500g x2500",
+    "domicilio": "Nacional Transportadora",
+    "total": 420000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CMA",
+        "presentacion": "2500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
