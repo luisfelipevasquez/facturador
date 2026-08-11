@@ -1198,5 +1198,21 @@
     "Teléfono móvil de contacto": "3195580658",
     "Estado": "Activo",
     "siigoId": "3298f80b-b517-4ddd-96bd-336d279a4352"
+  },
+  {
+    "Nombre tercero": "Angélica María López Velásquez",
+    "Tipo de identificación": "13",
+    "Identificación": "42690616",
+    "Dirección": "Calle 75 # 73c-41 Balcones de la pilarica Apto 302",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3105145009",
+    "Correo electrónico": "amlopezv2@gmail.com",
+    "Nombres contacto": "Angélica María",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3105145009",
+    "Estado": "Activo",
+    "siigoId": "81b6eb62-3e9b-41a9-985e-cfa1aa6ad689"
   }
 ]
