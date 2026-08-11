@@ -1182,5 +1182,21 @@
     "Teléfono móvil de contacto": "3994165196",
     "Estado": "Activo",
     "siigoId": "1f3951ed-fb8e-407c-9ac1-746f86be0223"
+  },
+  {
+    "Nombre tercero": "Camila Ramírez Rivera",
+    "Tipo de identificación": "13",
+    "Identificación": "1017261566",
+    "Dirección": "Calle 78 # 71-129 Bosques de San Pablo. Casa primer piso",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3195580658",
+    "Correo electrónico": "maria.ramireziv@amigo.edu.co",
+    "Nombres contacto": "Camila",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3195580658",
+    "Estado": "Activo",
+    "siigoId": "3298f80b-b517-4ddd-96bd-336d279a4352"
   }
 ]
