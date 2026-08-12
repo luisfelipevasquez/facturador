@@ -10058,8 +10058,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       },
       {
         "sku": "RLAS",
@@ -10069,8 +10068,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       }
     ],
     "iva_total": 5523.809523809524,
@@ -10079,5 +10077,71 @@
       "valor": 116000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2633,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1000000000",
+    "nombre_tercero": "Baxter Delgado Osejo",
+    "fecha_elaboracion": "2026-08-11",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CHLA",
+        "producto": "Chiroso Lavado",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 152.38095238095238,
+        "iva": 3809.523809523809,
+        "iva_pct": 5,
+        "total": 80000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      },
+      {
+        "sku": "BHO72",
+        "producto": "Blend Honey72h",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 137.14285714285714,
+        "iva": 3428.5714285714284,
+        "iva_pct": 5,
+        "total": 72000
+      },
+      {
+        "sku": "BHO72",
+        "producto": "Blend Honey72h",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 137.14285714285714,
+        "iva": 3428.5714285714284,
+        "iva_pct": 5,
+        "total": 72000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Otro",
+        "cantidad": 1,
+        "valor_unitario": 139000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 139000
+      }
+    ],
+    "iva_total": 14904.761904761905,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 452000
+    },
+    "observaciones": "Lleva Alejo a Christian Join Logistics"
   }
 ]
