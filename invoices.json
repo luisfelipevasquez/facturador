@@ -10261,5 +10261,41 @@
       "valor": 51999.99999999999
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2637,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1144029394",
+    "nombre_tercero": "Gustavo Zapata",
+    "fecha_elaboracion": "2026-08-12",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 220.95238095238093,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 2761.904761904762,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 76000
+    },
+    "observaciones": ""
   }
 ]
