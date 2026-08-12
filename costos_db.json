@@ -4,8 +4,8 @@
  "seq": {
   "compra": 2,
   "lote": 26,
-  "tanda": 18,
-  "mov": 84
+  "tanda": 19,
+  "mov": 85
  },
  "parametros": {
   "tarifa_trilla_kg": 900,
@@ -1147,7 +1147,7 @@
     }
    ],
    "saldo_pergamino_g": 0,
-   "saldo_verde_g": 35000,
+   "saldo_verde_g": 23000,
    "g_verde_inicial": 35000,
    "estado": "abierto",
    "pendientes": [],
@@ -1481,6 +1481,25 @@
    "costo_g": 92.60932857142856,
    "estado": "cerrada",
    "ts": "2026-08-12T03:11:11.006Z"
+  },
+  {
+   "codigo": "T-2026-019",
+   "lote": "L-2026-026",
+   "tipo": "tueste",
+   "fecha_tueste": "2026-08-11",
+   "g_verde_in": 12000,
+   "g_tostado_out": 10500,
+   "g_buenos": 10000,
+   "saldo_g": 10000,
+   "costo_base": 540000,
+   "costo_tueste": 42000,
+   "costo_tueste_origen": "real",
+   "costo_seleccion": 8000,
+   "costo_seleccion_origen": "real",
+   "costo_g": 59,
+   "estado": "cerrada",
+   "warnings": [],
+   "ts": "2026-08-12T03:57:08.812Z"
   }
  ],
  "kardex": [
@@ -2576,6 +2595,20 @@
    "costo_unit": 0,
    "costo_total": 0,
    "obs": "etiqueta \"1200826\" → \"H1200826\""
+  },
+  {
+   "id": 85,
+   "ts": "2026-08-12T03:57:08.812Z",
+   "usuario": "admin",
+   "tipo": "tueste",
+   "item": "tostado_granel",
+   "lote": "L-2026-026",
+   "tanda": "T-2026-019",
+   "entrada_g": 10000,
+   "salida_g": 12000,
+   "costo_unit": 59,
+   "costo_total": 590000,
+   "obs": "rend 87.5% · sel 4.8%"
   }
  ],
  "ventas": [],
