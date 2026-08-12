@@ -5,7 +5,7 @@
   "compra": 2,
   "lote": 26,
   "tanda": 18,
-  "mov": 83
+  "mov": 84
  },
  "parametros": {
   "tarifa_trilla_kg": 900,
@@ -1153,7 +1153,7 @@
    "pendientes": [],
    "obs": "",
    "ts": "2026-08-12T03:35:36.467Z",
-   "etiqueta": "1200826"
+   "etiqueta": "H1200826"
   }
  ],
  "tandas": [
@@ -2563,6 +2563,19 @@
    "costo_unit": 0,
    "costo_total": 0,
    "obs": "etiqueta \"\" → \"1200826\""
+  },
+  {
+   "id": 84,
+   "ts": "2026-08-12T03:46:19.062Z",
+   "usuario": "admin",
+   "tipo": "edicion",
+   "item": "lote",
+   "lote": "L-2026-026",
+   "entrada_g": 0,
+   "salida_g": 0,
+   "costo_unit": 0,
+   "costo_total": 0,
+   "obs": "etiqueta \"1200826\" → \"H1200826\""
   }
  ],
  "ventas": [],
