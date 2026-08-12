@@ -2,10 +2,10 @@
  "version": 1,
  "creado": "2026-08-10T02:01:13.524Z",
  "seq": {
-  "compra": 1,
-  "lote": 25,
+  "compra": 2,
+  "lote": 26,
   "tanda": 18,
-  "mov": 79
+  "mov": 80
  },
  "parametros": {
   "tarifa_trilla_kg": 900,
@@ -407,6 +407,16 @@
    "otros": 0,
    "obs": "Carga inicial desde INVENTARIO 2026.xlsx hoja Julio 2026",
    "ts": "2026-08-12T03:11:11.004Z"
+  },
+  {
+   "id": "C-2026-002",
+   "fecha": "2026-08-11",
+   "proveedor": "A Media Luz -  BHO120",
+   "factura": "AML38",
+   "flete": 35000,
+   "otros": 0,
+   "obs": "",
+   "ts": "2026-08-12T03:35:36.467Z"
   }
  ],
  "lotes": [
@@ -1109,6 +1119,40 @@
    "pendientes": [],
    "obs": "inventario físico jul-2026 (BRO)",
    "ts": "2026-08-12T03:11:11.006Z"
+  },
+  {
+   "codigo": "L-2026-026",
+   "compra_id": "C-2026-002",
+   "cafe_sku": "BHO120",
+   "proveedor": "A Media Luz -  BHO120",
+   "fecha_compra": "2026-08-11",
+   "forma_compra": "verde",
+   "precio_kg": 44000,
+   "kg_facturados": 35,
+   "kg_recibidos": 35,
+   "num_lote_prov": "H1200826",
+   "cosecha": "",
+   "costos": [
+    {
+     "concepto": "compra",
+     "valor": 1540000,
+     "origen": "real",
+     "nota": "35 kg × $44000"
+    },
+    {
+     "concepto": "flete_entrada",
+     "valor": 35000,
+     "origen": "real",
+     "nota": "prorrateo de C-2026-002"
+    }
+   ],
+   "saldo_pergamino_g": 0,
+   "saldo_verde_g": 35000,
+   "g_verde_inicial": 35000,
+   "estado": "abierto",
+   "pendientes": [],
+   "obs": "",
+   "ts": "2026-08-12T03:35:36.467Z"
   }
  ],
  "tandas": [
@@ -2464,6 +2508,18 @@
    "costo_total": 53200,
    "causa": "conteo_fisico",
    "obs": "Inventario inicial jul-2026 (tamaños agregados por tipo)"
+  },
+  {
+   "id": 80,
+   "ts": "2026-08-12T03:35:36.467Z",
+   "usuario": "admin",
+   "tipo": "compra",
+   "item": "verde",
+   "lote": "L-2026-026",
+   "entrada_g": 35000,
+   "costo_total": 1575000,
+   "doc": "C-2026-002",
+   "obs": "BHO120"
   }
  ],
  "ventas": [],
