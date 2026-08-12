@@ -5,7 +5,7 @@
   "compra": 2,
   "lote": 26,
   "tanda": 18,
-  "mov": 80
+  "mov": 81
  },
  "parametros": {
   "tarifa_trilla_kg": 900,
@@ -1160,7 +1160,7 @@
    "codigo": "T-2026-001",
    "lote": "L-2026-001",
    "tipo": "recepcion",
-   "fecha_tueste": "2026-07-31",
+   "fecha_tueste": "2026-07-28",
    "g_verde_in": 0,
    "g_tostado_out": 12000,
    "g_buenos": 12000,
@@ -1172,7 +1172,8 @@
    "costo_seleccion_origen": "na",
    "costo_g": 43.34655,
    "estado": "cerrada",
-   "ts": "2026-08-12T03:11:11.005Z"
+   "ts": "2026-08-12T03:11:11.005Z",
+   "etiqueta": "2025-07-28"
   },
   {
    "codigo": "T-2026-002",
@@ -2520,6 +2521,20 @@
    "costo_total": 1575000,
    "doc": "C-2026-002",
    "obs": "BHO120"
+  },
+  {
+   "id": 81,
+   "ts": "2026-08-12T03:43:48.038Z",
+   "usuario": "admin",
+   "tipo": "edicion",
+   "item": "tostado_granel",
+   "lote": "L-2026-001",
+   "tanda": "T-2026-001",
+   "entrada_g": 0,
+   "salida_g": 0,
+   "costo_unit": 0,
+   "costo_total": 0,
+   "obs": "fecha_tueste 2026-07-31 → 2026-07-28 · etiqueta \"\" → \"2025-07-28\""
   }
  ],
  "ventas": [],
