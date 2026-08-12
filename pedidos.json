@@ -4657,11 +4657,11 @@
     "fecha": "2026-08-11",
     "tercero": "Ana María Gómez Uribe",
     "identificacion": "1152465671",
-    "productos": "RLAA 500g x500, RLAS 500g x500",
+    "productos": "RLAA 500g x500, RLAS 500g x500, RLAS 500g x500",
     "domicilio": "",
-    "total": 116000,
+    "total": 174000,
     "forma_pago": "T. Débito",
-    "status": "En proceso",
+    "status": "Completado",
     "client_type": "Antiguo",
     "recoge": "No",
     "items_molienda": [
@@ -4674,6 +4674,11 @@
         "sku": "RLAS",
         "presentacion": "500g",
         "molienda": "grano"
+      },
+      {
+        "sku": "RLAS",
+        "presentacion": "500g",
+        "molienda": "molido fino"
       }
     ]
   },
