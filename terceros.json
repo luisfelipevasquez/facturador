@@ -1214,5 +1214,21 @@
     "Teléfono móvil de contacto": "3105145009",
     "Estado": "Activo",
     "siigoId": "81b6eb62-3e9b-41a9-985e-cfa1aa6ad689"
+  },
+  {
+    "Nombre tercero": "Gustavo Zapata",
+    "Tipo de identificación": "13",
+    "Identificación": "1144029394",
+    "Dirección": "Calle 5 # 1 CN 12 Barrio Portal del Jordan",
+    "Ciudad": "Jamundí",
+    "Código departamento": "76",
+    "Código ciudad": "76364",
+    "Teléfono.": "3045594158",
+    "Correo electrónico": "gustavoducer@gmail.com",
+    "Nombres contacto": "Gustavo",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3045594158",
+    "Estado": "Activo",
+    "siigoId": "c46d8d43-d786-4987-9aa8-05ff326229d2"
   }
 ]
