@@ -1230,5 +1230,21 @@
     "Teléfono móvil de contacto": "3045594158",
     "Estado": "Activo",
     "siigoId": "c46d8d43-d786-4987-9aa8-05ff326229d2"
+  },
+  {
+    "Nombre tercero": "Tatiana Agudelo Bermudez",
+    "Tipo de identificación": "13",
+    "Identificación": "1020406421",
+    "Dirección": "Calle 87sur #55-695 Senderos del bosque Apto 1306",
+    "Ciudad": "La Estrella",
+    "Código departamento": "05",
+    "Código ciudad": "05380",
+    "Teléfono.": "3008624970",
+    "Correo electrónico": "tati.aguberm@gmail.com",
+    "Nombres contacto": "Tatiana",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3008624970",
+    "Estado": "Activo",
+    "siigoId": "e7a682a5-2dac-4f51-a304-7c140ea00a58"
   }
 ]
