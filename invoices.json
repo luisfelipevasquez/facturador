@@ -10323,5 +10323,51 @@
       "valor": 42000
     },
     "observaciones": "Recoge"
+  },
+  {
+    "consecutivo": 2639,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1007744331",
+    "nombre_tercero": "Gustavo Gregorio Ramos Carcamo",
+    "fecha_elaboracion": "2026-08-17",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      },
+      {
+        "sku": "PNA",
+        "producto": "Pacamara Natural",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 6047.619047619048,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 145000
+    },
+    "observaciones": ""
   }
 ]
