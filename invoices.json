@@ -10369,5 +10369,41 @@
       "valor": 145000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2640,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1022971050",
+    "nombre_tercero": "Rubén Dario Rodríguez Mora",
+    "fecha_elaboracion": "2026-08-17",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO",
+        "producto": "Blend Honey 56h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      },
+      {
+        "sku": "BHO",
+        "producto": "Blend Honey 56h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      }
+    ],
+    "iva_total": 4000,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 84000
+    },
+    "observaciones": "Recoge"
   }
 ]
