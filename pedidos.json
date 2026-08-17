@@ -4801,5 +4801,25 @@
         "molienda": "molido fino"
       }
     ]
+  },
+  {
+    "consecutivo": 2638,
+    "fecha": "2026-08-17",
+    "tercero": "Tatiana Agudelo Bermudez",
+    "identificacion": "1020406421",
+    "productos": "BNA120 250g x250",
+    "domicilio": "",
+    "total": 42000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BNA120",
+        "presentacion": "250g",
+        "molienda": "molido fino"
+      }
+    ]
   }
 ]
