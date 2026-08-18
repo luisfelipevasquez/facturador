@@ -10405,5 +10405,51 @@
       "valor": 84000
     },
     "observaciones": "Recoge"
+  },
+  {
+    "consecutivo": 2641,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "5895714",
+    "nombre_tercero": "Yorgelis Vizcaya",
+    "fecha_elaboracion": "2026-08-17",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 190.47619047619048,
+        "iva": 3238.0952380952385,
+        "iva_pct": 5,
+        "total": 68000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 5714.285714285715,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 134000
+    },
+    "observaciones": ""
   }
 ]
