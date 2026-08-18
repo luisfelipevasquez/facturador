@@ -4926,5 +4926,40 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2643,
+    "fecha": "2026-08-18",
+    "tercero": "Nicolás/ Samuel Castro Granados",
+    "identificacion": "1025535538",
+    "productos": "BSIN 250g x250, PANA 250g x250, GELA 250g x250, CMA 250g x250",
+    "domicilio": "Nacional Transportadora",
+    "total": 280000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BSIN",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "PANA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "GELA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
