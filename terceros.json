@@ -1246,5 +1246,21 @@
     "Teléfono móvil de contacto": "3008624970",
     "Estado": "Activo",
     "siigoId": "e7a682a5-2dac-4f51-a304-7c140ea00a58"
+  },
+  {
+    "Nombre tercero": "Jason Steeben Puerta Beltran",
+    "Tipo de identificación": "13",
+    "Identificación": "1000334476",
+    "Dirección": "Calle 24a norte # 18-20 Condominio Alcalá Casa 59 Barrio La Aurora",
+    "Ciudad": "Armenia",
+    "Código departamento": "63",
+    "Código ciudad": "63001",
+    "Teléfono.": "315 552 8728",
+    "Correo electrónico": "jasonpuerta18@gmail.com",
+    "Nombres contacto": "Jason Steeben",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "315 552 8728",
+    "Estado": "Activo",
+    "siigoId": "52bf947b-d9de-47c7-bf4f-1898b1460575"
   }
 ]
