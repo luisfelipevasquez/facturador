@@ -1262,5 +1262,21 @@
     "Teléfono móvil de contacto": "315 552 8728",
     "Estado": "Activo",
     "siigoId": "52bf947b-d9de-47c7-bf4f-1898b1460575"
+  },
+  {
+    "Nombre tercero": "Nicolás/ Samuel Castro Granados",
+    "Tipo de identificación": "13",
+    "Identificación": "1025535538",
+    "Dirección": "Cra 94i # 82c-05 Casa",
+    "Ciudad": "Bogotá D.C.",
+    "Código departamento": "11",
+    "Código ciudad": "11001",
+    "Teléfono.": "+57 305 3563124",
+    "Correo electrónico": "nicosaxcg@gmail.com",
+    "Nombres contacto": "Nicolás/ Samuel",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "+57 305 3563124",
+    "Estado": "Activo",
+    "siigoId": "8453fd51-041e-417e-8e85-82a0b0d83361"
   }
 ]
