@@ -5006,5 +5006,40 @@
         "molienda": "molido fino"
       }
     ]
+  },
+  {
+    "consecutivo": 2646,
+    "fecha": "2026-08-19",
+    "tercero": "Laura Muñoz Pérez",
+    "identificacion": "1017225750",
+    "productos": "BNA120 250g x250, RLAA 250g x250, PANA 100g x100, RLAC 250g x250",
+    "domicilio": "Local Mensajero",
+    "total": 170000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BNA120",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "PANA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAC",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
