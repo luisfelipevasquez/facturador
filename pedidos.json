@@ -5061,5 +5061,50 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2648,
+    "fecha": "2026-08-19",
+    "tercero": "Andres Camilo Sierra Torres",
+    "identificacion": "1037612772",
+    "productos": "BRO 100g x100, CGA 250g x250, BNA120 100g x100, CGA 100g x100, BNA 100g x100, BNA120 100g x100",
+    "domicilio": "Local Mensajero",
+    "total": 185000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BRO",
+        "presentacion": "100g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "250g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "BNA120",
+        "presentacion": "100g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "100g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "BNA",
+        "presentacion": "100g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "BNA120",
+        "presentacion": "100g",
+        "molienda": "molido fino"
+      }
+    ]
   }
 ]
