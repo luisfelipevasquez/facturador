@@ -10899,5 +10899,51 @@
       "valor": 103000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2650,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1018406044",
+    "nombre_tercero": "Daniel Fonseca",
+    "fecha_elaboracion": "2026-08-19",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 131.65266106442579,
+        "iva": 2238.0952380952385,
+        "iva_pct": 5,
+        "total": 47000.00000000001
+      },
+      {
+        "sku": "BHO",
+        "producto": "Blend Honey 56h",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 148.45938375350138,
+        "iva": 2523.809523809524,
+        "iva_pct": 5,
+        "total": 53000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 4761.904761904762,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 114000
+    },
+    "observaciones": ""
   }
 ]
