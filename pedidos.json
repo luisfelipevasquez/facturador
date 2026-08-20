@@ -5171,5 +5171,30 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2652,
+    "fecha": "2026-08-20",
+    "tercero": "Hugo Sepúlveda",
+    "identificacion": "98663711",
+    "productos": "CGA 500g x500, PANA 500g x500",
+    "domicilio": "Nacional Transportadora",
+    "total": 228000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CGA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "PANA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
