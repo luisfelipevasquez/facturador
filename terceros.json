@@ -1294,5 +1294,21 @@
     "Teléfono móvil de contacto": "3024015643",
     "Estado": "Activo",
     "siigoId": "c5c1ba91-c6e4-4e47-a80c-ed1438ad89f1"
+  },
+  {
+    "Nombre tercero": "Luz Mayed Daza Nouguez",
+    "Tipo de identificación": "13",
+    "Identificación": "1017143124",
+    "Dirección": "Circular 3 # 66b-76 Ed. Pamplona Apto502",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3160522727",
+    "Correo electrónico": "nouguez@gmail.com",
+    "Nombres contacto": "Luz Mayed",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3160522727",
+    "Estado": "Activo",
+    "siigoId": "4e6e8ae5-c978-4835-9afb-b137396cc051"
   }
 ]
