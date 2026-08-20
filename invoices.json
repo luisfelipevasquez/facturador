@@ -10945,5 +10945,31 @@
       "valor": 114000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2651,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "43758139",
+    "nombre_tercero": "Diana Catalina Uribe Vélez",
+    "fecha_elaboracion": "2026-08-20",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO",
+        "producto": "Blend Honey 56h",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 137.14285714285714,
+        "iva": 3428.5714285714284,
+        "iva_pct": 5,
+        "total": 72000
+      }
+    ],
+    "iva_total": 3428.5714285714284,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 72000
+    },
+    "observaciones": ""
   }
 ]
