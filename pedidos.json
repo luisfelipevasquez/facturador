@@ -5196,5 +5196,30 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2653,
+    "fecha": "2026-08-20",
+    "tercero": "Cristina Isabel Osorio Gutiérrez",
+    "identificacion": "1017185703",
+    "productos": "CGA 500g x500, CMA 500g x500",
+    "domicilio": "",
+    "total": 178000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CGA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
