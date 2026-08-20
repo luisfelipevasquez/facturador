@@ -11093,5 +11093,61 @@
       "valor": 289999.99999999994
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2655,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1037614351",
+    "nombre_tercero": "Oscar Alberto Guendica Cadavid",
+    "fecha_elaboracion": "2026-08-20",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 220.95238095238093,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 7714.285714285714,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 176000
+    },
+    "observaciones": ""
   }
 ]
