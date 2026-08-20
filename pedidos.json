@@ -5336,5 +5336,65 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2657,
+    "fecha": "2026-08-20",
+    "tercero": "Luz Mayed Daza Nouguez",
+    "identificacion": "1017143124",
+    "productos": "BBO 100g x100, BBO 250g x250, CHLA 100g x100, CHLA 100g x100, CHLA 100g x100, CHLA 100g x100, CHLA 100g x100, CHLA 100g x100, BSIN 100g x100",
+    "domicilio": "Local Mensajero",
+    "total": 254000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BBO",
+        "presentacion": "100g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "BBO",
+        "presentacion": "250g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "CHLA",
+        "presentacion": "100g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "CHLA",
+        "presentacion": "100g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "CHLA",
+        "presentacion": "100g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "CHLA",
+        "presentacion": "100g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "CHLA",
+        "presentacion": "100g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "CHLA",
+        "presentacion": "100g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "BSIN",
+        "presentacion": "100g",
+        "molienda": "molido fino"
+      }
+    ]
   }
 ]
