@@ -5241,5 +5241,35 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2655,
+    "fecha": "2026-08-20",
+    "tercero": "Oscar Alberto Guendica Cadavid",
+    "identificacion": "1037614351",
+    "productos": "CGA 250g x250, CGA 250g x250, BBO 250g x250",
+    "domicilio": "Local Mensajero",
+    "total": 176000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CGA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BBO",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
