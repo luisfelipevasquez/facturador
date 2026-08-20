@@ -5396,5 +5396,25 @@
         "molienda": "molido fino"
       }
     ]
+  },
+  {
+    "consecutivo": 2658,
+    "fecha": "2026-08-20",
+    "tercero": "Jorge Alirio Ortega Cerón",
+    "identificacion": "98323307",
+    "productos": "BNA 500g x500",
+    "domicilio": "Nacional Transportadora",
+    "total": 90000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BNA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
