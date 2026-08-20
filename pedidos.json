@@ -5151,5 +5151,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2651,
+    "fecha": "2026-08-20",
+    "tercero": "Diana Catalina Uribe Vélez",
+    "identificacion": "43758139",
+    "productos": "BHO 500g x500",
+    "domicilio": "",
+    "total": 72000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BHO",
+        "presentacion": "500g",
+        "molienda": "molido medio"
+      }
+    ]
   }
 ]
