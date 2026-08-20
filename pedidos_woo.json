@@ -10,9 +10,9 @@
     "total": 210000,
     "forma_pago": "Wompi",
     "woo_status": "processing",
-    "status": "En proceso",
-    "manual": false,
-    "client_type": "Antiguo",
+    "status": "Completado",
+    "manual": true,
+    "client_type": null,
     "observaciones": ""
   },
   {
