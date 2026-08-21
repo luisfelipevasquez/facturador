@@ -11497,8 +11497,7 @@
         "valor_unitario": 247.61904761904762,
         "iva": 1238.0952380952383,
         "iva_pct": 5,
-        "total": 26000,
-        "molienda": "molido fino"
+        "total": 26000
       },
       {
         "sku": "BBO",
@@ -11508,8 +11507,7 @@
         "valor_unitario": 220.95238095238093,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "molido fino"
+        "total": 58000
       },
       {
         "sku": "CHLA",
@@ -11519,8 +11517,7 @@
         "valor_unitario": 209.52380952380952,
         "iva": 1047.6190476190475,
         "iva_pct": 5,
-        "total": 21999.999999999996,
-        "molienda": "molido fino"
+        "total": 21999.999999999996
       },
       {
         "sku": "CHLA",
@@ -11530,8 +11527,7 @@
         "valor_unitario": 209.52380952380952,
         "iva": 1047.6190476190475,
         "iva_pct": 5,
-        "total": 21999.999999999996,
-        "molienda": "molido fino"
+        "total": 21999.999999999996
       },
       {
         "sku": "CHLA",
@@ -11541,8 +11537,7 @@
         "valor_unitario": 209.52380952380952,
         "iva": 1047.6190476190475,
         "iva_pct": 5,
-        "total": 21999.999999999996,
-        "molienda": "molido fino"
+        "total": 21999.999999999996
       },
       {
         "sku": "CHLA",
@@ -11552,8 +11547,7 @@
         "valor_unitario": 209.52380952380952,
         "iva": 1047.6190476190475,
         "iva_pct": 5,
-        "total": 21999.999999999996,
-        "molienda": "molido fino"
+        "total": 21999.999999999996
       },
       {
         "sku": "CHLA",
@@ -11563,8 +11557,7 @@
         "valor_unitario": 209.52380952380952,
         "iva": 1047.6190476190475,
         "iva_pct": 5,
-        "total": 21999.999999999996,
-        "molienda": "molido fino"
+        "total": 21999.999999999996
       },
       {
         "sku": "CHLA",
@@ -11574,8 +11567,7 @@
         "valor_unitario": 209.52380952380952,
         "iva": 1047.6190476190475,
         "iva_pct": 5,
-        "total": 21999.999999999996,
-        "molienda": "molido fino"
+        "total": 21999.999999999996
       },
       {
         "sku": "BSIN",
@@ -11585,8 +11577,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "molido fino"
+        "total": 37999.99999999999
       },
       {
         "sku": "DOM",
@@ -11641,8 +11632,7 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000,
-        "molienda": "grano"
+        "total": 72000
       },
       {
         "sku": "DOM",
@@ -11666,5 +11656,43 @@
     "cufe": null,
     "siigoStatus": "Sincronizado",
     "siigoSyncedAt": "2026-08-21T02:12:30.764Z"
+  },
+  {
+    "consecutivo": 2679,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1037588594",
+    "nombre_tercero": "Alejandra Gómez",
+    "fecha_elaboracion": "2026-08-21",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "2500g",
+        "cantidad": 2500,
+        "valor_unitario": 80,
+        "iva": 10000,
+        "iva_pct": 5,
+        "total": 210000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 14000
+      }
+    ],
+    "iva_total": 10000,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 210000
+    },
+    "observaciones": ""
   }
 ]
