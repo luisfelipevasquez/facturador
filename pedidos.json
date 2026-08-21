@@ -5342,7 +5342,7 @@
     "fecha": "2026-08-20",
     "tercero": "Luz Mayed Daza Nouguez",
     "identificacion": "1017143124",
-    "productos": "BBO 100g x100, BBO 250g x250, CHLA 100g x100, CHLA 100g x100, CHLA 100g x100, CHLA 100g x100, CHLA 100g x100, CHLA 100g x100, BSIN 100g x100",
+    "productos": "BBO 100g x100, BBO 250g x250, CHLA 100g x100, CHLA 100g x100, CHLA 100g x100, CHLA 100g x100, CHLA 100g x100, CHLA 100g x100, BSIN 100g x100, CAMA Sachet x2",
     "domicilio": "Local Mensajero",
     "total": 254000,
     "forma_pago": "T. Débito",
@@ -5413,6 +5413,26 @@
       {
         "sku": "BNA",
         "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
+  },
+  {
+    "consecutivo": 2679,
+    "fecha": "2026-08-21",
+    "tercero": "Alejandra Gómez",
+    "identificacion": "1037588594",
+    "productos": "RLAC 2500g x2500",
+    "domicilio": "Local Mensajero",
+    "total": 210000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAC",
+        "presentacion": "2500g",
         "molienda": "grano"
       }
     ]
