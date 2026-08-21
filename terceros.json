@@ -1310,5 +1310,21 @@
     "Teléfono móvil de contacto": "3160522727",
     "Estado": "Activo",
     "siigoId": "4e6e8ae5-c978-4835-9afb-b137396cc051"
+  },
+  {
+    "Nombre tercero": "Lorena Vivas Ossa",
+    "Tipo de identificación": "13",
+    "Identificación": "1073505780",
+    "Dirección": "Cra 45 # 45-71 Rafael Núñez EtapaV Int4 Apto 101",
+    "Ciudad": "Bogotá D.C.",
+    "Código departamento": "11",
+    "Código ciudad": "11001",
+    "Teléfono.": "3107930083",
+    "Correo electrónico": "vidaloren@hotmail.com",
+    "Nombres contacto": "Lorena",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3107930083",
+    "Estado": "Activo",
+    "siigoId": "25f2ada7-5469-43f0-b4ab-3e814b3daac7"
   }
 ]
