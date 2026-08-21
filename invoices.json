@@ -8974,7 +8974,12 @@
       "codigo": 3,
       "valor": 152000
     },
-    "observaciones": "Cáscara gratis 1 sachet / corregir factura"
+    "observaciones": "Cáscara gratis 1 sachet / corregir factura",
+    "siigoId": "568117aa-eb54-4288-a19b-b5a715ea1110",
+    "siigoNumber": "FV-2-2634",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:11:57.688Z"
   },
   {
     "consecutivo": 2615,
@@ -9010,7 +9015,12 @@
       "codigo": 3,
       "valor": 86000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "2496da23-7237-4ff8-ba7a-3e581707bfc1",
+    "siigoNumber": "FV-2-2635",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:11:58.610Z"
   },
   {
     "consecutivo": 2616,
@@ -9126,7 +9136,12 @@
       "codigo": 3,
       "valor": 381008
     },
-    "observaciones": "Envío a  San Andrés de Tumaco, Nariño,  Calle del comercio #12 - 70 barrio la calaveraA nombre de: Angela del CastilloTelf: +573163637993Pago con bold"
+    "observaciones": "Envío a  San Andrés de Tumaco, Nariño,  Calle del comercio #12 - 70 barrio la calaveraA nombre de: Angela del CastilloTelf: +573163637993Pago con bold",
+    "siigoId": "8ab16040-1fd5-4e5e-a605-e4e3d4cc8c62",
+    "siigoNumber": "FV-2-2636",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:11:59.429Z"
   },
   {
     "consecutivo": 2617,
@@ -9198,7 +9213,12 @@
       "codigo": 3,
       "valor": 373008
     },
-    "observaciones": "Enviar a Ángela a tumaco"
+    "observaciones": "Enviar a Ángela a tumaco",
+    "siigoId": "75658735-691d-4f21-88b2-19441c8ecb86",
+    "siigoNumber": "FV-2-2637",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:00.149Z"
   },
   {
     "consecutivo": 2618,
@@ -9266,7 +9286,12 @@
       "codigo": 3,
       "valor": 200000
     },
-    "observaciones": "120g cáscara.  Enviar a Ángela a Tumaco. Arreglar factura"
+    "observaciones": "120g cáscara.  Enviar a Ángela a Tumaco. Arreglar factura",
+    "siigoId": "268a0ad6-915e-42a7-8d1c-500c1fd954f0",
+    "siigoNumber": "FV-2-2638",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:00.757Z"
   },
   {
     "consecutivo": 2619,
@@ -9312,7 +9337,12 @@
       "codigo": 3,
       "valor": 161000
     },
-    "observaciones": "Enviar a Ángela a Tumaco"
+    "observaciones": "Enviar a Ángela a Tumaco",
+    "siigoId": "db9dbdb3-2411-48ac-a9d8-ebf08786be5b",
+    "siigoNumber": "FV-2-2639",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:01.476Z"
   },
   {
     "consecutivo": 2620,
@@ -9398,7 +9428,12 @@
       "codigo": 3,
       "valor": 177000
     },
-    "observaciones": "120g cáscara. Enviar a Ángela a tumaco"
+    "observaciones": "120g cáscara. Enviar a Ángela a tumaco",
+    "siigoId": "0e62cdfa-a6ee-4a8e-b316-d875118d509c",
+    "siigoNumber": "FV-2-2640",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:02.295Z"
   },
   {
     "consecutivo": 2621,
@@ -9438,7 +9473,12 @@
       "codigo": 3,
       "valor": 170100
     },
-    "observaciones": "Molido medio-grueso"
+    "observaciones": "Molido medio-grueso",
+    "siigoId": "2204a709-7a47-4d6b-8090-38910e0ca54f",
+    "siigoNumber": "FV-2-2641",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:02.908Z"
   },
   {
     "consecutivo": 2622,
@@ -9476,7 +9516,12 @@
       "codigo": 3,
       "valor": 210000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "01121dba-a00e-4b27-82c6-d54cb6fac902",
+    "siigoNumber": "FV-2-2642",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:03.625Z"
   },
   {
     "consecutivo": 2623,
@@ -9532,7 +9577,12 @@
       "codigo": 3,
       "valor": 165000
     },
-    "observaciones": "Recibe Angelica Parra 302 4013807"
+    "observaciones": "Recibe Angelica Parra 302 4013807",
+    "siigoId": "9dcd0a34-0318-442f-a5cb-6c5a577e8b59",
+    "siigoNumber": "FV-2-2643",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:04.343Z"
   },
   {
     "consecutivo": 2624,
@@ -9600,7 +9650,12 @@
       "codigo": 3,
       "valor": 288000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "86678c0a-8bd1-424e-8e53-25bad76b635b",
+    "siigoNumber": "FV-2-2644",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:04.958Z"
   },
   {
     "consecutivo": 2625,
@@ -9636,7 +9691,12 @@
       "codigo": 3,
       "valor": 90000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "da721c3f-76ec-4d55-802e-bd350f5a8f25",
+    "siigoNumber": "FV-2-2645",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:05.571Z"
   },
   {
     "consecutivo": 2626,
@@ -9712,7 +9772,12 @@
       "codigo": 3,
       "valor": 170999.99999999997
     },
-    "observaciones": "Paga contraentrega 171.000"
+    "observaciones": "Paga contraentrega 171.000",
+    "siigoId": "87170dd0-be78-400b-8b89-04a0a9e4a4b4",
+    "siigoNumber": "FV-2-2646",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:06.289Z"
   },
   {
     "consecutivo": 2627,
@@ -9748,7 +9813,12 @@
       "codigo": 3,
       "valor": 72000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "82bae2e9-8aba-494c-8f34-cc16d4403191",
+    "siigoNumber": "FV-2-2647",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:07.107Z"
   },
   {
     "consecutivo": 2628,
@@ -9806,7 +9876,12 @@
       "codigo": 3,
       "valor": 130000
     },
-    "observaciones": "Redime 250g galleta. Enviar tarjeta con los stickers de esta compra"
+    "observaciones": "Redime 250g galleta. Enviar tarjeta con los stickers de esta compra",
+    "siigoId": "4fca42bb-7331-45f1-80db-4de3e4843f87",
+    "siigoNumber": "FV-2-2648",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:07.824Z"
   },
   {
     "consecutivo": 2629,
@@ -9966,7 +10041,12 @@
       "codigo": 3,
       "valor": 505000
     },
-    "observaciones": "Redime 250g suroeste"
+    "observaciones": "Redime 250g suroeste",
+    "siigoId": "934de8ff-072e-4687-ba59-4d3cfed2ca1e",
+    "siigoNumber": "FV-2-2649",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:08.644Z"
   },
   {
     "consecutivo": 2630,
@@ -10002,7 +10082,12 @@
       "codigo": 3,
       "valor": 383999.99999999994
     },
-    "observaciones": "Enviar a Robinson Garcés Marín Calle 40 AA Sur 32-120 Apto 608 Edificio Torre Santa Isabel +1 (704) 615-4647"
+    "observaciones": "Enviar a Robinson Garcés Marín Calle 40 AA Sur 32-120 Apto 608 Edificio Torre Santa Isabel +1 (704) 615-4647",
+    "siigoId": "bf707aef-2ec1-4e6f-8706-b44fc35a9eda",
+    "siigoNumber": "FV-2-2650",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:09.566Z"
   },
   {
     "consecutivo": 2631,
@@ -10040,7 +10125,12 @@
       "codigo": 3,
       "valor": 420000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "350e1f2d-f4e9-4f34-9c9a-3b7b9627e87d",
+    "siigoNumber": "FV-2-2651",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:10.179Z"
   },
   {
     "consecutivo": 2632,
@@ -10086,7 +10176,12 @@
       "codigo": 3,
       "valor": 174000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "bb0c71a3-822b-4858-bd59-36d48be24795",
+    "siigoNumber": "FV-2-2652",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:11.305Z"
   },
   {
     "consecutivo": 2633,
@@ -10152,7 +10247,12 @@
       "codigo": 3,
       "valor": 452000
     },
-    "observaciones": "Lleva Alejo a Christian Join Logistics"
+    "observaciones": "Lleva Alejo a Christian Join Logistics",
+    "siigoId": "aa51e115-967c-4354-894a-d5eca72eedf2",
+    "siigoNumber": "FV-2-2653",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:12.229Z"
   },
   {
     "consecutivo": 2634,
@@ -10198,7 +10298,12 @@
       "codigo": 3,
       "valor": 133000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "b5d82537-7aaa-4756-bc5e-70b8d70c7ac6",
+    "siigoNumber": "FV-2-2654",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:13.051Z"
   },
   {
     "consecutivo": 2635,
@@ -10224,7 +10329,12 @@
       "codigo": 3,
       "valor": 38000
     },
-    "observaciones": "Recoge"
+    "observaciones": "Recoge",
+    "siigoId": "845014f0-51f2-4eb4-88da-5f6f02b13264",
+    "siigoNumber": "FV-2-2655",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:13.763Z"
   },
   {
     "consecutivo": 2636,
@@ -10260,7 +10370,12 @@
       "codigo": 3,
       "valor": 51999.99999999999
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "b6196265-98ef-488d-9ce9-8a6c1fc646d5",
+    "siigoNumber": "FV-2-2656",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:14.378Z"
   },
   {
     "consecutivo": 2637,
@@ -10296,7 +10411,12 @@
       "codigo": 3,
       "valor": 76000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "115b864b-6d2e-4408-8350-ffc06d45a86a",
+    "siigoNumber": "FV-2-2657",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:14.992Z"
   },
   {
     "consecutivo": 2638,
@@ -10322,7 +10442,12 @@
       "codigo": 3,
       "valor": 42000
     },
-    "observaciones": "Recoge"
+    "observaciones": "Recoge",
+    "siigoId": "02247645-fbc8-4dab-a439-3157cab6c424",
+    "siigoNumber": "FV-2-2658",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:15.709Z"
   },
   {
     "consecutivo": 2639,
@@ -10368,7 +10493,12 @@
       "codigo": 3,
       "valor": 145000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "c2a0a430-f9d0-46dc-b034-8458a98ace13",
+    "siigoNumber": "FV-2-2659",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:16.426Z"
   },
   {
     "consecutivo": 2640,
@@ -10404,7 +10534,12 @@
       "codigo": 3,
       "valor": 84000
     },
-    "observaciones": "Recoge"
+    "observaciones": "Recoge",
+    "siigoId": "920fe58d-8c43-4112-aa00-d7d18e5b5cb6",
+    "siigoNumber": "FV-2-2660",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:17.144Z"
   },
   {
     "consecutivo": 2641,
@@ -10450,7 +10585,12 @@
       "codigo": 3,
       "valor": 134000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "2b0fe483-e618-46c5-97ce-539d9cff2365",
+    "siigoNumber": "FV-2-2661",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:17.860Z"
   },
   {
     "consecutivo": 2642,
@@ -10506,7 +10646,12 @@
       "codigo": 3,
       "valor": 114000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "3957544c-53ff-467b-a8a1-ce69c33b206f",
+    "siigoNumber": "FV-2-2662",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:18.477Z"
   },
   {
     "consecutivo": 2643,
@@ -10574,7 +10719,12 @@
       "codigo": 3,
       "valor": 280000
     },
-    "observaciones": "El envío es a nombre de Samuel"
+    "observaciones": "El envío es a nombre de Samuel",
+    "siigoId": "3c0a5aef-b062-49dc-8eb3-312ae2f20261",
+    "siigoNumber": "FV-2-2663",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:19.703Z"
   },
   {
     "consecutivo": 2644,
@@ -10632,7 +10782,12 @@
       "codigo": 3,
       "valor": 166000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "d60b57c1-effd-4c11-b515-5fc027a2b546",
+    "siigoNumber": "FV-2-2664",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:20.419Z"
   },
   {
     "consecutivo": 2645,
@@ -10670,7 +10825,12 @@
       "codigo": 3,
       "valor": 210000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "1a537228-be61-4871-930a-d53cec4278ac",
+    "siigoNumber": "FV-2-2665",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:21.240Z"
   },
   {
     "consecutivo": 2646,
@@ -10736,7 +10896,12 @@
       "codigo": 3,
       "valor": 170000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "0536826c-2abe-42a9-a0e5-613348cc83e6",
+    "siigoNumber": "FV-2-2666",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:21.956Z"
   },
   {
     "consecutivo": 2647,
@@ -10772,7 +10937,12 @@
       "codigo": 3,
       "valor": 90000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "305041bf-b7c6-4c2d-8225-7fd77c1cbab5",
+    "siigoNumber": "FV-2-2667",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:22.673Z"
   },
   {
     "consecutivo": 2648,
@@ -10862,7 +11032,12 @@
       "codigo": 3,
       "valor": 185000
     },
-    "observaciones": "Los molidos fino son para moka"
+    "observaciones": "Los molidos fino son para moka",
+    "siigoId": "7a2e8601-eb80-497f-b319-6734c5169742",
+    "siigoNumber": "FV-2-2668",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:23.800Z"
   },
   {
     "consecutivo": 2649,
@@ -10898,7 +11073,12 @@
       "codigo": 3,
       "valor": 103000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "325b847f-d6fa-41a0-883a-cc93b6f44756",
+    "siigoNumber": "FV-2-2669",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:24.516Z"
   },
   {
     "consecutivo": 2650,
@@ -10944,7 +11124,12 @@
       "codigo": 3,
       "valor": 114000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "f437efb0-7fb2-428d-82d4-c38674c42d86",
+    "siigoNumber": "FV-2-2670",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:25.131Z"
   },
   {
     "consecutivo": 2651,
@@ -10970,7 +11155,12 @@
       "codigo": 3,
       "valor": 72000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "1f5e0832-1cbe-4705-b1da-ccc9e1db6118",
+    "siigoNumber": "FV-2-2671",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:25.744Z"
   },
   {
     "consecutivo": 2652,
@@ -11018,7 +11208,12 @@
       "codigo": 3,
       "valor": 228000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "1753e554-c7cb-4c92-acf4-5f524a66ebe6",
+    "siigoNumber": "FV-2-2672",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:26.359Z"
   },
   {
     "consecutivo": 2653,
@@ -11054,7 +11249,12 @@
       "codigo": 3,
       "valor": 178000
     },
-    "observaciones": "Lo lleva felipe"
+    "observaciones": "Lo lleva felipe",
+    "siigoId": "f7f1470e-142d-4851-bf24-cd365acb754b",
+    "siigoNumber": "FV-2-2673",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:26.977Z"
   },
   {
     "consecutivo": 2654,
@@ -11092,7 +11292,12 @@
       "codigo": 3,
       "valor": 289999.99999999994
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "917f8429-cf3f-4285-9d6d-f75506d17619",
+    "siigoNumber": "FV-2-2674",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:27.798Z"
   },
   {
     "consecutivo": 2655,
@@ -11148,7 +11353,12 @@
       "codigo": 3,
       "valor": 176000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "b43829d0-a219-48d9-b1e9-776ba745d3e1",
+    "siigoNumber": "FV-2-2675",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:28.410Z"
   },
   {
     "consecutivo": 2656,
@@ -11264,7 +11474,12 @@
       "codigo": 3,
       "valor": 254000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "c74d9d43-5efa-4e7e-af73-2e3fce1cb80c",
+    "siigoNumber": "FV-2-2676",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:29.229Z"
   },
   {
     "consecutivo": 2657,
@@ -11403,7 +11618,12 @@
       "codigo": 3,
       "valor": 254000
     },
-    "observaciones": "Todos molidos Moka"
+    "observaciones": "Todos molidos Moka",
+    "siigoId": "30a122fd-935c-4b7b-854f-e98d92df76f8",
+    "siigoNumber": "FV-2-2677",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:30.050Z"
   },
   {
     "consecutivo": 2658,
@@ -11440,6 +11660,11 @@
       "codigo": 3,
       "valor": 90000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "01129d99-f72e-44b5-8c10-fae2db8c616b",
+    "siigoNumber": "FV-2-2678",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-08-21T02:12:30.764Z"
   }
 ]
