@@ -11282,7 +11282,8 @@
         "valor_unitario": 247.61904761904762,
         "iva": 1238.0952380952383,
         "iva_pct": 5,
-        "total": 26000
+        "total": 26000,
+        "molienda": "molido fino"
       },
       {
         "sku": "BBO",
@@ -11292,7 +11293,8 @@
         "valor_unitario": 220.95238095238093,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "molido fino"
       },
       {
         "sku": "CHLA",
@@ -11302,7 +11304,8 @@
         "valor_unitario": 209.52380952380952,
         "iva": 1047.6190476190475,
         "iva_pct": 5,
-        "total": 21999.999999999996
+        "total": 21999.999999999996,
+        "molienda": "molido fino"
       },
       {
         "sku": "CHLA",
@@ -11312,7 +11315,8 @@
         "valor_unitario": 209.52380952380952,
         "iva": 1047.6190476190475,
         "iva_pct": 5,
-        "total": 21999.999999999996
+        "total": 21999.999999999996,
+        "molienda": "molido fino"
       },
       {
         "sku": "CHLA",
@@ -11322,7 +11326,8 @@
         "valor_unitario": 209.52380952380952,
         "iva": 1047.6190476190475,
         "iva_pct": 5,
-        "total": 21999.999999999996
+        "total": 21999.999999999996,
+        "molienda": "molido fino"
       },
       {
         "sku": "CHLA",
@@ -11332,7 +11337,8 @@
         "valor_unitario": 209.52380952380952,
         "iva": 1047.6190476190475,
         "iva_pct": 5,
-        "total": 21999.999999999996
+        "total": 21999.999999999996,
+        "molienda": "molido fino"
       },
       {
         "sku": "CHLA",
@@ -11342,7 +11348,8 @@
         "valor_unitario": 209.52380952380952,
         "iva": 1047.6190476190475,
         "iva_pct": 5,
-        "total": 21999.999999999996
+        "total": 21999.999999999996,
+        "molienda": "molido fino"
       },
       {
         "sku": "CHLA",
@@ -11352,7 +11359,8 @@
         "valor_unitario": 209.52380952380952,
         "iva": 1047.6190476190475,
         "iva_pct": 5,
-        "total": 21999.999999999996
+        "total": 21999.999999999996,
+        "molienda": "molido fino"
       },
       {
         "sku": "BSIN",
@@ -11362,7 +11370,8 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999
+        "total": 37999.99999999999,
+        "molienda": "molido fino"
       },
       {
         "sku": "DOM",
@@ -11375,6 +11384,18 @@
         "total": 0,
         "descuento_pct": 100,
         "descuento_valor": 14000
+      },
+      {
+        "sku": "CAMA",
+        "producto": "Cáscara de Maragogype",
+        "presentacion": "Sachet",
+        "cantidad": 2,
+        "valor_unitario": 6000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 12000
       }
     ],
     "iva_total": 12095.238095238095,
@@ -11400,7 +11421,8 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000
+        "total": 72000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
