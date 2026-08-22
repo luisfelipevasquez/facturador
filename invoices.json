@@ -11772,5 +11772,51 @@
       "valor": 269000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2681,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1152691934",
+    "nombre_tercero": "Mauricio Ospina",
+    "fecha_elaboracion": "2026-08-22",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAS",
+        "producto": "Regional Lavado SurOeste",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "BHO120",
+        "producto": "Blend Honey 120h",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 137.14285714285714,
+        "iva": 3428.5714285714284,
+        "iva_pct": 5,
+        "total": 72000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 6190.476190476191,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 144000
+    },
+    "observaciones": ""
   }
 ]
