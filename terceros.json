@@ -1326,5 +1326,21 @@
     "Teléfono móvil de contacto": "3107930083",
     "Estado": "Activo",
     "siigoId": "25f2ada7-5469-43f0-b4ab-3e814b3daac7"
+  },
+  {
+    "Nombre tercero": "Rómulo Albarracin Daguer",
+    "Tipo de identificación": "13",
+    "Identificación": "9097937",
+    "Dirección": "Calle 67 # 4-63 Barrio Crespo",
+    "Ciudad": "Cartagena de Indias",
+    "Código departamento": "13",
+    "Código ciudad": "13001",
+    "Teléfono.": "3045228335",
+    "Correo electrónico": "romuload@msn.com",
+    "Nombres contacto": "Rómulo",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3045228335",
+    "Estado": "Activo",
+    "siigoId": "0241fb32-25fd-45eb-a0c4-51f025df4043"
   }
 ]
