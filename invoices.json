@@ -11818,5 +11818,53 @@
       "valor": 144000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2682,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "9097937",
+    "nombre_tercero": "Rómulo Albarracin Daguer",
+    "fecha_elaboracion": "2026-08-22",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 137.14285714285714,
+        "iva": 3428.5714285714284,
+        "iva_pct": 5,
+        "total": 72000
+      },
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 264.76190476190476,
+        "iva": 6619.047619047618,
+        "iva_pct": 5,
+        "total": 139000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 18000
+      }
+    ],
+    "iva_total": 10047.619047619046,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 211000
+    },
+    "observaciones": ""
   }
 ]
