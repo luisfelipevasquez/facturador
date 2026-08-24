@@ -12196,5 +12196,51 @@
       "valor": 186000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2689,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "78698835",
+    "nombre_tercero": "Edwin Smith Arrieta García",
+    "fecha_elaboracion": "2026-08-24",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 148.45938375350138,
+        "iva": 2523.809523809524,
+        "iva_pct": 5,
+        "total": 53000
+      },
+      {
+        "sku": "BHO72",
+        "producto": "Blend Honey72h",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 148.45938375350138,
+        "iva": 2523.809523809524,
+        "iva_pct": 5,
+        "total": 53000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 5047.619047619048,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 124000
+    },
+    "observaciones": ""
   }
 ]
