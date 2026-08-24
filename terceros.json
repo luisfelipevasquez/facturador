@@ -1342,5 +1342,21 @@
     "Teléfono móvil de contacto": "3045228335",
     "Estado": "Activo",
     "siigoId": "0241fb32-25fd-45eb-a0c4-51f025df4043"
+  },
+  {
+    "Nombre tercero": "Diego Padilla",
+    "Tipo de identificación": "13",
+    "Identificación": "80756920",
+    "Dirección": "Cra 13a # 102-76 Ed. Pinar del Chico Apto 202",
+    "Ciudad": "Bogotá D.C.",
+    "Código departamento": "11",
+    "Código ciudad": "11001",
+    "Teléfono.": "3102846636",
+    "Correo electrónico": "dnpadilla@gmail.com",
+    "Nombres contacto": "Diego",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3102846636",
+    "Estado": "Activo",
+    "siigoId": "22617d6d-3eee-412d-a2b1-e22592e44430"
   }
 ]
