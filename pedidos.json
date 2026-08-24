@@ -5486,7 +5486,7 @@
     "domicilio": "Local Mensajero",
     "total": 144000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Antiguo",
     "recoge": "No",
     "items_molienda": [
@@ -5511,7 +5511,7 @@
     "domicilio": "Nacional Transportadora",
     "total": 211000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Nuevo",
     "recoge": "No",
     "items_molienda": [
@@ -5536,7 +5536,7 @@
     "domicilio": "Local Mensajero",
     "total": 130000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Nuevo",
     "recoge": "No",
     "items_molienda": [
@@ -5606,7 +5606,7 @@
     "domicilio": "Nacional Transportadora",
     "total": 267000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Antiguo",
     "recoge": "No",
     "items_molienda": [
@@ -5636,7 +5636,7 @@
     "domicilio": "Local Mensajero",
     "total": 140000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Antiguo",
     "recoge": "No",
     "items_molienda": [
@@ -5673,6 +5673,36 @@
       {
         "sku": "CMA",
         "presentacion": "2500g",
+        "molienda": "grano"
+      }
+    ]
+  },
+  {
+    "consecutivo": 2688,
+    "fecha": "2026-08-24",
+    "tercero": "Diego Padilla",
+    "identificacion": "80756920",
+    "productos": "CHLA 340g x340, BNA120 340g x340, BHO72 340g x340",
+    "domicilio": "Nacional Transportadora",
+    "total": 186000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CHLA",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BNA120",
+        "presentacion": "340g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "BHO72",
+        "presentacion": "340g",
         "molienda": "grano"
       }
     ]
