@@ -12140,5 +12140,61 @@
       "valor": 420000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2688,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "80756920",
+    "nombre_tercero": "Diego Padilla",
+    "fecha_elaboracion": "2026-08-24",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CHLA",
+        "producto": "Chiroso Lavado",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 173.66946778711483,
+        "iva": 2952.3809523809523,
+        "iva_pct": 5,
+        "total": 61999.99999999999
+      },
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 148.45938375350138,
+        "iva": 2523.809523809524,
+        "iva_pct": 5,
+        "total": 53000
+      },
+      {
+        "sku": "BHO72",
+        "producto": "Blend Honey72h",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 148.45938375350138,
+        "iva": 2523.809523809524,
+        "iva_pct": 5,
+        "total": 53000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 8000,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 186000
+    },
+    "observaciones": ""
   }
 ]
