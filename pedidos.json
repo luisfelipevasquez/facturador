@@ -5656,5 +5656,25 @@
         "molienda": "molido grueso"
       }
     ]
+  },
+  {
+    "consecutivo": 2687,
+    "fecha": "2026-08-24",
+    "tercero": "Ivan Fernando Bedoya Jaramillo",
+    "identificacion": "1037626026",
+    "productos": "CMA 2500g x2500",
+    "domicilio": "Local Mensajero",
+    "total": 420000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CMA",
+        "presentacion": "2500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
