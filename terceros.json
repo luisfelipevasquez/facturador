@@ -1358,5 +1358,21 @@
     "Teléfono móvil de contacto": "3102846636",
     "Estado": "Activo",
     "siigoId": "22617d6d-3eee-412d-a2b1-e22592e44430"
+  },
+  {
+    "Nombre tercero": "Edwin Smith Arrieta García",
+    "Tipo de identificación": "13",
+    "Identificación": "78698835",
+    "Dirección": "Diag 09 # 03-104 barrio la granja",
+    "Ciudad": "Montería",
+    "Código departamento": "23",
+    "Código ciudad": "23001",
+    "Teléfono.": "3012242623",
+    "Correo electrónico": "smithdilan@gmail.com",
+    "Nombres contacto": "Edwin Smith",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3012242623",
+    "Estado": "Activo",
+    "siigoId": "971a4829-5ff2-43d9-856f-620e95f5154a"
   }
 ]
