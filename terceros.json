@@ -1374,5 +1374,21 @@
     "Teléfono móvil de contacto": "3012242623",
     "Estado": "Activo",
     "siigoId": "971a4829-5ff2-43d9-856f-620e95f5154a"
+  },
+  {
+    "Nombre tercero": "Santiago Carrillo",
+    "Tipo de identificación": "13",
+    "Identificación": "80505313",
+    "Dirección": "Calle 25 # 8 Este - 161, Condo Casas de la Pradera, Etapa 2 Casa 113",
+    "Ciudad": "Cajicá",
+    "Código departamento": "25",
+    "Código ciudad": "25183",
+    "Teléfono.": "3133898024",
+    "Correo electrónico": "sanandru@hotmail.com",
+    "Nombres contacto": "Santiago",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3133898024",
+    "Estado": "Activo",
+    "siigoId": "75b82d1a-3571-41c1-9440-9c314f30659b"
   }
 ]
