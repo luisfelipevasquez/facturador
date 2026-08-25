@@ -1,5 +1,37 @@
 [
   {
+    "order_id": 8731,
+    "consecutivo": "8731",
+    "fecha": "2026-08-25",
+    "tercero": "Victor Parra",
+    "identificacion": "8161934",
+    "productos": "Kit aventurero x1",
+    "domicilio": "Envio Area Metropolitana (Medellin, Envigado, Itagui, La Estrella, Sabaneta, Bello) entrega el mismo día para pedidos realizados antes de mediodía o el siguiente día hábil para pedidos realizados después de mediodía",
+    "total": 165000,
+    "forma_pago": "Wompi",
+    "woo_status": "processing",
+    "status": "En proceso",
+    "manual": false,
+    "client_type": null,
+    "observaciones": ""
+  },
+  {
+    "order_id": 8730,
+    "consecutivo": "8730",
+    "fecha": "2026-08-25",
+    "tercero": "karen caicedo",
+    "identificacion": "1152464036",
+    "productos": "CMA Maracuyá x1",
+    "domicilio": "Envio Area Metropolitana (Medellin, Envigado, Itagui, La Estrella, Sabaneta, Bello) entrega el mismo día para pedidos realizados antes de mediodía o el siguiente día hábil para pedidos realizados después de mediodía",
+    "total": 103000,
+    "forma_pago": "Wompi",
+    "woo_status": "processing",
+    "status": "En proceso",
+    "manual": false,
+    "client_type": null,
+    "observaciones": ""
+  },
+  {
     "order_id": 8729,
     "consecutivo": "8729",
     "fecha": "2026-08-25",
@@ -12,7 +44,7 @@
     "woo_status": "processing",
     "status": "En proceso",
     "manual": false,
-    "client_type": "Antiguo",
+    "client_type": null,
     "observaciones": ""
   },
   {
@@ -42,8 +74,8 @@
     "total": 128000,
     "forma_pago": "Wompi",
     "woo_status": "processing",
-    "status": "En proceso",
-    "manual": false,
+    "status": "Completado",
+    "manual": true,
     "client_type": "Antiguo",
     "observaciones": ""
   },
@@ -105,7 +137,7 @@
     "domicilio": "Envío gratuito",
     "total": 210000,
     "forma_pago": "Wompi",
-    "woo_status": "processing",
+    "woo_status": "completed",
     "status": "Completado",
     "manual": true,
     "client_type": null,
