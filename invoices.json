@@ -12242,5 +12242,41 @@
       "valor": 124000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2690,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "80505313",
+    "nombre_tercero": "Santiago Carrillo",
+    "fecha_elaboracion": "2026-08-24",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 1809.5238095238092,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 55999.99999999999
+    },
+    "observaciones": ""
   }
 ]
