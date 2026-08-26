@@ -12278,5 +12278,41 @@
       "valor": 55999.99999999999
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2691,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1014990515",
+    "nombre_tercero": "María Fernanda Castro",
+    "fecha_elaboracion": "2026-08-25",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 148.45938375350138,
+        "iva": 2523.809523809524,
+        "iva_pct": 5,
+        "total": 53000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 2523.809523809524,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 71000
+    },
+    "observaciones": ""
   }
 ]
