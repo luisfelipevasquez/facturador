@@ -1390,5 +1390,21 @@
     "Teléfono móvil de contacto": "3133898024",
     "Estado": "Activo",
     "siigoId": "75b82d1a-3571-41c1-9440-9c314f30659b"
+  },
+  {
+    "Nombre tercero": "María Fernanda Castro",
+    "Tipo de identificación": "13",
+    "Identificación": "1014990515",
+    "Dirección": "Cra 103d # 86-56 Bolivia Mz H Casa 15",
+    "Ciudad": "Bogotá D.C.",
+    "Código departamento": "11",
+    "Código ciudad": "11001",
+    "Teléfono.": "3195562944",
+    "Correo electrónico": "mafecast07@gmail.com",
+    "Nombres contacto": "María",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3195562944",
+    "Estado": "Activo",
+    "siigoId": "b132662d-65e5-4af3-82a3-dc611a57312e"
   }
 ]
