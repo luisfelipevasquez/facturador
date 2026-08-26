@@ -12314,5 +12314,41 @@
       "valor": 71000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2692,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "8161410",
+    "nombre_tercero": "Sebastian Tobon Franco",
+    "fecha_elaboracion": "2026-08-25",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAS",
+        "producto": "Regional Lavado SurOeste",
+        "presentacion": "2500g",
+        "cantidad": 2500,
+        "valor_unitario": 80,
+        "iva": 10000,
+        "iva_pct": 5,
+        "total": 210000
+      },
+      {
+        "sku": "RLAA",
+        "producto": "Regional Lavado Andes",
+        "presentacion": "2500g",
+        "cantidad": 2500,
+        "valor_unitario": 80,
+        "iva": 10000,
+        "iva_pct": 5,
+        "total": 210000
+      }
+    ],
+    "iva_total": 20000,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 420000
+    },
+    "observaciones": "Lo lleva pipe"
   }
 ]
