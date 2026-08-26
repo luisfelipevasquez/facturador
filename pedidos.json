@@ -5796,5 +5796,35 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2693,
+    "fecha": "2026-08-26",
+    "tercero": "Juan Carlos Ramirez",
+    "identificacion": "1020835316",
+    "productos": "PANA 100g x100, RLAA 250g x250, BNA120 250g x250",
+    "domicilio": "Nacional Transportadora",
+    "total": 136000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "PANA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BNA120",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
