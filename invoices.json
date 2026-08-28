@@ -12710,5 +12710,41 @@
       "valor": 101000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2701,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1014295060",
+    "nombre_tercero": "Keilla Alejandra Pacheco León",
+    "fecha_elaboracion": "2026-08-27",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO",
+        "producto": "Blend Honey 56h",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 148.45938375350138,
+        "iva": 2523.809523809524,
+        "iva_pct": 5,
+        "total": 53000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 2523.809523809524,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 71000
+    },
+    "observaciones": "Enviar a  Manzana k, Ciudad del Sol casa 18 etapa 1. Santa Marta"
   }
 ]
