@@ -12662,5 +12662,53 @@
       "valor": 94000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2700,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1033769001",
+    "nombre_tercero": "Laura Barrera Arias",
+    "fecha_elaboracion": "2026-08-27",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 220.95238095238093,
+        "iva": 1380.952380952381,
+        "iva_pct": 5,
+        "total": 29000,
+        "descuento_pct": 50,
+        "descuento_valor": 27619.04761904762
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 4142.857142857143,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 101000
+    },
+    "observaciones": ""
   }
 ]
