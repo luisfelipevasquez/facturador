@@ -12792,5 +12792,51 @@
       "valor": 112000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2703,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1018412104",
+    "nombre_tercero": "Pedro Pablo Camacho Agudelo",
+    "fecha_elaboracion": "2026-08-28",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PNA",
+        "producto": "Pacamara Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 6095.238095238095,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 146000
+    },
+    "observaciones": ""
   }
 ]
