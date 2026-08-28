@@ -1406,5 +1406,21 @@
     "Teléfono móvil de contacto": "3195562944",
     "Estado": "Activo",
     "siigoId": "b132662d-65e5-4af3-82a3-dc611a57312e"
+  },
+  {
+    "Nombre tercero": "Jhonatan Humberto Chaparro Basto",
+    "Tipo de identificación": "13",
+    "Identificación": "1005187656",
+    "Dirección": "Cra 22 # 68a-16 Barrio Villa Luz",
+    "Ciudad": "Barrancabermeja",
+    "Código departamento": "68",
+    "Código ciudad": "68081",
+    "Teléfono.": "3183813414",
+    "Correo electrónico": "jhonatan.chaparro@gmail.com",
+    "Nombres contacto": "Jhonatan Humberto",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3183813414",
+    "Estado": "Activo",
+    "siigoId": "14296d6a-2694-46c2-bab8-7193d876888b"
   }
 ]
