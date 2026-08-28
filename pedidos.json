@@ -6006,5 +6006,30 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2702,
+    "fecha": "2026-08-28",
+    "tercero": "Jhonatan Humberto Chaparro Basto",
+    "identificacion": "1005187656",
+    "productos": "BNA120 250g x250, CGA 250g x250",
+    "domicilio": "Nacional Transportadora",
+    "total": 112000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BNA120",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
