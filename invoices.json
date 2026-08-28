@@ -12746,5 +12746,51 @@
       "valor": 71000
     },
     "observaciones": "Enviar a  Manzana k, Ciudad del Sol casa 18 etapa 1. Santa Marta"
+  },
+  {
+    "consecutivo": 2702,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1005187656",
+    "nombre_tercero": "Jhonatan Humberto Chaparro Basto",
+    "fecha_elaboracion": "2026-08-28",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 4476.190476190476,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 112000
+    },
+    "observaciones": ""
   }
 ]
