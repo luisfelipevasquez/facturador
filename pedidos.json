@@ -5916,5 +5916,30 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2698,
+    "fecha": "2026-08-27",
+    "tercero": "Jeym Marina Cañon",
+    "identificacion": "1024598643",
+    "productos": "CGA 2500g x2500, CMA 500g x500",
+    "domicilio": "Nacional Transportadora",
+    "total": 509000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CGA",
+        "presentacion": "2500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
