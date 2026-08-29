@@ -13085,5 +13085,63 @@
     "cufe": null,
     "siigoStatus": "Sincronizado",
     "siigoSyncedAt": "2026-08-29T02:52:11.812Z"
+  },
+  {
+    "consecutivo": 2718,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1082857075",
+    "nombre_tercero": "Catalina Gómez",
+    "fecha_elaboracion": "2026-08-29",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BRO",
+        "producto": "Bourbon Rosado",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "CAMA",
+        "producto": "Cáscara de Maragogype",
+        "presentacion": "Sachet",
+        "cantidad": 1,
+        "valor_unitario": 6000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 6000
+      },
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 247.61904761904762,
+        "iva": 1238.0952380952383,
+        "iva_pct": 5,
+        "total": 26000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 10000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 10000
+      }
+    ],
+    "iva_total": 4857.142857142858,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 112000
+    },
+    "observaciones": ""
   }
 ]
