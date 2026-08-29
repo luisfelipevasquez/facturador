@@ -13143,5 +13143,41 @@
       "valor": 112000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2719,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1077876104",
+    "nombre_tercero": "Juan José Guevara Méndez",
+    "fecha_elaboracion": "2026-08-29",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 3619.0476190476193,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 94000
+    },
+    "observaciones": ""
   }
 ]
