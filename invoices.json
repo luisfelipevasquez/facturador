@@ -12933,5 +12933,51 @@
     "cufe": null,
     "siigoStatus": "Sincronizado",
     "siigoSyncedAt": "2026-08-28T16:44:25.994Z"
+  },
+  {
+    "consecutivo": 2704,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1140845688",
+    "nombre_tercero": "Gustavo González",
+    "fecha_elaboracion": "2026-08-28",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO",
+        "producto": "Blend Honey 56h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 1095.2380952380952,
+        "iva_pct": 5,
+        "total": 23000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 3095.2380952380954,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 83000
+    },
+    "observaciones": ""
   }
 ]
