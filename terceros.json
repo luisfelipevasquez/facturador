@@ -1438,5 +1438,21 @@
     "Teléfono móvil de contacto": "3012294777",
     "Estado": "Activo",
     "siigoId": "2939c21e-f3eb-4d31-8daf-064f6fd5be7c"
+  },
+  {
+    "Nombre tercero": "Juan José Guevara Méndez",
+    "Tipo de identificación": "13",
+    "Identificación": "1077876104",
+    "Dirección": "Calle 74a # 65b-50 Ed Arcano Int 3 Apto 101",
+    "Ciudad": "Bogotá D.C.",
+    "Código departamento": "11",
+    "Código ciudad": "11001",
+    "Teléfono.": "3143668648",
+    "Correo electrónico": "Privasidad00@gmail.com",
+    "Nombres contacto": "Juan José",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3143668648",
+    "Estado": "Activo",
+    "siigoId": "0c17df0d-bd4a-49aa-bedb-34472a065dc5"
   }
 ]
