@@ -1422,5 +1422,21 @@
     "Teléfono móvil de contacto": "3183813414",
     "Estado": "Activo",
     "siigoId": "14296d6a-2694-46c2-bab8-7193d876888b"
+  },
+  {
+    "Nombre tercero": "Gustavo González",
+    "Tipo de identificación": "13",
+    "Identificación": "1140845688",
+    "Dirección": "Cra 76 # 85-42 Pi 02 casa",
+    "Ciudad": "Barranquilla",
+    "Código departamento": "08",
+    "Código ciudad": "08001",
+    "Teléfono.": "3012294777",
+    "Correo electrónico": "gagonsalez@gmail.com",
+    "Nombres contacto": "Gustavo",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3012294777",
+    "Estado": "Activo",
+    "siigoId": "2939c21e-f3eb-4d31-8daf-064f6fd5be7c"
   }
 ]
