@@ -13215,5 +13215,41 @@
       "valor": 72000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2721,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1193536369",
+    "nombre_tercero": "Nayli Bilary Leiva Quesada",
+    "fecha_elaboracion": "2026-08-29",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BRO",
+        "producto": "Bourbon Rosado",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 264.76190476190476,
+        "iva": 6619.047619047618,
+        "iva_pct": 5,
+        "total": 139000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 6619.047619047618,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 157000
+    },
+    "observaciones": ""
   }
 ]
