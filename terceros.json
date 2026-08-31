@@ -1454,5 +1454,21 @@
     "Teléfono móvil de contacto": "3143668648",
     "Estado": "Activo",
     "siigoId": "0c17df0d-bd4a-49aa-bedb-34472a065dc5"
+  },
+  {
+    "Nombre tercero": "Jose Ignacio Silva Casallas",
+    "Tipo de identificación": "13",
+    "Identificación": "1016043389",
+    "Dirección": "Cra 81c # 55-75sur Class Roma CR Bari To18 Apto503",
+    "Ciudad": "Bogotá D.C.",
+    "Código departamento": "11",
+    "Código ciudad": "11001",
+    "Teléfono.": "3107777630",
+    "Correo electrónico": "jose-ignacio-silva@hotmail.com",
+    "Nombres contacto": "Jose Ignacio",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3107777630",
+    "Estado": "Activo",
+    "siigoId": "d7a3aa07-1bec-45f1-b375-4c331aa76e8f"
   }
 ]
