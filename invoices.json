@@ -13343,5 +13343,51 @@
       "valor": 139800
     },
     "observaciones": "OJO con la guía. Paga Contraentrega. Escribir que el valor a cobrar son 139.800"
+  },
+  {
+    "consecutivo": 2724,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1235044084",
+    "nombre_tercero": "Keyner Enrique Tatis Villamizar",
+    "fecha_elaboracion": "2026-08-31",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 5523.809523809524,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 134000
+    },
+    "observaciones": ""
   }
 ]
