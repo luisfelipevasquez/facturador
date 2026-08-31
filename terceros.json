@@ -1470,5 +1470,21 @@
     "Teléfono móvil de contacto": "3107777630",
     "Estado": "Activo",
     "siigoId": "d7a3aa07-1bec-45f1-b375-4c331aa76e8f"
+  },
+  {
+    "Nombre tercero": "Leonid Enrique Baldovino Galvis",
+    "Tipo de identificación": "13",
+    "Identificación": "9139116",
+    "Dirección": "Carrera 40 # 10-52 Villa Natalia. Casa Cerca a tienda la 40",
+    "Ciudad": "Sincelejo",
+    "Código departamento": "70",
+    "Código ciudad": "70001",
+    "Teléfono.": "3105401893",
+    "Correo electrónico": "Edubaldovino@hotmail.com",
+    "Nombres contacto": "Leonid Enrique",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3105401893",
+    "Estado": "Activo",
+    "siigoId": "c585532f-17de-4f65-a3cf-91067a984874"
   }
 ]
