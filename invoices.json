@@ -13287,5 +13287,61 @@
       "valor": 56000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2723,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "9139116",
+    "nombre_tercero": "Leonid Enrique Baldovino Galvis",
+    "fecha_elaboracion": "2026-08-31",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 144.76190476190476,
+        "iva": 1809.5238095238096,
+        "iva_pct": 5,
+        "total": 38000
+      },
+      {
+        "sku": "RLAS",
+        "producto": "Regional Lavado SurOeste",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 144.76190476190476,
+        "iva": 1809.5238095238096,
+        "iva_pct": 5,
+        "total": 38000
+      },
+      {
+        "sku": "RLAA",
+        "producto": "Regional Lavado Andes",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 144.76190476190476,
+        "iva": 1809.5238095238096,
+        "iva_pct": 5,
+        "total": 38000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Otro",
+        "cantidad": 1,
+        "valor_unitario": 25800,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 25800
+      }
+    ],
+    "iva_total": 5428.571428571429,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 139800
+    },
+    "observaciones": "OJO con la guía. Paga Contraentrega. Escribir que el valor a cobrar son 139.800"
   }
 ]
