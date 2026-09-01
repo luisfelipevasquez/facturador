@@ -1502,5 +1502,21 @@
     "Teléfono móvil de contacto": "3147961817",
     "Estado": "Activo",
     "siigoId": "4a21255d-4400-4e3d-84ce-524fc6f94aec"
+  },
+  {
+    "Nombre tercero": "Daniela Quintero Quintero",
+    "Tipo de identificación": "13",
+    "Identificación": "1214742914",
+    "Dirección": "Transv 38AA # 59A-231 CR Puerto Alegre TO3 Apto 624",
+    "Ciudad": "Bello",
+    "Código departamento": "05",
+    "Código ciudad": "05088",
+    "Teléfono.": "3005173037",
+    "Correo electrónico": "danielaquinteroquintero98@gmail.com",
+    "Nombres contacto": "Daniela",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3005173037",
+    "Estado": "Activo",
+    "siigoId": "4a5782cf-77b6-49e0-b4c7-d785463e6885"
   }
 ]
