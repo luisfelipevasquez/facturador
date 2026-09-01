@@ -13424,5 +13424,41 @@
     "cufe": null,
     "siigoStatus": "Sincronizado",
     "siigoSyncedAt": "2026-09-01T04:08:06.301Z"
+  },
+  {
+    "consecutivo": 2736,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "675037",
+    "nombre_tercero": "Libis Barroeta",
+    "fecha_elaboracion": "2026-08-31",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "2500g",
+        "cantidad": 2500,
+        "valor_unitario": 80,
+        "iva": 10000,
+        "iva_pct": 5,
+        "total": 210000
+      },
+      {
+        "sku": "BRO",
+        "producto": "Bourbon Rosado",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      }
+    ],
+    "iva_total": 13619.047619047618,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 286000
+    },
+    "observaciones": "1,5kg en bolsa de 2.5 en grano\n500g molido prensa \n500g molido medio"
   }
 ]
