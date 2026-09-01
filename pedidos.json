@@ -6283,7 +6283,7 @@
     "tercero": "Libis Barroeta",
     "identificacion": "675037",
     "productos": "RLAC 2500g x2500, BRO 250g x250",
-    "domicilio": "",
+    "domicilio": "Local Mensajero",
     "total": 286000,
     "forma_pago": "T. Débito",
     "status": "En proceso",
@@ -6298,7 +6298,7 @@
       {
         "sku": "BRO",
         "presentacion": "250g",
-        "molienda": "molido medio"
+        "molienda": "molido fino"
       }
     ]
   },
@@ -6307,9 +6307,9 @@
     "fecha": "2026-08-31",
     "tercero": "Jesus Adolfo Gil Arango",
     "identificacion": "1018346262",
-    "productos": "RLAC 100g x100, BBO 100g x100, BNA 100g x100, BNA120 100g x100, BHO 100g x100, BRO 250g x250",
+    "productos": "RLAC 100g x100, BBO 100g x100, BNA 100g x100, BNA120 100g x100, BHO 100g x100, BRO 250g x250, CAMA Sachet x1",
     "domicilio": "Local Mensajero",
-    "total": 193000,
+    "total": 199000,
     "forma_pago": "T. Débito",
     "status": "En proceso",
     "client_type": "Nuevo",
@@ -6343,6 +6343,26 @@
       {
         "sku": "BRO",
         "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
+  },
+  {
+    "consecutivo": 2738,
+    "fecha": "2026-08-31",
+    "tercero": "Daniela Quintero Quintero",
+    "identificacion": "1214742914",
+    "productos": "CMA 100g x100",
+    "domicilio": "Local Mensajero",
+    "total": 37000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CMA",
+        "presentacion": "100g",
         "molienda": "grano"
       }
     ]
