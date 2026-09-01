@@ -1518,5 +1518,21 @@
     "Teléfono móvil de contacto": "3005173037",
     "Estado": "Activo",
     "siigoId": "4a5782cf-77b6-49e0-b4c7-d785463e6885"
+  },
+  {
+    "Nombre tercero": "Oscar luis Perez Alvarez",
+    "Tipo de identificación": "13",
+    "Identificación": "1063309757",
+    "Dirección": "Cra 13 # 13a-70 Av los estudiantes. Almacén el palacio del mueble",
+    "Ciudad": "Montelíbano",
+    "Código departamento": "23",
+    "Código ciudad": "23466",
+    "Teléfono.": "3242284926",
+    "Correo electrónico": "Oscar45470@gmail.com",
+    "Nombres contacto": "Oscar luis",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3242284926",
+    "Estado": "Activo",
+    "siigoId": "54b73cd6-e427-402b-bc5d-938d2f3507f0"
   }
 ]
