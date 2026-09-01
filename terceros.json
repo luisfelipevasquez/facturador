@@ -1486,5 +1486,21 @@
     "Teléfono móvil de contacto": "3105401893",
     "Estado": "Activo",
     "siigoId": "c585532f-17de-4f65-a3cf-91067a984874"
+  },
+  {
+    "Nombre tercero": "Jesus Adolfo Gil Arango",
+    "Tipo de identificación": "13",
+    "Identificación": "1018346262",
+    "Dirección": "Calle 76b # 88c-11 Urb las cometas Casa H-02. Robledo Villaflora",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3147961817",
+    "Correo electrónico": "adolfogil2913@gmail.com",
+    "Nombres contacto": "Jesus Adolfo",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3147961817",
+    "Estado": "Activo",
+    "siigoId": "4a21255d-4400-4e3d-84ce-524fc6f94aec"
   }
 ]
