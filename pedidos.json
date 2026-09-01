@@ -6366,5 +6366,35 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2739,
+    "fecha": "2026-09-01",
+    "tercero": "Oscar luis Perez Alvarez",
+    "identificacion": "1063309757",
+    "productos": "CHLA 100g x100, BHO 100g x100, PNA 100g x100",
+    "domicilio": "Nacional Transportadora",
+    "total": 98000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CHLA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "BHO",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "PNA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      }
+    ]
   }
 ]
