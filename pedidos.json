@@ -6301,5 +6301,50 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2737,
+    "fecha": "2026-08-31",
+    "tercero": "Jesus Adolfo Gil Arango",
+    "identificacion": "1018346262",
+    "productos": "RLAC 100g x100, BBO 100g x100, BNA 100g x100, BNA120 100g x100, BHO 100g x100, BRO 250g x250",
+    "domicilio": "Local Mensajero",
+    "total": 193000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAC",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BBO",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BNA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BNA120",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BRO",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
