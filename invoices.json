@@ -13441,8 +13441,7 @@
         "valor_unitario": 80,
         "iva": 10000,
         "iva_pct": 5,
-        "total": 210000,
-        "molienda": "grano"
+        "total": 210000
       },
       {
         "sku": "BRO",
@@ -13452,8 +13451,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "molido fino"
+        "total": 76000
       },
       {
         "sku": "DOM",
@@ -13491,8 +13489,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "grano"
+        "total": 17000
       },
       {
         "sku": "BBO",
@@ -13502,8 +13499,7 @@
         "valor_unitario": 247.61904761904762,
         "iva": 1238.0952380952383,
         "iva_pct": 5,
-        "total": 26000,
-        "molienda": "grano"
+        "total": 26000
       },
       {
         "sku": "BNA",
@@ -13513,8 +13509,7 @@
         "valor_unitario": 190.47619047619048,
         "iva": 952.3809523809525,
         "iva_pct": 5,
-        "total": 20000.000000000004,
-        "molienda": "grano"
+        "total": 20000.000000000004
       },
       {
         "sku": "BNA120",
@@ -13524,8 +13519,7 @@
         "valor_unitario": 190.47619047619048,
         "iva": 952.3809523809525,
         "iva_pct": 5,
-        "total": 20000.000000000004,
-        "molienda": "grano"
+        "total": 20000.000000000004
       },
       {
         "sku": "BHO",
@@ -13535,8 +13529,7 @@
         "valor_unitario": 190.47619047619048,
         "iva": 952.3809523809525,
         "iva_pct": 5,
-        "total": 20000.000000000004,
-        "molienda": "grano"
+        "total": 20000.000000000004
       },
       {
         "sku": "BRO",
@@ -13546,8 +13539,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       },
       {
         "sku": "DOM",
@@ -13574,6 +13566,42 @@
     "forma_pago": {
       "codigo": 3,
       "valor": 199000
+    },
+    "observaciones": ""
+  },
+  {
+    "consecutivo": 2738,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1214742914",
+    "nombre_tercero": "Daniela Quintero Quintero",
+    "fecha_elaboracion": "2026-08-31",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 1095.2380952380952,
+        "iva_pct": 5,
+        "total": 23000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 1095.2380952380952,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 37000
     },
     "observaciones": ""
   }
