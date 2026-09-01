@@ -13142,7 +13142,12 @@
       "codigo": 3,
       "valor": 112000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "ad685467-fcc6-4cb6-ba74-00425a59ae25",
+    "siigoNumber": "FV-2-2727",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-01T04:08:00.898Z"
   },
   {
     "consecutivo": 2719,
@@ -13178,7 +13183,12 @@
       "codigo": 3,
       "valor": 94000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "1858fccb-3de0-4172-8a16-c1108e2f0b49",
+    "siigoNumber": "FV-2-2728",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-01T04:08:01.614Z"
   },
   {
     "consecutivo": 2720,
@@ -13214,7 +13224,12 @@
       "codigo": 3,
       "valor": 72000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "52ae39dc-c7cc-486c-a2db-2adff84005f2",
+    "siigoNumber": "FV-2-2729",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-01T04:08:02.347Z"
   },
   {
     "consecutivo": 2721,
@@ -13250,7 +13265,12 @@
       "codigo": 3,
       "valor": 157000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "af060f57-cf5c-4e75-bf71-6511009a3a15",
+    "siigoNumber": "FV-2-2730",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-01T04:08:03.560Z"
   },
   {
     "consecutivo": 2722,
@@ -13286,7 +13306,12 @@
       "codigo": 3,
       "valor": 56000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "1dd6a753-e38b-4515-a577-58a2d678997d",
+    "siigoNumber": "FV-2-2731",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-01T04:08:04.585Z"
   },
   {
     "consecutivo": 2723,
@@ -13342,7 +13367,12 @@
       "codigo": 3,
       "valor": 139800
     },
-    "observaciones": "OJO con la guía. Paga Contraentrega. Escribir que el valor a cobrar son 139.800"
+    "observaciones": "OJO con la guía. Paga Contraentrega. Escribir que el valor a cobrar son 139.800",
+    "siigoId": "36944b8c-f362-470b-9f55-2f2b2d2f6035",
+    "siigoNumber": "FV-2-2732",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-01T04:08:05.321Z"
   },
   {
     "consecutivo": 2724,
@@ -13388,6 +13418,11 @@
       "codigo": 3,
       "valor": 134000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "e5494d42-c662-48a1-9210-cd8754bd4265",
+    "siigoNumber": "FV-2-2733",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-01T04:08:06.301Z"
   }
 ]
