@@ -13441,7 +13441,8 @@
         "valor_unitario": 80,
         "iva": 10000,
         "iva_pct": 5,
-        "total": 210000
+        "total": 210000,
+        "molienda": "grano"
       },
       {
         "sku": "BRO",
@@ -13451,7 +13452,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "molido medio"
       }
     ],
     "iva_total": 13619.047619047618,
@@ -13477,7 +13479,8 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000
+        "total": 17000,
+        "molienda": "grano"
       },
       {
         "sku": "BBO",
@@ -13487,7 +13490,8 @@
         "valor_unitario": 247.61904761904762,
         "iva": 1238.0952380952383,
         "iva_pct": 5,
-        "total": 26000
+        "total": 26000,
+        "molienda": "grano"
       },
       {
         "sku": "BNA",
@@ -13497,7 +13501,8 @@
         "valor_unitario": 190.47619047619048,
         "iva": 952.3809523809525,
         "iva_pct": 5,
-        "total": 20000.000000000004
+        "total": 20000.000000000004,
+        "molienda": "grano"
       },
       {
         "sku": "BNA120",
@@ -13507,7 +13512,8 @@
         "valor_unitario": 190.47619047619048,
         "iva": 952.3809523809525,
         "iva_pct": 5,
-        "total": 20000.000000000004
+        "total": 20000.000000000004,
+        "molienda": "grano"
       },
       {
         "sku": "BHO",
@@ -13517,7 +13523,8 @@
         "valor_unitario": 190.47619047619048,
         "iva": 952.3809523809525,
         "iva_pct": 5,
-        "total": 20000.000000000004
+        "total": 20000.000000000004,
+        "molienda": "grano"
       },
       {
         "sku": "BRO",
@@ -13527,7 +13534,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -13538,12 +13546,22 @@
         "iva": 0,
         "iva_pct": 0,
         "total": 14000
+      },
+      {
+        "sku": "CAMA",
+        "producto": "Cáscara de Maragogype",
+        "presentacion": "Sachet",
+        "cantidad": 1,
+        "valor_unitario": 6000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 6000
       }
     ],
     "iva_total": 8523.809523809523,
     "forma_pago": {
       "codigo": 3,
-      "valor": 193000
+      "valor": 199000
     },
     "observaciones": ""
   }
