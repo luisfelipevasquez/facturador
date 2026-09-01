@@ -13454,6 +13454,18 @@
         "iva_pct": 5,
         "total": 76000,
         "molienda": "molido medio"
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 14000
       }
     ],
     "iva_total": 13619.047619047618,
@@ -13461,7 +13473,7 @@
       "codigo": 3,
       "valor": 286000
     },
-    "observaciones": "1,5kg en bolsa de 2.5 en grano\n500g molido prensa \n500g molido medio"
+    "observaciones": "1,5kg en bolsa de 2.5 en grano500g molido prensa 500g molido medio"
   },
   {
     "consecutivo": 2737,
