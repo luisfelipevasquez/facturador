@@ -1,5 +1,37 @@
 [
   {
+    "order_id": 8750,
+    "consecutivo": "8750",
+    "fecha": "2026-09-01",
+    "tercero": "Edwin Naranjo",
+    "identificacion": "1090418121",
+    "productos": "BHO Honey 56 Horas x1",
+    "domicilio": "Envío Nacional (3 - 5 días hábiles)",
+    "total": 90000,
+    "forma_pago": "Wompi",
+    "woo_status": "processing",
+    "status": "En proceso",
+    "manual": false,
+    "client_type": "Antiguo",
+    "observaciones": ""
+  },
+  {
+    "order_id": 8749,
+    "consecutivo": "8749",
+    "fecha": "2026-09-01",
+    "tercero": "Jairo Acevedo",
+    "identificacion": "7165104",
+    "productos": "RLAA Regional Lavado Frutos Verdes x1, PANA Papayo Natural x1, BBO Blend Bourbon x1, RLAS Regional Lavado Frutos Amarillos x1, CHLA Chiroso Lavado x1",
+    "domicilio": "Envío gratuito",
+    "total": 371000,
+    "forma_pago": "Wompi",
+    "woo_status": "processing",
+    "status": "En proceso",
+    "manual": false,
+    "client_type": null,
+    "observaciones": ""
+  },
+  {
     "order_id": 8748,
     "consecutivo": "8748",
     "fecha": "2026-08-31",
