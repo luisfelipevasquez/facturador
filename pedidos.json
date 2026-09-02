@@ -6560,54 +6560,19 @@
   {
     "consecutivo": 2746,
     "fecha": "2026-09-02",
-    "tercero": "Valentin Travaglia",
-    "identificacion": "32288198",
-    "productos": "BHO 100g x100, BHO72 100g x100, BHO120 100g x100, BNA 100g x100, BNA120 100g x100, CMA 250g x250, PANA 250g x250, CGA 100g x100",
-    "domicilio": "Local Mensajero",
-    "total": 246000,
+    "tercero": "Nicolas Veintimilla Marentes",
+    "identificacion": "1130744379",
+    "productos": "CHLA 250g x250",
+    "domicilio": "Otro",
+    "total": 14000,
     "forma_pago": "T. Débito",
     "status": "Completado",
     "client_type": "Nuevo",
     "recoge": "No",
     "items_molienda": [
       {
-        "sku": "BHO",
-        "presentacion": "100g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "BHO72",
-        "presentacion": "100g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "BHO120",
-        "presentacion": "100g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "BNA",
-        "presentacion": "100g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "BNA120",
-        "presentacion": "100g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "CMA",
+        "sku": "CHLA",
         "presentacion": "250g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "PANA",
-        "presentacion": "250g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "CGA",
-        "presentacion": "100g",
         "molienda": "grano"
       }
     ]
