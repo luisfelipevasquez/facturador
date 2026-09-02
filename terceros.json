@@ -1534,5 +1534,21 @@
     "Teléfono móvil de contacto": "3242284926",
     "Estado": "Activo",
     "siigoId": "54b73cd6-e427-402b-bc5d-938d2f3507f0"
+  },
+  {
+    "Nombre tercero": "Valentina Jaramillo Madera",
+    "Tipo de identificación": "13",
+    "Identificación": "1025885875",
+    "Dirección": "Calle 42sur #65a-179 Urb Campiñas cerradas de san Antonio de prado",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3046174342",
+    "Correo electrónico": "valejaramillo66@gmail.com",
+    "Nombres contacto": "Valentina",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3046174342",
+    "Estado": "Activo",
+    "siigoId": "f2e8aeb4-2ac1-4465-94e0-b5ec2aa8bcd4"
   }
 ]
