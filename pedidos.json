@@ -6521,5 +6521,40 @@
         "molienda": "molido grueso"
       }
     ]
+  },
+  {
+    "consecutivo": 2745,
+    "fecha": "2026-09-02",
+    "tercero": "Edwin Rodrigo Romero Pardo",
+    "identificacion": "1013581495",
+    "productos": "BRO 100g x100, BBO 100g x100, RLAC 100g x100, RLAA 100g x100",
+    "domicilio": "Nacional Transportadora",
+    "total": 116000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BRO",
+        "presentacion": "100g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "BBO",
+        "presentacion": "100g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "RLAC",
+        "presentacion": "100g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "RLAA",
+        "presentacion": "100g",
+        "molienda": "molido grueso"
+      }
+    ]
   }
 ]
