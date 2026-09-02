@@ -1550,5 +1550,21 @@
     "Teléfono móvil de contacto": "3046174342",
     "Estado": "Activo",
     "siigoId": "f2e8aeb4-2ac1-4465-94e0-b5ec2aa8bcd4"
+  },
+  {
+    "Nombre tercero": "Luz Myriam Polania",
+    "Tipo de identificación": "13",
+    "Identificación": "23497107",
+    "Dirección": "Av 32 Diag 49a-135 Ceiba del Norte  TO3 Apto416 Entrada via Machado",
+    "Ciudad": "Bello",
+    "Código departamento": "05",
+    "Código ciudad": "05088",
+    "Teléfono.": "3008233434",
+    "Correo electrónico": "luz.polania107@casur.gov.co",
+    "Nombres contacto": "Luz",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3008233434",
+    "Estado": "Activo",
+    "siigoId": "b02e3375-5425-43b1-86e6-a123ecf271df"
   }
 ]
