@@ -6501,5 +6501,25 @@
         "molienda": "molido fino"
       }
     ]
+  },
+  {
+    "consecutivo": 2744,
+    "fecha": "2026-09-02",
+    "tercero": "Sebastian Rojo Londoño",
+    "identificacion": "1020469065",
+    "productos": "BHO72 250g x250",
+    "domicilio": "",
+    "total": 42000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BHO72",
+        "presentacion": "250g",
+        "molienda": "molido grueso"
+      }
+    ]
   }
 ]
