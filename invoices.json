@@ -13660,5 +13660,41 @@
       "valor": 98000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2740,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1025885875",
+    "nombre_tercero": "Valentina Jaramillo Madera",
+    "fecha_elaboracion": "2026-09-01",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 1095.2380952380952,
+        "iva_pct": 5,
+        "total": 23000
+      },
+      {
+        "sku": "RLAS",
+        "producto": "Regional Lavado SurOeste",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 161.9047619047619,
+        "iva": 809.5238095238095,
+        "iva_pct": 5,
+        "total": 17000
+      }
+    ],
+    "iva_total": 1904.7619047619046,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 40000
+    },
+    "observaciones": ""
   }
 ]
