@@ -13812,5 +13812,41 @@
       "valor": 134000
     },
     "observaciones": "Redime 250g honey72 grano"
+  },
+  {
+    "consecutivo": 2743,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "23497107",
+    "nombre_tercero": "Luz Myriam Polania",
+    "fecha_elaboracion": "2026-09-02",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 161.9047619047619,
+        "iva": 809.5238095238095,
+        "iva_pct": 5,
+        "total": 17000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 809.5238095238095,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 31000
+    },
+    "observaciones": "Molido moka"
   }
 ]
