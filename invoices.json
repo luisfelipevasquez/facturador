@@ -13940,5 +13940,43 @@
       "valor": 116000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2746,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1130744379",
+    "nombre_tercero": "Nicolas Veintimilla Marentes",
+    "fecha_elaboracion": "2026-09-02",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CHLA",
+        "producto": "Chiroso Lavado",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 190.47619047619048,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 47619.04761904762
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Otro",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 0,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 14000
+    },
+    "observaciones": "Se envía premio fidelización que no se envió con el pedido. Paga envío BCC"
   }
 ]
