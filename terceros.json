@@ -1566,5 +1566,21 @@
     "Teléfono móvil de contacto": "3008233434",
     "Estado": "Activo",
     "siigoId": "b02e3375-5425-43b1-86e6-a123ecf271df"
+  },
+  {
+    "Nombre tercero": "Edwin Rodrigo Romero Pardo",
+    "Tipo de identificación": "13",
+    "Identificación": "1013581495",
+    "Dirección": "Calle 17 sur 27-45 Aptos Segovia Torre 1 Apto 805",
+    "Ciudad": "Bogotá D.C.",
+    "Código departamento": "11",
+    "Código ciudad": "11001",
+    "Teléfono.": "3017885654",
+    "Correo electrónico": "edwin-romero2011@hotmail.com",
+    "Nombres contacto": "Edwin Rodrigo",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3017885654",
+    "Estado": "Activo",
+    "siigoId": "7717fa1b-0c55-428b-a54c-47715c0121d5"
   }
 ]
