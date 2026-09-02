@@ -13848,5 +13848,31 @@
       "valor": 31000
     },
     "observaciones": "Molido moka"
+  },
+  {
+    "consecutivo": 2744,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1020469065",
+    "nombre_tercero": "Sebastian Rojo Londoño",
+    "fecha_elaboracion": "2026-09-02",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO72",
+        "producto": "Blend Honey72h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      }
+    ],
+    "iva_total": 2000,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 42000
+    },
+    "observaciones": "Recoge"
   }
 ]
