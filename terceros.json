@@ -1582,5 +1582,21 @@
     "Teléfono móvil de contacto": "3017885654",
     "Estado": "Activo",
     "siigoId": "7717fa1b-0c55-428b-a54c-47715c0121d5"
+  },
+  {
+    "Nombre tercero": "Valentin Travaglia",
+    "Tipo de identificación": "13",
+    "Identificación": "32288198",
+    "Dirección": "Calle 10A NO 34-11 Hotel Diez",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "93517653060",
+    "Correo electrónico": "vtravaglia8@gmail.com",
+    "Nombres contacto": "Valentin",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "93517653060",
+    "Estado": "Activo",
+    "siigoId": "816a06b3-4403-4894-b099-ebffbb61a6e2"
   }
 ]
