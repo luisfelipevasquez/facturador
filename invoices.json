@@ -14004,5 +14004,51 @@
       "valor": 51999.99999999999
     },
     "observaciones": "Mauricio. Se envía con el pedido de Provana"
+  },
+  {
+    "consecutivo": 2748,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1102859581",
+    "nombre_tercero": "Berledis Solar López",
+    "fecha_elaboracion": "2026-09-03",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 190.47619047619048,
+        "iva": 3238.0952380952385,
+        "iva_pct": 5,
+        "total": 68000
+      },
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 271.7086834733894,
+        "iva": 4619.04761904762,
+        "iva_pct": 5,
+        "total": 97000.00000000001
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 7857.142857142859,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 183000
+    },
+    "observaciones": ""
   }
 ]
