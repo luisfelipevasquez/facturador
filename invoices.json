@@ -13978,5 +13978,31 @@
       "valor": 14000
     },
     "observaciones": "Se envía premio fidelización que no se envió con el pedido. Paga envío BCC"
+  },
+  {
+    "consecutivo": 2747,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "222222222222",
+    "nombre_tercero": "Consumidor Final",
+    "fecha_elaboracion": "2026-09-03",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      }
+    ],
+    "iva_total": 2476.190476190476,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 51999.99999999999
+    },
+    "observaciones": "Mauricio. Se envía con el pedido de Provana"
   }
 ]
