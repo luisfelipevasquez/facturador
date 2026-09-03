@@ -14050,5 +14050,41 @@
       "valor": 183000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2749,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1039460500",
+    "nombre_tercero": "Sara Muriel Pérez",
+    "fecha_elaboracion": "2026-09-03",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BNA",
+        "producto": "Blend Natural 56h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      },
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 161.9047619047619,
+        "iva": 809.5238095238095,
+        "iva_pct": 5,
+        "total": 17000
+      }
+    ],
+    "iva_total": 2809.5238095238096,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 59000
+    },
+    "observaciones": ""
   }
 ]
