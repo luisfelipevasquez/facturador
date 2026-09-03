@@ -1598,5 +1598,21 @@
     "Teléfono móvil de contacto": "93517653060",
     "Estado": "Activo",
     "siigoId": "816a06b3-4403-4894-b099-ebffbb61a6e2"
+  },
+  {
+    "Nombre tercero": "Sara Muriel Pérez",
+    "Tipo de identificación": "13",
+    "Identificación": "1039460500",
+    "Dirección": "Cra 83a # 37b-17 Simón Bolívar",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3218912709",
+    "Correo electrónico": "saramurielp@gmail.com",
+    "Nombres contacto": "Sara",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3218912709",
+    "Estado": "Activo",
+    "siigoId": "0fc58d35-9720-487a-b71e-88972a519190"
   }
 ]
