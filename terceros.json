@@ -1614,5 +1614,21 @@
     "Teléfono móvil de contacto": "3218912709",
     "Estado": "Activo",
     "siigoId": "0fc58d35-9720-487a-b71e-88972a519190"
+  },
+  {
+    "Nombre tercero": "Jairo Poveda",
+    "Tipo de identificación": "13",
+    "Identificación": "79704470",
+    "Dirección": "Cra 72#80A-43 apartamento 1002",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3159990634",
+    "Correo electrónico": "orionjf@gmail.com",
+    "Nombres contacto": "Jairo",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3159990634",
+    "Estado": "Activo",
+    "siigoId": "5f40f8f6-13f0-4a6e-a74e-83a66df56164"
   }
 ]
