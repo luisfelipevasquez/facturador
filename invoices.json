@@ -13995,7 +13995,8 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999
+        "total": 51999.99999999999,
+        "molienda": "grano"
       }
     ],
     "iva_total": 2476.190476190476,
@@ -14021,7 +14022,8 @@
         "valor_unitario": 190.47619047619048,
         "iva": 3238.0952380952385,
         "iva_pct": 5,
-        "total": 68000
+        "total": 68000,
+        "molienda": "grano"
       },
       {
         "sku": "PANA",
@@ -14031,7 +14033,8 @@
         "valor_unitario": 271.7086834733894,
         "iva": 4619.04761904762,
         "iva_pct": 5,
-        "total": 97000.00000000001
+        "total": 97000.00000000001,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -14067,7 +14070,8 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000
+        "total": 42000,
+        "molienda": "molido fino"
       },
       {
         "sku": "RLAC",
@@ -14077,7 +14081,8 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000
+        "total": 17000,
+        "molienda": "molido fino"
       }
     ],
     "iva_total": 2809.5238095238096,
@@ -14103,7 +14108,8 @@
         "valor_unitario": 271.7086834733894,
         "iva": 4619.04761904762,
         "iva_pct": 5,
-        "total": 97000.00000000001
+        "total": 97000.00000000001,
+        "molienda": "grano"
       }
     ],
     "iva_total": 4619.04761904762,
@@ -14111,6 +14117,6 @@
       "codigo": 3,
       "valor": 97000.00000000001
     },
-    "observaciones": ""
+    "observaciones": "Lo lleva felipe Hptu"
   }
 ]
