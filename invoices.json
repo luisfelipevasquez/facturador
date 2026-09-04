@@ -14110,12 +14110,22 @@
         "iva_pct": 5,
         "total": 97000.00000000001,
         "molienda": "grano"
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
       }
     ],
     "iva_total": 4619.04761904762,
     "forma_pago": {
       "codigo": 3,
-      "valor": 97000.00000000001
+      "valor": 111000.00000000001
     },
     "observaciones": "Lo lleva felipe Hptu"
   }
