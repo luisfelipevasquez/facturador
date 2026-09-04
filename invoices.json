@@ -14282,5 +14282,31 @@
       "valor": 71000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2754,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1017281058",
+    "nombre_tercero": "Alicia Fonseca",
+    "fecha_elaboracion": "2026-09-04",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "GELA",
+        "producto": "Gesha Lavado",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      }
+    ],
+    "iva_total": 1809.5238095238092,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 37999.99999999999
+    },
+    "observaciones": ""
   }
 ]
