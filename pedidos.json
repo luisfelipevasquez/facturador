@@ -6646,5 +6646,25 @@
         "molienda": "molido fino"
       }
     ]
+  },
+  {
+    "consecutivo": 2750,
+    "fecha": "2026-09-04",
+    "tercero": "Jairo Poveda",
+    "identificacion": "79704470",
+    "productos": "GELA 340g x340",
+    "domicilio": "",
+    "total": 97000.00000000001,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "GELA",
+        "presentacion": "340g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
