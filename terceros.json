@@ -1630,5 +1630,21 @@
     "Teléfono móvil de contacto": "3159990634",
     "Estado": "Activo",
     "siigoId": "5f40f8f6-13f0-4a6e-a74e-83a66df56164"
+  },
+  {
+    "Nombre tercero": "Alicia Fonseca",
+    "Tipo de identificación": "13",
+    "Identificación": "1017281058",
+    "Dirección": "Calle 54 # 86c-66 Edificio Marsella Calasanz",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3236556410",
+    "Correo electrónico": "alicia-y-pablo@live.com",
+    "Nombres contacto": "Alicia",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3236556410",
+    "Estado": "Activo",
+    "siigoId": "2c34176e-ca1c-4c17-b37a-d6454fa642a0"
   }
 ]
