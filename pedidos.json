@@ -6776,5 +6776,30 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2755,
+    "fecha": "2026-09-04",
+    "tercero": "Pedro Sánchez Londoño",
+    "identificacion": "91540495",
+    "productos": "RLAC 2500g x2500, CGA 500g x500",
+    "domicilio": "Nacional Transportadora",
+    "total": 299000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAC",
+        "presentacion": "2500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
