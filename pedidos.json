@@ -6696,5 +6696,45 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2752,
+    "fecha": "2026-09-04",
+    "tercero": "Daniel Henao Perez",
+    "identificacion": "1035433241",
+    "productos": "CMA 250g x250, BNA 250g x250, BHO120 250g x250, BHO72 340g x340, RLAA 340g x340",
+    "domicilio": "",
+    "total": 184000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CMA",
+        "presentacion": "250g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "BNA",
+        "presentacion": "250g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "BHO120",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO72",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAA",
+        "presentacion": "340g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
