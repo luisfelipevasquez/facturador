@@ -197,5 +197,55 @@
       "customer_overrode_address": true
     },
     "actualizado": "2026-07-23T01:39:04.360Z"
+  },
+  {
+    "id": "SOL-1788523970901-ti0ty",
+    "estado": "pendiente",
+    "creado": "2026-09-04T12:12:50.901Z",
+    "cliente": {
+      "nombre": "Jairo Poveda",
+      "tipo_documento": "13",
+      "documento": "79704470",
+      "email": "orionjf@gmail.com",
+      "celular": "3159990634",
+      "ciudad": "Medellín",
+      "direccion": "Cra 72#80A-43 apartamento 1002",
+      "observaciones": ""
+    },
+    "productos": [
+      {
+        "sku": "GELA",
+        "nombre": "Gesha Lavado",
+        "presentacion": "340g",
+        "molienda": "grano",
+        "cantidad": 1,
+        "precio": 97000
+      },
+      {
+        "sku": "DOM",
+        "nombre": "Domicilio",
+        "presentacion": "Envío AM por Transportadora",
+        "molienda": "",
+        "cantidad": 1,
+        "precio": 10000
+      }
+    ],
+    "total_estimado": 107000,
+    "siigo_customer_found": false,
+    "siigo_customer_id": "",
+    "envio": {
+      "registered_address": "Cra 72#80A-43 apartamento 1002",
+      "shipping_address_same_as_registered": true,
+      "shipping_address": "Cra 72#80A-43 apartamento 1002",
+      "customer_overrode_address": false,
+      "shipping_method": "Envío Área Metropolitana por Transportadora",
+      "shipping_base_cost": 10000,
+      "shipping_cost": 10000,
+      "free_shipping": false,
+      "shipping_departamento": "Antioquia",
+      "shipping_ciudad": "Medellín",
+      "cod_dpto_envio": "05",
+      "cod_ciudad_envio": "05001"
+    }
   }
 ]
