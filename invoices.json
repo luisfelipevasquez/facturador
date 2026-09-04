@@ -14308,5 +14308,53 @@
       "valor": 37999.99999999999
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2755,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "91540495",
+    "nombre_tercero": "Pedro Sánchez Londoño",
+    "fecha_elaboracion": "2026-09-04",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "2500g",
+        "cantidad": 2500,
+        "valor_unitario": 80,
+        "iva": 10000,
+        "iva_pct": 5,
+        "total": 210000
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 18000
+      }
+    ],
+    "iva_total": 14238.095238095239,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 299000
+    },
+    "observaciones": ""
   }
 ]
