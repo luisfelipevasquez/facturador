@@ -14246,5 +14246,41 @@
       "valor": 184000
     },
     "observaciones": "Redime 250g maracuyá. No enviar tarjeta solo enviar stickers"
+  },
+  {
+    "consecutivo": 2753,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1104937239",
+    "nombre_tercero": "Juan Pablo Torres Arias",
+    "fecha_elaboracion": "2026-09-04",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BNA",
+        "producto": "Blend Natural 56h",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 148.45938375350138,
+        "iva": 2523.809523809524,
+        "iva_pct": 5,
+        "total": 53000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 2523.809523809524,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 71000
+    },
+    "observaciones": ""
   }
 ]
