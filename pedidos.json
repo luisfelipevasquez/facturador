@@ -6653,8 +6653,8 @@
     "tercero": "Jairo Poveda",
     "identificacion": "79704470",
     "productos": "GELA 340g x340",
-    "domicilio": "",
-    "total": 97000.00000000001,
+    "domicilio": "Local Mensajero",
+    "total": 111000.00000000001,
     "forma_pago": "T. Débito",
     "status": "En proceso",
     "client_type": "Nuevo",
@@ -6664,6 +6664,36 @@
         "sku": "GELA",
         "presentacion": "340g",
         "molienda": "grano"
+      }
+    ]
+  },
+  {
+    "consecutivo": 2751,
+    "fecha": "2026-09-04",
+    "tercero": "Jean Herrera",
+    "identificacion": "1152455579",
+    "productos": "RLAC 500g x500, RLAC 500g x500, RLAC 250g x250",
+    "domicilio": "Local Mensajero",
+    "total": 168000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAC",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAC",
+        "presentacion": "500g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "RLAC",
+        "presentacion": "250g",
+        "molienda": "molido medio"
       }
     ]
   }
