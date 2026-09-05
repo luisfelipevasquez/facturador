@@ -1646,5 +1646,21 @@
     "Teléfono móvil de contacto": "3236556410",
     "Estado": "Activo",
     "siigoId": "2c34176e-ca1c-4c17-b37a-d6454fa642a0"
+  },
+  {
+    "Nombre tercero": "Cristian Bedoya Muñoz",
+    "Tipo de identificación": "13",
+    "Identificación": "1039461652",
+    "Dirección": "Calle 75 sur #57-22. Unidad Costa Azul La Estrella",
+    "Ciudad": "La Estrella",
+    "Código departamento": "05",
+    "Código ciudad": "05380",
+    "Teléfono.": "3042656732",
+    "Correo electrónico": "juridicabedoya@gmail.com",
+    "Nombres contacto": "Cristian",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3042656732",
+    "Estado": "Activo",
+    "siigoId": "806d2888-ee4f-4bb3-a2e5-8d3e802f22bc"
   }
 ]
