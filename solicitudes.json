@@ -200,7 +200,7 @@
   },
   {
     "id": "SOL-1788523970901-ti0ty",
-    "estado": "pendiente",
+    "estado": "completado",
     "creado": "2026-09-04T12:12:50.901Z",
     "cliente": {
       "nombre": "Jairo Poveda",
@@ -252,6 +252,7 @@
       "status": "sent",
       "wamid": "wamid.HBgMNTczMTU5OTkwNjM0FQIAERgSOTI1MjA0RUQ2REJENDUzQjAxAA==",
       "to": "573159990634"
-    }
+    },
+    "actualizado": "2026-09-05T17:45:18.667Z"
   }
 ]
