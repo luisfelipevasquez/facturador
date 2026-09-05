@@ -1678,5 +1678,21 @@
     "Teléfono móvil de contacto": "3022602217",
     "Estado": "Activo",
     "siigoId": "a70f72c2-6bf2-44a5-ad41-e10208e733c1"
+  },
+  {
+    "Nombre tercero": "Juan Sebastián Vega Delgado",
+    "Tipo de identificación": "13",
+    "Identificación": "1098791866",
+    "Dirección": "Cra41#32-99 alvarez piso1 Casa",
+    "Ciudad": "Bucaramanga",
+    "Código departamento": "68",
+    "Código ciudad": "68001",
+    "Teléfono.": "3222202516",
+    "Correo electrónico": "www.jsvd@gmail.com",
+    "Nombres contacto": "Juan Sebastián",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3222202516",
+    "Estado": "Activo",
+    "siigoId": "f6edd50d-57d3-4731-9f25-d9e639169b46"
   }
 ]
