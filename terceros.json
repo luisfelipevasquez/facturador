@@ -1662,5 +1662,21 @@
     "Teléfono móvil de contacto": "3042656732",
     "Estado": "Activo",
     "siigoId": "806d2888-ee4f-4bb3-a2e5-8d3e802f22bc"
+  },
+  {
+    "Nombre tercero": "Daniel Vélez Restrepo",
+    "Tipo de identificación": "13",
+    "Identificación": "1128469069",
+    "Dirección": "tv 5 a 45 163 ed patio bonito",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3022602217",
+    "Correo electrónico": "danielvelezre@gmail.com",
+    "Nombres contacto": "Daniel",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3022602217",
+    "Estado": "Activo",
+    "siigoId": "a70f72c2-6bf2-44a5-ad41-e10208e733c1"
   }
 ]
