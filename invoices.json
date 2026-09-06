@@ -14453,7 +14453,8 @@
         "valor_unitario": 131.65266106442579,
         "iva": 2238.0952380952385,
         "iva_pct": 5,
-        "total": 47000.00000000001
+        "total": 47000.00000000001,
+        "molienda": "molido grueso"
       },
       {
         "sku": "BNA",
@@ -14463,7 +14464,8 @@
         "valor_unitario": 148.45938375350138,
         "iva": 2523.809523809524,
         "iva_pct": 5,
-        "total": 53000
+        "total": 53000,
+        "molienda": "molido grueso"
       },
       {
         "sku": "BHO72",
@@ -14473,7 +14475,8 @@
         "valor_unitario": 148.45938375350138,
         "iva": 2523.809523809524,
         "iva_pct": 5,
-        "total": 53000
+        "total": 53000,
+        "molienda": "molido grueso"
       },
       {
         "sku": "DOM",
