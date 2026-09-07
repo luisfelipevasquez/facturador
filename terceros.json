@@ -1694,5 +1694,21 @@
     "Teléfono móvil de contacto": "3222202516",
     "Estado": "Activo",
     "siigoId": "f6edd50d-57d3-4731-9f25-d9e639169b46"
+  },
+  {
+    "Nombre tercero": "Julian Duque Morales",
+    "Tipo de identificación": "13",
+    "Identificación": "79545641",
+    "Dirección": "Calle 31 sur # 45a-03. CR Luna verde Casa 169",
+    "Ciudad": "Envigado",
+    "Código departamento": "05",
+    "Código ciudad": "05266",
+    "Teléfono.": "3015790894",
+    "Correo electrónico": "julianduque20@hotmail.com",
+    "Nombres contacto": "Julian",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3015790894",
+    "Estado": "Activo",
+    "siigoId": "073dd6d4-d33b-4dc2-84d1-fcfb9880d0b9"
   }
 ]
