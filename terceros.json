@@ -1710,5 +1710,21 @@
     "Teléfono móvil de contacto": "3015790894",
     "Estado": "Activo",
     "siigoId": "073dd6d4-d33b-4dc2-84d1-fcfb9880d0b9"
+  },
+  {
+    "Nombre tercero": "Rosa Elvira Quiroga",
+    "Tipo de identificación": "13",
+    "Identificación": "41378138",
+    "Dirección": "Cra 53 #123A - 24 APTO 504 Ed. Majestic",
+    "Ciudad": "Bogotá D.C.",
+    "Código departamento": "11",
+    "Código ciudad": "11001",
+    "Teléfono.": "3142062933",
+    "Correo electrónico": "elviraquiroga45@gmail.com",
+    "Nombres contacto": "Rosa",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3142062933",
+    "Estado": "Activo",
+    "siigoId": "1a9a5936-5173-4fe6-a1f7-b01344484e1e"
   }
 ]
