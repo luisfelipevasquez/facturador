@@ -6946,7 +6946,7 @@
     "domicilio": "Nacional Transportadora",
     "total": 267000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Nuevo",
     "recoge": "No",
     "items_molienda": [
@@ -7020,7 +7020,7 @@
   {
     "consecutivo": 2762,
     "fecha": "2026-09-07",
-    "tercero": "79545641",
+    "tercero": "Julian Duque Morales",
     "identificacion": "79545641",
     "productos": "RLAS 2500g x2500",
     "domicilio": "",
