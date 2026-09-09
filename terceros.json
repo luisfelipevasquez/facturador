@@ -1742,5 +1742,21 @@
     "Teléfono móvil de contacto": "3012680493",
     "Estado": "Activo",
     "siigoId": "2c481ac4-c0e2-4c6c-a6b1-b2076ac600ff"
+  },
+  {
+    "Nombre tercero": "Daniel Vallejo Uran",
+    "Tipo de identificación": "13",
+    "Identificación": "1039463451",
+    "Dirección": "Calle 5a # 39-194 Torre Concasa o Diners Club",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3164095153",
+    "Correo electrónico": "vallejo040@hotmail.com",
+    "Nombres contacto": "Daniel",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3164095153",
+    "Estado": "Activo",
+    "siigoId": "7b3d02d5-9519-4c1f-ba46-98d9e2028ba2"
   }
 ]
