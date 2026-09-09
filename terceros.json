@@ -1726,5 +1726,21 @@
     "Teléfono móvil de contacto": "3142062933",
     "Estado": "Activo",
     "siigoId": "1a9a5936-5173-4fe6-a1f7-b01344484e1e"
+  },
+  {
+    "Nombre tercero": "Nelson Bedoya",
+    "Tipo de identificación": "13",
+    "Identificación": "1129570696",
+    "Dirección": "Calle 45 # 5b-45 Barrio Buenos Aires",
+    "Ciudad": "Barranquilla",
+    "Código departamento": "08",
+    "Código ciudad": "08001",
+    "Teléfono.": "3012680493",
+    "Correo electrónico": "Nelsonbedoyatamara@gmail.com",
+    "Nombres contacto": "Nelson",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3012680493",
+    "Estado": "Activo",
+    "siigoId": "2c481ac4-c0e2-4c6c-a6b1-b2076ac600ff"
   }
 ]
