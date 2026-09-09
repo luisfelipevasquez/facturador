@@ -14929,7 +14929,8 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000
+        "total": 72000,
+        "molienda": "molido grueso"
       },
       {
         "sku": "BBO",
@@ -14939,7 +14940,8 @@
         "valor_unitario": 220.95238095238093,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "molido grueso"
       },
       {
         "sku": "DOM",
@@ -14975,7 +14977,8 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000
+        "total": 42000,
+        "molienda": "molido medio"
       },
       {
         "sku": "RLAC",
@@ -14985,7 +14988,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "molido medio"
       },
       {
         "sku": "DOM",
@@ -15003,6 +15007,6 @@
       "codigo": 3,
       "valor": 125600
     },
-    "observaciones": ""
+    "observaciones": "Ojo: Pago contraentrega"
   }
 ]
