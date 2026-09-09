@@ -14929,8 +14929,7 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000,
-        "molienda": "molido grueso"
+        "total": 72000
       },
       {
         "sku": "BBO",
@@ -14940,8 +14939,7 @@
         "valor_unitario": 220.95238095238093,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "molido grueso"
+        "total": 58000
       },
       {
         "sku": "DOM",
@@ -14977,8 +14975,7 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000,
-        "molienda": "molido medio"
+        "total": 42000
       },
       {
         "sku": "RLAC",
@@ -14988,8 +14985,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "molido medio"
+        "total": 58000
       },
       {
         "sku": "DOM",
@@ -15008,5 +15004,53 @@
       "valor": 125600
     },
     "observaciones": "Ojo: Pago contraentrega"
+  },
+  {
+    "consecutivo": 2767,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "72269071",
+    "nombre_tercero": "Edwin Sarmiento",
+    "fecha_elaboracion": "2026-09-08",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAS",
+        "producto": "Regional Lavado SurOeste",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 1858.7619047619046,
+        "iva_pct": 5,
+        "total": 39034,
+        "descuento_pct": 32.7,
+        "descuento_valor": 18062.85714285714
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 4620.666666666666,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 115034
+    },
+    "observaciones": "Redime 50% regional lavado fidelización"
   }
 ]
