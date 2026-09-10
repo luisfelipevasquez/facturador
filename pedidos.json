@@ -7276,5 +7276,25 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2773,
+    "fecha": "2026-09-10",
+    "tercero": "Santiago Díaz Ponte",
+    "identificacion": "605965",
+    "productos": "BHO72 250g x250",
+    "domicilio": "Nacional Transportadora",
+    "total": 60000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BHO72",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
