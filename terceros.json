@@ -1790,5 +1790,21 @@
     "Teléfono móvil de contacto": "3229450610",
     "Estado": "Activo",
     "siigoId": "05f312e9-58d7-4753-ba5c-821fe3bd8290"
+  },
+  {
+    "Nombre tercero": "Santiago Díaz Ponte",
+    "Tipo de identificación": "13",
+    "Identificación": "605965",
+    "Dirección": "Calle 126 # 48-48 Balcone del batán Apto 303",
+    "Ciudad": "Bogotá D.C.",
+    "Código departamento": "11",
+    "Código ciudad": "11001",
+    "Teléfono.": "3227051269",
+    "Correo electrónico": "Santiagodiazponte@gmail.com",
+    "Nombres contacto": "Santiago",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3227051269",
+    "Estado": "Activo",
+    "siigoId": "ba3bea53-cb11-4aa7-8abc-c2567589c1db"
   }
 ]
