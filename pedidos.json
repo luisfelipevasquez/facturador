@@ -7256,5 +7256,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2772,
+    "fecha": "2026-09-10",
+    "tercero": "Diego Alexander Giraldo Serrano",
+    "identificacion": "1018490075",
+    "productos": "RLAC 500g x500",
+    "domicilio": "Local Transportadora",
+    "total": 68000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAC",
+        "presentacion": "500g",
+        "molienda": "molido medio"
+      }
+    ]
   }
 ]
