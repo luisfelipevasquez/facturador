@@ -1758,5 +1758,21 @@
     "Teléfono móvil de contacto": "3164095153",
     "Estado": "Activo",
     "siigoId": "7b3d02d5-9519-4c1f-ba46-98d9e2028ba2"
+  },
+  {
+    "Nombre tercero": "Jairo Alonso Rodríguez",
+    "Tipo de identificación": "13",
+    "Identificación": "1082898987",
+    "Dirección": "Calle 11 # 14-38",
+    "Ciudad": "Santa Marta",
+    "Código departamento": "47",
+    "Código ciudad": "47001",
+    "Teléfono.": "3004809258",
+    "Correo electrónico": "Jairoalonsorg@gmail.com",
+    "Nombres contacto": "Jairo",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3004809258",
+    "Estado": "Activo",
+    "siigoId": "4cdba800-1b74-41a7-b298-715a7d46d8d1"
   }
 ]
