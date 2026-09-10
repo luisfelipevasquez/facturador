@@ -1774,5 +1774,21 @@
     "Teléfono móvil de contacto": "3004809258",
     "Estado": "Activo",
     "siigoId": "4cdba800-1b74-41a7-b298-715a7d46d8d1"
+  },
+  {
+    "Nombre tercero": "Diego Alexander Giraldo Serrano",
+    "Tipo de identificación": "13",
+    "Identificación": "1018490075",
+    "Dirección": "Cra 66bb # 56b-26 Parque Alto TO2 Apto 2313",
+    "Ciudad": "Bello",
+    "Código departamento": "05",
+    "Código ciudad": "05088",
+    "Teléfono.": "3229450610",
+    "Correo electrónico": "dags_24@hotmail.com",
+    "Nombres contacto": "Diego Alexander",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3229450610",
+    "Estado": "Activo",
+    "siigoId": "05f312e9-58d7-4753-ba5c-821fe3bd8290"
   }
 ]
