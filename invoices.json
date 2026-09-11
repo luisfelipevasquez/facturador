@@ -15290,5 +15290,45 @@
       "valor": 60000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2774,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "675037",
+    "nombre_tercero": "Libis Barroeta",
+    "fecha_elaboracion": "2026-09-10",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "2500g",
+        "cantidad": 2500,
+        "valor_unitario": 80,
+        "iva": 9500,
+        "iva_pct": 5,
+        "total": 199500,
+        "descuento_pct": 5,
+        "descuento_valor": 10000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 14000
+      }
+    ],
+    "iva_total": 9500,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 199500
+    },
+    "observaciones": ""
   }
 ]
