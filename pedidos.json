@@ -7366,5 +7366,40 @@
         "molienda": "molido grueso"
       }
     ]
+  },
+  {
+    "consecutivo": 2777,
+    "fecha": "2026-09-11",
+    "tercero": "Juan Camilo Rubio Arrieta",
+    "identificacion": "1143382182",
+    "productos": "PANA 250g x250, GELA 250g x250, RLAC 250g x250, CMA 250g x250",
+    "domicilio": "",
+    "total": 242000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "PANA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "GELA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAC",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
