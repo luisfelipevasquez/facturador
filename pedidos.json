@@ -7401,5 +7401,35 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2778,
+    "fecha": "2026-09-11",
+    "tercero": "Jefreyn Toscano Villamizar",
+    "identificacion": "1090502222",
+    "productos": "BNA120 250g x250, RLAA 250g x250, GELA 100g x100",
+    "domicilio": "Nacional Transportadora",
+    "total": 136000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BNA120",
+        "presentacion": "250g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "RLAA",
+        "presentacion": "250g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "GELA",
+        "presentacion": "100g",
+        "molienda": "molido fino"
+      }
+    ]
   }
 ]
