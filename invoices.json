@@ -15468,5 +15468,61 @@
       "valor": 242000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2778,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1090502222",
+    "nombre_tercero": "Jefreyn Toscano Villamizar",
+    "fecha_elaboracion": "2026-09-11",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      },
+      {
+        "sku": "RLAA",
+        "producto": "Regional Lavado Andes",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 144.76190476190476,
+        "iva": 1809.5238095238096,
+        "iva_pct": 5,
+        "total": 38000
+      },
+      {
+        "sku": "GELA",
+        "producto": "Gesha Lavado",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 5619.047619047618,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 136000
+    },
+    "observaciones": "Caja regalo negra doblada y tarjeta de regalo marcada para: the boss de: su amigo secreto. Tarjeta fidelidad"
   }
 ]
