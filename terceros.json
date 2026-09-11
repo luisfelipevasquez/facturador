@@ -1806,5 +1806,21 @@
     "Teléfono móvil de contacto": "3227051269",
     "Estado": "Activo",
     "siigoId": "ba3bea53-cb11-4aa7-8abc-c2567589c1db"
+  },
+  {
+    "Nombre tercero": "Jefreyn Toscano Villamizar",
+    "Tipo de identificación": "13",
+    "Identificación": "1090502222",
+    "Dirección": "Av 11ce #8n-15 guaimaral",
+    "Ciudad": "Cúcuta",
+    "Código departamento": "54",
+    "Código ciudad": "54001",
+    "Teléfono.": "3188742957",
+    "Correo electrónico": "Toscanojefrey@gmail.Com",
+    "Nombres contacto": "Jefreyn",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3188742957",
+    "Estado": "Activo",
+    "siigoId": "e0ec4537-9839-4a35-b634-98b6584c3606"
   }
 ]
