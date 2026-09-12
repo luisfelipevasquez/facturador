@@ -7451,5 +7451,35 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2780,
+    "fecha": "2026-09-11",
+    "tercero": "Tatiana Pérez Jaramillo",
+    "identificacion": "1017175461",
+    "productos": "RLAC 500g x500, RLAC 100g x100, RLAC 100g x100",
+    "domicilio": "Local Mensajero",
+    "total": 106000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAC",
+        "presentacion": "500g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "RLAC",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "RLAC",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      }
+    ]
   }
 ]
