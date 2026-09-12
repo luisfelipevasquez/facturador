@@ -1838,5 +1838,21 @@
     "Teléfono móvil de contacto": "3178556946",
     "Estado": "Activo",
     "siigoId": "6759c06f-3f99-402f-94f7-8d92c9304539"
+  },
+  {
+    "Nombre tercero": "ECIC GROUP SAS",
+    "Tipo de identificación": "31",
+    "Identificación": "901034371",
+    "Dirección": "Calle 37b sur #27-17 Brujas campestre Apto 202",
+    "Ciudad": "Envigado",
+    "Código departamento": "05",
+    "Código ciudad": "05266",
+    "Teléfono.": "3207257377",
+    "Correo electrónico": "ecic8888@gmail.com",
+    "Nombres contacto": "ECIC",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3207257377",
+    "Estado": "Activo",
+    "siigoId": "5a6be348-acb4-4370-923c-e89a2eb7b5a6"
   }
 ]
