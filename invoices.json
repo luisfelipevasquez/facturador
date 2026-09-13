@@ -13471,7 +13471,12 @@
       "codigo": 3,
       "valor": 286000
     },
-    "observaciones": "1,5kg en bolsa de 2.5 en grano500g molido prensa 500g molido medio"
+    "observaciones": "1,5kg en bolsa de 2.5 en grano500g molido prensa 500g molido medio",
+    "siigoId": "03d5ed14-c0c2-4d5f-951d-2774e0b7bd1c",
+    "siigoNumber": "FV-2-2756",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:33.716Z"
   },
   {
     "consecutivo": 2737,
@@ -13567,7 +13572,12 @@
       "codigo": 3,
       "valor": 199000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "bc2aa554-cb79-42b7-8033-fd26535f763b",
+    "siigoNumber": "FV-2-2757",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:34.436Z"
   },
   {
     "consecutivo": 2738,
@@ -13603,7 +13613,12 @@
       "codigo": 3,
       "valor": 37000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "db8fc8e5-5d4f-4169-9188-1150a86cb5c8",
+    "siigoNumber": "FV-2-2758",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:35.188Z"
   },
   {
     "consecutivo": 2739,
@@ -13659,7 +13674,12 @@
       "codigo": 3,
       "valor": 98000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "58b73e3d-f985-459a-aa8d-7bec7c6089eb",
+    "siigoNumber": "FV-2-2759",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:35.974Z"
   },
   {
     "consecutivo": 2740,
@@ -13695,7 +13715,12 @@
       "codigo": 3,
       "valor": 40000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "83338437-2739-458d-bf99-ffe5d826ab29",
+    "siigoNumber": "FV-2-2760",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:36.688Z"
   },
   {
     "consecutivo": 2741,
@@ -13753,7 +13778,12 @@
       "codigo": 3,
       "valor": 123000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "6de24aca-79dc-4c75-a585-2862898dcaa9",
+    "siigoNumber": "FV-2-2761",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:37.505Z"
   },
   {
     "consecutivo": 2742,
@@ -13811,7 +13841,12 @@
       "codigo": 3,
       "valor": 134000
     },
-    "observaciones": "Redime 250g honey72 grano"
+    "observaciones": "Redime 250g honey72 grano",
+    "siigoId": "03c1d4ed-1b50-41e5-9ac9-79bdadfaed8a",
+    "siigoNumber": "FV-2-2762",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:38.221Z"
   },
   {
     "consecutivo": 2743,
@@ -13847,7 +13882,12 @@
       "codigo": 3,
       "valor": 31000
     },
-    "observaciones": "Molido moka"
+    "observaciones": "Molido moka",
+    "siigoId": "0d74bb6a-af8c-4e47-b472-0011d4004c37",
+    "siigoNumber": "FV-2-2763",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:38.844Z"
   },
   {
     "consecutivo": 2744,
@@ -13873,7 +13913,12 @@
       "codigo": 3,
       "valor": 42000
     },
-    "observaciones": "Recoge"
+    "observaciones": "Recoge",
+    "siigoId": "c1e3f709-8148-4666-807e-cfe0cf84194d",
+    "siigoNumber": "FV-2-2764",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:39.553Z"
   },
   {
     "consecutivo": 2745,
@@ -13939,7 +13984,12 @@
       "codigo": 3,
       "valor": 116000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "0824f4dd-8ea9-46c5-a20f-6f8fcdf37e11",
+    "siigoNumber": "FV-2-2765",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:40.270Z"
   },
   {
     "consecutivo": 2746,
@@ -13977,7 +14027,12 @@
       "codigo": 3,
       "valor": 14000
     },
-    "observaciones": "Se envía premio fidelización que no se envió con el pedido. Paga envío BCC"
+    "observaciones": "Se envía premio fidelización que no se envió con el pedido. Paga envío BCC",
+    "siigoId": "4985d25a-5a9d-4f2c-bf3a-9b4e48600afe",
+    "siigoNumber": "FV-2-2766",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:41.091Z"
   },
   {
     "consecutivo": 2747,
@@ -14003,7 +14058,12 @@
       "codigo": 3,
       "valor": 51999.99999999999
     },
-    "observaciones": "Mauricio. Se envía con el pedido de Provana"
+    "observaciones": "Mauricio. Se envía con el pedido de Provana",
+    "siigoId": "5f4dbc88-9f9e-4da2-b415-64a0645a2f7b",
+    "siigoNumber": "FV-2-2767",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:41.807Z"
   },
   {
     "consecutivo": 2748,
@@ -14049,7 +14109,12 @@
       "codigo": 3,
       "valor": 183000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "eb3cf36d-eb83-434f-b311-c713f09a0c4c",
+    "siigoNumber": "FV-2-2768",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:42.422Z"
   },
   {
     "consecutivo": 2749,
@@ -14085,7 +14150,12 @@
       "codigo": 3,
       "valor": 59000
     },
-    "observaciones": "Para llevar con el pedido de Provana"
+    "observaciones": "Para llevar con el pedido de Provana",
+    "siigoId": "4789f9f9-7e98-419b-a89c-02e9af97281f",
+    "siigoNumber": "FV-2-2769",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:43.036Z"
   },
   {
     "consecutivo": 2750,
@@ -14121,7 +14191,12 @@
       "codigo": 3,
       "valor": 111000.00000000001
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "6cdd318c-a65e-44ec-80e8-45b0c9532387",
+    "siigoNumber": "FV-2-2770",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:43.751Z"
   },
   {
     "consecutivo": 2751,
@@ -14177,7 +14252,12 @@
       "codigo": 3,
       "valor": 168000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "a84c4527-a924-4771-808f-30df829e2d15",
+    "siigoNumber": "FV-2-2771",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:44.366Z"
   },
   {
     "consecutivo": 2752,
@@ -14245,7 +14325,12 @@
       "codigo": 3,
       "valor": 184000
     },
-    "observaciones": "Redime 250g maracuyá. No enviar tarjeta solo enviar stickers"
+    "observaciones": "Redime 250g maracuyá. No enviar tarjeta solo enviar stickers",
+    "siigoId": "b11531b2-54f1-42e7-aad6-8852633b1141",
+    "siigoNumber": "FV-2-2772",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:44.980Z"
   },
   {
     "consecutivo": 2753,
@@ -14281,7 +14366,12 @@
       "codigo": 3,
       "valor": 71000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "1bfc3273-0859-4a91-afbe-61afe2487b60",
+    "siigoNumber": "FV-2-2773",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:45.597Z"
   },
   {
     "consecutivo": 2754,
@@ -14307,7 +14397,12 @@
       "codigo": 3,
       "valor": 37999.99999999999
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "2613c34b-916a-46fd-a018-b86b8cf25850",
+    "siigoNumber": "FV-2-2774",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:46.209Z"
   },
   {
     "consecutivo": 2755,
@@ -14355,7 +14450,12 @@
       "codigo": 3,
       "valor": 299000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "80a98259-2a12-4342-a24e-b8d520bb3d20",
+    "siigoNumber": "FV-2-2775",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:46.931Z"
   },
   {
     "consecutivo": 2756,
@@ -14435,7 +14535,12 @@
       "codigo": 3,
       "valor": 232000
     },
-    "observaciones": "Redime 250g bho120 grano. Enviar tarjeta nueva vacía"
+    "observaciones": "Redime 250g bho120 grano. Enviar tarjeta nueva vacía",
+    "siigoId": "bb952a09-528d-4281-a28b-ba7221512e35",
+    "siigoNumber": "FV-2-2776",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:47.643Z"
   },
   {
     "consecutivo": 2757,
@@ -14491,7 +14596,12 @@
       "codigo": 3,
       "valor": 167000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "c7fc4a75-4515-471f-8718-8f19e9c16f2a",
+    "siigoNumber": "FV-2-2777",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:48.257Z"
   },
   {
     "consecutivo": 2758,
@@ -14619,7 +14729,12 @@
       "codigo": 3,
       "valor": 379999.99999999994
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "b80f89fe-9fc3-4b34-9d6a-60b80a24b402",
+    "siigoNumber": "FV-2-2778",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:49.180Z"
   },
   {
     "consecutivo": 2759,
@@ -14677,7 +14792,12 @@
       "codigo": 3,
       "valor": 267000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "42bc6f5b-b0f8-4200-bdc8-cdd31af699ab",
+    "siigoNumber": "FV-2-2779",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:49.703Z"
   },
   {
     "consecutivo": 2760,
@@ -14735,7 +14855,12 @@
       "codigo": 3,
       "valor": 219000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "caef6cef-ca4b-4667-9f99-4bf1f85e2f2b",
+    "siigoNumber": "FV-2-2780",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:50.409Z"
   },
   {
     "consecutivo": 2761,
@@ -14771,7 +14896,12 @@
       "codigo": 3,
       "valor": 67000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "2229d0c8-b1dc-48f9-9eb4-1ca373f56be4",
+    "siigoNumber": "FV-2-2781",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:51.023Z"
   },
   {
     "consecutivo": 2762,
@@ -14797,7 +14927,12 @@
       "codigo": 3,
       "valor": 210000
     },
-    "observaciones": "Lo lleva Pipe hptu"
+    "observaciones": "Lo lleva Pipe hptu",
+    "siigoId": "4d9cd1df-6081-4792-8dc5-0de423184b20",
+    "siigoNumber": "FV-2-2782",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:51.742Z"
   },
   {
     "consecutivo": 2763,
@@ -14835,7 +14970,12 @@
       "codigo": 3,
       "valor": 210000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "bc8ec506-6cf4-4976-95db-12b9fb0a8094",
+    "siigoNumber": "FV-2-2783",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:52.353Z"
   },
   {
     "consecutivo": 2764,
@@ -14911,7 +15051,12 @@
       "codigo": 3,
       "valor": 166999.99999999997
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "e2054bdc-e63f-4fc9-9c94-14716eaa289b",
+    "siigoNumber": "FV-2-2784",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:53.070Z"
   },
   {
     "consecutivo": 2765,
@@ -14957,7 +15102,12 @@
       "codigo": 3,
       "valor": 144000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "73627520-103e-4b73-adb6-af11bb63a232",
+    "siigoNumber": "FV-2-2785",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:53.686Z"
   },
   {
     "consecutivo": 2766,
@@ -15003,7 +15153,12 @@
       "codigo": 3,
       "valor": 125600
     },
-    "observaciones": "Ojo: Pago contraentrega"
+    "observaciones": "Ojo: Pago contraentrega",
+    "siigoId": "ef78b42c-63ec-490b-bab9-2ff1ac044a44",
+    "siigoNumber": "FV-2-2786",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:54.403Z"
   },
   {
     "consecutivo": 2767,
@@ -15051,7 +15206,12 @@
       "codigo": 3,
       "valor": 115034
     },
-    "observaciones": "Redime 50% regional lavado. Enviar nueva tarjeta con 3 stickers y 1 sticker suelto para pegar a la que va a redimir"
+    "observaciones": "Redime 50% regional lavado. Enviar nueva tarjeta con 3 stickers y 1 sticker suelto para pegar a la que va a redimir",
+    "siigoId": "de4bdfb7-c038-44ab-8d6f-aa06c405da36",
+    "siigoNumber": "FV-2-2787",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:55.119Z"
   },
   {
     "consecutivo": 2768,
@@ -15089,7 +15249,12 @@
       "codigo": 3,
       "valor": 210000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "1bc71cb9-9896-495e-9564-c33ff77e63de",
+    "siigoNumber": "FV-2-2788",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:55.676Z"
   },
   {
     "consecutivo": 2769,
@@ -15145,7 +15310,12 @@
       "codigo": 3,
       "valor": 157000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "13758192-ff4b-43fc-bdf0-058103d9b3b0",
+    "siigoNumber": "FV-2-2789",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:56.348Z"
   },
   {
     "consecutivo": 2770,
@@ -15181,7 +15351,12 @@
       "codigo": 3,
       "valor": 66000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "a566eb33-df75-4d6f-8bb4-f0be29e58e40",
+    "siigoNumber": "FV-2-2790",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:56.861Z"
   },
   {
     "consecutivo": 2771,
@@ -15217,7 +15392,12 @@
       "codigo": 3,
       "valor": 90000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "035e7fa7-2994-4fa9-a287-af0c93192306",
+    "siigoNumber": "FV-2-2791",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:57.473Z"
   },
   {
     "consecutivo": 2772,
@@ -15253,7 +15433,12 @@
       "codigo": 3,
       "valor": 68000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "3bcdaccb-6bea-43c3-96ad-cbb863243646",
+    "siigoNumber": "FV-2-2792",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:58.014Z"
   },
   {
     "consecutivo": 2773,
@@ -15289,7 +15474,12 @@
       "codigo": 3,
       "valor": 60000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "f45f8c66-f9bf-44b0-a7d7-b0ba53faf0ca",
+    "siigoNumber": "FV-2-2793",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:58.600Z"
   },
   {
     "consecutivo": 2774,
@@ -15329,7 +15519,12 @@
       "codigo": 3,
       "valor": 199500
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "007a65ae-16ae-4f4f-8da7-a0eec635b3f1",
+    "siigoNumber": "FV-2-2794",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:59.215Z"
   },
   {
     "consecutivo": 2775,
@@ -15375,7 +15570,12 @@
       "codigo": 3,
       "valor": 130000
     },
-    "observaciones": "Empacar un termo azul😊"
+    "observaciones": "Empacar un termo azul😊",
+    "siigoId": "7d8b796b-273a-44f1-a42c-77d67a8016c4",
+    "siigoNumber": "FV-2-2795",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:58:59.726Z"
   },
   {
     "consecutivo": 2776,
@@ -15411,7 +15611,12 @@
       "codigo": 3,
       "valor": 169000
     },
-    "observaciones": "Lo lleva Pipe"
+    "observaciones": "Lo lleva Pipe",
+    "siigoId": "39620e22-33a6-4e75-81dc-257fd59006c8",
+    "siigoNumber": "FV-2-2796",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:59:00.341Z"
   },
   {
     "consecutivo": 2777,
@@ -15467,7 +15672,12 @@
       "codigo": 3,
       "valor": 242000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "e9bd3fe1-7024-4c50-a360-a62f7b8afe72",
+    "siigoNumber": "FV-2-2797",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:59:00.956Z"
   },
   {
     "consecutivo": 2778,
@@ -15523,7 +15733,12 @@
       "codigo": 3,
       "valor": 136000
     },
-    "observaciones": "Caja regalo negra doblada y tarjeta de regalo marcada para: the boss de: su amigo secreto. Tarjeta fidelidad"
+    "observaciones": "Caja regalo negra doblada y tarjeta de regalo marcada para: the boss de: su amigo secreto. Tarjeta fidelidad",
+    "siigoId": "22dd3241-1678-48d6-9cbb-9c75f388c6f7",
+    "siigoNumber": "FV-2-2798",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:59:01.570Z"
   },
   {
     "consecutivo": 2779,
@@ -15549,7 +15764,12 @@
       "codigo": 3,
       "valor": 42000
     },
-    "observaciones": "Molido medio-grueso"
+    "observaciones": "Molido medio-grueso",
+    "siigoId": "46ee7218-ee86-43f3-bee6-2c2f84874161",
+    "siigoNumber": "FV-2-2799",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:59:02.081Z"
   },
   {
     "consecutivo": 2780,
@@ -15605,7 +15825,12 @@
       "codigo": 3,
       "valor": 106000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "b7636d9a-7c3b-45ea-8408-ab95351a75bf",
+    "siigoNumber": "FV-2-2800",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:59:02.695Z"
   },
   {
     "consecutivo": 2781,
@@ -15673,7 +15898,12 @@
       "codigo": 3,
       "valor": 277000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "a3c78ac4-3f75-4923-b760-d5cc522743f1",
+    "siigoNumber": "FV-2-2801",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:59:03.313Z"
   },
   {
     "consecutivo": 2782,
@@ -15709,7 +15939,12 @@
       "codigo": 3,
       "valor": 72000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "9d910504-3e5d-4911-8700-1977b235bc0a",
+    "siigoNumber": "FV-2-2802",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:59:04.027Z"
   },
   {
     "consecutivo": 2783,
@@ -15785,7 +16020,12 @@
       "codigo": 3,
       "valor": 147000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "e17edc4f-7b7b-4d02-836b-31abc77f6c08",
+    "siigoNumber": "FV-2-2803",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:59:04.795Z"
   },
   {
     "consecutivo": 2784,
@@ -15861,6 +16101,11 @@
       "codigo": 3,
       "valor": 147000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "27d8eb95-f57b-494e-96ae-be141aa2dce7",
+    "siigoNumber": "FV-2-2804",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-09-13T21:59:05.461Z"
   }
 ]
