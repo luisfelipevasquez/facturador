@@ -7632,7 +7632,7 @@
     "fecha": "2026-09-13",
     "tercero": "Nicolás Andrés Bohórquez Díaz",
     "identificacion": "1013679380",
-    "productos": "RLAC 500g x500, RLAC 500g x500, RLAC 500g x500, RLAC 500g x500",
+    "productos": "RLAC 500g x500, RLAC 500g x500, RLAC 500g x500, RLAC 500g x500, BBO 250g x250",
     "domicilio": "Local Mensajero",
     "total": 232000,
     "forma_pago": "T. Débito",
@@ -7658,6 +7658,11 @@
       {
         "sku": "RLAC",
         "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BBO",
+        "presentacion": "250g",
         "molienda": "grano"
       }
     ]
@@ -7743,6 +7748,26 @@
       {
         "sku": "BHO120",
         "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
+  },
+  {
+    "consecutivo": 2808,
+    "fecha": "2026-09-14",
+    "tercero": "David Ayala Gomez",
+    "identificacion": "1152703016",
+    "productos": "RLAS 340g x340",
+    "domicilio": "Local Transportadora",
+    "total": 57000.00000000001,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAS",
+        "presentacion": "340g",
         "molienda": "grano"
       }
     ]
