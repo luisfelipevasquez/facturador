@@ -16124,7 +16124,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "grano"
       },
       {
         "sku": "RLAC",
@@ -16134,7 +16135,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "grano"
       },
       {
         "sku": "RLAC",
@@ -16144,7 +16146,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "grano"
       },
       {
         "sku": "RLAC",
@@ -16154,7 +16157,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -16167,6 +16171,19 @@
         "total": 0,
         "descuento_pct": 100,
         "descuento_valor": 14000
+      },
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 220.95238095238093,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 55238.09523809524,
+        "molienda": "grano"
       }
     ],
     "iva_total": 11047.619047619048,
@@ -16174,7 +16191,7 @@
       "codigo": 3,
       "valor": 232000
     },
-    "observaciones": ""
+    "observaciones": "Redime 250g BBO grano"
   },
   {
     "consecutivo": 2806,
@@ -16192,7 +16209,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "grano"
       },
       {
         "sku": "BHO72",
@@ -16202,7 +16220,8 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000
+        "total": 72000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -16238,7 +16257,8 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000
+        "total": 17000,
+        "molienda": "molido fino"
       },
       {
         "sku": "RLAC",
@@ -16248,7 +16268,8 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000
+        "total": 17000,
+        "molienda": "molido fino"
       },
       {
         "sku": "RLAC",
@@ -16258,7 +16279,8 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000
+        "total": 17000,
+        "molienda": "molido fino"
       },
       {
         "sku": "RLAC",
@@ -16268,7 +16290,8 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000
+        "total": 17000,
+        "molienda": "molido fino"
       },
       {
         "sku": "RLAC",
@@ -16278,7 +16301,8 @@
         "valor_unitario": 144.76190476190476,
         "iva": 1809.5238095238096,
         "iva_pct": 5,
-        "total": 38000
+        "total": 38000,
+        "molienda": "grano"
       },
       {
         "sku": "RLAC",
@@ -16288,7 +16312,8 @@
         "valor_unitario": 144.76190476190476,
         "iva": 1809.5238095238096,
         "iva_pct": 5,
-        "total": 38000
+        "total": 38000,
+        "molienda": "molido fino"
       },
       {
         "sku": "RLAC",
@@ -16298,7 +16323,8 @@
         "valor_unitario": 131.65266106442579,
         "iva": 2238.0952380952385,
         "iva_pct": 5,
-        "total": 47000.00000000001
+        "total": 47000.00000000001,
+        "molienda": "molido grueso"
       },
       {
         "sku": "RLAC",
@@ -16308,7 +16334,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "molido medio"
       },
       {
         "sku": "BHO120",
@@ -16318,7 +16345,8 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000
+        "total": 42000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
