@@ -16501,5 +16501,63 @@
       "valor": 125000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2811,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1007744331",
+    "nombre_tercero": "Gustavo Gregorio Ramos Carcamo",
+    "fecha_elaboracion": "2026-09-14",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      },
+      {
+        "sku": "BRO",
+        "producto": "Bourbon Rosado",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "CAMA",
+        "producto": "Cáscara de Maragogype",
+        "presentacion": "Sachet",
+        "cantidad": 1,
+        "valor_unitario": 6000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 6000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 7857.142857142858,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 183000
+    },
+    "observaciones": ""
   }
 ]
