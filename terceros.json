@@ -1886,5 +1886,21 @@
     "Teléfono móvil de contacto": "3218468138",
     "Estado": "Activo",
     "siigoId": "f38d8b75-f9ea-4806-9871-3603f54a91f1"
+  },
+  {
+    "Nombre tercero": "Eduardo Rafael Maldonado Gomez",
+    "Tipo de identificación": "13",
+    "Identificación": "1140853337",
+    "Dirección": "Calle 4 #17-10 Barrio Sarie Bay",
+    "Ciudad": "San Andrés",
+    "Código departamento": "88",
+    "Código ciudad": "88001",
+    "Teléfono.": "3016217081",
+    "Correo electrónico": "edomalgo@gmail.com",
+    "Nombres contacto": "Eduardo Rafael",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3016217081",
+    "Estado": "Activo",
+    "siigoId": "935659c6-3a2e-414a-bef2-71987d2fd198"
   }
 ]
