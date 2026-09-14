@@ -7806,5 +7806,30 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2810,
+    "fecha": "2026-09-14",
+    "tercero": "Sebastián Enrique Santander",
+    "identificacion": "1002208215",
+    "productos": "BNA120 340g x340, BBO 250g x250",
+    "domicilio": "Local Mensajero",
+    "total": 125000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BNA120",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BBO",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
