@@ -1854,5 +1854,21 @@
     "Teléfono móvil de contacto": "3207257377",
     "Estado": "Activo",
     "siigoId": "5a6be348-acb4-4370-923c-e89a2eb7b5a6"
+  },
+  {
+    "Nombre tercero": "Yuliana Rodriguez",
+    "Tipo de identificación": "13",
+    "Identificación": "1143406769",
+    "Dirección": "Mz 19 Lote 6 barrio nuevo amanecer",
+    "Ciudad": "La Jagua de Ibirico",
+    "Código departamento": "20",
+    "Código ciudad": "20400",
+    "Teléfono.": "3158539912",
+    "Correo electrónico": "yuliana.r19@outlook.com",
+    "Nombres contacto": "Yuliana",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3158539912",
+    "Estado": "Activo",
+    "siigoId": "7c3ce94f-724f-4f04-973b-02b1f2a09acc"
   }
 ]
