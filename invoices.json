@@ -16124,8 +16124,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       },
       {
         "sku": "RLAC",
@@ -16135,8 +16134,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       },
       {
         "sku": "RLAC",
@@ -16146,8 +16144,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       },
       {
         "sku": "RLAC",
@@ -16157,8 +16154,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       },
       {
         "sku": "DOM",
@@ -16182,8 +16178,7 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 55238.09523809524,
-        "molienda": "grano"
+        "descuento_valor": 55238.09523809524
       }
     ],
     "iva_total": 11047.619047619048,
@@ -16209,8 +16204,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       },
       {
         "sku": "BHO72",
@@ -16220,8 +16214,7 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000,
-        "molienda": "grano"
+        "total": 72000
       },
       {
         "sku": "DOM",
@@ -16257,8 +16250,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido fino"
+        "total": 17000
       },
       {
         "sku": "RLAC",
@@ -16268,8 +16260,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido fino"
+        "total": 17000
       },
       {
         "sku": "RLAC",
@@ -16279,8 +16270,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido fino"
+        "total": 17000
       },
       {
         "sku": "RLAC",
@@ -16290,8 +16280,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido fino"
+        "total": 17000
       },
       {
         "sku": "RLAC",
@@ -16301,8 +16290,7 @@
         "valor_unitario": 144.76190476190476,
         "iva": 1809.5238095238096,
         "iva_pct": 5,
-        "total": 38000,
-        "molienda": "grano"
+        "total": 38000
       },
       {
         "sku": "RLAC",
@@ -16312,8 +16300,7 @@
         "valor_unitario": 144.76190476190476,
         "iva": 1809.5238095238096,
         "iva_pct": 5,
-        "total": 38000,
-        "molienda": "molido fino"
+        "total": 38000
       },
       {
         "sku": "RLAC",
@@ -16323,8 +16310,7 @@
         "valor_unitario": 131.65266106442579,
         "iva": 2238.0952380952385,
         "iva_pct": 5,
-        "total": 47000.00000000001,
-        "molienda": "molido grueso"
+        "total": 47000.00000000001
       },
       {
         "sku": "RLAC",
@@ -16334,8 +16320,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "molido medio"
+        "total": 58000
       },
       {
         "sku": "BHO120",
@@ -16345,8 +16330,7 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000,
-        "molienda": "grano"
+        "total": 42000
       },
       {
         "sku": "DOM",
@@ -16365,6 +16349,42 @@
     "forma_pago": {
       "codigo": 3,
       "valor": 291000
+    },
+    "observaciones": ""
+  },
+  {
+    "consecutivo": 2808,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1152703016",
+    "nombre_tercero": "David Ayala Gomez",
+    "fecha_elaboracion": "2026-09-14",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAS",
+        "producto": "Regional Lavado SurOeste",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 131.65266106442579,
+        "iva": 2238.0952380952385,
+        "iva_pct": 5,
+        "total": 47000.00000000001
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 10000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 10000
+      }
+    ],
+    "iva_total": 2238.0952380952385,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 57000.00000000001
     },
     "observaciones": ""
   }
