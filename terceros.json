@@ -1870,5 +1870,21 @@
     "Teléfono móvil de contacto": "3158539912",
     "Estado": "Activo",
     "siigoId": "7c3ce94f-724f-4f04-973b-02b1f2a09acc"
+  },
+  {
+    "Nombre tercero": "David Ayala Gomez",
+    "Tipo de identificación": "13",
+    "Identificación": "1152703016",
+    "Dirección": "Cra 14 #12a-60 casa 346 llano azul",
+    "Ciudad": "Girardota",
+    "Código departamento": "05",
+    "Código ciudad": "05308",
+    "Teléfono.": "3218468138",
+    "Correo electrónico": "ingdavidayala1996@gmail.com",
+    "Nombres contacto": "David",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3218468138",
+    "Estado": "Activo",
+    "siigoId": "f38d8b75-f9ea-4806-9871-3603f54a91f1"
   }
 ]
