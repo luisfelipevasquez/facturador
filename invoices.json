@@ -16749,5 +16749,51 @@
       "valor": 84000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2815,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1025535538",
+    "nombre_tercero": "Nicolás/ Samuel Castro Granados",
+    "fecha_elaboracion": "2026-09-15",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 6714.285714285715,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 159000
+    },
+    "observaciones": ""
   }
 ]
