@@ -7931,5 +7931,30 @@
         "molienda": "molido fino"
       }
     ]
+  },
+  {
+    "consecutivo": 2814,
+    "fecha": "2026-09-15",
+    "tercero": "Nestor Rafael Calvo Ariza",
+    "identificacion": "1118871837",
+    "productos": "RLAC 100g x100, BHO 340g x340",
+    "domicilio": "Local Mensajero",
+    "total": 84000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAC",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "BHO",
+        "presentacion": "340g",
+        "molienda": "molido medio"
+      }
+    ]
   }
 ]
