@@ -16999,5 +16999,41 @@
       "valor": 161000
     },
     "observaciones": "Cajita negra y tarjeta regalo"
+  },
+  {
+    "consecutivo": 2820,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1015412106",
+    "nombre_tercero": "Carlos José Peñalosa Ospina",
+    "fecha_elaboracion": "2026-09-16",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 220.95238095238093,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 2761.904761904762,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 72000
+    },
+    "observaciones": ""
   }
 ]
