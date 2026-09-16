@@ -8116,5 +8116,30 @@
         "molienda": "molido grueso"
       }
     ]
+  },
+  {
+    "consecutivo": 2821,
+    "fecha": "2026-09-16",
+    "tercero": "Manuela Zuluaga",
+    "identificacion": "1017318701",
+    "productos": "GELA 500g x500, BHO72 250g x250",
+    "domicilio": "Local Mensajero",
+    "total": 195000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "GELA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO72",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
