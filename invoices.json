@@ -16831,5 +16831,31 @@
       "valor": 56000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2817,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "79591596",
+    "nombre_tercero": "Jaime Aquiles Rincón",
+    "fecha_elaboracion": "2026-09-15",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BNA",
+        "producto": "Blend Natural 56h",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 148.45938375350138,
+        "iva": 2523.809523809524,
+        "iva_pct": 5,
+        "total": 53000
+      }
+    ],
+    "iva_total": 2523.809523809524,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 53000
+    },
+    "observaciones": "Recoge el jueves temprano"
   }
 ]
