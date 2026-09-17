@@ -17081,5 +17081,51 @@
       "valor": 195000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2822,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1053797234",
+    "nombre_tercero": "Anderson Echeverri",
+    "fecha_elaboracion": "2026-09-17",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO72",
+        "producto": "Blend Honey72h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 4476.190476190476,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 112000
+    },
+    "observaciones": ""
   }
 ]
