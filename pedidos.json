@@ -8256,5 +8256,25 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2826,
+    "fecha": "2026-09-18",
+    "tercero": "Dorian Sanchez",
+    "identificacion": "1036693198",
+    "productos": "BHO 340g x340",
+    "domicilio": "Local Mensajero",
+    "total": 67000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BHO",
+        "presentacion": "340g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
