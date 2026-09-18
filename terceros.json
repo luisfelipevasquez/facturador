@@ -1902,5 +1902,21 @@
     "Teléfono móvil de contacto": "3016217081",
     "Estado": "Activo",
     "siigoId": "935659c6-3a2e-414a-bef2-71987d2fd198"
+  },
+  {
+    "Nombre tercero": "Dorian Sanchez",
+    "Tipo de identificación": "13",
+    "Identificación": "1036693198",
+    "Dirección": "Cra 80b #8sur 36 Parque de la Sierra Casa 92",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3185944089",
+    "Correo electrónico": "nodice@gmail.com",
+    "Nombres contacto": "Dorian",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3185944089",
+    "Estado": "Activo",
+    "siigoId": "85cc5f15-4269-4ef7-a516-132b46a23c0c"
   }
 ]
