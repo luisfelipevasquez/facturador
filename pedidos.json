@@ -8166,5 +8166,30 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2823,
+    "fecha": "2026-09-18",
+    "tercero": "Jean Herrera",
+    "identificacion": "1152455579",
+    "productos": "RLAC 500g x500, RLAC 500g x500",
+    "domicilio": "Local Mensajero",
+    "total": 130000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAC",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAC",
+        "presentacion": "500g",
+        "molienda": "molido medio"
+      }
+    ]
   }
 ]
