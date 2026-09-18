@@ -8191,5 +8191,45 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2824,
+    "fecha": "2026-09-18",
+    "tercero": "Gustavo Sardi",
+    "identificacion": "1144081373",
+    "productos": "PANA 100g x100, BNA 250g x250, RLAA 250g x250, BBO 340g x340, CHLA 250g x250",
+    "domicilio": "Nacional Transportadora",
+    "total": 211000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "PANA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BNA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAA",
+        "presentacion": "250g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "BBO",
+        "presentacion": "340g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "CHLA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
