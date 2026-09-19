@@ -1,5 +1,21 @@
 [
   {
+    "order_id": 8792,
+    "consecutivo": "8792",
+    "fecha": "2026-09-18",
+    "tercero": "María Mercedes Caraballo Mercado",
+    "identificacion": "30574614",
+    "productos": "Kit aventurero x1",
+    "domicilio": "Envio Area Metropolitana Por Transportadora (3 - 5 días hábiles)",
+    "total": 161000,
+    "forma_pago": "Wompi",
+    "woo_status": "processing",
+    "status": "En proceso",
+    "manual": false,
+    "client_type": "Antiguo",
+    "observaciones": ""
+  },
+  {
     "order_id": 8790,
     "consecutivo": "8790",
     "fecha": "2026-09-18",
@@ -9,8 +25,8 @@
     "domicilio": "Envio Area Metropolitana (Medellin, Envigado, Itagui, La Estrella, Sabaneta, Bello) entrega el mismo día para pedidos realizados antes de mediodía o el siguiente día hábil para pedidos realizados después de mediodía",
     "total": 72000,
     "forma_pago": "Wompi",
-    "woo_status": "processing",
-    "status": "En proceso",
+    "woo_status": "completed",
+    "status": "Completado",
     "manual": false,
     "client_type": "Antiguo",
     "observaciones": ""
