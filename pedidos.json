@@ -8276,5 +8276,45 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2827,
+    "fecha": "2026-09-18",
+    "tercero": "ELGA SANCHEZ",
+    "identificacion": "52282631",
+    "productos": "CHLA 100g x100, GELA 100g x100, PANA 100g x100, BNA 100g x100, BNA120 100g x100",
+    "domicilio": "Nacional Transportadora",
+    "total": 153999.99999999997,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CHLA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "GELA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "PANA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "BNA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "BNA120",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      }
+    ]
   }
 ]
