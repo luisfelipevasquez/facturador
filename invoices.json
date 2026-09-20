@@ -17459,5 +17459,41 @@
       "valor": 115999.99999999997
     },
     "observaciones": "La dirección de envío es:\n\nFrancy Gallego Bedoya\nCll 36 N #4-114 casa 112\nBarrio Aída Lucia/Rincón de Yambitará etapa 2,\nPopayán, Cauca"
+  },
+  {
+    "consecutivo": 2830,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "43758139",
+    "nombre_tercero": "Diana Catalina Uribe Vélez",
+    "fecha_elaboracion": "2026-09-20",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO",
+        "producto": "Blend Honey 56h",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 137.14285714285714,
+        "iva": 3428.5714285714284,
+        "iva_pct": 5,
+        "total": 72000
+      },
+      {
+        "sku": "BHO",
+        "producto": "Blend Honey 56h",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 137.14285714285714,
+        "iva": 3428.5714285714284,
+        "iva_pct": 5,
+        "total": 72000
+      }
+    ],
+    "iva_total": 6857.142857142857,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 144000
+    },
+    "observaciones": ""
   }
 ]
