@@ -8318,35 +8318,25 @@
     ]
   },
   {
-    "consecutivo": 2828,
+    "consecutivo": 2829,
     "fecha": "2026-09-20",
-    "tercero": "Laura Stefania Latorre Mora",
-    "identificacion": "1003908719",
-    "productos": "BHO120 100g x100, CGA 100g x100, CMA 100g x100, PANA 100g x100, GELA 100g x100",
+    "tercero": "Juliana Halko",
+    "identificacion": "4259229268",
+    "productos": "PANA 100g x100, CHLA 100g x100, GELA 100g x100",
     "domicilio": "Nacional Transportadora",
-    "total": 160000,
+    "total": 115999.99999999997,
     "forma_pago": "T. Débito",
     "status": "En proceso",
     "client_type": "Nuevo",
     "recoge": "No",
     "items_molienda": [
       {
-        "sku": "BHO120",
-        "presentacion": "100g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "CGA",
-        "presentacion": "100g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "CMA",
-        "presentacion": "100g",
-        "molienda": "grano"
-      },
-      {
         "sku": "PANA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CHLA",
         "presentacion": "100g",
         "molienda": "grano"
       },
@@ -8354,6 +8344,31 @@
         "sku": "GELA",
         "presentacion": "100g",
         "molienda": "grano"
+      }
+    ]
+  },
+  {
+    "consecutivo": 2830,
+    "fecha": "2026-09-20",
+    "tercero": "Diana Catalina Uribe Vélez",
+    "identificacion": "43758139",
+    "productos": "BHO 500g x500, BHO 500g x500",
+    "domicilio": "",
+    "total": 144000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BHO",
+        "presentacion": "500g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "BHO",
+        "presentacion": "500g",
+        "molienda": "molido medio"
       }
     ]
   }
