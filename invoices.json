@@ -17420,8 +17420,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "grano"
+        "total": 37999.99999999999
       },
       {
         "sku": "CHLA",
@@ -17431,8 +17430,7 @@
         "valor_unitario": 209.52380952380952,
         "iva": 1047.6190476190475,
         "iva_pct": 5,
-        "total": 21999.999999999996,
-        "molienda": "grano"
+        "total": 21999.999999999996
       },
       {
         "sku": "GELA",
@@ -17442,8 +17440,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "grano"
+        "total": 37999.99999999999
       },
       {
         "sku": "DOM",
@@ -17515,8 +17512,7 @@
         "valor_unitario": 190.47619047619048,
         "iva": 952.3809523809525,
         "iva_pct": 5,
-        "total": 20000.000000000004,
-        "molienda": "grano"
+        "total": 20000.000000000004
       },
       {
         "sku": "CMA",
@@ -17526,8 +17522,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "grano"
+        "total": 23000
       },
       {
         "sku": "CGA",
@@ -17537,8 +17532,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "grano"
+        "total": 23000
       },
       {
         "sku": "PANA",
@@ -17548,8 +17542,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "grano"
+        "total": 37999.99999999999
       },
       {
         "sku": "GELA",
@@ -17559,8 +17552,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "grano"
+        "total": 37999.99999999999
       },
       {
         "sku": "DOM",
@@ -17596,8 +17588,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido fino"
+        "total": 17000
       },
       {
         "sku": "RLAC",
@@ -17607,8 +17598,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido fino"
+        "total": 17000
       },
       {
         "sku": "RLAS",
@@ -17618,8 +17608,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido fino"
+        "total": 17000
       },
       {
         "sku": "CGA",
@@ -17629,8 +17618,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "molido fino"
+        "total": 23000
       },
       {
         "sku": "CGA",
@@ -17640,8 +17628,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "molido fino"
+        "total": 23000
       },
       {
         "sku": "BNA",
@@ -17651,8 +17638,7 @@
         "valor_unitario": 190.47619047619048,
         "iva": 952.3809523809525,
         "iva_pct": 5,
-        "total": 20000.000000000004,
-        "molienda": "molido fino"
+        "total": 20000.000000000004
       },
       {
         "sku": "PANA",
@@ -17662,8 +17648,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "molido fino"
+        "total": 37999.99999999999
       },
       {
         "sku": "GELA",
@@ -17673,8 +17658,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "molido fino"
+        "total": 37999.99999999999
       },
       {
         "sku": "JNA",
@@ -17684,8 +17668,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "molido fino"
+        "total": 37999.99999999999
       },
       {
         "sku": "CMA",
@@ -17695,8 +17678,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "molido fino"
+        "total": 23000
       },
       {
         "sku": "DOM",
@@ -17717,5 +17699,41 @@
       "valor": 254000
     },
     "observaciones": "Paga Contraentrega 254.000"
+  },
+  {
+    "consecutivo": 2833,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1143265556",
+    "nombre_tercero": "Anthony Linero",
+    "fecha_elaboracion": "2026-09-21",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 148.45938375350138,
+        "iva": 2523.809523809524,
+        "iva_pct": 5,
+        "total": 53000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 2523.809523809524,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 67000
+    },
+    "observaciones": ""
   }
 ]
