@@ -8476,5 +8476,25 @@
         "molienda": "molido fino"
       }
     ]
+  },
+  {
+    "consecutivo": 2833,
+    "fecha": "2026-09-21",
+    "tercero": "Anthony Linero",
+    "identificacion": "1143265556",
+    "productos": "BNA120 340g x340",
+    "domicilio": "Local Mensajero",
+    "total": 67000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BNA120",
+        "presentacion": "340g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
