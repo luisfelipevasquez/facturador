@@ -1934,5 +1934,21 @@
     "Teléfono móvil de contacto": "425922‑9268‬",
     "Estado": "Activo",
     "siigoId": "bffe230b-9565-4e1c-86fd-6f46446e30b5"
+  },
+  {
+    "Nombre tercero": "Leidy Marcela Leon",
+    "Tipo de identificación": "13",
+    "Identificación": "1122137970",
+    "Dirección": "Calle 58 # 16-10 Ed. Varsovia Apto 305",
+    "Ciudad": "Bogotá D.C.",
+    "Código departamento": "11",
+    "Código ciudad": "11001",
+    "Teléfono.": "3102684006",
+    "Correo electrónico": "Leidy_leon@hotmail.com",
+    "Nombres contacto": "Leidy",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3102684006",
+    "Estado": "Activo",
+    "siigoId": "fb9d0115-ec90-446c-9234-09b2ba982608"
   }
 ]
