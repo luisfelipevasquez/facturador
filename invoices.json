@@ -17420,7 +17420,8 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999
+        "total": 37999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "CHLA",
@@ -17430,7 +17431,8 @@
         "valor_unitario": 209.52380952380952,
         "iva": 1047.6190476190475,
         "iva_pct": 5,
-        "total": 21999.999999999996
+        "total": 21999.999999999996,
+        "molienda": "grano"
       },
       {
         "sku": "GELA",
@@ -17440,7 +17442,8 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999
+        "total": 37999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -17458,7 +17461,7 @@
       "codigo": 3,
       "valor": 115999.99999999997
     },
-    "observaciones": "La dirección de envío es:\n\nFrancy Gallego Bedoya\nCll 36 N #4-114 casa 112\nBarrio Aída Lucia/Rincón de Yambitará etapa 2,\nPopayán, Cauca"
+    "observaciones": "La dirección de envío es:Francy Gallego BedoyaCll 36 N #4-114 casa 112Barrio Aída Lucia/Rincón de Yambitará etapa 2,Popayán, Cauca.  Cel 3187293530"
   },
   {
     "consecutivo": 2830,
