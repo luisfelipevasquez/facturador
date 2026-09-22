@@ -8741,5 +8741,35 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2845,
+    "fecha": "2026-09-22",
+    "tercero": "Daniela Perez",
+    "identificacion": "8182283",
+    "productos": "PANA 250g x250, BNA120 100g x100, BHO120 100g x100",
+    "domicilio": "Local Transportadora",
+    "total": 0,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "PANA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BNA120",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO120",
+        "presentacion": "100g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
