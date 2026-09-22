@@ -18117,5 +18117,61 @@
       "valor": 114000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2844,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1061735209",
+    "nombre_tercero": "Juan Camilo Ospina Quintero",
+    "fecha_elaboracion": "2026-09-22",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO120",
+        "producto": "Blend Honey 120h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      },
+      {
+        "sku": "BRO",
+        "producto": "Bourbon Rosado",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 6571.428571428571,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 152000
+    },
+    "observaciones": ""
   }
 ]
