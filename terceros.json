@@ -1950,5 +1950,21 @@
     "Teléfono móvil de contacto": "3102684006",
     "Estado": "Activo",
     "siigoId": "fb9d0115-ec90-446c-9234-09b2ba982608"
+  },
+  {
+    "Nombre tercero": "John / Paula Muñoz",
+    "Tipo de identificación": "13",
+    "Identificación": "1152213910",
+    "Dirección": "Calle 75 Sur #52G-40 torre 1 apto 2903 Urbanización entre hojas en Suramerica Itagui",
+    "Ciudad": "Itagüí",
+    "Código departamento": "05",
+    "Código ciudad": "05360",
+    "Teléfono.": "3118135870",
+    "Correo electrónico": "johnlds11@gmail.com",
+    "Nombres contacto": "John /",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3118135870",
+    "Estado": "Activo",
+    "siigoId": "cb772dd3-29d8-454d-8cbe-9233fedbd500"
   }
 ]
