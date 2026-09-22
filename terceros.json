@@ -1966,5 +1966,21 @@
     "Teléfono móvil de contacto": "3118135870",
     "Estado": "Activo",
     "siigoId": "cb772dd3-29d8-454d-8cbe-9233fedbd500"
+  },
+  {
+    "Nombre tercero": "Juan David Yepes González",
+    "Tipo de identificación": "13",
+    "Identificación": "8106017",
+    "Dirección": "Cra 24c # 41sur-127 Apto 1303 UR Floresta. Barrio La Mina",
+    "Ciudad": "Envigado",
+    "Código departamento": "05",
+    "Código ciudad": "05266",
+    "Teléfono.": "3044415659",
+    "Correo electrónico": "judayego@outlook.com",
+    "Nombres contacto": "Juan David",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3044415659",
+    "Estado": "Activo",
+    "siigoId": "8b2b6337-cf06-4738-b535-73cdb7892fdd"
   }
 ]
