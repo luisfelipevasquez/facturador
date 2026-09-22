@@ -8646,5 +8646,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2841,
+    "fecha": "2026-09-22",
+    "tercero": "Jairo Corzo",
+    "identificacion": "1000288500",
+    "productos": "BNA120 500g x500",
+    "domicilio": "Nacional Transportadora",
+    "total": 90000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BNA120",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
