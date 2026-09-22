@@ -17869,5 +17869,41 @@
       "valor": 38000
     },
     "observaciones": "Lo lleva Pipe al Hptu"
+  },
+  {
+    "consecutivo": 2838,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1152213910",
+    "nombre_tercero": "John / Paula Muñoz",
+    "fecha_elaboracion": "2026-09-22",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO72",
+        "producto": "Blend Honey72h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 2000,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 56000
+    },
+    "observaciones": ""
   }
 ]
