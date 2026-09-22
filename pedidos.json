@@ -8576,5 +8576,25 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2838,
+    "fecha": "2026-09-22",
+    "tercero": "John / Paula Muñoz",
+    "identificacion": "1152213910",
+    "productos": "BHO72 250g x250",
+    "domicilio": "Local Mensajero",
+    "total": 56000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BHO72",
+        "presentacion": "250g",
+        "molienda": "molido fino"
+      }
+    ]
   }
 ]
