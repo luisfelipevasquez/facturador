@@ -18173,5 +18173,69 @@
       "valor": 152000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2845,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "8182283",
+    "nombre_tercero": "Daniela Perez",
+    "fecha_elaboracion": "2026-09-22",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 72380.95238095238
+      },
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 19047.61904761905
+      },
+      {
+        "sku": "BHO120",
+        "producto": "Blend Honey 120h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 19047.61904761905
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 10000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 10000
+      }
+    ],
+    "iva_total": 0,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 0
+    },
+    "observaciones": ""
   }
 ]
