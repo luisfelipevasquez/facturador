@@ -17886,7 +17886,8 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000
+        "total": 42000,
+        "molienda": "molido fino"
       },
       {
         "sku": "DOM",
@@ -17924,7 +17925,8 @@
         "iva_pct": 5,
         "total": 36000,
         "descuento_pct": 50,
-        "descuento_valor": 34285.71428571428
+        "descuento_valor": 34285.71428571428,
+        "molienda": "molido grueso"
       },
       {
         "sku": "DOM",
@@ -17942,6 +17944,6 @@
       "codigo": 3,
       "valor": 50000
     },
-    "observaciones": ""
+    "observaciones": "Redime 250g por eso la de 500g vale la mitad"
   }
 ]
