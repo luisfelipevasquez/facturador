@@ -8616,5 +8616,35 @@
         "molienda": "molido grueso"
       }
     ]
+  },
+  {
+    "consecutivo": 2840,
+    "fecha": "2026-09-22",
+    "tercero": "Jaime Andres Alvarez Ospina",
+    "identificacion": "98566512",
+    "productos": "BHO 100g x100, CHLA 250g x250, BBO 250g x250",
+    "domicilio": "Nacional Transportadora",
+    "total": 146000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BHO",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CHLA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BBO",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
