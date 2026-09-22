@@ -17886,8 +17886,7 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000,
-        "molienda": "molido fino"
+        "total": 42000
       },
       {
         "sku": "DOM",
@@ -17925,8 +17924,7 @@
         "iva_pct": 5,
         "total": 36000,
         "descuento_pct": 50,
-        "descuento_valor": 34285.71428571428,
-        "molienda": "molido grueso"
+        "descuento_valor": 34285.71428571428
       },
       {
         "sku": "DOM",
@@ -17945,5 +17943,61 @@
       "valor": 50000
     },
     "observaciones": "Redime 250g por eso la de 500g vale la mitad"
+  },
+  {
+    "consecutivo": 2840,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "98566512",
+    "nombre_tercero": "Jaime Andres Alvarez Ospina",
+    "fecha_elaboracion": "2026-09-22",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO",
+        "producto": "Blend Honey 56h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 952.3809523809525,
+        "iva_pct": 5,
+        "total": 20000.000000000004
+      },
+      {
+        "sku": "CHLA",
+        "producto": "Chiroso Lavado",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 190.47619047619048,
+        "iva": 2380.952380952381,
+        "iva_pct": 5,
+        "total": 50000
+      },
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 220.95238095238093,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 6095.238095238095,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 146000
+    },
+    "observaciones": ""
   }
 ]
