@@ -1982,5 +1982,21 @@
     "Teléfono móvil de contacto": "3044415659",
     "Estado": "Activo",
     "siigoId": "8b2b6337-cf06-4738-b535-73cdb7892fdd"
+  },
+  {
+    "Nombre tercero": "Wilson Alberto Restrepo Alvarez",
+    "Tipo de identificación": "13",
+    "Identificación": "71116448",
+    "Dirección": "Cra 57a # 10-61 Pietra Santa campestre",
+    "Ciudad": "Rionegro",
+    "Código departamento": "05",
+    "Código ciudad": "05615",
+    "Teléfono.": "3118674361",
+    "Correo electrónico": "warestrepo@hotmail.com",
+    "Nombres contacto": "Wilson Alberto",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3118674361",
+    "Estado": "Activo",
+    "siigoId": "51168b09-366e-42bd-afab-0b4a8da88bc5"
   }
 ]
