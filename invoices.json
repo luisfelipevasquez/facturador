@@ -18316,7 +18316,8 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999
+        "total": 51999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "CMA",
@@ -18326,7 +18327,8 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999
+        "total": 51999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "CMA",
@@ -18336,7 +18338,8 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999
+        "total": 51999.99999999999,
+        "molienda": "grano"
       }
     ],
     "iva_total": 7428.571428571428,
@@ -18362,7 +18365,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "grano"
       },
       {
         "sku": "RLAC",
@@ -18372,7 +18376,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "grano"
       },
       {
         "sku": "CGA",
@@ -18382,7 +18387,20 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000
+        "total": 89000,
+        "molienda": "grano"
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 18000
       }
     ],
     "iva_total": 10619.04761904762,
