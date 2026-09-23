@@ -8841,5 +8841,35 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2849,
+    "fecha": "2026-09-23",
+    "tercero": "Héctor Eduardo Munévar Fernández",
+    "identificacion": "1032358860",
+    "productos": "PANA 250g x250, RLAC 500g x500, CGA 500g x500",
+    "domicilio": "",
+    "total": 223000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "PANA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAC",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
