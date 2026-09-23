@@ -18345,5 +18345,51 @@
       "valor": 155999.99999999997
     },
     "observaciones": "Recoge en la mañana después de 9am"
+  },
+  {
+    "consecutivo": 2849,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1032358860",
+    "nombre_tercero": "Héctor Eduardo Munévar Fernández",
+    "fecha_elaboracion": "2026-09-23",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      }
+    ],
+    "iva_total": 10619.04761904762,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 223000
+    },
+    "observaciones": ""
   }
 ]
