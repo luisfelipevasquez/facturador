@@ -8811,5 +8811,35 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2848,
+    "fecha": "2026-09-23",
+    "tercero": "Wilson Alberto Restrepo Alvarez",
+    "identificacion": "71116448",
+    "productos": "CMA 250g x250, CMA 250g x250, CMA 250g x250",
+    "domicilio": "",
+    "total": 155999.99999999997,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CMA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
