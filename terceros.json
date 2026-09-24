@@ -1998,5 +1998,21 @@
     "Teléfono móvil de contacto": "3118674361",
     "Estado": "Activo",
     "siigoId": "51168b09-366e-42bd-afab-0b4a8da88bc5"
+  },
+  {
+    "Nombre tercero": "Santiago Zuleta",
+    "Tipo de identificación": "13",
+    "Identificación": "1037629010",
+    "Dirección": "No da dirección",
+    "Ciudad": "Envigado",
+    "Código departamento": "05",
+    "Código ciudad": "05266",
+    "Teléfono.": "3502700671",
+    "Correo electrónico": "Santi.0309@outlook.com",
+    "Nombres contacto": "Santiago",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3502700671",
+    "Estado": "Activo",
+    "siigoId": "474b81ee-721d-47a9-902b-32767aeb1023"
   }
 ]
