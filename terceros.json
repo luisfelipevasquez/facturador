@@ -2014,5 +2014,21 @@
     "Teléfono móvil de contacto": "3502700671",
     "Estado": "Activo",
     "siigoId": "474b81ee-721d-47a9-902b-32767aeb1023"
+  },
+  {
+    "Nombre tercero": "Yoel Yepes",
+    "Tipo de identificación": "13",
+    "Identificación": "1152466131",
+    "Dirección": "Calle 27 Sur #27-80, Apto 1104. Alto del esmeraldal",
+    "Ciudad": "Envigado",
+    "Código departamento": "05",
+    "Código ciudad": "05266",
+    "Teléfono.": "3146193505",
+    "Correo electrónico": "yepes115@gmail.com",
+    "Nombres contacto": "Yoel",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3146193505",
+    "Estado": "Activo",
+    "siigoId": "1583dd66-f384-4951-93f0-b9dc8db77ee6"
   }
 ]
