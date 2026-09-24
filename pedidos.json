@@ -8966,5 +8966,30 @@
         "molienda": "molido fino"
       }
     ]
+  },
+  {
+    "consecutivo": 2853,
+    "fecha": "2026-09-24",
+    "tercero": "Yoel Yepes",
+    "identificacion": "1152466131",
+    "productos": "RLAC 500g x500, GELA 100g x100",
+    "domicilio": "Local Mensajero",
+    "total": 110000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAC",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "GELA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
