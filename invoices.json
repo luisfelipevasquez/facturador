@@ -18889,5 +18889,31 @@
       "valor": 72000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2860,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "74082941",
+    "nombre_tercero": "Jhon Jairo Cárdenas Moreno",
+    "fecha_elaboracion": "2026-09-25",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BRO",
+        "producto": "Bourbon Rosado",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      }
+    ],
+    "iva_total": 3619.0476190476193,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 76000
+    },
+    "observaciones": ""
   }
 ]
