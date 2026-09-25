@@ -9131,5 +9131,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2860,
+    "fecha": "2026-09-25",
+    "tercero": "Jhon Jairo Cárdenas Moreno",
+    "identificacion": "74082941",
+    "productos": "BRO 250g x250",
+    "domicilio": "",
+    "total": 76000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BRO",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
