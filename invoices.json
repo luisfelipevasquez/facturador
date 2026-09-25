@@ -18803,5 +18803,55 @@
       "valor": 116000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2858,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "52164757",
+    "nombre_tercero": "Sandra Patricia Salas Mora",
+    "fecha_elaboracion": "2026-09-25",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "2500g",
+        "cantidad": 2500,
+        "valor_unitario": 160,
+        "iva": 20000,
+        "iva_pct": 5,
+        "total": 420000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 18000
+      },
+      {
+        "sku": "CAMA",
+        "producto": "Cáscara de Maragogype",
+        "presentacion": "Sachet",
+        "cantidad": 2,
+        "valor_unitario": 6000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 12000
+      }
+    ],
+    "iva_total": 20000,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 420000
+    },
+    "observaciones": ""
   }
 ]
