@@ -8690,7 +8690,7 @@
   {
     "consecutivo": 2843,
     "fecha": "2026-09-22",
-    "tercero": "Juan David Yepes González",
+    "tercero": "8106017",
     "identificacion": "8106017",
     "productos": "RLAC 500g x500, BHO120 250g x250",
     "domicilio": "Local Mensajero",
@@ -8815,7 +8815,7 @@
   {
     "consecutivo": 2848,
     "fecha": "2026-09-23",
-    "tercero": "Wilson Alberto Restrepo Alvarez",
+    "tercero": "71116448",
     "identificacion": "71116448",
     "productos": "CMA 250g x250, CMA 250g x250, CMA 250g x250",
     "domicilio": "",
@@ -8900,7 +8900,7 @@
   {
     "consecutivo": 2851,
     "fecha": "2026-09-24",
-    "tercero": "Santiago Zuleta",
+    "tercero": "1037629010",
     "identificacion": "1037629010",
     "productos": "RLAC 100g x100",
     "domicilio": "",
@@ -8920,7 +8920,7 @@
   {
     "consecutivo": 2852,
     "fecha": "2026-09-24",
-    "tercero": "Xiomara Ribero Figueroa",
+    "tercero": "2226111723",
     "identificacion": "2226111723",
     "productos": "CMA 100g x100, GELA 100g x100, PANA 100g x100, CHLA 100g x100, PANA 250g x250, BRO 250g x250, CGA 100g x100",
     "domicilio": "Nacional Transportadora",
@@ -8970,7 +8970,7 @@
   {
     "consecutivo": 2853,
     "fecha": "2026-09-24",
-    "tercero": "Yoel Yepes",
+    "tercero": "1152466131",
     "identificacion": "1152466131",
     "productos": "RLAC 500g x500, GELA 100g x100",
     "domicilio": "Local Mensajero",
@@ -9050,7 +9050,7 @@
   {
     "consecutivo": 2856,
     "fecha": "2026-09-25",
-    "tercero": "Bibiana Gomez",
+    "tercero": "43253081",
     "identificacion": "43253081",
     "productos": "RLAA 250g x250",
     "domicilio": "",
@@ -9161,7 +9161,7 @@
     "domicilio": "",
     "total": 38000,
     "forma_pago": "T. Débito",
-    "status": "En proceso",
+    "status": "Completado",
     "client_type": "Antiguo",
     "recoge": "No",
     "items_molienda": [
