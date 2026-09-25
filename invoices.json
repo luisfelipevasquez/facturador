@@ -18625,5 +18625,45 @@
       "valor": 110000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2854,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1036693198",
+    "nombre_tercero": "Dorian Sanchez",
+    "fecha_elaboracion": "2026-09-25",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 210.08403361344537,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 71428.57142857142
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 14000
+      }
+    ],
+    "iva_total": 0,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 0
+    },
+    "observaciones": "Seleccionar minuciosamente los granos"
   }
 ]
