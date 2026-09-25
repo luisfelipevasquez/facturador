@@ -9066,5 +9066,30 @@
         "molienda": "molido fino"
       }
     ]
+  },
+  {
+    "consecutivo": 2857,
+    "fecha": "2026-09-25",
+    "tercero": "David Ayala Gomez",
+    "identificacion": "1152703016",
+    "productos": "BHO 340g x340, BNA 340g x340",
+    "domicilio": "Local Transportadora",
+    "total": 116000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BHO",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BNA",
+        "presentacion": "340g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
