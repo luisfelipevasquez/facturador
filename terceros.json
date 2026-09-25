@@ -2030,5 +2030,21 @@
     "Teléfono móvil de contacto": "3146193505",
     "Estado": "Activo",
     "siigoId": "1583dd66-f384-4951-93f0-b9dc8db77ee6"
+  },
+  {
+    "Nombre tercero": "Bibiana Gomez",
+    "Tipo de identificación": "13",
+    "Identificación": "43253081",
+    "Dirección": "Circular 2 # 74-46 laureles",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3175164533",
+    "Correo electrónico": "Bibigomezu@gmail.com",
+    "Nombres contacto": "Bibiana",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3175164533",
+    "Estado": "Activo",
+    "siigoId": "4c0fa267-0e3b-4dc1-b569-cf8880f350b3"
   }
 ]
