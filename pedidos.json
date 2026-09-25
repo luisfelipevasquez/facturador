@@ -9058,7 +9058,7 @@
     "forma_pago": "Efectivo",
     "status": "En proceso",
     "client_type": "Nuevo",
-    "recoge": "No",
+    "recoge": "Si",
     "items_molienda": [
       {
         "sku": "RLAA",
