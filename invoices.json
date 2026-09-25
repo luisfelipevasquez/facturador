@@ -18915,5 +18915,31 @@
       "valor": 76000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2861,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1037577527",
+    "nombre_tercero": "Noralba Galeano",
+    "fecha_elaboracion": "2026-09-25",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAS",
+        "producto": "Regional Lavado SurOeste",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 144.76190476190476,
+        "iva": 1809.5238095238096,
+        "iva_pct": 5,
+        "total": 38000
+      }
+    ],
+    "iva_total": 1809.5238095238096,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 38000
+    },
+    "observaciones": ""
   }
 ]
