@@ -18748,12 +18748,13 @@
         "valor_unitario": 144.76190476190476,
         "iva": 1809.5238095238096,
         "iva_pct": 5,
-        "total": 38000
+        "total": 38000,
+        "molienda": "molido fino"
       }
     ],
     "iva_total": 1809.5238095238096,
     "forma_pago": {
-      "codigo": 1,
+      "codigo": 3,
       "valor": 38000
     },
     "observaciones": "Recoge"
