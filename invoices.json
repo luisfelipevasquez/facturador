@@ -18682,7 +18682,8 @@
         "valor_unitario": 247.61904761904762,
         "iva": 1238.0952380952383,
         "iva_pct": 5,
-        "total": 26000
+        "total": 26000,
+        "molienda": "grano"
       },
       {
         "sku": "CMA",
@@ -18692,7 +18693,8 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000
+        "total": 23000,
+        "molienda": "grano"
       },
       {
         "sku": "CMA",
@@ -18702,7 +18704,8 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000
+        "total": 23000,
+        "molienda": "grano"
       },
       {
         "sku": "RLAC",
@@ -18712,7 +18715,8 @@
         "valor_unitario": 131.65266106442579,
         "iva": 2238.0952380952385,
         "iva_pct": 5,
-        "total": 47000.00000000001
+        "total": 47000.00000000001,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -18730,6 +18734,6 @@
       "codigo": 3,
       "valor": 137000
     },
-    "observaciones": ""
+    "observaciones": "Enviar a calle 69 C # 39-19  barrio las delicias Barranquilla"
   }
 ]
