@@ -18682,8 +18682,7 @@
         "valor_unitario": 247.61904761904762,
         "iva": 1238.0952380952383,
         "iva_pct": 5,
-        "total": 26000,
-        "molienda": "grano"
+        "total": 26000
       },
       {
         "sku": "CMA",
@@ -18693,8 +18692,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "grano"
+        "total": 23000
       },
       {
         "sku": "CMA",
@@ -18704,8 +18702,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "grano"
+        "total": 23000
       },
       {
         "sku": "RLAC",
@@ -18715,8 +18712,7 @@
         "valor_unitario": 131.65266106442579,
         "iva": 2238.0952380952385,
         "iva_pct": 5,
-        "total": 47000.00000000001,
-        "molienda": "grano"
+        "total": 47000.00000000001
       },
       {
         "sku": "DOM",
@@ -18735,5 +18731,31 @@
       "valor": 137000
     },
     "observaciones": "Enviar a calle 69 C # 39-19  barrio las delicias Barranquilla"
+  },
+  {
+    "consecutivo": 2856,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "43253081",
+    "nombre_tercero": "Bibiana Gomez",
+    "fecha_elaboracion": "2026-09-25",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAA",
+        "producto": "Regional Lavado Andes",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 144.76190476190476,
+        "iva": 1809.5238095238096,
+        "iva_pct": 5,
+        "total": 38000
+      }
+    ],
+    "iva_total": 1809.5238095238096,
+    "forma_pago": {
+      "codigo": 1,
+      "valor": 38000
+    },
+    "observaciones": "Recoge"
   }
 ]
