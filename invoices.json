@@ -19092,7 +19092,8 @@
         "valor_unitario": 80,
         "iva": 10000,
         "iva_pct": 5,
-        "total": 210000
+        "total": 210000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -19130,7 +19131,8 @@
         "valor_unitario": 188.57142857142856,
         "iva": 4714.285714285714,
         "iva_pct": 5,
-        "total": 98999.99999999999
+        "total": 98999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "BBO",
@@ -19140,7 +19142,8 @@
         "valor_unitario": 188.57142857142856,
         "iva": 4714.285714285714,
         "iva_pct": 5,
-        "total": 98999.99999999999
+        "total": 98999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "CGA",
@@ -19150,7 +19153,8 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000
+        "total": 89000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -19188,7 +19192,8 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000
+        "total": 89000,
+        "molienda": "molido grueso"
       },
       {
         "sku": "DOM",
@@ -19206,6 +19211,6 @@
       "codigo": 3,
       "valor": 107000
     },
-    "observaciones": ""
+    "observaciones": "Enviar a Avenida sur, Calle 19a # 206 - 45, Homecenter pereira, oficina banco Falabella"
   }
 ]
