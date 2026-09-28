@@ -8690,7 +8690,7 @@
   {
     "consecutivo": 2843,
     "fecha": "2026-09-22",
-    "tercero": "8106017",
+    "tercero": "Juan David Yepes González",
     "identificacion": "8106017",
     "productos": "RLAC 500g x500, BHO120 250g x250",
     "domicilio": "Local Mensajero",
@@ -8815,7 +8815,7 @@
   {
     "consecutivo": 2848,
     "fecha": "2026-09-23",
-    "tercero": "71116448",
+    "tercero": "Wilson Alberto Restrepo Alvarez",
     "identificacion": "71116448",
     "productos": "CMA 250g x250, CMA 250g x250, CMA 250g x250",
     "domicilio": "",
@@ -8900,7 +8900,7 @@
   {
     "consecutivo": 2851,
     "fecha": "2026-09-24",
-    "tercero": "1037629010",
+    "tercero": "Santiago Zuleta",
     "identificacion": "1037629010",
     "productos": "RLAC 100g x100",
     "domicilio": "",
@@ -8920,7 +8920,7 @@
   {
     "consecutivo": 2852,
     "fecha": "2026-09-24",
-    "tercero": "2226111723",
+    "tercero": "Xiomara Ribero Figueroa",
     "identificacion": "2226111723",
     "productos": "CMA 100g x100, GELA 100g x100, PANA 100g x100, CHLA 100g x100, PANA 250g x250, BRO 250g x250, CGA 100g x100",
     "domicilio": "Nacional Transportadora",
@@ -8970,7 +8970,7 @@
   {
     "consecutivo": 2853,
     "fecha": "2026-09-24",
-    "tercero": "1152466131",
+    "tercero": "Yoel Yepes",
     "identificacion": "1152466131",
     "productos": "RLAC 500g x500, GELA 100g x100",
     "domicilio": "Local Mensajero",
@@ -9050,12 +9050,12 @@
   {
     "consecutivo": 2856,
     "fecha": "2026-09-25",
-    "tercero": "43253081",
+    "tercero": "Bibiana Gomez",
     "identificacion": "43253081",
     "productos": "RLAA 250g x250",
     "domicilio": "",
     "total": 38000,
-    "forma_pago": "Efectivo",
+    "forma_pago": "T. Débito",
     "status": "Completado",
     "client_type": "Nuevo",
     "recoge": "Si",
@@ -9118,8 +9118,8 @@
     "tercero": "Christian Camilo Sanchez",
     "identificacion": "1036599619",
     "productos": "RLAA 500g x500",
-    "domicilio": "Local Mensajero",
-    "total": 72000,
+    "domicilio": "",
+    "total": 58000,
     "forma_pago": "T. Débito",
     "status": "Completado",
     "client_type": "Antiguo",
@@ -9169,6 +9169,31 @@
         "sku": "RLAS",
         "presentacion": "250g",
         "molienda": "molido grueso"
+      }
+    ]
+  },
+  {
+    "consecutivo": 2862,
+    "fecha": "2026-09-28",
+    "tercero": "Pedro Pablo Camacho Agudelo",
+    "identificacion": "1018412104",
+    "productos": "CMA 250g x250, PANA 250g x250",
+    "domicilio": "Nacional Transportadora",
+    "total": 146000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CMA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "PANA",
+        "presentacion": "250g",
+        "molienda": "grano"
       }
     ]
   }
