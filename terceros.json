@@ -2062,5 +2062,21 @@
     "Teléfono móvil de contacto": "4709812332",
     "Estado": "Activo",
     "siigoId": "32f09e45-7ad2-4961-b617-c715b94c7156"
+  },
+  {
+    "Nombre tercero": "John Restrepo Rubio",
+    "Tipo de identificación": "13",
+    "Identificación": "1143869529",
+    "Dirección": "Km 1 vía Melgar-Tolima. Base aérea Luis Pinto",
+    "Ciudad": "Melgar",
+    "Código departamento": "73",
+    "Código ciudad": "73483",
+    "Teléfono.": "3204401359",
+    "Correo electrónico": "Johnthekook@gmail.com",
+    "Nombres contacto": "John",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3204401359",
+    "Estado": "Activo",
+    "siigoId": "c689ce95-0ae5-4c52-934c-28a6bc1b9365"
   }
 ]
