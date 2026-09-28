@@ -19113,5 +19113,63 @@
       "valor": 210000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2865,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1143869529",
+    "nombre_tercero": "John Restrepo Rubio",
+    "fecha_elaboracion": "2026-09-28",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 188.57142857142856,
+        "iva": 4714.285714285714,
+        "iva_pct": 5,
+        "total": 98999.99999999999
+      },
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 188.57142857142856,
+        "iva": 4714.285714285714,
+        "iva_pct": 5,
+        "total": 98999.99999999999
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 18000
+      }
+    ],
+    "iva_total": 13666.666666666666,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 287000
+    },
+    "observaciones": ""
   }
 ]
