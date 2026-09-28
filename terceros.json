@@ -2046,5 +2046,21 @@
     "Teléfono móvil de contacto": "3175164533",
     "Estado": "Activo",
     "siigoId": "4c0fa267-0e3b-4dc1-b569-cf8880f350b3"
+  },
+  {
+    "Nombre tercero": "Daniel Felipe García García",
+    "Tipo de identificación": "13",
+    "Identificación": "1053817089",
+    "Dirección": "USA",
+    "Ciudad": "— Seleccionar ciudad —",
+    "Código departamento": "",
+    "Código ciudad": "",
+    "Teléfono.": "4709812332",
+    "Correo electrónico": "Danielgarciagarcia935@gmail.com",
+    "Nombres contacto": "Daniel Felipe",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "4709812332",
+    "Estado": "Activo",
+    "siigoId": "32f09e45-7ad2-4961-b617-c715b94c7156"
   }
 ]
