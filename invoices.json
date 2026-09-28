@@ -18748,8 +18748,7 @@
         "valor_unitario": 144.76190476190476,
         "iva": 1809.5238095238096,
         "iva_pct": 5,
-        "total": 38000,
-        "molienda": "molido fino"
+        "total": 38000
       }
     ],
     "iva_total": 1809.5238095238096,
@@ -18871,8 +18870,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       }
     ],
     "iva_total": 2761.904761904762,
@@ -18931,6 +18929,52 @@
     "forma_pago": {
       "codigo": 3,
       "valor": 38000
+    },
+    "observaciones": ""
+  },
+  {
+    "consecutivo": 2862,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1018412104",
+    "nombre_tercero": "Pedro Pablo Camacho Agudelo",
+    "fecha_elaboracion": "2026-09-28",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 6095.238095238095,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 146000
     },
     "observaciones": ""
   }
