@@ -2078,5 +2078,21 @@
     "Teléfono móvil de contacto": "3204401359",
     "Estado": "Activo",
     "siigoId": "c689ce95-0ae5-4c52-934c-28a6bc1b9365"
+  },
+  {
+    "Nombre tercero": "Jose Luis Perez Gomez",
+    "Tipo de identificación": "13",
+    "Identificación": "1007615481",
+    "Dirección": "Cra 33 #30-38 casa",
+    "Ciudad": "Santa Rosa De Osos",
+    "Código departamento": "05",
+    "Código ciudad": "05686",
+    "Teléfono.": "3126962982",
+    "Correo electrónico": "luisssperezgo@gmail.com",
+    "Nombres contacto": "Jose Luis",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3126962982",
+    "Estado": "Activo",
+    "siigoId": "065fd33e-fe35-44b6-883e-81959946b272"
   }
 ]
