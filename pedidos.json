@@ -9590,7 +9590,7 @@
   {
     "consecutivo": 2876,
     "fecha": "2026-09-29",
-    "tercero": "Milena Delgado Mosquera",
+    "tercero": "Milena Delgado",
     "identificacion": "1116270334",
     "productos": "CMA 250g x250, RLAC 250g x250",
     "domicilio": "Nacional Transportadora",
@@ -9646,7 +9646,7 @@
     "domicilio": "Otro",
     "total": 577000,
     "forma_pago": "T. Débito",
-    "status": "En proceso",
+    "status": "Completado",
     "client_type": "Antiguo",
     "recoge": "No",
     "items_molienda": [
