@@ -9561,5 +9561,30 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2875,
+    "fecha": "2026-09-29",
+    "tercero": "Carlos Andres Lopez Ramirez",
+    "identificacion": "14802380",
+    "productos": "BBO 340g x340, CGA 340g x340",
+    "domicilio": "Nacional Transportadora",
+    "total": 161000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BBO",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "340g",
+        "molienda": "molido medio"
+      }
+    ]
   }
 ]
