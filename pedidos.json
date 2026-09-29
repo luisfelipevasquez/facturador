@@ -9541,5 +9541,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2874,
+    "fecha": "2026-09-29",
+    "tercero": "Cristian David Florian",
+    "identificacion": "1037650120",
+    "productos": "CGA 500g x500",
+    "domicilio": "Local Mensajero",
+    "total": 103000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CGA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
