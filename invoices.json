@@ -19797,5 +19797,73 @@
       "valor": 128000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2878,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1000000000",
+    "nombre_tercero": "Baxter Delgado Osejo",
+    "fecha_elaboracion": "2026-09-29",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAS",
+        "producto": "Regional Lavado SurOeste",
+        "presentacion": "2500g",
+        "cantidad": 2500,
+        "valor_unitario": 80,
+        "iva": 10000,
+        "iva_pct": 5,
+        "total": 210000
+      },
+      {
+        "sku": "CHLA",
+        "producto": "Chiroso Lavado",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 152.38095238095238,
+        "iva": 3809.523809523809,
+        "iva_pct": 5,
+        "total": 80000
+      },
+      {
+        "sku": "BHO72",
+        "producto": "Blend Honey72h",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 137.14285714285714,
+        "iva": 3428.5714285714284,
+        "iva_pct": 5,
+        "total": 72000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 49523.80952380952
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Otro",
+        "cantidad": 1,
+        "valor_unitario": 215000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 215000
+      }
+    ],
+    "iva_total": 17238.095238095237,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 577000
+    },
+    "observaciones": "Enviar a Christian Foronda\nCalle 55 # 80-39, interior 101\n+57 321 6709691"
   }
 ]
