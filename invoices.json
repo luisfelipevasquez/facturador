@@ -19659,5 +19659,51 @@
       "valor": 103000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2875,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "14802380",
+    "nombre_tercero": "Carlos Andres Lopez Ramirez",
+    "fecha_elaboracion": "2026-09-29",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 210.08403361344537,
+        "iva": 3571.428571428571,
+        "iva_pct": 5,
+        "total": 74999.99999999999
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 190.47619047619048,
+        "iva": 3238.0952380952385,
+        "iva_pct": 5,
+        "total": 68000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 6809.523809523809,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 161000
+    },
+    "observaciones": ""
   }
 ]
