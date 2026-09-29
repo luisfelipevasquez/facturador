@@ -19577,5 +19577,51 @@
       "valor": 94000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2873,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1128420145",
+    "nombre_tercero": "Daniel Muñoz",
+    "fecha_elaboracion": "2026-09-29",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 148.45938375350138,
+        "iva": 2523.809523809524,
+        "iva_pct": 5,
+        "total": 53000
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 5000,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 119000
+    },
+    "observaciones": ""
   }
 ]
