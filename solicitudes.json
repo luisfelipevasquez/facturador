@@ -311,6 +311,12 @@
       "shipping_ciudad": "Sabaneta",
       "cod_dpto_envio": "05",
       "cod_ciudad_envio": "05631"
+    },
+    "wa": {
+      "at": "2026-09-30T19:19:11.589Z",
+      "status": "sent",
+      "wamid": "wamid.HBgMNTczMTY4NDAwMTk4FQIAERgSNTExOTRERTk2M0NGREJBRThEAA==",
+      "to": "573168400198"
     }
   }
 ]
