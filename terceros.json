@@ -2094,5 +2094,21 @@
     "Teléfono móvil de contacto": "3126962982",
     "Estado": "Activo",
     "siigoId": "065fd33e-fe35-44b6-883e-81959946b272"
+  },
+  {
+    "Nombre tercero": "Daniel Steven Quintero",
+    "Tipo de identificación": "13",
+    "Identificación": "1007490361",
+    "Dirección": "Calle 59 # 46-71 Molino de Comfandi. Casa",
+    "Ciudad": "Palmira",
+    "Código departamento": "76",
+    "Código ciudad": "76520",
+    "Teléfono.": "3154783874",
+    "Correo electrónico": "Cloud1007490361@gmail.com",
+    "Nombres contacto": "Daniel",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3154783874",
+    "Estado": "Activo",
+    "siigoId": "02cca9d2-a132-4956-8777-1751209c2bc2"
   }
 ]
