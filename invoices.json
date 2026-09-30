@@ -20209,5 +20209,61 @@
       "valor": 113000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2885,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1017206601",
+    "nombre_tercero": "Nataly Uribe Uribe",
+    "fecha_elaboracion": "2026-09-30",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "CHLA",
+        "producto": "Chiroso Lavado",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 190.47619047619048,
+        "iva": 2380.952380952381,
+        "iva_pct": 5,
+        "total": 50000
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      }
+    ],
+    "iva_total": 10952.380952380954,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 230000
+    },
+    "observaciones": ""
   }
 ]
