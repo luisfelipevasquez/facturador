@@ -19865,5 +19865,53 @@
       "valor": 577000
     },
     "observaciones": "Enviar a Christian Foronda\nCalle 55 # 80-39, interior 101\n+57 321 6709691"
+  },
+  {
+    "consecutivo": 2879,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1007490361",
+    "nombre_tercero": "Daniel Steven Quintero",
+    "fecha_elaboracion": "2026-09-29",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO72",
+        "producto": "Blend Honey72h",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 137.14285714285714,
+        "iva": 3428.5714285714284,
+        "iva_pct": 5,
+        "total": 72000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      },
+      {
+        "sku": "CAMA",
+        "producto": "Cáscara de Maragogype",
+        "presentacion": "Sachet",
+        "cantidad": 1,
+        "valor_unitario": 6000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 6000
+      }
+    ],
+    "iva_total": 3428.5714285714284,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 90000
+    },
+    "observaciones": "OJO: molido medio-grueso y lleva Jarra infusora"
   }
 ]
