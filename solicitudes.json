@@ -257,7 +257,7 @@
   },
   {
     "id": "SOL-1790795949196-snc5d",
-    "estado": "pendiente",
+    "estado": "revisado",
     "creado": "2026-09-30T19:19:09.196Z",
     "cliente": {
       "nombre": "Juan José Molina Taborda",
@@ -317,6 +317,7 @@
       "status": "sent",
       "wamid": "wamid.HBgMNTczMTY4NDAwMTk4FQIAERgSNTExOTRERTk2M0NGREJBRThEAA==",
       "to": "573168400198"
-    }
+    },
+    "actualizado": "2026-09-30T21:03:59.722Z"
   }
 ]
