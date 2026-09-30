@@ -2126,5 +2126,21 @@
     "Teléfono móvil de contacto": "3113826016",
     "Estado": "Activo",
     "siigoId": "b618f18a-a9a1-479e-a982-1d9039818fbd"
+  },
+  {
+    "Nombre tercero": "Alvaro Javier Castellanos Garcia",
+    "Tipo de identificación": "13",
+    "Identificación": "1082877333",
+    "Dirección": "Cra 83a # 48-24 CR la farfala Apto 704d Caney",
+    "Ciudad": "Cali",
+    "Código departamento": "76",
+    "Código ciudad": "76001",
+    "Teléfono.": "3102943321",
+    "Correo electrónico": "alvarojavier12344@hotmail.com",
+    "Nombres contacto": "Alvaro Javier",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3102943321",
+    "Estado": "Activo",
+    "siigoId": "aa90731b-afde-4cfb-aa52-f2facfc8a085"
   }
 ]
