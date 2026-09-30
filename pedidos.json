@@ -9736,5 +9736,30 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2882,
+    "fecha": "2026-09-30",
+    "tercero": "Sergio Hernando Ruiz Paez",
+    "identificacion": "1030674862",
+    "productos": "BBO 250g x250, BHO72 250g x250",
+    "domicilio": "Nacional Transportadora",
+    "total": 118000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BBO",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO72",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
