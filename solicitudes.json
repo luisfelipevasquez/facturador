@@ -254,5 +254,63 @@
       "to": "573159990634"
     },
     "actualizado": "2026-09-05T17:45:18.667Z"
+  },
+  {
+    "id": "SOL-1790795949196-snc5d",
+    "estado": "pendiente",
+    "creado": "2026-09-30T19:19:09.196Z",
+    "cliente": {
+      "nombre": "Juan José Molina Taborda",
+      "tipo_documento": "13",
+      "documento": "1094908367",
+      "email": "Juanmol_19@hotmail.com",
+      "celular": "57 3168400198",
+      "ciudad": "Sabaneta",
+      "direccion": "Calle 77sur # 35a-105 Maderos del campo 1 TO6 Apto 702",
+      "observaciones": ""
+    },
+    "productos": [
+      {
+        "sku": "PANA",
+        "nombre": "Papayo Natural",
+        "presentacion": "250g",
+        "molienda": "grano",
+        "cantidad": 1,
+        "precio": 76000
+      },
+      {
+        "sku": "CGA",
+        "nombre": "Cofermentado Galleta",
+        "presentacion": "100g",
+        "molienda": "grano",
+        "cantidad": 1,
+        "precio": 23000
+      },
+      {
+        "sku": "DOM",
+        "nombre": "Domicilio",
+        "presentacion": "Envío Área Metropolitana",
+        "molienda": "",
+        "cantidad": 1,
+        "precio": 14000
+      }
+    ],
+    "total_estimado": 113000,
+    "siigo_customer_found": true,
+    "siigo_customer_id": "87e15077-ee52-4eab-8989-7a5009237cec",
+    "envio": {
+      "registered_address": "Calle 77sur # 35a-105 Maderos del campo 1 TO6 Apto 702",
+      "shipping_address_same_as_registered": true,
+      "shipping_address": "Calle 77sur # 35a-105 Maderos del campo 1 TO6 Apto 702",
+      "customer_overrode_address": false,
+      "shipping_method": "Envío Área Metropolitana",
+      "shipping_base_cost": 14000,
+      "shipping_cost": 14000,
+      "free_shipping": false,
+      "shipping_departamento": "Antioquia",
+      "shipping_ciudad": "Sabaneta",
+      "cod_dpto_envio": "05",
+      "cod_ciudad_envio": "05631"
+    }
   }
 ]
