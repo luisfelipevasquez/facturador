@@ -19995,5 +19995,51 @@
       "valor": 114000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2882,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1030674862",
+    "nombre_tercero": "Sergio Hernando Ruiz Paez",
+    "fecha_elaboracion": "2026-09-30",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 220.95238095238093,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      },
+      {
+        "sku": "BHO72",
+        "producto": "Blend Honey72h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      }
+    ],
+    "iva_total": 4761.9047619047615,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 118000
+    },
+    "observaciones": ""
   }
 ]
