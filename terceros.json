@@ -2110,5 +2110,21 @@
     "Teléfono móvil de contacto": "3154783874",
     "Estado": "Activo",
     "siigoId": "02cca9d2-a132-4956-8777-1751209c2bc2"
+  },
+  {
+    "Nombre tercero": "Mónica Bustos",
+    "Tipo de identificación": "13",
+    "Identificación": "52409372",
+    "Dirección": "Calle 6 no 3 a 45 Barrio villa esperanza",
+    "Ciudad": "Soatá",
+    "Código departamento": "15",
+    "Código ciudad": "15723",
+    "Teléfono.": "3113826016",
+    "Correo electrónico": "monicabustossanchez@gmail.com",
+    "Nombres contacto": "Mónica",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3113826016",
+    "Estado": "Activo",
+    "siigoId": "b618f18a-a9a1-479e-a982-1d9039818fbd"
   }
 ]
