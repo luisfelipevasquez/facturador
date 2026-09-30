@@ -9691,5 +9691,25 @@
         "molienda": "molido grueso"
       }
     ]
+  },
+  {
+    "consecutivo": 2880,
+    "fecha": "2026-09-29",
+    "tercero": "Mónica Bustos",
+    "identificacion": "52409372",
+    "productos": "CHLA 500g x500",
+    "domicilio": "Nacional Transportadora",
+    "total": 98000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CHLA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
