@@ -2142,5 +2142,21 @@
     "Teléfono móvil de contacto": "3102943321",
     "Estado": "Activo",
     "siigoId": "aa90731b-afde-4cfb-aa52-f2facfc8a085"
+  },
+  {
+    "Nombre tercero": "Pedro Rojas",
+    "Tipo de identificación": "13",
+    "Identificación": "1075213090",
+    "Dirección": "Cra 29a 5sur-332",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3153196105",
+    "Correo electrónico": "p_drojas@hotmail.com",
+    "Nombres contacto": "Pedro",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3153196105",
+    "Estado": "Activo",
+    "siigoId": "d768f189-ac58-4441-8a23-cac71dd1053e"
   }
 ]
