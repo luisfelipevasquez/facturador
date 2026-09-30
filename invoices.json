@@ -19913,5 +19913,41 @@
       "valor": 90000
     },
     "observaciones": "OJO: molido medio-grueso y lleva Jarra infusora"
+  },
+  {
+    "consecutivo": 2880,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "52409372",
+    "nombre_tercero": "Mónica Bustos",
+    "fecha_elaboracion": "2026-09-29",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CHLA",
+        "producto": "Chiroso Lavado",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 152.38095238095238,
+        "iva": 3809.523809523809,
+        "iva_pct": 5,
+        "total": 80000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 3809.523809523809,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 98000
+    },
+    "observaciones": ""
   }
 ]
