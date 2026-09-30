@@ -9901,5 +9901,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2887,
+    "fecha": "2026-09-30",
+    "tercero": "Pedro Rojas",
+    "identificacion": "1075213090",
+    "productos": "RLAS 250g x250",
+    "domicilio": "",
+    "total": 38000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAS",
+        "presentacion": "250g",
+        "molienda": "molido medio"
+      }
+    ]
   }
 ]
