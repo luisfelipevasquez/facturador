@@ -20041,5 +20041,127 @@
       "valor": 118000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2883,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1082877333",
+    "nombre_tercero": "Alvaro Javier Castellanos Garcia",
+    "fecha_elaboracion": "2026-09-30",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CHLA",
+        "producto": "Chiroso Lavado",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 209.52380952380952,
+        "iva": 1047.6190476190475,
+        "iva_pct": 5,
+        "total": 21999.999999999996
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 1095.2380952380952,
+        "iva_pct": 5,
+        "total": 23000
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 1095.2380952380952,
+        "iva_pct": 5,
+        "total": 23000
+      },
+      {
+        "sku": "BNA",
+        "producto": "Blend Natural 56h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 904.7619047619048,
+        "iva_pct": 5,
+        "total": 19000,
+        "descuento_pct": 5,
+        "descuento_valor": 952.3809523809525
+      },
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 904.7619047619048,
+        "iva_pct": 5,
+        "total": 19000,
+        "descuento_pct": 5,
+        "descuento_valor": 952.3809523809525
+      },
+      {
+        "sku": "BRO",
+        "producto": "Bourbon Rosado",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "BRO",
+        "producto": "Bourbon Rosado",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "GELA",
+        "producto": "Gesha Lavado",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "BHO72",
+        "producto": "Blend Honey72h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 952.3809523809525,
+        "iva_pct": 5,
+        "total": 20000.000000000004
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 18000
+      }
+    ],
+    "iva_total": 16857.14285714286,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 354000
+    },
+    "observaciones": ""
   }
 ]
