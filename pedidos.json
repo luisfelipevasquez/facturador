@@ -10057,7 +10057,7 @@
     "fecha": "2026-10-01",
     "tercero": "Angel Leonardo Mendoza Vargas",
     "identificacion": "1014219421",
-    "productos": "RLAC 500g x500, RLAA 500g x500",
+    "productos": "RLAC 500g x500, RLAA 500g x500, CMA 250g x250",
     "domicilio": "Nacional Transportadora",
     "total": 134000,
     "forma_pago": "T. Débito",
@@ -10073,6 +10073,11 @@
       {
         "sku": "RLAA",
         "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "250g",
         "molienda": "grano"
       }
     ]
@@ -10104,6 +10109,31 @@
         "sku": "BNA120",
         "presentacion": "250g",
         "molienda": "grano"
+      }
+    ]
+  },
+  {
+    "consecutivo": 2901,
+    "fecha": "2026-10-01",
+    "tercero": "Jesus Osorio",
+    "identificacion": "1047477106",
+    "productos": "RLAC 500g x500, RLAC 500g x500",
+    "domicilio": "Local Mensajero",
+    "total": 130000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAC",
+        "presentacion": "500g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "RLAC",
+        "presentacion": "500g",
+        "molienda": "molido grueso"
       }
     ]
   }
