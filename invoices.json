@@ -20979,5 +20979,51 @@
       "valor": 73000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2899,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1014219421",
+    "nombre_tercero": "Angel Leonardo Mendoza Vargas",
+    "fecha_elaboracion": "2026-10-01",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "RLAA",
+        "producto": "Regional Lavado Andes",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 5523.809523809524,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 134000
+    },
+    "observaciones": ""
   }
 ]
