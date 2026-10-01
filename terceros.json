@@ -2158,5 +2158,21 @@
     "Teléfono móvil de contacto": "3153196105",
     "Estado": "Activo",
     "siigoId": "d768f189-ac58-4441-8a23-cac71dd1053e"
+  },
+  {
+    "Nombre tercero": "Alejandro Arbelaez Garcia",
+    "Tipo de identificación": "13",
+    "Identificación": "1000899342",
+    "Dirección": "Calle 44#79-114 Bodega",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3243484091",
+    "Correo electrónico": "alejandroarbelaezgarcia20@gmail.com",
+    "Nombres contacto": "Alejandro",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3243484091",
+    "Estado": "Activo",
+    "siigoId": "b12ea59e-fb3f-4641-aac3-5b37dc75fe68"
   }
 ]
