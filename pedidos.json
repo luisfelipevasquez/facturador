@@ -9966,5 +9966,35 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2890,
+    "fecha": "2026-09-30",
+    "tercero": "Natalia Idarraga",
+    "identificacion": "1110486785",
+    "productos": "BHO72 250g x250, RLAS 250g x250, RLAA 250g x250",
+    "domicilio": "Nacional Transportadora",
+    "total": 136000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BHO72",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAS",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
