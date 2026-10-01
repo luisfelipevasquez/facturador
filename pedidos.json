@@ -10021,5 +10021,35 @@
         "molienda": "molido grueso"
       }
     ]
+  },
+  {
+    "consecutivo": 2898,
+    "fecha": "2026-10-01",
+    "tercero": "Alejandro Arbelaez Garcia",
+    "identificacion": "1000899342",
+    "productos": "BHO72 100g x100, BBO 100g x100, RLAC 100g x100",
+    "domicilio": "Local Transportadora",
+    "total": 73000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BHO72",
+        "presentacion": "100g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "BBO",
+        "presentacion": "100g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "RLAC",
+        "presentacion": "100g",
+        "molienda": "molido grueso"
+      }
+    ]
   }
 ]
