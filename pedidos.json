@@ -10136,5 +10136,35 @@
         "molienda": "molido grueso"
       }
     ]
+  },
+  {
+    "consecutivo": 2902,
+    "fecha": "2026-10-01",
+    "tercero": "Daniel Muñoz",
+    "identificacion": "1128420145",
+    "productos": "BRO 340g x340, CMA 100g x100, BHO120 100g x100",
+    "domicilio": "Local Mensajero",
+    "total": 154000.00000000003,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BRO",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO120",
+        "presentacion": "100g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
