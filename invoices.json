@@ -20269,5 +20269,91 @@
       "valor": 38000
     },
     "observaciones": "Lo lleva Pipe al Hptu"
+  },
+  {
+    "consecutivo": 2888,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "8161934",
+    "nombre_tercero": "Victor Parra",
+    "fecha_elaboracion": "2026-09-30",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BNA",
+        "producto": "Blend Natural 56h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 904.7619047619048,
+        "iva_pct": 5,
+        "total": 19000,
+        "descuento_pct": 5,
+        "descuento_valor": 952.3809523809525
+      },
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 904.7619047619048,
+        "iva_pct": 5,
+        "total": 19000,
+        "descuento_pct": 5,
+        "descuento_valor": 952.3809523809525
+      },
+      {
+        "sku": "BHO72",
+        "producto": "Blend Honey72h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 895.2380952380954,
+        "iva_pct": 5,
+        "total": 18800.000000000004,
+        "descuento_pct": 6,
+        "descuento_valor": 1142.857142857143
+      },
+      {
+        "sku": "BHO120",
+        "producto": "Blend Honey 120h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 895.2380952380954,
+        "iva_pct": 5,
+        "total": 18800.000000000004,
+        "descuento_pct": 6,
+        "descuento_valor": 1142.857142857143
+      },
+      {
+        "sku": "CHLA",
+        "producto": "Chiroso Lavado",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 209.52380952380952,
+        "iva": 932.3809523809523,
+        "iva_pct": 5,
+        "total": 19580,
+        "descuento_pct": 11,
+        "descuento_valor": 2304.7619047619046
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 10000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 10000
+      }
+    ],
+    "iva_total": 4532.380952380952,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 105180
+    },
+    "observaciones": ""
   }
 ]
