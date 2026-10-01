@@ -20940,7 +20940,8 @@
         "valor_unitario": 190.47619047619048,
         "iva": 952.3809523809525,
         "iva_pct": 5,
-        "total": 20000.000000000004
+        "total": 20000.000000000004,
+        "molienda": "molido grueso"
       },
       {
         "sku": "BBO",
@@ -20950,7 +20951,8 @@
         "valor_unitario": 247.61904761904762,
         "iva": 1238.0952380952383,
         "iva_pct": 5,
-        "total": 26000
+        "total": 26000,
+        "molienda": "molido grueso"
       },
       {
         "sku": "RLAC",
@@ -20960,7 +20962,8 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000
+        "total": 17000,
+        "molienda": "molido grueso"
       },
       {
         "sku": "DOM",
@@ -20996,7 +20999,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "grano"
       },
       {
         "sku": "RLAA",
@@ -21006,7 +21010,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -21017,6 +21022,19 @@
         "iva": 0,
         "iva_pct": 0,
         "total": 18000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 49523.80952380952,
+        "molienda": "grano"
       }
     ],
     "iva_total": 5523.809523809524,
@@ -21024,7 +21042,7 @@
       "codigo": 3,
       "valor": 134000
     },
-    "observaciones": ""
+    "observaciones": "Redime 250g maracuyá grano"
   },
   {
     "consecutivo": 2900,
@@ -21042,7 +21060,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "grano"
       },
       {
         "sku": "BBO",
@@ -21052,7 +21071,8 @@
         "valor_unitario": 220.95238095238093,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "grano"
       },
       {
         "sku": "BNA120",
@@ -21062,7 +21082,8 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000
+        "total": 42000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
