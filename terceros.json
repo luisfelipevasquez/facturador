@@ -2174,5 +2174,21 @@
     "Teléfono móvil de contacto": "3243484091",
     "Estado": "Activo",
     "siigoId": "b12ea59e-fb3f-4641-aac3-5b37dc75fe68"
+  },
+  {
+    "Nombre tercero": "Henry Becerra",
+    "Tipo de identificación": "13",
+    "Identificación": "71724430",
+    "Dirección": "Calle 61 #55a-37 casa de la divina providencia",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3014447405",
+    "Correo electrónico": "hen2jbc@hotmail.com",
+    "Nombres contacto": "Henry",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3014447405",
+    "Estado": "Activo",
+    "siigoId": "8742df24-cfa6-4dc6-bad9-a79816cf28e9"
   }
 ]
