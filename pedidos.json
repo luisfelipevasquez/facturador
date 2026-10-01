@@ -9751,7 +9751,7 @@
     "domicilio": "Nacional Transportadora",
     "total": 354000,
     "forma_pago": "T. Débito",
-    "status": "En proceso",
+    "status": "Completado",
     "client_type": "Nuevo",
     "recoge": "No",
     "items_molienda": [
@@ -10172,7 +10172,7 @@
     "fecha": "2026-10-01",
     "tercero": "Catalina Gómez",
     "identificacion": "1082857075",
-    "productos": "BNA 100g x100, BNA120 100g x100, BBO 250g x250",
+    "productos": "BNA 100g x100, BNA120 100g x100, BBO 250g x250, CGA 250g x250",
     "domicilio": "Local Transportadora",
     "total": 106000,
     "forma_pago": "T. Débito",
@@ -10192,6 +10192,11 @@
       },
       {
         "sku": "BBO",
+        "presentacion": "250g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "CGA",
         "presentacion": "250g",
         "molienda": "molido medio"
       }
