@@ -9673,26 +9673,6 @@
     ]
   },
   {
-    "consecutivo": 2879,
-    "fecha": "2026-09-29",
-    "tercero": "Daniel Steven Quintero",
-    "identificacion": "1007490361",
-    "productos": "BHO72 500g x500, CAMA Sachet x1",
-    "domicilio": "Nacional Transportadora",
-    "total": 90000,
-    "forma_pago": "T. Débito",
-    "status": "Completado",
-    "client_type": "Nuevo",
-    "recoge": "No",
-    "items_molienda": [
-      {
-        "sku": "BHO72",
-        "presentacion": "500g",
-        "molienda": "molido grueso"
-      }
-    ]
-  },
-  {
     "consecutivo": 2880,
     "fecha": "2026-09-29",
     "tercero": "Mónica Bustos",
@@ -9919,6 +9899,46 @@
         "sku": "RLAS",
         "presentacion": "250g",
         "molienda": "molido medio"
+      }
+    ]
+  },
+  {
+    "consecutivo": 2888,
+    "fecha": "2026-09-30",
+    "tercero": "Victor Parra",
+    "identificacion": "8161934",
+    "productos": "BNA 100g x100, BNA120 100g x100, BHO72 100g x100, BHO120 100g x100, CHLA 100g x100",
+    "domicilio": "Local Transportadora",
+    "total": 105180,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BNA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BNA120",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO72",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO120",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CHLA",
+        "presentacion": "100g",
+        "molienda": "grano"
       }
     ]
   }
