@@ -21156,7 +21156,8 @@
         "valor_unitario": 271.7086834733894,
         "iva": 4619.04761904762,
         "iva_pct": 5,
-        "total": 97000.00000000001
+        "total": 97000.00000000001,
+        "molienda": "grano"
       },
       {
         "sku": "CMA",
@@ -21166,7 +21167,8 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000
+        "total": 23000,
+        "molienda": "grano"
       },
       {
         "sku": "BHO120",
@@ -21176,7 +21178,8 @@
         "valor_unitario": 190.47619047619048,
         "iva": 952.3809523809525,
         "iva_pct": 5,
-        "total": 20000.000000000004
+        "total": 20000.000000000004,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -21214,7 +21217,8 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525
+        "descuento_valor": 952.3809523809525,
+        "molienda": "molido medio"
       },
       {
         "sku": "BNA120",
@@ -21226,7 +21230,8 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525
+        "descuento_valor": 952.3809523809525,
+        "molienda": "molido medio"
       },
       {
         "sku": "BBO",
@@ -21236,7 +21241,8 @@
         "valor_unitario": 220.95238095238093,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "molido medio"
       },
       {
         "sku": "DOM",
@@ -21247,6 +21253,19 @@
         "iva": 0,
         "iva_pct": 0,
         "total": 10000
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 49523.80952380952,
+        "molienda": "molido medio"
       }
     ],
     "iva_total": 4571.428571428572,
