@@ -8920,7 +8920,7 @@
   {
     "consecutivo": 2852,
     "fecha": "2026-09-24",
-    "tercero": "Xiomara Ribero Figueroa",
+    "tercero": "2226111723",
     "identificacion": "2226111723",
     "productos": "CMA 100g x100, GELA 100g x100, PANA 100g x100, CHLA 100g x100, PANA 250g x250, BRO 250g x250, CGA 100g x100",
     "domicilio": "Nacional Transportadora",
@@ -10199,6 +10199,26 @@
         "sku": "CGA",
         "presentacion": "250g",
         "molienda": "molido medio"
+      }
+    ]
+  },
+  {
+    "consecutivo": 2904,
+    "fecha": "2026-10-01",
+    "tercero": "Henry Becerra",
+    "identificacion": "71724430",
+    "productos": "BRO 250g x250",
+    "domicilio": "Local Mensajero",
+    "total": 90000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BRO",
+        "presentacion": "250g",
+        "molienda": "molido grueso"
       }
     ]
   }
