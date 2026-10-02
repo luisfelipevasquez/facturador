@@ -21303,5 +21303,63 @@
       "valor": 90000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2905,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "10296447",
+    "nombre_tercero": "Andres Felipe Soto",
+    "fecha_elaboracion": "2026-10-02",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 264.76190476190476,
+        "iva": 6619.047619047618,
+        "iva_pct": 5,
+        "total": 139000
+      },
+      {
+        "sku": "CHLA",
+        "producto": "Chiroso Lavado",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 152.38095238095238,
+        "iva": 3809.523809523809,
+        "iva_pct": 5,
+        "total": 80000
+      },
+      {
+        "sku": "BHO72",
+        "producto": "Blend Honey72h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      },
+      {
+        "sku": "BHO72",
+        "producto": "Blend Honey72h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 40000
+      }
+    ],
+    "iva_total": 12428.571428571428,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 261000
+    },
+    "observaciones": "Redime fidelización. Va con tarjeta nueva sin stickers"
   }
 ]
