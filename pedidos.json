@@ -10221,5 +10221,40 @@
         "molienda": "molido grueso"
       }
     ]
+  },
+  {
+    "consecutivo": 2905,
+    "fecha": "2026-10-02",
+    "tercero": "Andres Felipe Soto",
+    "identificacion": "10296447",
+    "productos": "PANA 500g x500, CHLA 500g x500, BHO72 250g x250, BHO72 250g x250",
+    "domicilio": "",
+    "total": 261000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "PANA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CHLA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO72",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO72",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
