@@ -10083,36 +10083,6 @@
     ]
   },
   {
-    "consecutivo": 2900,
-    "fecha": "2026-10-01",
-    "tercero": "573128594978",
-    "identificacion": "573128594978",
-    "productos": "BRO 250g x250, BBO 250g x250, BNA120 250g x250",
-    "domicilio": "Nacional Transportadora",
-    "total": 194000,
-    "forma_pago": "T. Débito",
-    "status": "Completado",
-    "client_type": "Nuevo",
-    "recoge": "No",
-    "items_molienda": [
-      {
-        "sku": "BRO",
-        "presentacion": "250g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "BBO",
-        "presentacion": "250g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "BNA120",
-        "presentacion": "250g",
-        "molienda": "grano"
-      }
-    ]
-  },
-  {
     "consecutivo": 2901,
     "fecha": "2026-10-01",
     "tercero": "Jesus Osorio",
@@ -10437,6 +10407,26 @@
     "items_molienda": [
       {
         "sku": "BHO120",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
+  },
+  {
+    "consecutivo": 2914,
+    "fecha": "2026-10-03",
+    "tercero": "Sandra Liliana Uribe Velez",
+    "identificacion": "43264315",
+    "productos": "BHO 500g x500",
+    "domicilio": "",
+    "total": 72000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BHO",
         "presentacion": "500g",
         "molienda": "grano"
       }
