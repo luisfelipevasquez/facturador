@@ -20922,7 +20922,12 @@
       "codigo": 3,
       "valor": 104000.00000000001
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "a28069fe-76bc-4b91-883d-198a6b8a360c",
+    "siigoNumber": "FV-2-2899",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-03T18:59:41.578Z"
   },
   {
     "consecutivo": 2898,
@@ -20978,7 +20983,12 @@
       "codigo": 3,
       "valor": 73000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "5ec9efc7-e939-4a6a-9c19-a21806da66bc",
+    "siigoNumber": "FV-2-2900",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-03T18:59:42.192Z"
   },
   {
     "consecutivo": 2899,
@@ -21036,7 +21046,12 @@
       "codigo": 3,
       "valor": 134000
     },
-    "observaciones": "Redime 250g maracuyá grano"
+    "observaciones": "Redime 250g maracuyá grano",
+    "siigoId": "cdbb853f-49a5-4c8a-b2d5-af2345627582",
+    "siigoNumber": "FV-2-2901",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-03T18:59:42.804Z"
   },
   {
     "consecutivo": 2901,
@@ -21082,7 +21097,12 @@
       "codigo": 3,
       "valor": 130000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "84944df2-ff31-48b1-ac7e-1f987c19e128",
+    "siigoNumber": "FV-2-2902",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-03T18:59:43.727Z"
   },
   {
     "consecutivo": 2902,
@@ -21138,7 +21158,12 @@
       "codigo": 3,
       "valor": 154000.00000000003
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "32bc2de9-a396-441a-aab3-350cd222d0dd",
+    "siigoNumber": "FV-2-2903",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-03T18:59:44.443Z"
   },
   {
     "consecutivo": 2903,
@@ -21210,7 +21235,12 @@
       "codigo": 3,
       "valor": 106000
     },
-    "observaciones": "Redime 250g galleta molido medio y empieza tarjeta con los de hoy"
+    "observaciones": "Redime 250g galleta molido medio y empieza tarjeta con los de hoy",
+    "siigoId": "2a893208-300f-4e2f-99e5-a7198d085964",
+    "siigoNumber": "FV-2-2904",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-03T18:59:45.262Z"
   },
   {
     "consecutivo": 2904,
@@ -21246,7 +21276,12 @@
       "codigo": 3,
       "valor": 90000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "3ae289cd-582a-4df5-b05f-1115c020a089",
+    "siigoNumber": "FV-2-2905",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-03T18:59:45.979Z"
   },
   {
     "consecutivo": 2905,
@@ -21304,7 +21339,12 @@
       "codigo": 3,
       "valor": 261000
     },
-    "observaciones": "Redime fidelización. Va con tarjeta nueva sin stickers"
+    "observaciones": "Redime fidelización. Va con tarjeta nueva sin stickers",
+    "siigoId": "a9fedcc9-7b17-4ba1-b2da-93629fab8999",
+    "siigoNumber": "FV-2-2906",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-03T18:59:46.599Z"
   },
   {
     "consecutivo": 2906,
@@ -21372,7 +21412,12 @@
       "codigo": 3,
       "valor": 194000
     },
-    "observaciones": "Redime 250g CGA grano. Se le envía nueva tarjeta con 1 sticker y los otros dos en una bolsa"
+    "observaciones": "Redime 250g CGA grano. Se le envía nueva tarjeta con 1 sticker y los otros dos en una bolsa",
+    "siigoId": "2260311a-32f9-4836-bd9a-0e2b4a911176",
+    "siigoNumber": "FV-2-2907",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-03T18:59:47.210Z"
   },
   {
     "consecutivo": 2907,
@@ -21480,7 +21525,12 @@
       "codigo": 3,
       "valor": 221999.99999999997
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "f70ba2b4-6d58-493e-8adb-36a95865c230",
+    "siigoNumber": "FV-2-2908",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-03T18:59:47.926Z"
   },
   {
     "consecutivo": 2908,
@@ -21526,7 +21576,12 @@
       "codigo": 3,
       "valor": 144000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "85d9996d-2341-44e6-94ac-39ebf1aa829f",
+    "siigoNumber": "FV-2-2909",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-03T18:59:48.542Z"
   },
   {
     "consecutivo": 2909,
@@ -21572,7 +21627,12 @@
       "codigo": 3,
       "valor": 130000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "8827df34-0d52-44ad-9fbb-3ee4632d0ebd",
+    "siigoNumber": "FV-2-2910",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-03T18:59:49.263Z"
   },
   {
     "consecutivo": 2910,
@@ -21618,7 +21678,12 @@
       "codigo": 3,
       "valor": 55000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "a0f9ba46-a923-4cdd-9f7f-25c50de17f0c",
+    "siigoNumber": "FV-2-2911",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-03T18:59:49.973Z"
   },
   {
     "consecutivo": 2911,
@@ -21654,6 +21719,11 @@
       "codigo": 3,
       "valor": 86000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "73ac9b7c-8242-49a7-b94c-cdc254b4fc72",
+    "siigoNumber": "FV-2-2912",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-03T18:59:50.586Z"
   }
 ]
