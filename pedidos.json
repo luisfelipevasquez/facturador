@@ -10256,5 +10256,40 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2906,
+    "fecha": "2026-10-02",
+    "tercero": "Natalia Andrea Florez Angulo",
+    "identificacion": "1096232158",
+    "productos": "BNA 340g x340, BRO 250g x250, RLAS 340g x340, CGA 250g x250",
+    "domicilio": "Nacional Transportadora",
+    "total": 194000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BNA",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BRO",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAS",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
