@@ -10396,5 +10396,30 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2910,
+    "fecha": "2026-10-03",
+    "tercero": "Maurício Diaz",
+    "identificacion": "1044934846",
+    "productos": "BNA 100g x100, RLAC 100g x100",
+    "domicilio": "Nacional Transportadora",
+    "total": 55000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BNA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "RLAC",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      }
+    ]
   }
 ]
