@@ -2222,5 +2222,21 @@
     "Teléfono móvil de contacto": "3045571248",
     "Estado": "Activo",
     "siigoId": "bfb8f149-5001-421c-8cb9-c6f3c1eeec6d"
+  },
+  {
+    "Nombre tercero": "Carlos Aristizabal",
+    "Tipo de identificación": "13",
+    "Identificación": "98548913",
+    "Dirección": "Calle 59 # 01c-73 TO5 Apto 303 Conj B.  Torres de Comfandi",
+    "Ciudad": "Cali",
+    "Código departamento": "76",
+    "Código ciudad": "76001",
+    "Teléfono.": "3122389747",
+    "Correo electrónico": "kturo69@yahoo.com",
+    "Nombres contacto": "Carlos",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3122389747",
+    "Estado": "Activo",
+    "siigoId": "1070a6a8-d1f5-4f3d-a58b-7b8139ef1bca"
   }
 ]
