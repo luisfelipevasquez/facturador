@@ -10431,5 +10431,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2915,
+    "fecha": "2026-10-04",
+    "tercero": "Carlos Aristizabal",
+    "identificacion": "98548913",
+    "productos": "RLAS 100g x100",
+    "domicilio": "Nacional Transportadora",
+    "total": 35000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAS",
+        "presentacion": "100g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
