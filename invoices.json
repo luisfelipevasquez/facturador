@@ -22041,5 +22041,51 @@
       "valor": 210000
     },
     "observaciones": "Lo lleva pipe al Hptu"
+  },
+  {
+    "consecutivo": 2921,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1002606116",
+    "nombre_tercero": "Jhon Jairo Rincon Castro",
+    "fecha_elaboracion": "2026-10-05",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BRO",
+        "producto": "Bourbon Rosado",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 6047.619047619048,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 145000
+    },
+    "observaciones": ""
   }
 ]
