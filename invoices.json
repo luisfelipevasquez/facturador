@@ -21926,8 +21926,7 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999,
-        "molienda": "grano"
+        "total": 51999.99999999999
       },
       {
         "sku": "BHO120",
@@ -21937,8 +21936,7 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000,
-        "molienda": "grano"
+        "total": 72000
       },
       {
         "sku": "RLAS",
@@ -21948,8 +21946,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       },
       {
         "sku": "RLAC",
@@ -21959,8 +21956,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       },
       {
         "sku": "DOM",
@@ -21984,8 +21980,7 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 55238.09523809524,
-        "molienda": "grano"
+        "descuento_valor": 55238.09523809524
       }
     ],
     "iva_total": 11428.571428571428,
@@ -22011,8 +22006,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "molido grueso"
+        "total": 58000
       }
     ],
     "iva_total": 2761.904761904762,
@@ -22021,5 +22015,31 @@
       "valor": 58000
     },
     "observaciones": "Recoge"
+  },
+  {
+    "consecutivo": 2920,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1039460663",
+    "nombre_tercero": "Maria Camila Jaramillo Monsalve",
+    "fecha_elaboracion": "2026-10-05",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAA",
+        "producto": "Regional Lavado Andes",
+        "presentacion": "2500g",
+        "cantidad": 2500,
+        "valor_unitario": 80,
+        "iva": 10000,
+        "iva_pct": 5,
+        "total": 210000
+      }
+    ],
+    "iva_total": 10000,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 210000
+    },
+    "observaciones": "Lo lleva pipe al Hptu"
   }
 ]
