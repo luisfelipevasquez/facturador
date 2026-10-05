@@ -22104,7 +22104,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "grano"
       },
       {
         "sku": "CMA",
@@ -22114,7 +22115,8 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999
+        "total": 51999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "CGA",
@@ -22124,7 +22126,8 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000
+        "total": 23000,
+        "molienda": "grano"
       },
       {
         "sku": "GELA",
@@ -22134,7 +22137,8 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999
+        "total": 37999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "PANA",
@@ -22144,7 +22148,8 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999
+        "total": 37999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "CHLA",
@@ -22154,7 +22159,8 @@
         "valor_unitario": 209.52380952380952,
         "iva": 1047.6190476190475,
         "iva_pct": 5,
-        "total": 21999.999999999996
+        "total": 21999.999999999996,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -22192,7 +22198,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "grano"
       },
       {
         "sku": "RLAA",
@@ -22202,7 +22209,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "grano"
       },
       {
         "sku": "CGA",
@@ -22212,7 +22220,8 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999
+        "total": 51999.99999999999,
+        "molienda": "molido grueso"
       },
       {
         "sku": "BHO120",
@@ -22222,19 +22231,33 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000
+        "total": 72000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
         "producto": "Domicilio",
-        "presentacion": "Nacional Transportadora",
+        "presentacion": "Local Mensajero",
         "cantidad": 1,
-        "valor_unitario": 18000,
+        "valor_unitario": 14000,
         "iva": 0,
         "iva_pct": 0,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 18000
+        "descuento_valor": 14000
+      },
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 220.95238095238093,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 55238.09523809524,
+        "molienda": "grano"
       }
     ],
     "iva_total": 11428.571428571428,
@@ -22242,6 +22265,6 @@
       "codigo": 3,
       "valor": 240000
     },
-    "observaciones": ""
+    "observaciones": "Para enviar a Hotel Ryo Hab702. Redime 250g BBO grano y enviar nueva tarjeta con 4 stickers"
   }
 ]
