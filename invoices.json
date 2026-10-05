@@ -21909,5 +21909,73 @@
       "valor": 115999.99999999997
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2918,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "77193521",
+    "nombre_tercero": "Luis Javier Hernandez Mendoza",
+    "fecha_elaboracion": "2026-10-05",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "BHO120",
+        "producto": "Blend Honey 120h",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 137.14285714285714,
+        "iva": 3428.5714285714284,
+        "iva_pct": 5,
+        "total": 72000
+      },
+      {
+        "sku": "RLAS",
+        "producto": "Regional Lavado SurOeste",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 18000
+      }
+    ],
+    "iva_total": 11428.571428571428,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 240000
+    },
+    "observaciones": ""
   }
 ]
