@@ -10672,8 +10672,8 @@
     "fecha": "2026-10-05",
     "tercero": "Piedad Montes Castro",
     "identificacion": "1047386505",
-    "productos": "RLAS 500g x500, RLAA 500g x500, CGA 250g x250, BHO120 500g x500",
-    "domicilio": "Nacional Transportadora",
+    "productos": "RLAS 500g x500, RLAA 500g x500, CGA 250g x250, BHO120 500g x500, BBO 250g x250",
+    "domicilio": "Local Mensajero",
     "total": 240000,
     "forma_pago": "T. Débito",
     "status": "En proceso",
@@ -10698,6 +10698,31 @@
       {
         "sku": "BHO120",
         "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BBO",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
+  },
+  {
+    "consecutivo": 2924,
+    "fecha": "2026-10-05",
+    "tercero": "Esteban Revelo",
+    "identificacion": "1085945832",
+    "productos": "RLAC 340g x340",
+    "domicilio": "Local Mensajero",
+    "total": 61000.00000000001,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAC",
+        "presentacion": "340g",
         "molienda": "grano"
       }
     ]
