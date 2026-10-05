@@ -10522,7 +10522,7 @@
     "fecha": "2026-10-05",
     "tercero": "Luis Javier Hernandez Mendoza",
     "identificacion": "77193521",
-    "productos": "CMA 250g x250, BHO120 500g x500, RLAS 500g x500, RLAC 500g x500",
+    "productos": "CMA 250g x250, BHO120 500g x500, RLAS 500g x500, RLAC 500g x500, BBO 250g x250",
     "domicilio": "Nacional Transportadora",
     "total": 240000,
     "forma_pago": "T. Débito",
@@ -10549,6 +10549,11 @@
         "sku": "RLAC",
         "presentacion": "500g",
         "molienda": "grano"
+      },
+      {
+        "sku": "BBO",
+        "presentacion": "250g",
+        "molienda": "grano"
       }
     ]
   },
@@ -10569,6 +10574,26 @@
         "sku": "RLAA",
         "presentacion": "500g",
         "molienda": "molido grueso"
+      }
+    ]
+  },
+  {
+    "consecutivo": 2920,
+    "fecha": "2026-10-05",
+    "tercero": "Maria Camila Jaramillo Monsalve",
+    "identificacion": "1039460663",
+    "productos": "RLAA 2500g x2500",
+    "domicilio": "",
+    "total": 210000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAA",
+        "presentacion": "2500g",
+        "molienda": "molido medio"
       }
     ]
   }
