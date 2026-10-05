@@ -21926,7 +21926,8 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999
+        "total": 51999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "BHO120",
@@ -21936,7 +21937,8 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000
+        "total": 72000,
+        "molienda": "grano"
       },
       {
         "sku": "RLAS",
@@ -21946,7 +21948,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "grano"
       },
       {
         "sku": "RLAC",
@@ -21956,7 +21959,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -21969,6 +21973,19 @@
         "total": 0,
         "descuento_pct": 100,
         "descuento_valor": 18000
+      },
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 220.95238095238093,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 55238.09523809524,
+        "molienda": "grano"
       }
     ],
     "iva_total": 11428.571428571428,
@@ -21976,7 +21993,7 @@
       "codigo": 3,
       "valor": 240000
     },
-    "observaciones": ""
+    "observaciones": "Redime 250 blend bourbon grano y se le envía nueva tarjeta con 2 stickers"
   },
   {
     "consecutivo": 2919,
@@ -21994,7 +22011,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "molido grueso"
       }
     ],
     "iva_total": 2761.904761904762,
