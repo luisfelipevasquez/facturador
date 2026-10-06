@@ -10726,5 +10726,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2925,
+    "fecha": "2026-10-06",
+    "tercero": "Jhon Edison García García",
+    "identificacion": "1002406729",
+    "productos": "RLAS 2500g x2500",
+    "domicilio": "Nacional Transportadora",
+    "total": 210000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAS",
+        "presentacion": "2500g",
+        "molienda": "molido medio"
+      }
+    ]
   }
 ]
