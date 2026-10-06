@@ -10746,5 +10746,25 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2926,
+    "fecha": "2026-10-06",
+    "tercero": "Natalia Hernandez Berrío",
+    "identificacion": "1035439207",
+    "productos": "RLAC 500g x500",
+    "domicilio": "Local Mensajero",
+    "total": 72000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAC",
+        "presentacion": "500g",
+        "molienda": "molido medio"
+      }
+    ]
   }
 ]
