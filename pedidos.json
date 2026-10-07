@@ -10752,7 +10752,7 @@
     "fecha": "2026-10-06",
     "tercero": "Natalia Hernandez Berrío",
     "identificacion": "1035439207",
-    "productos": "RLAC 500g x500",
+    "productos": "RLAC 500g x500, CGA 250g x250",
     "domicilio": "Local Mensajero",
     "total": 72000,
     "forma_pago": "T. Débito",
@@ -10763,6 +10763,11 @@
       {
         "sku": "RLAC",
         "presentacion": "500g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "250g",
         "molienda": "molido medio"
       }
     ]
@@ -10839,6 +10844,31 @@
         "sku": "RLAC",
         "presentacion": "500g",
         "molienda": "molido medio"
+      }
+    ]
+  },
+  {
+    "consecutivo": 2930,
+    "fecha": "2026-10-07",
+    "tercero": "Manuela Zuluaga",
+    "identificacion": "1017318701",
+    "productos": "PANA 250g x250, GELA 500g x500",
+    "domicilio": "Local Mensajero",
+    "total": 215000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "PANA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "GELA",
+        "presentacion": "500g",
+        "molienda": "grano"
       }
     ]
   }
