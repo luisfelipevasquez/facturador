@@ -10791,5 +10791,35 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2928,
+    "fecha": "2026-10-07",
+    "tercero": "Albert Beltran Ordoñez",
+    "identificacion": "1107052777",
+    "productos": "CGA 340g x340, RLAA 340g x340, RLAS 340g x340",
+    "domicilio": "Nacional Transportadora",
+    "total": 180000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CGA",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAA",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAS",
+        "presentacion": "340g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
