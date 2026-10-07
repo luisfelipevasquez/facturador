@@ -22411,5 +22411,61 @@
       "valor": 129000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2928,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1107052777",
+    "nombre_tercero": "Albert Beltran Ordoñez",
+    "fecha_elaboracion": "2026-10-07",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 190.47619047619048,
+        "iva": 3238.0952380952385,
+        "iva_pct": 5,
+        "total": 68000
+      },
+      {
+        "sku": "RLAA",
+        "producto": "Regional Lavado Andes",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 131.65266106442579,
+        "iva": 2238.0952380952385,
+        "iva_pct": 5,
+        "total": 47000.00000000001
+      },
+      {
+        "sku": "RLAS",
+        "producto": "Regional Lavado SurOeste",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 131.65266106442579,
+        "iva": 2238.0952380952385,
+        "iva_pct": 5,
+        "total": 47000.00000000001
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 7714.285714285716,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 180000
+    },
+    "observaciones": ""
   }
 ]
