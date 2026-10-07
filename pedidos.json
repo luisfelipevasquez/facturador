@@ -10766,5 +10766,30 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2927,
+    "fecha": "2026-10-07",
+    "tercero": "Jennifer Vasquez",
+    "identificacion": "1037617856",
+    "productos": "CMA 340g x340, RLAC 340g x340",
+    "domicilio": "Local Mensajero",
+    "total": 129000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CMA",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAC",
+        "presentacion": "340g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
