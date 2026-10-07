@@ -22346,7 +22346,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "molido medio"
       },
       {
         "sku": "DOM",
@@ -22357,6 +22358,19 @@
         "iva": 0,
         "iva_pct": 0,
         "total": 14000
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 49523.80952380952,
+        "molienda": "molido medio"
       }
     ],
     "iva_total": 2761.904761904762,
@@ -22364,7 +22378,7 @@
       "codigo": 3,
       "valor": 72000
     },
-    "observaciones": "Redime fidelización 250g y se le envía tarjeta nueva sin stickers"
+    "observaciones": "Redime fidelización 250g galleta y se le envía tarjeta nueva sin stickers"
   },
   {
     "consecutivo": 2927,
@@ -22382,7 +22396,8 @@
         "valor_unitario": 190.47619047619048,
         "iva": 3238.0952380952385,
         "iva_pct": 5,
-        "total": 68000
+        "total": 68000,
+        "molienda": "grano"
       },
       {
         "sku": "RLAC",
@@ -22392,7 +22407,8 @@
         "valor_unitario": 131.65266106442579,
         "iva": 2238.0952380952385,
         "iva_pct": 5,
-        "total": 47000.00000000001
+        "total": 47000.00000000001,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -22428,7 +22444,8 @@
         "valor_unitario": 190.47619047619048,
         "iva": 3238.0952380952385,
         "iva_pct": 5,
-        "total": 68000
+        "total": 68000,
+        "molienda": "grano"
       },
       {
         "sku": "RLAA",
@@ -22438,7 +22455,8 @@
         "valor_unitario": 131.65266106442579,
         "iva": 2238.0952380952385,
         "iva_pct": 5,
-        "total": 47000.00000000001
+        "total": 47000.00000000001,
+        "molienda": "grano"
       },
       {
         "sku": "RLAS",
@@ -22448,7 +22466,8 @@
         "valor_unitario": 131.65266106442579,
         "iva": 2238.0952380952385,
         "iva_pct": 5,
-        "total": 47000.00000000001
+        "total": 47000.00000000001,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -22484,7 +22503,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "molido medio"
       },
       {
         "sku": "DOM",
