@@ -22563,5 +22563,41 @@
       "valor": 215000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2931,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "10115803",
+    "nombre_tercero": "Miguel Alberto Urrea Botero",
+    "fecha_elaboracion": "2026-10-07",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CHLA",
+        "producto": "Chiroso Lavado",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 190.47619047619048,
+        "iva": 2380.952380952381,
+        "iva_pct": 5,
+        "total": 50000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 2380.952380952381,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 68000
+    },
+    "observaciones": ""
   }
 ]
