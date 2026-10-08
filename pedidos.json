@@ -10871,5 +10871,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2931,
+    "fecha": "2026-10-07",
+    "tercero": "Miguel Alberto Urrea Botero",
+    "identificacion": "10115803",
+    "productos": "CHLA 250g x250",
+    "domicilio": "Nacional Transportadora",
+    "total": 68000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CHLA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
