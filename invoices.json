@@ -22717,5 +22717,41 @@
       "valor": 72000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2935,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1037628291",
+    "nombre_tercero": "Natalia Vélez López",
+    "fecha_elaboracion": "2026-10-09",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 1095.2380952380952,
+        "iva_pct": 5,
+        "total": 23000
+      }
+    ],
+    "iva_total": 2904.7619047619046,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 60999.99999999999
+    },
+    "observaciones": ""
   }
 ]
