@@ -22789,5 +22789,51 @@
       "valor": 90000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2937,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1152465671",
+    "nombre_tercero": "Ana María Gómez Uribe",
+    "fecha_elaboracion": "2026-10-10",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 188.57142857142856,
+        "iva": 4714.285714285714,
+        "iva_pct": 5,
+        "total": 98999.99999999999
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 1095.2380952380952,
+        "iva_pct": 5,
+        "total": 23000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 1095.2380952380952,
+        "iva_pct": 5,
+        "total": 23000
+      }
+    ],
+    "iva_total": 6904.761904761905,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 145000
+    },
+    "observaciones": ""
   }
 ]
