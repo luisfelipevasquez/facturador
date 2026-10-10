@@ -11031,5 +11031,30 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2938,
+    "fecha": "2026-10-10",
+    "tercero": "Daniela Sánchez",
+    "identificacion": "1152187347",
+    "productos": "CGA 500g x500, BNA 500g x500",
+    "domicilio": "Local Mensajero",
+    "total": 175000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CGA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BNA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
