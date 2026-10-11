@@ -22881,5 +22881,61 @@
       "valor": 175000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2939,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1041324575",
+    "nombre_tercero": "Omar Dario Cardona Jaramillo",
+    "fecha_elaboracion": "2026-10-11",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAS",
+        "producto": "Regional Lavado SurOeste",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "BRO",
+        "producto": "Bourbon Rosado",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "CHLA",
+        "producto": "Chiroso Lavado",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 190.47619047619048,
+        "iva": 2380.952380952381,
+        "iva_pct": 5,
+        "total": 50000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 6952.380952380952,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 164000
+    },
+    "observaciones": ""
   }
 ]
