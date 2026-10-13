@@ -22954,8 +22954,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       },
       {
         "sku": "RLAC",
@@ -22965,8 +22964,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       },
       {
         "sku": "RLAA",
@@ -22976,8 +22974,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       },
       {
         "sku": "BNA120",
@@ -22987,8 +22984,7 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000,
-        "molienda": "grano"
+        "total": 72000
       },
       {
         "sku": "DOM",
@@ -23007,6 +23003,52 @@
     "forma_pago": {
       "codigo": 3,
       "valor": 246000
+    },
+    "observaciones": ""
+  },
+  {
+    "consecutivo": 2941,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1152455579",
+    "nombre_tercero": "Jean Herrera",
+    "fecha_elaboracion": "2026-10-13",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 5523.809523809524,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 130000
     },
     "observaciones": ""
   }
