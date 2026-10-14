@@ -11316,5 +11316,35 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2949,
+    "fecha": "2026-10-14",
+    "tercero": "Mariana Builes Moreno",
+    "identificacion": "1017273730",
+    "productos": "BHO72 100g x100, RLAC 100g x100, CGA 500g x500",
+    "domicilio": "Local Mensajero",
+    "total": 140000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BHO72",
+        "presentacion": "100g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "RLAC",
+        "presentacion": "100g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "500g",
+        "molienda": "molido grueso"
+      }
+    ]
   }
 ]
