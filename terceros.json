@@ -2350,5 +2350,21 @@
     "Teléfono móvil de contacto": "3225878301",
     "Estado": "Activo",
     "siigoId": "54e214b3-07ae-4090-ac65-84ce0d688d2e"
+  },
+  {
+    "Nombre tercero": "Simon Osorio Castañeda",
+    "Tipo de identificación": "13",
+    "Identificación": "1039475108",
+    "Dirección": "Cra 46cc #70sur-61 Ed. Girasol Apto 401",
+    "Ciudad": "Sabaneta",
+    "Código departamento": "05",
+    "Código ciudad": "05631",
+    "Teléfono.": "3012625974",
+    "Correo electrónico": "simonosoriocastaneda6@gmail.com",
+    "Nombres contacto": "Simon",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3012625974",
+    "Estado": "Activo",
+    "siigoId": "253f7692-473e-4096-9296-8352aab9d66e"
   }
 ]
