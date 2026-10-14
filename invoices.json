@@ -23685,5 +23685,61 @@
     "cufe": null,
     "siigoStatus": "Sincronizado",
     "siigoSyncedAt": "2026-10-14T21:10:03.132Z"
+  },
+  {
+    "consecutivo": 2952,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1140835135",
+    "nombre_tercero": "Rodrigo Ortiz",
+    "fecha_elaboracion": "2026-10-14",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BRO",
+        "producto": "Bourbon Rosado",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "BRO",
+        "producto": "Bourbon Rosado",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "BHO120",
+        "producto": "Blend Honey 120h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 9238.095238095239,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 212000
+    },
+    "observaciones": ""
   }
 ]
