@@ -11191,7 +11191,7 @@
     "domicilio": "",
     "total": 51999.99999999999,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Antiguo",
     "recoge": "Si",
     "items_molienda": [
@@ -11211,7 +11211,7 @@
     "domicilio": "Local Mensajero",
     "total": 67000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Antiguo",
     "recoge": "No",
     "items_molienda": [
@@ -11231,7 +11231,7 @@
     "domicilio": "Local Mensajero",
     "total": 166000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Antiguo",
     "recoge": "No",
     "items_molienda": [
@@ -11256,7 +11256,7 @@
     "domicilio": "",
     "total": 42000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Antiguo",
     "recoge": "Si",
     "items_molienda": [
@@ -11276,7 +11276,7 @@
     "domicilio": "Local Mensajero",
     "total": 132000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Nuevo",
     "recoge": "No",
     "items_molienda": [
@@ -11306,7 +11306,7 @@
     "domicilio": "",
     "total": 53000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Antiguo",
     "recoge": "Si",
     "items_molienda": [
@@ -11326,7 +11326,7 @@
     "domicilio": "Local Mensajero",
     "total": 140000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Antiguo",
     "recoge": "No",
     "items_molienda": [
@@ -11356,7 +11356,7 @@
     "domicilio": "Local Transportadora",
     "total": 99100,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Nuevo",
     "recoge": "No",
     "items_molienda": [
@@ -11381,7 +11381,7 @@
     "domicilio": "Nacional Transportadora",
     "total": 160000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Antiguo",
     "recoge": "No",
     "items_molienda": [
@@ -11397,6 +11397,36 @@
       },
       {
         "sku": "RLAC",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
+  },
+  {
+    "consecutivo": 2952,
+    "fecha": "2026-10-14",
+    "tercero": "Rodrigo Ortiz",
+    "identificacion": "1140835135",
+    "productos": "BRO 250g x250, BRO 250g x250, BHO120 250g x250",
+    "domicilio": "Nacional Transportadora",
+    "total": 212000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BRO",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BRO",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO120",
         "presentacion": "250g",
         "molienda": "grano"
       }
