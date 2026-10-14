@@ -21750,7 +21750,12 @@
       "codigo": 3,
       "valor": 72000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "3d235882-7177-4109-975b-938118da7420",
+    "siigoNumber": "FV-2-2914",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:35.381Z"
   },
   {
     "consecutivo": 2915,
@@ -21786,7 +21791,12 @@
       "codigo": 3,
       "valor": 35000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "6ab5d9ed-b88d-4f5a-a2a6-d3877aa1cf63",
+    "siigoNumber": "FV-2-2915",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:36.100Z"
   },
   {
     "consecutivo": 2916,
@@ -21852,7 +21862,12 @@
       "codigo": 3,
       "valor": 137000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "06f4fb22-873c-4191-9177-010e181fd4bf",
+    "siigoNumber": "FV-2-2916",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:36.823Z"
   },
   {
     "consecutivo": 2917,
@@ -21908,7 +21923,12 @@
       "codigo": 3,
       "valor": 115999.99999999997
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "27eecdba-5d75-4c28-a85c-deabccd64951",
+    "siigoNumber": "FV-2-2917",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:37.635Z"
   },
   {
     "consecutivo": 2918,
@@ -21988,7 +22008,12 @@
       "codigo": 3,
       "valor": 240000
     },
-    "observaciones": "Redime 250 blend bourbon grano y se le envía nueva tarjeta con 2 stickers"
+    "observaciones": "Redime 250 blend bourbon grano y se le envía nueva tarjeta con 2 stickers",
+    "siigoId": "8641582c-7815-402c-8945-249a8f43575a",
+    "siigoNumber": "FV-2-2918",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:38.454Z"
   },
   {
     "consecutivo": 2919,
@@ -22014,7 +22039,12 @@
       "codigo": 3,
       "valor": 58000
     },
-    "observaciones": "Recoge"
+    "observaciones": "Recoge",
+    "siigoId": "0b1adca5-60f6-441d-a352-b3f06815bcfa",
+    "siigoNumber": "FV-2-2919",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:39.068Z"
   },
   {
     "consecutivo": 2920,
@@ -22040,7 +22070,12 @@
       "codigo": 3,
       "valor": 210000
     },
-    "observaciones": "Lo lleva pipe al Hptu"
+    "observaciones": "Lo lleva pipe al Hptu",
+    "siigoId": "350d637d-7f23-435f-a1ac-a4f5fa5f41fa",
+    "siigoNumber": "FV-2-2920",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:39.683Z"
   },
   {
     "consecutivo": 2921,
@@ -22086,7 +22121,12 @@
       "codigo": 3,
       "valor": 145000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "7d8a06f9-b457-4d56-a55d-64c70ae809ca",
+    "siigoNumber": "FV-2-2921",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:40.403Z"
   },
   {
     "consecutivo": 2922,
@@ -22174,7 +22214,12 @@
       "codigo": 3,
       "valor": 249000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "2a8c1301-9b9e-4e63-9a1b-a765a39b18b0",
+    "siigoNumber": "FV-2-2922",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:41.323Z"
   },
   {
     "consecutivo": 2923,
@@ -22254,7 +22299,12 @@
       "codigo": 3,
       "valor": 240000
     },
-    "observaciones": "Para enviar a Hotel Ryo Hab702. Redime 250g BBO grano y enviar nueva tarjeta con 4 stickers"
+    "observaciones": "Para enviar a Hotel Ryo Hab702. Redime 250g BBO grano y enviar nueva tarjeta con 4 stickers",
+    "siigoId": "055d4f33-3193-4e7b-af0b-43f865fd49c7",
+    "siigoNumber": "FV-2-2923",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:42.038Z"
   },
   {
     "consecutivo": 2924,
@@ -22290,7 +22340,12 @@
       "codigo": 3,
       "valor": 61000.00000000001
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "f5af078a-db9d-4b94-a846-306a9294d61f",
+    "siigoNumber": "FV-2-2924",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:42.652Z"
   },
   {
     "consecutivo": 2925,
@@ -22328,7 +22383,12 @@
       "codigo": 3,
       "valor": 210000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "274796cf-9c11-47d1-ab49-73db8035bb33",
+    "siigoNumber": "FV-2-2925",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:43.369Z"
   },
   {
     "consecutivo": 2926,
@@ -22376,7 +22436,12 @@
       "codigo": 3,
       "valor": 72000
     },
-    "observaciones": "Redime fidelización 250g galleta y se le envía tarjeta nueva sin stickers"
+    "observaciones": "Redime fidelización 250g galleta y se le envía tarjeta nueva sin stickers",
+    "siigoId": "dbdd5b80-be2e-49cb-9a10-2910570127bc",
+    "siigoNumber": "FV-2-2926",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:43.885Z"
   },
   {
     "consecutivo": 2927,
@@ -22422,7 +22487,12 @@
       "codigo": 3,
       "valor": 129000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "9efb7245-48fa-498e-a788-bee4ccb6994e",
+    "siigoNumber": "FV-2-2927",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:44.805Z"
   },
   {
     "consecutivo": 2928,
@@ -22478,7 +22548,12 @@
       "codigo": 3,
       "valor": 180000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "1fdebfd7-6072-41a3-b83d-e7745d3b2432",
+    "siigoNumber": "FV-2-2928",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:45.520Z"
   },
   {
     "consecutivo": 2929,
@@ -22514,7 +22589,12 @@
       "codigo": 3,
       "valor": 72000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "b572d194-c15f-458a-9e9c-83a375901b97",
+    "siigoNumber": "FV-2-2929",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:46.133Z"
   },
   {
     "consecutivo": 2930,
@@ -22562,7 +22642,12 @@
       "codigo": 3,
       "valor": 215000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "661d7c60-1298-47e6-8624-a522441dbda9",
+    "siigoNumber": "FV-2-2930",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:46.748Z"
   },
   {
     "consecutivo": 2931,
@@ -22598,7 +22683,12 @@
       "codigo": 3,
       "valor": 68000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "628bf462-e4a2-4bc4-8a21-3273dee43398",
+    "siigoNumber": "FV-2-2931",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:47.466Z"
   },
   {
     "consecutivo": 2932,
@@ -22634,7 +22724,12 @@
       "codigo": 3,
       "valor": 70000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "21d24ff8-b212-4b40-9483-003d16f253df",
+    "siigoNumber": "FV-2-2932",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:48.079Z"
   },
   {
     "consecutivo": 2933,
@@ -22680,7 +22775,12 @@
       "codigo": 3,
       "valor": 174000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "44b486a8-f4de-4dbc-b56f-5341cb14e7d7",
+    "siigoNumber": "FV-2-2933",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:48.693Z"
   },
   {
     "consecutivo": 2934,
@@ -22716,7 +22816,12 @@
       "codigo": 3,
       "valor": 72000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "33305c9d-4990-427f-b5cb-d7964f3d84a5",
+    "siigoNumber": "FV-2-2934",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:49.411Z"
   },
   {
     "consecutivo": 2935,
@@ -22752,7 +22857,12 @@
       "codigo": 3,
       "valor": 60999.99999999999
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "bee9d8eb-2908-4853-bbd1-7b27caf43669",
+    "siigoNumber": "FV-2-2935",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:50.027Z"
   },
   {
     "consecutivo": 2936,
@@ -22788,7 +22898,12 @@
       "codigo": 3,
       "valor": 90000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "c6261984-a32b-4160-b080-3f657480472b",
+    "siigoNumber": "FV-2-2936",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:50.538Z"
   },
   {
     "consecutivo": 2937,
@@ -22834,7 +22949,12 @@
       "codigo": 3,
       "valor": 145000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "f6ab9810-76b1-47c1-9163-aef7c44c391a",
+    "siigoNumber": "FV-2-2937",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:51.360Z"
   },
   {
     "consecutivo": 2938,
@@ -22880,7 +23000,12 @@
       "codigo": 3,
       "valor": 175000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "42dc9a4d-67de-4205-8094-2820f8487b28",
+    "siigoNumber": "FV-2-2938",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:52.790Z"
   },
   {
     "consecutivo": 2939,
@@ -22936,7 +23061,12 @@
       "codigo": 3,
       "valor": 164000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "62a4b094-927a-4707-8fa6-e1f59acaa0c2",
+    "siigoNumber": "FV-2-2939",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:53.609Z"
   },
   {
     "consecutivo": 2940,
@@ -23004,7 +23134,12 @@
       "codigo": 3,
       "valor": 246000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "4a0349b2-5664-44b4-b6d4-7a71be142513",
+    "siigoNumber": "FV-2-2940",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:54.428Z"
   },
   {
     "consecutivo": 2941,
@@ -23050,7 +23185,12 @@
       "codigo": 3,
       "valor": 130000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "a2502b61-d463-487a-aa18-1881ca552b73",
+    "siigoNumber": "FV-2-2941",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:55.453Z"
   },
   {
     "consecutivo": 2942,
@@ -23116,7 +23256,12 @@
       "codigo": 3,
       "valor": 154000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "5b33611f-b0b1-4d47-8758-582cb982b5f5",
+    "siigoNumber": "FV-2-2942",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:56.478Z"
   },
   {
     "consecutivo": 2943,
@@ -23142,7 +23287,12 @@
       "codigo": 3,
       "valor": 51999.99999999999
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "16625c0f-9946-407d-84da-50910b0b4491",
+    "siigoNumber": "FV-2-2943",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:57.091Z"
   },
   {
     "consecutivo": 2944,
@@ -23178,7 +23328,12 @@
       "codigo": 3,
       "valor": 67000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "4f74666d-b1c5-40f4-9530-0d7f939020ec",
+    "siigoNumber": "FV-2-2944",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:57.808Z"
   },
   {
     "consecutivo": 2945,
@@ -23224,7 +23379,12 @@
       "codigo": 3,
       "valor": 166000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "e8c6e65a-57c7-4521-a2de-194d303529ba",
+    "siigoNumber": "FV-2-2945",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:58.523Z"
   },
   {
     "consecutivo": 2946,
@@ -23250,7 +23410,12 @@
       "codigo": 3,
       "valor": 42000
     },
-    "observaciones": "Ojo: molido medio-grueso"
+    "observaciones": "Ojo: molido medio-grueso",
+    "siigoId": "bfef97c4-42d6-4ebb-adef-774821dd5309",
+    "siigoNumber": "FV-2-2946",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:59.241Z"
   },
   {
     "consecutivo": 2947,
@@ -23306,7 +23471,12 @@
       "codigo": 3,
       "valor": 132000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "5d6bd1bd-2443-4734-904e-ba88c5ee03ed",
+    "siigoNumber": "FV-2-2947",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:09:59.856Z"
   },
   {
     "consecutivo": 2948,
@@ -23332,7 +23502,12 @@
       "codigo": 3,
       "valor": 53000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "468ece23-a6bb-4a85-86c0-3d5ad5037564",
+    "siigoNumber": "FV-2-2948",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:10:00.677Z"
   },
   {
     "consecutivo": 2949,
@@ -23388,7 +23563,12 @@
       "codigo": 3,
       "valor": 140000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "fe876eea-e29b-4fde-af31-59474618fbdc",
+    "siigoNumber": "FV-2-2949",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:10:01.700Z"
   },
   {
     "consecutivo": 2950,
@@ -23438,7 +23618,12 @@
       "codigo": 3,
       "valor": 99100
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "7c42f1eb-394f-4a43-9356-4f534b409113",
+    "siigoNumber": "FV-2-2950",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:10:02.418Z"
   },
   {
     "consecutivo": 2951,
@@ -23494,6 +23679,11 @@
       "codigo": 3,
       "valor": 160000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "12e6fd3f-793c-4f59-b2a9-f12e637adee0",
+    "siigoNumber": "FV-2-2951",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-14T21:10:03.132Z"
   }
 ]
