@@ -23389,5 +23389,55 @@
       "valor": 140000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2950,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "11000695",
+    "nombre_tercero": "Julio Adolfo Borja P",
+    "fecha_elaboracion": "2026-10-14",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BRO",
+        "producto": "Bourbon Rosado",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3257.1428571428573,
+        "iva_pct": 5,
+        "total": 68400,
+        "descuento_pct": 10,
+        "descuento_valor": 7238.0952380952385
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 985.7142857142858,
+        "iva_pct": 5,
+        "total": 20700,
+        "descuento_pct": 10,
+        "descuento_valor": 2190.4761904761904
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 10000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 10000
+      }
+    ],
+    "iva_total": 4242.857142857143,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 99100
+    },
+    "observaciones": ""
   }
 ]
