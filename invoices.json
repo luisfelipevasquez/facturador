@@ -23307,5 +23307,31 @@
       "valor": 132000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2948,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1193069988",
+    "nombre_tercero": "Juan Diego Madrigal Serna",
+    "fecha_elaboracion": "2026-10-14",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO72",
+        "producto": "Blend Honey72h",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 148.45938375350138,
+        "iva": 2523.809523809524,
+        "iva_pct": 5,
+        "total": 53000
+      }
+    ],
+    "iva_total": 2523.809523809524,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 53000
+    },
+    "observaciones": ""
   }
 ]
