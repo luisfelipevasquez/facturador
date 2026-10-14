@@ -11326,7 +11326,7 @@
     "domicilio": "Local Mensajero",
     "total": 140000,
     "forma_pago": "T. Débito",
-    "status": "En proceso",
+    "status": "Completado",
     "client_type": "Antiguo",
     "recoge": "No",
     "items_molienda": [
@@ -11350,7 +11350,7 @@
   {
     "consecutivo": 2950,
     "fecha": "2026-10-14",
-    "tercero": "Julio Adolfo Borja P",
+    "tercero": "11000695",
     "identificacion": "11000695",
     "productos": "BRO 250g x250, CGA 100g x100",
     "domicilio": "Local Transportadora",
