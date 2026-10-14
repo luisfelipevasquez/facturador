@@ -2366,5 +2366,21 @@
     "Teléfono móvil de contacto": "3012625974",
     "Estado": "Activo",
     "siigoId": "253f7692-473e-4096-9296-8352aab9d66e"
+  },
+  {
+    "Nombre tercero": "Julio Adolfo Borja P",
+    "Tipo de identificación": "13",
+    "Identificación": "11000695",
+    "Dirección": "calle 37Bsur #27-13 , apto 603 , edificio gran reserva,LOMA LAS BRUJAS",
+    "Ciudad": "Envigado",
+    "Código departamento": "05",
+    "Código ciudad": "05266",
+    "Teléfono.": "3145034294",
+    "Correo electrónico": "Julioborjap@yahoo.es",
+    "Nombres contacto": "Julio Adolfo",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3145034294",
+    "Estado": "Activo",
+    "siigoId": "045aa5e7-402f-492d-bd1a-f1bbe2b360c0"
   }
 ]
