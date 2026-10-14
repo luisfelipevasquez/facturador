@@ -11296,5 +11296,25 @@
         "molienda": "molido grueso"
       }
     ]
+  },
+  {
+    "consecutivo": 2948,
+    "fecha": "2026-10-14",
+    "tercero": "Juan Diego Madrigal Serna",
+    "identificacion": "1193069988",
+    "productos": "BHO72 340g x340",
+    "domicilio": "",
+    "total": 53000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BHO72",
+        "presentacion": "340g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
