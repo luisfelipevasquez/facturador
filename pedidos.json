@@ -11481,5 +11481,25 @@
         "molienda": "molido grueso"
       }
     ]
+  },
+  {
+    "consecutivo": 2955,
+    "fecha": "2026-10-15",
+    "tercero": "Maria Alejandra Montes",
+    "identificacion": "1047426080",
+    "productos": "RLAC 250g x250",
+    "domicilio": "Local Mensajero",
+    "total": 52000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAC",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
