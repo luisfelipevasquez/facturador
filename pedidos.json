@@ -11566,5 +11566,35 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2959,
+    "fecha": "2026-10-15",
+    "tercero": "Marlon Cabarcas Gómez",
+    "identificacion": "1042446851",
+    "productos": "BNA120 250g x250, BHO120 340g x340, BRO 250g x250",
+    "domicilio": "Nacional Transportadora",
+    "total": 189000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BNA120",
+        "presentacion": "250g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "BHO120",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BRO",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
