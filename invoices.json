@@ -24073,5 +24073,57 @@
       "valor": 68000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2961,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1020407113",
+    "nombre_tercero": "Luz Adriana Ortiz",
+    "fecha_elaboracion": "2026-10-16",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO120",
+        "producto": "Blend Honey 120h",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 148.45938375350138,
+        "iva": 2019.0476190476193,
+        "iva_pct": 5,
+        "total": 42400,
+        "descuento_pct": 20,
+        "descuento_valor": 10095.238095238095
+      },
+      {
+        "sku": "CHLA",
+        "producto": "Chiroso Lavado",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 190.47619047619048,
+        "iva": 1904.7619047619046,
+        "iva_pct": 5,
+        "total": 40000,
+        "descuento_pct": 20,
+        "descuento_valor": 9523.809523809525
+      },
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 2895.2380952380954,
+        "iva_pct": 5,
+        "total": 60800,
+        "descuento_pct": 20,
+        "descuento_valor": 14476.190476190477
+      }
+    ],
+    "iva_total": 6819.047619047619,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 143200
+    },
+    "observaciones": "Lo lleva pipe al hptu"
   }
 ]
