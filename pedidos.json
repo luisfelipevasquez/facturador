@@ -11541,5 +11541,30 @@
         "molienda": "molido fino"
       }
     ]
+  },
+  {
+    "consecutivo": 2958,
+    "fecha": "2026-10-15",
+    "tercero": "María Paula Beltran",
+    "identificacion": "1032433467",
+    "productos": "CMA 500g x500, PANA 250g x250",
+    "domicilio": "Nacional Transportadora",
+    "total": 183000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CMA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "PANA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
