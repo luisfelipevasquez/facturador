@@ -23981,5 +23981,61 @@
       "valor": 183000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2959,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1042446851",
+    "nombre_tercero": "Marlon Cabarcas Gómez",
+    "fecha_elaboracion": "2026-10-15",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      },
+      {
+        "sku": "BHO120",
+        "producto": "Blend Honey 120h",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 148.45938375350138,
+        "iva": 2523.809523809524,
+        "iva_pct": 5,
+        "total": 53000
+      },
+      {
+        "sku": "BRO",
+        "producto": "Bourbon Rosado",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 8142.857142857143,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 189000
+    },
+    "observaciones": ""
   }
 ]
