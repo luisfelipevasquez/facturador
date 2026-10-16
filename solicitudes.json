@@ -319,5 +319,71 @@
       "to": "573168400198"
     },
     "actualizado": "2026-10-10T00:45:39.584Z"
+  },
+  {
+    "id": "SOL-1792170821634-w3q70",
+    "estado": "pendiente",
+    "creado": "2026-10-16T17:13:41.634Z",
+    "cliente": {
+      "nombre": "Luz Adriana Ortiz",
+      "tipo_documento": "13",
+      "documento": "1020407113",
+      "email": "Luzaortiz23@gmail.com",
+      "celular": "57 3002370580",
+      "ciudad": "Medellín",
+      "direccion": "Carrera 10 a # 10 - 121 Interior 101",
+      "observaciones": ""
+    },
+    "productos": [
+      {
+        "sku": "BHO120",
+        "nombre": "Blend Honey 120h",
+        "presentacion": "340g",
+        "molienda": "molido medio",
+        "cantidad": 1,
+        "precio": 53000
+      },
+      {
+        "sku": "CHLA",
+        "nombre": "Chiroso Lavado",
+        "presentacion": "250g",
+        "molienda": "grano",
+        "cantidad": 1,
+        "precio": 50000
+      },
+      {
+        "sku": "PANA",
+        "nombre": "Papayo Natural",
+        "presentacion": "250g",
+        "molienda": "grano",
+        "cantidad": 1,
+        "precio": 76000
+      },
+      {
+        "sku": "DOM",
+        "nombre": "Domicilio",
+        "presentacion": "Envío AM por Transportadora",
+        "molienda": "",
+        "cantidad": 1,
+        "precio": 10000
+      }
+    ],
+    "total_estimado": 189000,
+    "siigo_customer_found": true,
+    "siigo_customer_id": "9b154d7c-1ff4-415b-9f14-88b88dd1bc2d",
+    "envio": {
+      "registered_address": "Calle42#63c-40 Ed. Sativa Apto 201. Conquistadores",
+      "shipping_address_same_as_registered": true,
+      "shipping_address": "Carrera 10 a # 10 - 121 Interior 101",
+      "customer_overrode_address": true,
+      "shipping_method": "Envío Área Metropolitana por Transportadora",
+      "shipping_base_cost": 10000,
+      "shipping_cost": 10000,
+      "free_shipping": false,
+      "shipping_departamento": "Antioquia",
+      "shipping_ciudad": "Medellín",
+      "cod_dpto_envio": "05",
+      "cod_ciudad_envio": "05001"
+    }
   }
 ]
