@@ -24337,5 +24337,51 @@
       "valor": 44400
     },
     "observaciones": "Molido para moka"
+  },
+  {
+    "consecutivo": 2966,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1028038048",
+    "nombre_tercero": "José Alfredo Pájaro Orozco",
+    "fecha_elaboracion": "2026-10-16",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BNA",
+        "producto": "Blend Natural 56h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      },
+      {
+        "sku": "RLAA",
+        "producto": "Regional Lavado Andes",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 144.76190476190476,
+        "iva": 1809.5238095238096,
+        "iva_pct": 5,
+        "total": 38000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 3809.5238095238096,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 98000
+    },
+    "observaciones": ""
   }
 ]
