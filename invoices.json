@@ -24241,5 +24241,63 @@
       "valor": 283000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2964,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1057603127",
+    "nombre_tercero": "Jonathan Castelblanco",
+    "fecha_elaboracion": "2026-10-16",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 271.7086834733894,
+        "iva": 4619.04761904762,
+        "iva_pct": 5,
+        "total": 97000.00000000001
+      },
+      {
+        "sku": "RLAS",
+        "producto": "Regional Lavado SurOeste",
+        "presentacion": "2500g",
+        "cantidad": 2500,
+        "valor_unitario": 80,
+        "iva": 10000,
+        "iva_pct": 5,
+        "total": 210000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 18000
+      }
+    ],
+    "iva_total": 18857.14285714286,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 396000
+    },
+    "observaciones": ""
   }
 ]
