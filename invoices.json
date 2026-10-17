@@ -24142,8 +24142,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       },
       {
         "sku": "BHO120",
@@ -24153,8 +24152,7 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000,
-        "molienda": "grano"
+        "total": 72000
       },
       {
         "sku": "CMA",
@@ -24164,8 +24162,7 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000,
-        "molienda": "grano"
+        "total": 89000
       },
       {
         "sku": "DOM",
@@ -24189,8 +24186,7 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 55238.09523809524,
-        "molienda": "grano"
+        "descuento_valor": 55238.09523809524
       }
     ],
     "iva_total": 11285.714285714286,
@@ -24216,8 +24212,7 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000,
-        "molienda": "molido grueso"
+        "total": 139000
       },
       {
         "sku": "BHO120",
@@ -24227,8 +24222,7 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000,
-        "molienda": "molido grueso"
+        "total": 72000
       },
       {
         "sku": "BHO",
@@ -24238,8 +24232,7 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000,
-        "molienda": "molido grueso"
+        "total": 72000
       },
       {
         "sku": "DOM",
@@ -24277,8 +24270,7 @@
         "valor_unitario": 271.7086834733894,
         "iva": 4619.04761904762,
         "iva_pct": 5,
-        "total": 97000.00000000001,
-        "molienda": "grano"
+        "total": 97000.00000000001
       },
       {
         "sku": "RLAS",
@@ -24288,8 +24280,7 @@
         "valor_unitario": 80,
         "iva": 10000,
         "iva_pct": 5,
-        "total": 210000,
-        "molienda": "grano"
+        "total": 210000
       },
       {
         "sku": "CMA",
@@ -24299,8 +24290,7 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000,
-        "molienda": "grano"
+        "total": 89000
       },
       {
         "sku": "DOM",
@@ -24340,8 +24330,7 @@
         "iva_pct": 5,
         "total": 30400,
         "descuento_pct": 20,
-        "descuento_valor": 7238.0952380952385,
-        "molienda": "molido fino"
+        "descuento_valor": 7238.0952380952385
       },
       {
         "sku": "DOM",
@@ -24377,8 +24366,7 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000,
-        "molienda": "grano"
+        "total": 42000
       },
       {
         "sku": "RLAA",
@@ -24388,8 +24376,7 @@
         "valor_unitario": 144.76190476190476,
         "iva": 1809.5238095238096,
         "iva_pct": 5,
-        "total": 38000,
-        "molienda": "grano"
+        "total": 38000
       },
       {
         "sku": "DOM",
@@ -24406,6 +24393,54 @@
     "forma_pago": {
       "codigo": 3,
       "valor": 98000
+    },
+    "observaciones": ""
+  },
+  {
+    "consecutivo": 2967,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1037368897",
+    "nombre_tercero": "Gustavo Adolfo Ramírez Sánchez",
+    "fecha_elaboracion": "2026-10-17",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "2500g",
+        "cantidad": 2500,
+        "valor_unitario": 80,
+        "iva": 10000,
+        "iva_pct": 5,
+        "total": 210000
+      },
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 14000
+      }
+    ],
+    "iva_total": 11809.52380952381,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 248000
     },
     "observaciones": ""
   }
