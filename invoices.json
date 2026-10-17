@@ -24142,7 +24142,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "grano"
       },
       {
         "sku": "BHO120",
@@ -24152,7 +24153,8 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000
+        "total": 72000,
+        "molienda": "grano"
       },
       {
         "sku": "CMA",
@@ -24162,7 +24164,8 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000
+        "total": 89000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -24175,6 +24178,19 @@
         "total": 0,
         "descuento_pct": 100,
         "descuento_valor": 18000
+      },
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 220.95238095238093,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 55238.09523809524,
+        "molienda": "grano"
       }
     ],
     "iva_total": 11285.714285714286,
@@ -24182,7 +24198,7 @@
       "codigo": 3,
       "valor": 237000
     },
-    "observaciones": ""
+    "observaciones": "Redime 250g blend bourbon grano. Enviar tarjeta con los de hoy"
   },
   {
     "consecutivo": 2963,
@@ -24200,7 +24216,8 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000
+        "total": 139000,
+        "molienda": "molido grueso"
       },
       {
         "sku": "BHO120",
@@ -24210,7 +24227,8 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000
+        "total": 72000,
+        "molienda": "molido grueso"
       },
       {
         "sku": "BHO",
@@ -24220,7 +24238,8 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000
+        "total": 72000,
+        "molienda": "molido grueso"
       },
       {
         "sku": "DOM",
@@ -24258,7 +24277,8 @@
         "valor_unitario": 271.7086834733894,
         "iva": 4619.04761904762,
         "iva_pct": 5,
-        "total": 97000.00000000001
+        "total": 97000.00000000001,
+        "molienda": "grano"
       },
       {
         "sku": "RLAS",
@@ -24268,7 +24288,8 @@
         "valor_unitario": 80,
         "iva": 10000,
         "iva_pct": 5,
-        "total": 210000
+        "total": 210000,
+        "molienda": "grano"
       },
       {
         "sku": "CMA",
@@ -24278,7 +24299,8 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000
+        "total": 89000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -24318,7 +24340,8 @@
         "iva_pct": 5,
         "total": 30400,
         "descuento_pct": 20,
-        "descuento_valor": 7238.0952380952385
+        "descuento_valor": 7238.0952380952385,
+        "molienda": "molido fino"
       },
       {
         "sku": "DOM",
@@ -24354,7 +24377,8 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000
+        "total": 42000,
+        "molienda": "grano"
       },
       {
         "sku": "RLAA",
@@ -24364,7 +24388,8 @@
         "valor_unitario": 144.76190476190476,
         "iva": 1809.5238095238096,
         "iva_pct": 5,
-        "total": 38000
+        "total": 38000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
