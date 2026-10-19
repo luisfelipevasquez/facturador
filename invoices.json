@@ -24682,7 +24682,12 @@
       "codigo": 3,
       "valor": 38000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "fb4a6530-5c4e-4e68-816b-950f61f3457d",
+    "siigoNumber": "FV-2-2976",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-19T06:53:59.610Z"
   },
   {
     "consecutivo": 2971,
@@ -24904,7 +24909,12 @@
       "codigo": 3,
       "valor": 118000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "de7dee22-c16c-4764-a346-0467d062a137",
+    "siigoNumber": "FV-2-2977",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-19T06:54:00.123Z"
   },
   {
     "consecutivo": 2977,
@@ -24963,7 +24973,12 @@
       "codigo": 3,
       "valor": 155999.99999999997
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "51b9ccc2-6f5b-4553-be0d-39bacc6d4986",
+    "siigoNumber": "FV-2-2978",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-19T06:54:00.942Z"
   },
   {
     "consecutivo": 2978,
@@ -25022,6 +25037,11 @@
       "codigo": 3,
       "valor": 133000
     },
-    "observaciones": "OJO: enviar a Calle 13 N #02-80  Bosques Del Hato Torre 3 Apto 209 Piedecuesta Santander"
+    "observaciones": "OJO: enviar a Calle 13 N #02-80  Bosques Del Hato Torre 3 Apto 209 Piedecuesta Santander",
+    "siigoId": "cbac49c2-750e-4751-9e61-e897956d57a4",
+    "siigoNumber": "FV-2-2979",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-19T06:54:01.554Z"
   }
 ]
