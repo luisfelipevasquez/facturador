@@ -24874,7 +24874,8 @@
         "valor_unitario": 148.45938375350138,
         "iva": 2523.809523809524,
         "iva_pct": 5,
-        "total": 53000
+        "total": 53000,
+        "molienda": "grano"
       },
       {
         "sku": "RLAC",
@@ -24884,7 +24885,8 @@
         "valor_unitario": 131.65266106442579,
         "iva": 2238.0952380952385,
         "iva_pct": 5,
-        "total": 47000.00000000001
+        "total": 47000.00000000001,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -24920,7 +24922,8 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999
+        "total": 51999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "CGA",
@@ -24930,7 +24933,8 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999
+        "total": 51999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "PANA",
@@ -24940,7 +24944,8 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999
+        "total": 37999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -24976,7 +24981,8 @@
         "valor_unitario": 148.45938375350138,
         "iva": 2523.809523809524,
         "iva_pct": 5,
-        "total": 53000
+        "total": 53000,
+        "molienda": "grano"
       },
       {
         "sku": "BHO120",
@@ -24986,7 +24992,8 @@
         "valor_unitario": 190.47619047619048,
         "iva": 952.3809523809525,
         "iva_pct": 5,
-        "total": 20000.000000000004
+        "total": 20000.000000000004,
+        "molienda": "grano"
       },
       {
         "sku": "BHO120",
@@ -24996,7 +25003,8 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000
+        "total": 42000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -25014,6 +25022,6 @@
       "codigo": 3,
       "valor": 133000
     },
-    "observaciones": ""
+    "observaciones": "OJO: enviar a Calle 13 N #02-80  Bosques Del Hato Torre 3 Apto 209 Piedecuesta Santander"
   }
 ]
