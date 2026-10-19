@@ -2446,5 +2446,21 @@
     "Teléfono móvil de contacto": "+57 318 2219054",
     "Estado": "Activo",
     "siigoId": "c5be28f5-5771-4a3b-a1fe-27ff758bda8a"
+  },
+  {
+    "Nombre tercero": "Yamile Andrea Gomez Cortes",
+    "Tipo de identificación": "13",
+    "Identificación": "43261795",
+    "Dirección": "Calle 35 #86-48 Barrio Simon Bolivar Of Seguridad Las Americas",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3022107015",
+    "Correo electrónico": "Shaya208@hotmail.com",
+    "Nombres contacto": "Yamile Andrea",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3022107015",
+    "Estado": "Activo",
+    "siigoId": "3c93a569-8c70-44db-a744-a6b13b6650a9"
   }
 ]
