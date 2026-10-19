@@ -2510,5 +2510,21 @@
     "Teléfono móvil de contacto": "3185009341",
     "Estado": "Activo",
     "siigoId": "7ce0eaec-7bb6-4497-93dc-46180931530a"
+  },
+  {
+    "Nombre tercero": "Juan David Reyes",
+    "Tipo de identificación": "13",
+    "Identificación": "1017259405",
+    "Dirección": "Cra 98b #62d-74 Apto 201 Robledo",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3178443192",
+    "Correo electrónico": "Juand.reyes98@outlook.com",
+    "Nombres contacto": "Juan",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3178443192",
+    "Estado": "Activo",
+    "siigoId": "005a8652-a43a-4578-9e78-087a82621be6"
   }
 ]
