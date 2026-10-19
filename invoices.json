@@ -24649,5 +24649,41 @@
       "valor": 161000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2972,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1040517042",
+    "nombre_tercero": "Yors Hernández Mendoza",
+    "fecha_elaboracion": "2026-10-19",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 190.47619047619048,
+        "iva": 3238.0952380952385,
+        "iva_pct": 5,
+        "total": 68000
+      }
+    ],
+    "iva_total": 5047.619047619048,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 106000
+    },
+    "observaciones": "Recoge"
   }
 ]
