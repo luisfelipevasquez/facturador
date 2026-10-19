@@ -2494,5 +2494,21 @@
     "Teléfono móvil de contacto": "3127735730",
     "Estado": "Activo",
     "siigoId": "a624aa0d-9bf3-4661-aa83-11eaecc6f739"
+  },
+  {
+    "Nombre tercero": "Diego Andrés Gallego",
+    "Tipo de identificación": "13",
+    "Identificación": "1037649997",
+    "Dirección": "Cra 86a #42c-15 casa 301",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3185009341",
+    "Correo electrónico": "diego.gallego.27@gmail.com",
+    "Nombres contacto": "Diego",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3185009341",
+    "Estado": "Activo",
+    "siigoId": "7ce0eaec-7bb6-4497-93dc-46180931530a"
   }
 ]
