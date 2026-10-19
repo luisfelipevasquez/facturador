@@ -2414,5 +2414,21 @@
     "Teléfono móvil de contacto": "+57 311 4763267",
     "Estado": "Activo",
     "siigoId": "e51e4ccd-f312-4612-b4cb-7c97d8c5a5c9"
+  },
+  {
+    "Nombre tercero": "Sonia Albor F",
+    "Tipo de identificación": "13",
+    "Identificación": "22618741",
+    "Dirección": "Calle 23b #26-83",
+    "Ciudad": "Soledad",
+    "Código departamento": "08",
+    "Código ciudad": "08758",
+    "Teléfono.": "3017186252",
+    "Correo electrónico": "Sonalbfg78@gmail.com",
+    "Nombres contacto": "Sonia",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3017186252",
+    "Estado": "Activo",
+    "siigoId": "81c8d659-6ac4-4cfe-a1a0-4588aedc9b27"
   }
 ]
