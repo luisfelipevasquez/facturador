@@ -2478,5 +2478,21 @@
     "Teléfono móvil de contacto": "3046481743",
     "Estado": "Activo",
     "siigoId": "5a2b8c14-9b3a-4102-8b43-8c747b09d800"
+  },
+  {
+    "Nombre tercero": "Alejandra Arboleda",
+    "Tipo de identificación": "13",
+    "Identificación": "1017237696",
+    "Dirección": "Cra 50C #95-77 Tercer piso",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3127735730",
+    "Correo electrónico": "alebtancur@gmail.com",
+    "Nombres contacto": "Alejandra",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3127735730",
+    "Estado": "Activo",
+    "siigoId": "a624aa0d-9bf3-4661-aa83-11eaecc6f739"
   }
 ]
