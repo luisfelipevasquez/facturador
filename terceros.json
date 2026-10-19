@@ -2462,5 +2462,21 @@
     "Teléfono móvil de contacto": "3022107015",
     "Estado": "Activo",
     "siigoId": "3c93a569-8c70-44db-a744-a6b13b6650a9"
+  },
+  {
+    "Nombre tercero": "Julian Contreras",
+    "Tipo de identificación": "13",
+    "Identificación": "1143385975",
+    "Dirección": "Calle 7A #8-55, Serena del Mar Conj. Portelo, Apto 301B Bloque 5",
+    "Ciudad": "Cartagena de Indias",
+    "Código departamento": "13",
+    "Código ciudad": "13001",
+    "Teléfono.": "3046481743",
+    "Correo electrónico": "juliandario758@gmail.com",
+    "Nombres contacto": "Julian",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3046481743",
+    "Estado": "Activo",
+    "siigoId": "5a2b8c14-9b3a-4102-8b43-8c747b09d800"
   }
 ]
