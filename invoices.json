@@ -24509,5 +24509,63 @@
       "valor": 109000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2969,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "22618741",
+    "nombre_tercero": "Sonia Albor F",
+    "fecha_elaboracion": "2026-10-18",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "BHO72",
+        "producto": "Blend Honey72h",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 137.14285714285714,
+        "iva": 3428.5714285714284,
+        "iva_pct": 5,
+        "total": 72000
+      },
+      {
+        "sku": "BHO",
+        "producto": "Blend Honey 56h",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 137.14285714285714,
+        "iva": 3428.5714285714284,
+        "iva_pct": 5,
+        "total": 72000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 18000
+      }
+    ],
+    "iva_total": 9619.047619047618,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 202000
+    },
+    "observaciones": "OJO: enviar el 03 Noviembre"
   }
 ]
