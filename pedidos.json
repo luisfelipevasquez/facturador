@@ -11846,5 +11846,35 @@
         "molienda": "molido grueso"
       }
     ]
+  },
+  {
+    "consecutivo": 2969,
+    "fecha": "2026-10-18",
+    "tercero": "Sonia Albor F",
+    "identificacion": "22618741",
+    "productos": "RLAC 500g x500, BHO72 500g x500, BHO 500g x500",
+    "domicilio": "Nacional Transportadora",
+    "total": 202000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAC",
+        "presentacion": "500g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "BHO72",
+        "presentacion": "500g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "BHO",
+        "presentacion": "500g",
+        "molienda": "molido medio"
+      }
+    ]
   }
 ]
