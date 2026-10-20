@@ -25238,8 +25238,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "molido medio"
+        "total": 58000
       },
       {
         "sku": "RLAC",
@@ -25249,8 +25248,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "molido medio"
+        "total": 58000
       },
       {
         "sku": "BNA",
@@ -25260,8 +25258,7 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000,
-        "molienda": "grano"
+        "total": 72000
       },
       {
         "sku": "BNA",
@@ -25271,8 +25268,7 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000,
-        "molienda": "grano"
+        "total": 72000
       },
       {
         "sku": "CGA",
@@ -25282,8 +25278,7 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000,
-        "molienda": "grano"
+        "total": 89000
       },
       {
         "sku": "CGA",
@@ -25293,8 +25288,7 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999,
-        "molienda": "grano"
+        "total": 51999.99999999999
       },
       {
         "sku": "DOM",
@@ -25318,8 +25312,7 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 55238.09523809524,
-        "molienda": "grano"
+        "descuento_valor": 55238.09523809524
       }
     ],
     "iva_total": 19095.238095238095,
@@ -25347,8 +25340,7 @@
         "iva_pct": 5,
         "total": 18000.000000000004,
         "descuento_pct": 10,
-        "descuento_valor": 1904.761904761905,
-        "molienda": "grano"
+        "descuento_valor": 1904.761904761905
       },
       {
         "sku": "CGA",
@@ -25360,8 +25352,7 @@
         "iva_pct": 5,
         "total": 20700,
         "descuento_pct": 10,
-        "descuento_valor": 2190.4761904761904,
-        "molienda": "grano"
+        "descuento_valor": 2190.4761904761904
       },
       {
         "sku": "CMA",
@@ -25373,8 +25364,7 @@
         "iva_pct": 5,
         "total": 20700,
         "descuento_pct": 10,
-        "descuento_valor": 2190.4761904761904,
-        "molienda": "grano"
+        "descuento_valor": 2190.4761904761904
       },
       {
         "sku": "BRO",
@@ -25386,8 +25376,7 @@
         "iva_pct": 5,
         "total": 34199.99999999999,
         "descuento_pct": 10,
-        "descuento_valor": 3619.0476190476184,
-        "molienda": "grano"
+        "descuento_valor": 3619.0476190476184
       },
       {
         "sku": "DOM",
@@ -25423,8 +25412,7 @@
         "valor_unitario": 190.47619047619048,
         "iva": 2380.952380952381,
         "iva_pct": 5,
-        "total": 50000,
-        "molienda": "grano"
+        "total": 50000
       },
       {
         "sku": "DOM",
@@ -25441,6 +25429,52 @@
     "forma_pago": {
       "codigo": 3,
       "valor": 64000
+    },
+    "observaciones": ""
+  },
+  {
+    "consecutivo": 2986,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "5895714",
+    "nombre_tercero": "Yorgelis Vizcaya",
+    "fecha_elaboracion": "2026-10-19",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      },
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 137.14285714285714,
+        "iva": 3428.5714285714284,
+        "iva_pct": 5,
+        "total": 72000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 7666.666666666667,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 175000
     },
     "observaciones": ""
   }
