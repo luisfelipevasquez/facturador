@@ -25769,5 +25769,75 @@
       "valor": 200000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 2991,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1098791866",
+    "nombre_tercero": "Juan Sebastián Vega Delgado",
+    "fecha_elaboracion": "2026-10-20",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "BNA",
+        "producto": "Blend Natural 56h",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 137.14285714285714,
+        "iva": 3428.5714285714284,
+        "iva_pct": 5,
+        "total": 72000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 2119.0476190476193,
+        "iva_pct": 5,
+        "total": 44500,
+        "descuento_pct": 50,
+        "descuento_valor": 42380.95238095238
+      },
+      {
+        "sku": "BHO120",
+        "producto": "Blend Honey 120h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 18000
+      }
+    ],
+    "iva_total": 10309.52380952381,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 216500
+    },
+    "observaciones": ""
   }
 ]
