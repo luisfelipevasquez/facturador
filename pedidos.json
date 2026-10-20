@@ -12276,5 +12276,30 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2986,
+    "fecha": "2026-10-19",
+    "tercero": "Yorgelis Vizcaya",
+    "identificacion": "5895714",
+    "productos": "CGA 500g x500, BNA120 500g x500",
+    "domicilio": "Local Mensajero",
+    "total": 175000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CGA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BNA120",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
