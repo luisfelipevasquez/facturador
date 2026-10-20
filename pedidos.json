@@ -12326,5 +12326,55 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2988,
+    "fecha": "2026-10-19",
+    "tercero": "Lucia Roa Peña",
+    "identificacion": "51794159",
+    "productos": "BNA 250g x250, BNA120 250g x250, CGA 250g x250, CMA 100g x100, RLAS 500g x500, RLAA 500g x500, BBO 250g x250",
+    "domicilio": "Nacional Transportadora",
+    "total": 275000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BNA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BNA120",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAS",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAA",
+        "presentacion": "500g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "BBO",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
