@@ -25786,8 +25786,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       },
       {
         "sku": "BNA",
@@ -25797,8 +25796,7 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000,
-        "molienda": "grano"
+        "total": 72000
       },
       {
         "sku": "CMA",
@@ -25810,8 +25808,7 @@
         "iva_pct": 5,
         "total": 44500,
         "descuento_pct": 50,
-        "descuento_valor": 42380.95238095238,
-        "molienda": "grano"
+        "descuento_valor": 42380.95238095238
       },
       {
         "sku": "BHO120",
@@ -25821,8 +25818,7 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000,
-        "molienda": "grano"
+        "total": 42000
       },
       {
         "sku": "DOM",
@@ -25843,5 +25839,41 @@
       "valor": 216500
     },
     "observaciones": "Calle 103 #21-138 Casa"
+  },
+  {
+    "consecutivo": 2992,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1017175461",
+    "nombre_tercero": "Tatiana Pérez Jaramillo",
+    "fecha_elaboracion": "2026-10-20",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 2761.904761904762,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 72000
+    },
+    "observaciones": ""
   }
 ]
