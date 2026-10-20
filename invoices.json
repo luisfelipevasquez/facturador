@@ -25681,5 +25681,93 @@
       "valor": 192000
     },
     "observaciones": "Enviar a Ana Milena Delgado\nCalle 12 #2c - 55\nSenderos de Funza Etapa 3 bloque 6 casa 3\nFunza CUN\nColombia"
+  },
+  {
+    "consecutivo": 2990,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1003231857",
+    "nombre_tercero": "Camilo Andrés Céspedes",
+    "fecha_elaboracion": "2026-10-20",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 1095.2380952380952,
+        "iva_pct": 5,
+        "total": 23000
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 1095.2380952380952,
+        "iva_pct": 5,
+        "total": 23000
+      },
+      {
+        "sku": "BRO",
+        "producto": "Bourbon Rosado",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 18000
+      },
+      {
+        "sku": "CHLA",
+        "producto": "Chiroso Lavado",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 209.52380952380952,
+        "iva": 1047.6190476190475,
+        "iva_pct": 5,
+        "total": 21999.999999999996
+      }
+    ],
+    "iva_total": 9523.809523809525,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 200000
+    },
+    "observaciones": ""
   }
 ]
