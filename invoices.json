@@ -25625,5 +25625,61 @@
       "valor": 275000
     },
     "observaciones": "Redime 250g BBO y se envía tarjeta nueva con 5 stickers"
+  },
+  {
+    "consecutivo": 2989,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1069765607",
+    "nombre_tercero": "Sergio Delgado",
+    "fecha_elaboracion": "2026-10-20",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "GELA",
+        "producto": "Gesha Lavado",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "RLAA",
+        "producto": "Regional Lavado Andes",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 131.65266106442579,
+        "iva": 2238.0952380952385,
+        "iva_pct": 5,
+        "total": 47000.00000000001
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      }
+    ],
+    "iva_total": 8285.714285714286,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 192000
+    },
+    "observaciones": "Enviar a Ana Milena Delgado\nCalle 12 #2c - 55\nSenderos de Funza Etapa 3 bloque 6 casa 3\nFunza CUN\nColombia"
   }
 ]
