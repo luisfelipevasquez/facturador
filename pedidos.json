@@ -12626,5 +12626,35 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 2997,
+    "fecha": "2026-10-21",
+    "tercero": "Daniela Salazar Soto",
+    "identificacion": "1026157124",
+    "productos": "RLAA 100g x100, CMA 100g x100, CGA 100g x100",
+    "domicilio": "Local Mensajero",
+    "total": 77000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      }
+    ]
   }
 ]
