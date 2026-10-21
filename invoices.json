@@ -26145,5 +26145,41 @@
       "valor": 77000
     },
     "observaciones": "Para enviar en las bolsas nuevas que llegan mañana"
+  },
+  {
+    "consecutivo": 2998,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1128420145",
+    "nombre_tercero": "Daniel Muñoz",
+    "fecha_elaboracion": "2026-10-21",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 271.7086834733894,
+        "iva": 4619.04761904762,
+        "iva_pct": 5,
+        "total": 97000.00000000001
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 4619.04761904762,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 111000.00000000001
+    },
+    "observaciones": ""
   }
 ]
