@@ -26280,7 +26280,8 @@
         "valor_unitario": 144.76190476190476,
         "iva": 1809.5238095238096,
         "iva_pct": 5,
-        "total": 38000
+        "total": 38000,
+        "molienda": "molido medio"
       },
       {
         "sku": "RLAA",
@@ -26290,7 +26291,8 @@
         "valor_unitario": 144.76190476190476,
         "iva": 1809.5238095238096,
         "iva_pct": 5,
-        "total": 38000
+        "total": 38000,
+        "molienda": "molido medio"
       },
       {
         "sku": "RLAA",
@@ -26300,7 +26302,8 @@
         "valor_unitario": 144.76190476190476,
         "iva": 1809.5238095238096,
         "iva_pct": 5,
-        "total": 38000
+        "total": 38000,
+        "molienda": "molido medio"
       }
     ],
     "iva_total": 5428.571428571429,
@@ -26308,6 +26311,6 @@
       "codigo": 3,
       "valor": 114000
     },
-    "observaciones": "Empacados en bolsas separadas: 2 con tarjeta de regalo y el otro con los 3 stickers pegados al café"
+    "observaciones": "Empacados en bolsas separadas: 2 con tarjeta de regalo y el otro con los 3 stickers pegados al café. Recoge el viernes"
   }
 ]
