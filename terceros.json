@@ -2526,5 +2526,21 @@
     "Teléfono móvil de contacto": "3178443192",
     "Estado": "Activo",
     "siigoId": "005a8652-a43a-4578-9e78-087a82621be6"
+  },
+  {
+    "Nombre tercero": "Daniela Salazar Soto",
+    "Tipo de identificación": "13",
+    "Identificación": "1026157124",
+    "Dirección": "Cra 47#50-36 local comercial Plastelya",
+    "Ciudad": "Itagüí",
+    "Código departamento": "05",
+    "Código ciudad": "05360",
+    "Teléfono.": "3116211528",
+    "Correo electrónico": "salazarsoto04@gmail.com",
+    "Nombres contacto": "Daniela",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3116211528",
+    "Estado": "Activo",
+    "siigoId": "b2781b5d-2bb4-44f7-b45e-7bdbadf81d05"
   }
 ]
