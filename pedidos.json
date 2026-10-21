@@ -12630,7 +12630,7 @@
   {
     "consecutivo": 2997,
     "fecha": "2026-10-21",
-    "tercero": "1026157124",
+    "tercero": "Daniela Salazar Soto",
     "identificacion": "1026157124",
     "productos": "RLAA 100g x100, CMA 100g x100, CGA 100g x100",
     "domicilio": "Local Mensajero",
@@ -12654,6 +12654,52 @@
         "sku": "CGA",
         "presentacion": "100g",
         "molienda": "molido medio"
+      }
+    ]
+  },
+  {
+    "consecutivo": 2998,
+    "fecha": "2026-10-21",
+    "tercero": "Daniel Muñoz",
+    "identificacion": "1128420145",
+    "productos": "PANA 340g x340",
+    "domicilio": "Local Mensajero",
+    "total": 111000.00000000001,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No"
+  },
+  {
+    "consecutivo": 2999,
+    "fecha": "2026-10-21",
+    "tercero": "Juliana Espinosa",
+    "identificacion": "1039458011",
+    "productos": "CGA 250g x250, BNA 100g x100",
+    "domicilio": "Local Mensajero",
+    "total": 86000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No"
+  },
+  {
+    "consecutivo": 3000,
+    "fecha": "2026-10-21",
+    "tercero": "Ricardo León Lopera Echeverri",
+    "identificacion": "98561035",
+    "productos": "BHO120 500g x500",
+    "domicilio": "Local Mensajero",
+    "total": 86000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BHO120",
+        "presentacion": "500g",
+        "molienda": "molido grueso"
       }
     ]
   }
