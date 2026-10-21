@@ -12506,5 +12506,25 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2993,
+    "fecha": "2026-10-20",
+    "tercero": "Christian Camilo Sanchez",
+    "identificacion": "1036599619",
+    "productos": "RLAA 500g x500",
+    "domicilio": "",
+    "total": 58000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
