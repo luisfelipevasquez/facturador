@@ -12656,5 +12656,25 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 2998,
+    "fecha": "2026-10-21",
+    "tercero": "Daniel Muñoz",
+    "identificacion": "1128420145",
+    "productos": "PANA 340g x340",
+    "domicilio": "Local Mensajero",
+    "total": 111000.00000000001,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "PANA",
+        "presentacion": "340g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
