@@ -12513,12 +12513,12 @@
     "tercero": "Christian Camilo Sanchez",
     "identificacion": "1036599619",
     "productos": "RLAA 500g x500",
-    "domicilio": "",
-    "total": 58000,
+    "domicilio": "Local Mensajero",
+    "total": 72000,
     "forma_pago": "T. Débito",
     "status": "En proceso",
     "client_type": "Antiguo",
-    "recoge": "Si",
+    "recoge": "No",
     "items_molienda": [
       {
         "sku": "RLAA",
