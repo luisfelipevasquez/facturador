@@ -26117,7 +26117,8 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000
+        "total": 17000,
+        "molienda": "molido medio"
       },
       {
         "sku": "CMA",
@@ -26127,7 +26128,8 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000
+        "total": 23000,
+        "molienda": "molido medio"
       },
       {
         "sku": "CGA",
@@ -26137,7 +26139,8 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000
+        "total": 23000,
+        "molienda": "molido medio"
       },
       {
         "sku": "DOM",
@@ -26155,7 +26158,7 @@
       "codigo": 3,
       "valor": 77000
     },
-    "observaciones": "Para enviar en las bolsas nuevas que llegan mañana"
+    "observaciones": "Para enviar en las bolsas nuevas pero aún no. Yo te aviso"
   },
   {
     "consecutivo": 2998,
