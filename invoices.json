@@ -25892,8 +25892,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       },
       {
         "sku": "DOM",
@@ -26117,8 +26116,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "CMA",
@@ -26128,8 +26126,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "molido medio"
+        "total": 23000
       },
       {
         "sku": "CGA",
@@ -26139,8 +26136,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "molido medio"
+        "total": 23000
       },
       {
         "sku": "DOM",
@@ -26357,6 +26353,64 @@
     "forma_pago": {
       "codigo": 3,
       "valor": 86000
+    },
+    "observaciones": ""
+  },
+  {
+    "consecutivo": 3003,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1015443920",
+    "nombre_tercero": "Juan Pablo Díaz Segura",
+    "fecha_elaboracion": "2026-10-23",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BRO",
+        "producto": "Bourbon Rosado",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 271.7086834733894,
+        "iva": 4619.04761904762,
+        "iva_pct": 5,
+        "total": 97000.00000000001
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 190.47619047619048,
+        "iva": 3238.0952380952385,
+        "iva_pct": 5,
+        "total": 68000
+      },
+      {
+        "sku": "GELA",
+        "producto": "Gesha Lavado",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 18000
+      }
+    ],
+    "iva_total": 11476.190476190477,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 241000
     },
     "observaciones": ""
   }
