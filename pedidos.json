@@ -12823,9 +12823,9 @@
     "fecha": "2026-10-23",
     "tercero": "Karen Porras",
     "identificacion": "1032502835",
-    "productos": "BRO 250g x250, BRO 100g x100, CMA 250g x250",
+    "productos": "BRO 250g x250, BRO 100g x100, CMA 250g x250, PANA 100g x100",
     "domicilio": "Nacional Transportadora",
-    "total": 184000,
+    "total": 204000,
     "forma_pago": "T. Débito",
     "status": "En proceso",
     "client_type": "Antiguo",
@@ -12845,6 +12845,76 @@
         "sku": "CMA",
         "presentacion": "250g",
         "molienda": "molido medio"
+      },
+      {
+        "sku": "PANA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      }
+    ]
+  },
+  {
+    "consecutivo": 3006,
+    "fecha": "2026-10-23",
+    "tercero": "Nikolas Vasquez",
+    "identificacion": "1000000012",
+    "productos": "RLAS 100g x100, RLAA 100g x100, CGA 100g x100, CGA 100g x100, CGA 100g x100, CGA 100g x100, CMA 100g x100, BNA 100g x100, PANA 100g x100, GELA 100g x100",
+    "domicilio": "Local Mensajero",
+    "total": 245000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAS",
+        "presentacion": "100g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "RLAA",
+        "presentacion": "100g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "100g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "100g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "100g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "100g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "100g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "BNA",
+        "presentacion": "100g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "PANA",
+        "presentacion": "100g",
+        "molienda": "molido fino"
+      },
+      {
+        "sku": "GELA",
+        "presentacion": "100g",
+        "molienda": "molido fino"
       }
     ]
   }
