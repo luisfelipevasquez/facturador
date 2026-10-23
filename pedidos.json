@@ -12752,5 +12752,35 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 3003,
+    "fecha": "2026-10-23",
+    "tercero": "Juan Pablo Díaz Segura",
+    "identificacion": "1015443920",
+    "productos": "BRO 340g x340, CMA 340g x340, GELA 250g x250",
+    "domicilio": "Nacional Transportadora",
+    "total": 241000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BRO",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "GELA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
