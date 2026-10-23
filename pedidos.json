@@ -12692,7 +12692,7 @@
     "domicilio": "Local Mensajero",
     "total": 86000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Antiguo",
     "recoge": "No",
     "items_molienda": [
@@ -12815,6 +12815,36 @@
         "sku": "CMA",
         "presentacion": "100g",
         "molienda": "grano"
+      }
+    ]
+  },
+  {
+    "consecutivo": 3005,
+    "fecha": "2026-10-23",
+    "tercero": "Karen Porras",
+    "identificacion": "1032502835",
+    "productos": "BRO 250g x250, BRO 100g x100, CMA 250g x250",
+    "domicilio": "Nacional Transportadora",
+    "total": 184000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BRO",
+        "presentacion": "250g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "BRO",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "250g",
+        "molienda": "molido medio"
       }
     ]
   }
