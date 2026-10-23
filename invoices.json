@@ -26413,5 +26413,75 @@
       "valor": 241000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 3004,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1098653455",
+    "nombre_tercero": "Gustavo Fajardo Cuartas",
+    "fecha_elaboracion": "2026-10-23",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "2500g",
+        "cantidad": 2500,
+        "valor_unitario": 160,
+        "iva": 20000,
+        "iva_pct": 5,
+        "total": 420000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 190.47619047619048,
+        "iva": 3238.0952380952385,
+        "iva_pct": 5,
+        "total": 68000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 18000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 21904.761904761905
+      }
+    ],
+    "iva_total": 27476.190476190473,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 577000
+    },
+    "observaciones": ""
   }
 ]
