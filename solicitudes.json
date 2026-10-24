@@ -391,5 +391,71 @@
       "wamid": "wamid.HBgMNTczMDAyMzcwNTgwFQIAERgSOEFCRkYzQzEwNzAyQTE5NERFAA==",
       "to": "573002370580"
     }
+  },
+  {
+    "id": "SOL-1792808438851-23o8k",
+    "estado": "pendiente",
+    "creado": "2026-10-24T02:20:38.851Z",
+    "cliente": {
+      "nombre": "Michel Camilo Gallego Henao",
+      "tipo_documento": "13",
+      "documento": "8030815",
+      "email": "michca75@hotmail.com",
+      "celular": "57 3007840940",
+      "ciudad": "Medellín",
+      "direccion": "Calle 24 sur # 7 - 45. Altos de Arrayanes. Casa 42",
+      "observaciones": ""
+    },
+    "productos": [
+      {
+        "sku": "BHO",
+        "nombre": "Blend Honey 56h",
+        "presentacion": "340g",
+        "molienda": "grano",
+        "cantidad": 1,
+        "precio": 53000
+      },
+      {
+        "sku": "BRO",
+        "nombre": "Bourbon Rosado",
+        "presentacion": "340g",
+        "molienda": "molido grueso",
+        "cantidad": 1,
+        "precio": 97000
+      },
+      {
+        "sku": "PANA",
+        "nombre": "Papayo Natural",
+        "presentacion": "500g",
+        "molienda": "grano",
+        "cantidad": 2,
+        "precio": 139000
+      },
+      {
+        "sku": "CGA",
+        "nombre": "Cofermentado Galleta",
+        "presentacion": "500g",
+        "molienda": "grano",
+        "cantidad": 1,
+        "precio": 89000
+      }
+    ],
+    "total_estimado": 517000,
+    "siigo_customer_found": true,
+    "siigo_customer_id": "36209be5-bd2b-4836-bdd0-db80a1779366",
+    "envio": {
+      "registered_address": "Calle 2 #20-50",
+      "shipping_address_same_as_registered": true,
+      "shipping_address": "Calle 24 sur # 7 - 45. Altos de Arrayanes. Casa 42",
+      "customer_overrode_address": true,
+      "shipping_method": "Envío Área Metropolitana por Transportadora",
+      "shipping_base_cost": 10000,
+      "shipping_cost": 0,
+      "free_shipping": true,
+      "shipping_departamento": "Antioquia",
+      "shipping_ciudad": "Medellín",
+      "cod_dpto_envio": "05",
+      "cod_ciudad_envio": "05001"
+    }
   }
 ]
