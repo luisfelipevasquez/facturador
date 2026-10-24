@@ -12967,5 +12967,40 @@
         "molienda": "molido fino"
       }
     ]
+  },
+  {
+    "consecutivo": 3009,
+    "fecha": "2026-10-23",
+    "tercero": "Diego Padilla",
+    "identificacion": "80756920",
+    "productos": "RLAA 340g x340, PANA 340g x340, BRO 340g x340, CMA 250g x250",
+    "domicilio": "Nacional Transportadora",
+    "total": 293000.00000000006,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAA",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "PANA",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BRO",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
