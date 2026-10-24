@@ -26959,5 +26959,61 @@
       "valor": 963000
     },
     "observaciones": "Lo lleva Alejo a Cristian para envío a Alemania"
+  },
+  {
+    "consecutivo": 3011,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1110522615",
+    "nombre_tercero": "Daniel Eduardo Zambrano Carbonell",
+    "fecha_elaboracion": "2026-10-23",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO120",
+        "producto": "Blend Honey 120h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 190.47619047619048,
+        "iva": 3238.0952380952385,
+        "iva_pct": 5,
+        "total": 68000
+      },
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 8857.142857142859,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 204000
+    },
+    "observaciones": ""
   }
 ]
