@@ -25892,8 +25892,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       },
       {
         "sku": "DOM",
@@ -26117,8 +26116,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "CMA",
@@ -26128,8 +26126,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "molido medio"
+        "total": 23000
       },
       {
         "sku": "CGA",
@@ -26139,8 +26136,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "molido medio"
+        "total": 23000
       },
       {
         "sku": "DOM",
@@ -26376,8 +26372,7 @@
         "valor_unitario": 271.7086834733894,
         "iva": 4619.04761904762,
         "iva_pct": 5,
-        "total": 97000.00000000001,
-        "molienda": "grano"
+        "total": 97000.00000000001
       },
       {
         "sku": "CMA",
@@ -26387,8 +26382,7 @@
         "valor_unitario": 190.47619047619048,
         "iva": 3238.0952380952385,
         "iva_pct": 5,
-        "total": 68000,
-        "molienda": "grano"
+        "total": 68000
       },
       {
         "sku": "GELA",
@@ -26398,8 +26392,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       },
       {
         "sku": "DOM",
@@ -26437,8 +26430,7 @@
         "valor_unitario": 160,
         "iva": 20000,
         "iva_pct": 5,
-        "total": 420000,
-        "molienda": "grano"
+        "total": 420000
       },
       {
         "sku": "CMA",
@@ -26448,8 +26440,7 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000,
-        "molienda": "grano"
+        "total": 89000
       },
       {
         "sku": "CMA",
@@ -26459,8 +26450,7 @@
         "valor_unitario": 190.47619047619048,
         "iva": 3238.0952380952385,
         "iva_pct": 5,
-        "total": 68000,
-        "molienda": "grano"
+        "total": 68000
       },
       {
         "sku": "DOM",
@@ -26484,8 +26474,7 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 21904.761904761905,
-        "molienda": "grano"
+        "descuento_valor": 21904.761904761905
       }
     ],
     "iva_total": 27476.190476190473,
@@ -26511,8 +26500,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "molido medio"
+        "total": 76000
       },
       {
         "sku": "BRO",
@@ -26522,8 +26510,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "grano"
+        "total": 37999.99999999999
       },
       {
         "sku": "CMA",
@@ -26533,8 +26520,7 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999,
-        "molienda": "molido medio"
+        "total": 51999.99999999999
       },
       {
         "sku": "DOM",
@@ -26556,8 +26542,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "molido medio"
+        "total": 37999.99999999999
       }
     ],
     "iva_total": 9714.285714285714,
@@ -26583,8 +26568,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido fino"
+        "total": 17000
       },
       {
         "sku": "RLAA",
@@ -26594,8 +26578,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido fino"
+        "total": 17000
       },
       {
         "sku": "CGA",
@@ -26605,8 +26588,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "molido fino"
+        "total": 23000
       },
       {
         "sku": "CGA",
@@ -26616,8 +26598,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "molido fino"
+        "total": 23000
       },
       {
         "sku": "CGA",
@@ -26627,8 +26608,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "molido fino"
+        "total": 23000
       },
       {
         "sku": "CGA",
@@ -26638,8 +26618,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "molido fino"
+        "total": 23000
       },
       {
         "sku": "CMA",
@@ -26649,8 +26628,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "molido fino"
+        "total": 23000
       },
       {
         "sku": "BNA",
@@ -26660,8 +26638,7 @@
         "valor_unitario": 190.47619047619048,
         "iva": 952.3809523809525,
         "iva_pct": 5,
-        "total": 20000.000000000004,
-        "molienda": "molido fino"
+        "total": 20000.000000000004
       },
       {
         "sku": "PANA",
@@ -26671,8 +26648,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "molido fino"
+        "total": 37999.99999999999
       },
       {
         "sku": "GELA",
@@ -26682,8 +26658,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "molido fino"
+        "total": 37999.99999999999
       },
       {
         "sku": "DOM",
@@ -26704,5 +26679,63 @@
       "valor": 245000
     },
     "observaciones": "OJO: molidos moka"
+  },
+  {
+    "consecutivo": 3007,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "71116448",
+    "nombre_tercero": "Wilson Alberto Restrepo Alvarez",
+    "fecha_elaboracion": "2026-10-23",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 14000
+      }
+    ],
+    "iva_total": 12714.285714285716,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 267000
+    },
+    "observaciones": "OJO: Para entregar el lunes en el Tesoro"
   }
 ]
