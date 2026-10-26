@@ -27073,8 +27073,8 @@
     "identificacion_vendedor": "901906362",
     "items": [
       {
-        "sku": "RLAC",
-        "producto": "Regional Lavado Caicedo",
+        "sku": "RLAS",
+        "producto": "Regional Lavado SurOeste",
         "presentacion": "2500g",
         "cantidad": 2500,
         "valor_unitario": 80,
@@ -27082,7 +27082,8 @@
         "iva_pct": 5,
         "total": 199500,
         "descuento_pct": 5,
-        "descuento_valor": 10000
+        "descuento_valor": 10000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -27176,7 +27177,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "grano"
       },
       {
         "sku": "RLAS",
@@ -27186,7 +27188,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -27222,7 +27225,8 @@
         "valor_unitario": 190.47619047619048,
         "iva": 3238.0952380952385,
         "iva_pct": 5,
-        "total": 68000
+        "total": 68000,
+        "molienda": "grano"
       },
       {
         "sku": "CGA",
@@ -27232,7 +27236,8 @@
         "valor_unitario": 190.47619047619048,
         "iva": 3238.0952380952385,
         "iva_pct": 5,
-        "total": 68000
+        "total": 68000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
