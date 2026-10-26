@@ -13133,7 +13133,7 @@
     "fecha": "2026-10-25",
     "tercero": "Libis Barroeta",
     "identificacion": "675037",
-    "productos": "RLAC 2500g x2500",
+    "productos": "RLAS 2500g x2500",
     "domicilio": "Local Mensajero",
     "total": 199500,
     "forma_pago": "T. Débito",
@@ -13142,7 +13142,7 @@
     "recoge": "No",
     "items_molienda": [
       {
-        "sku": "RLAC",
+        "sku": "RLAS",
         "presentacion": "2500g",
         "molienda": "grano"
       }
@@ -13224,6 +13224,31 @@
       {
         "sku": "CGA",
         "presentacion": "340g",
+        "molienda": "grano"
+      }
+    ]
+  },
+  {
+    "consecutivo": 3017,
+    "fecha": "2026-10-26",
+    "tercero": "Juan José Trujillo",
+    "identificacion": "1152467379",
+    "productos": "CGA 340g x340, BNA 250g x250",
+    "domicilio": "Local Mensajero",
+    "total": 124000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CGA",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BNA",
+        "presentacion": "250g",
         "molienda": "grano"
       }
     ]
