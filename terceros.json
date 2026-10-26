@@ -2574,5 +2574,21 @@
     "Teléfono móvil de contacto": "3102215902",
     "Estado": "Activo",
     "siigoId": "d347c7b3-09da-43a3-b730-5f9f1f8e8d1c"
+  },
+  {
+    "Nombre tercero": "Ana Rendon",
+    "Tipo de identificación": "13",
+    "Identificación": "1036598467",
+    "Dirección": "Calle 78sur#40-115 Flores de San Remo Apto 607",
+    "Ciudad": "Sabaneta",
+    "Código departamento": "05",
+    "Código ciudad": "05631",
+    "Teléfono.": "3024528692",
+    "Correo electrónico": "rendona25@gmail.com",
+    "Nombres contacto": "Ana",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3024528692",
+    "Estado": "Activo",
+    "siigoId": "e07ee50b-8998-442c-813e-d5f194b7322a"
   }
 ]
