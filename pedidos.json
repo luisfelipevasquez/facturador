@@ -13297,5 +13297,25 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 3019,
+    "fecha": "2026-10-26",
+    "tercero": "Arley Esteban Restrepo López",
+    "identificacion": "1152703590",
+    "productos": "BBO 500g x500",
+    "domicilio": "Local Mensajero",
+    "total": 112999.99999999999,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BBO",
+        "presentacion": "500g",
+        "molienda": "molido medio"
+      }
+    ]
   }
 ]
