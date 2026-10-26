@@ -27205,5 +27205,51 @@
       "valor": 134000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 3016,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1036598467",
+    "nombre_tercero": "Ana Rendon",
+    "fecha_elaboracion": "2026-10-26",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 190.47619047619048,
+        "iva": 3238.0952380952385,
+        "iva_pct": 5,
+        "total": 68000
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 190.47619047619048,
+        "iva": 3238.0952380952385,
+        "iva_pct": 5,
+        "total": 68000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 6476.190476190477,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 150000
+    },
+    "observaciones": ""
   }
 ]
