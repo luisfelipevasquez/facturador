@@ -2590,5 +2590,21 @@
     "Teléfono móvil de contacto": "3024528692",
     "Estado": "Activo",
     "siigoId": "e07ee50b-8998-442c-813e-d5f194b7322a"
+  },
+  {
+    "Nombre tercero": "Juan José Trujillo",
+    "Tipo de identificación": "13",
+    "Identificación": "1152467379",
+    "Dirección": "Calle 36 sur#22-05 Pinar de la loma Casa 105",
+    "Ciudad": "Envigado",
+    "Código departamento": "05",
+    "Código ciudad": "05266",
+    "Teléfono.": "3107873477",
+    "Correo electrónico": "Ebanoreserve@gmail.com",
+    "Nombres contacto": "Juan",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3107873477",
+    "Estado": "Activo",
+    "siigoId": "ce978076-a9b9-49f3-aefb-6e85669b2e39"
   }
 ]
