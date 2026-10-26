@@ -27383,5 +27383,41 @@
       "valor": 169000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 3019,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1152703590",
+    "nombre_tercero": "Arley Esteban Restrepo López",
+    "fecha_elaboracion": "2026-10-26",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 188.57142857142856,
+        "iva": 4714.285714285714,
+        "iva_pct": 5,
+        "total": 98999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 4714.285714285714,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 112999.99999999999
+    },
+    "observaciones": ""
   }
 ]
