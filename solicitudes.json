@@ -467,7 +467,7 @@
   },
   {
     "id": "SOL-1793123405714-qsyyi",
-    "estado": "pendiente",
+    "estado": "revisado",
     "creado": "2026-10-27T17:50:05.714Z",
     "cliente": {
       "nombre": "Juan David Gomez Vahos",
@@ -527,6 +527,7 @@
       "status": "sent",
       "wamid": "wamid.HBgMNTczMTA1MTk0NjM0FQIAERgSM0IzQzZDM0YwQjkwRjczMTUxAA==",
       "to": "573105194634"
-    }
+    },
+    "actualizado": "2026-10-27T22:12:24.602Z"
   }
 ]
