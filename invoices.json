@@ -27482,8 +27482,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       },
       {
         "sku": "PANA",
@@ -27493,8 +27492,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "grano"
+        "total": 37999.99999999999
       },
       {
         "sku": "GELA",
@@ -27504,8 +27502,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       },
       {
         "sku": "BHO120",
@@ -27515,8 +27512,7 @@
         "valor_unitario": 148.45938375350138,
         "iva": 2523.809523809524,
         "iva_pct": 5,
-        "total": 53000,
-        "molienda": "grano"
+        "total": 53000
       },
       {
         "sku": "DOM",
@@ -27540,8 +27536,7 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 49523.80952380952,
-        "molienda": "grano"
+        "descuento_valor": 49523.80952380952
       }
     ],
     "iva_total": 11571.428571428572,
@@ -27917,8 +27912,7 @@
         "valor_unitario": 148.45938375350138,
         "iva": 2523.809523809524,
         "iva_pct": 5,
-        "total": 53000,
-        "molienda": "grano"
+        "total": 53000
       },
       {
         "sku": "BRO",
@@ -27928,8 +27922,7 @@
         "valor_unitario": 271.7086834733894,
         "iva": 4619.04761904762,
         "iva_pct": 5,
-        "total": 97000.00000000001,
-        "molienda": "molido grueso"
+        "total": 97000.00000000001
       },
       {
         "sku": "PANA",
@@ -27939,8 +27932,7 @@
         "valor_unitario": 264.76190476190476,
         "iva": 13238.095238095237,
         "iva_pct": 5,
-        "total": 278000,
-        "molienda": "grano"
+        "total": 278000
       },
       {
         "sku": "CGA",
@@ -27950,14 +27942,69 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000,
-        "molienda": "grano"
+        "total": 89000
       }
     ],
     "iva_total": 24619.04761904762,
     "forma_pago": {
       "codigo": 1,
       "valor": 517000
+    },
+    "observaciones": ""
+  },
+  {
+    "consecutivo": 3024,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1061735209",
+    "nombre_tercero": "Juan Camilo Ospina Quintero",
+    "fecha_elaboracion": "2026-10-27",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAS",
+        "producto": "Regional Lavado SurOeste",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "BRO",
+        "producto": "Bourbon Rosado",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 220.95238095238093,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 7333.333333333332,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 168000
     },
     "observaciones": ""
   }
