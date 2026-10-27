@@ -394,7 +394,7 @@
   },
   {
     "id": "SOL-1792808438851-23o8k",
-    "estado": "pendiente",
+    "estado": "revisado",
     "creado": "2026-10-24T02:20:38.851Z",
     "cliente": {
       "nombre": "Michel Camilo Gallego Henao",
@@ -462,6 +462,7 @@
       "status": "sent",
       "wamid": "wamid.HBgMNTczMDA3ODQwOTQwFQIAERgSMEVBRUZDNkIyNkUxQzUyMTk1AA==",
       "to": "573007840940"
-    }
+    },
+    "actualizado": "2026-10-27T16:29:44.680Z"
   }
 ]
