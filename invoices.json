@@ -27900,7 +27900,8 @@
         "valor_unitario": 148.45938375350138,
         "iva": 2523.809523809524,
         "iva_pct": 5,
-        "total": 53000
+        "total": 53000,
+        "molienda": "grano"
       },
       {
         "sku": "BRO",
@@ -27910,7 +27911,8 @@
         "valor_unitario": 271.7086834733894,
         "iva": 4619.04761904762,
         "iva_pct": 5,
-        "total": 97000.00000000001
+        "total": 97000.00000000001,
+        "molienda": "molido grueso"
       },
       {
         "sku": "PANA",
@@ -27920,7 +27922,8 @@
         "valor_unitario": 264.76190476190476,
         "iva": 13238.095238095237,
         "iva_pct": 5,
-        "total": 278000
+        "total": 278000,
+        "molienda": "grano"
       },
       {
         "sku": "CGA",
@@ -27930,12 +27933,13 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000
+        "total": 89000,
+        "molienda": "grano"
       }
     ],
     "iva_total": 24619.04761904762,
     "forma_pago": {
-      "codigo": 3,
+      "codigo": 1,
       "valor": 517000
     },
     "observaciones": ""
