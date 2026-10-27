@@ -28070,7 +28070,8 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000
+        "total": 89000,
+        "molienda": "grano"
       },
       {
         "sku": "CGA",
@@ -28080,7 +28081,8 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000
+        "total": 89000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -28098,6 +28100,6 @@
       "codigo": 3,
       "valor": 196000
     },
-    "observaciones": ""
+    "observaciones": "Parque residencial hojarasca portería 1"
   }
 ]
