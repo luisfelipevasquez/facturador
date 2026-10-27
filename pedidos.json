@@ -13597,5 +13597,30 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 3025,
+    "fecha": "2026-10-27",
+    "tercero": "Juan David Gomez Vahos",
+    "identificacion": "1033652482",
+    "productos": "CGA 250g x250, CMA 100g x100",
+    "domicilio": "Envío Nacional",
+    "total": 93000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CGA",
+        "presentacion": "250g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
