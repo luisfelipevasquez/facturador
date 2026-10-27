@@ -521,6 +521,12 @@
       "shipping_ciudad": "Honda",
       "cod_dpto_envio": "73",
       "cod_ciudad_envio": "73349"
+    },
+    "wa": {
+      "at": "2026-10-27T17:50:08.599Z",
+      "status": "sent",
+      "wamid": "wamid.HBgMNTczMTA1MTk0NjM0FQIAERgSM0IzQzZDM0YwQjkwRjczMTUxAA==",
+      "to": "573105194634"
     }
   }
 ]
