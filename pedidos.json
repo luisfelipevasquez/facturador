@@ -13348,7 +13348,7 @@
     "fecha": "2026-10-27",
     "tercero": "Daniel Muñoz",
     "identificacion": "1128420145",
-    "productos": "PANA 250g x250, PANA 100g x100, GELA 250g x250, BHO120 340g x340",
+    "productos": "PANA 250g x250, PANA 100g x100, GELA 250g x250, BHO120 340g x340, CMA 250g x250",
     "domicilio": "Local Mensajero",
     "total": 243000,
     "forma_pago": "T. Débito",
@@ -13374,6 +13374,11 @@
       {
         "sku": "BHO120",
         "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "250g",
         "molienda": "grano"
       }
     ]
@@ -13559,6 +13564,36 @@
       {
         "sku": "CGA",
         "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
+  },
+  {
+    "consecutivo": 3024,
+    "fecha": "2026-10-27",
+    "tercero": "Juan Camilo Ospina Quintero",
+    "identificacion": "1061735209",
+    "productos": "RLAS 500g x500, BRO 100g x100, BBO 250g x250",
+    "domicilio": "Local Mensajero",
+    "total": 168000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAS",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BRO",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BBO",
+        "presentacion": "250g",
         "molienda": "grano"
       }
     ]
