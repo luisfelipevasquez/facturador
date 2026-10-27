@@ -12957,7 +12957,7 @@
     "domicilio": "",
     "total": 199500,
     "forma_pago": "T. Débito",
-    "status": "En proceso",
+    "status": "Completado",
     "client_type": "Antiguo",
     "recoge": "No",
     "items_molienda": [
@@ -13536,7 +13536,7 @@
     "productos": "BHO120 340g x340, BRO 340g x340, PANA 500g x1000, CGA 500g x500",
     "domicilio": "",
     "total": 517000,
-    "forma_pago": "T. Débito",
+    "forma_pago": "Efectivo",
     "status": "Completado",
     "client_type": "Antiguo",
     "recoge": "No",
