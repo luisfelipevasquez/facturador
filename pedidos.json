@@ -13622,5 +13622,30 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 3026,
+    "fecha": "2026-10-27",
+    "tercero": "Angelly Solarte",
+    "identificacion": "1130627332",
+    "productos": "CGA 500g x500, CGA 500g x500",
+    "domicilio": "Nacional Transportadora",
+    "total": 196000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CGA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
