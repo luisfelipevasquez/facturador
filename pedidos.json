@@ -13317,5 +13317,30 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 3020,
+    "fecha": "2026-10-27",
+    "tercero": "Alejandra Arboleda",
+    "identificacion": "1017237696",
+    "productos": "BRO 250g x250, CGA 500g x500",
+    "domicilio": "Local Mensajero",
+    "total": 179000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BRO",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
