@@ -530,5 +530,63 @@
       "to": "573105194634"
     },
     "actualizado": "2026-10-27T22:12:24.602Z"
+  },
+  {
+    "id": "SOL-1793190401148-sr9c8",
+    "estado": "pendiente",
+    "creado": "2026-10-28T12:26:41.148Z",
+    "cliente": {
+      "nombre": "Adrian Giraldo",
+      "tipo_documento": "13",
+      "documento": "1094953386",
+      "email": "adriangidi@hotmail.com",
+      "celular": "3104274646",
+      "ciudad": "Bogotá D.C.",
+      "direccion": "Carrera 23 # 106-61. Edificio ficus 106. Apto 201",
+      "observaciones": ""
+    },
+    "productos": [
+      {
+        "sku": "BHO120",
+        "nombre": "Honey 120 Horas",
+        "presentacion": "250g",
+        "molienda": "grano",
+        "cantidad": 1,
+        "precio": 42000
+      },
+      {
+        "sku": "CGA",
+        "nombre": "Galleta Mantequilla",
+        "presentacion": "250g",
+        "molienda": "grano",
+        "cantidad": 1,
+        "precio": 52000
+      },
+      {
+        "sku": "DOM",
+        "nombre": "Domicilio",
+        "presentacion": "Envío Nacional",
+        "molienda": "",
+        "cantidad": 1,
+        "precio": 18000
+      }
+    ],
+    "total_estimado": 112000,
+    "siigo_customer_found": false,
+    "siigo_customer_id": "",
+    "envio": {
+      "registered_address": "Carrera 23 # 106-61. Edificio ficus 106. Apto 201",
+      "shipping_address_same_as_registered": true,
+      "shipping_address": "Carrera 23 # 106-61. Edificio ficus 106. Apto 201",
+      "customer_overrode_address": false,
+      "shipping_method": "Envío Nacional",
+      "shipping_base_cost": 18000,
+      "shipping_cost": 18000,
+      "free_shipping": false,
+      "shipping_departamento": "Bogotá D.C.",
+      "shipping_ciudad": "Bogotá D.C.",
+      "cod_dpto_envio": "11",
+      "cod_ciudad_envio": "11001"
+    }
   }
 ]
