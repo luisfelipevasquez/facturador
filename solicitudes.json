@@ -587,6 +587,12 @@
       "shipping_ciudad": "Bogotá D.C.",
       "cod_dpto_envio": "11",
       "cod_ciudad_envio": "11001"
+    },
+    "wa": {
+      "at": "2026-10-28T12:26:44.041Z",
+      "status": "sent",
+      "wamid": "wamid.HBgMNTczMTA0Mjc0NjQ2FQIAERgSMDEyNkREOTE2NzkzNkE4Q0VDAA==",
+      "to": "573104274646"
     }
   }
 ]
