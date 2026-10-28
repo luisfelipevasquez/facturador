@@ -2622,5 +2622,21 @@
     "Teléfono móvil de contacto": "3175340010",
     "Estado": "Activo",
     "siigoId": "2f693921-0aae-44fc-952e-f997ebe2ba97"
+  },
+  {
+    "Nombre tercero": "Adrian Giraldo",
+    "Tipo de identificación": "13",
+    "Identificación": "1094953386",
+    "Dirección": "Carrera 23 # 106-61. Edificio ficus 106. Apto 201",
+    "Ciudad": "Bogotá D.C.",
+    "Código departamento": "11",
+    "Código ciudad": "11001",
+    "Teléfono.": "3104274646",
+    "Correo electrónico": "adriangidi@hotmail.com",
+    "Nombres contacto": "Adrian",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3104274646",
+    "Estado": "Activo",
+    "siigoId": "34f1f664-f220-4763-b1c8-6e20f008d2f0"
   }
 ]
