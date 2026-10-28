@@ -28375,5 +28375,51 @@
     "cufe": null,
     "siigoStatus": "Sincronizado",
     "siigoSyncedAt": "2026-10-28T02:36:16.387Z"
+  },
+  {
+    "consecutivo": 3028,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1143468393",
+    "nombre_tercero": "Sergio Carvajal",
+    "fecha_elaboracion": "2026-10-28",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "BRO",
+        "producto": "Bourbon Rosado",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 5428.571428571428,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 128000
+    },
+    "observaciones": ""
   }
 ]
