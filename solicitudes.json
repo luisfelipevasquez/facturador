@@ -533,7 +533,7 @@
   },
   {
     "id": "SOL-1793190401148-sr9c8",
-    "estado": "pendiente",
+    "estado": "revisado",
     "creado": "2026-10-28T12:26:41.148Z",
     "cliente": {
       "nombre": "Adrian Giraldo",
@@ -593,6 +593,7 @@
       "status": "sent",
       "wamid": "wamid.HBgMNTczMTA0Mjc0NjQ2FQIAERgSMDEyNkREOTE2NzkzNkE4Q0VDAA==",
       "to": "573104274646"
-    }
+    },
+    "actualizado": "2026-10-28T22:20:33.818Z"
   }
 ]
