@@ -26412,7 +26412,12 @@
       "codigo": 3,
       "valor": 241000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "fc9b9543-42e4-4db5-8298-a5db6fd59e04",
+    "siigoNumber": "FV-2-2980",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-28T02:35:39.426Z"
   },
   {
     "consecutivo": 3004,
