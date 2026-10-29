@@ -644,6 +644,12 @@
       "shipping_ciudad": "Medellín",
       "cod_dpto_envio": "05",
       "cod_ciudad_envio": "05001"
+    },
+    "wa": {
+      "at": "2026-10-29T03:55:27.517Z",
+      "status": "sent",
+      "wamid": "wamid.HBgMNTczMTE2MDk5MTk0FQIAERgSOTEzRDY3MTNEMTY4RDhGQkZGAA==",
+      "to": "573116099194"
     }
   }
 ]
