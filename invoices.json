@@ -28598,7 +28598,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "grano"
       }
     ],
     "iva_total": 3619.0476190476193,
@@ -28624,7 +28625,8 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000
+        "total": 89000,
+        "molienda": "grano"
       },
       {
         "sku": "CGA",
@@ -28634,7 +28636,8 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999
+        "total": 51999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "BHO",
@@ -28646,7 +28649,8 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525
+        "descuento_valor": 952.3809523809525,
+        "molienda": "grano"
       },
       {
         "sku": "BHO72",
@@ -28658,7 +28662,8 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525
+        "descuento_valor": 952.3809523809525,
+        "molienda": "grano"
       },
       {
         "sku": "BHO120",
@@ -28670,7 +28675,8 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525
+        "descuento_valor": 952.3809523809525,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -28708,7 +28714,8 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999
+        "total": 37999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "CMA",
@@ -28718,7 +28725,8 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000
+        "total": 23000,
+        "molienda": "grano"
       },
       {
         "sku": "CGA",
@@ -28728,7 +28736,8 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000
+        "total": 23000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -28764,7 +28773,8 @@
         "valor_unitario": 148.45938375350138,
         "iva": 2523.809523809524,
         "iva_pct": 5,
-        "total": 53000
+        "total": 53000,
+        "molienda": "grano"
       },
       {
         "sku": "CGA",
@@ -28774,7 +28784,8 @@
         "valor_unitario": 190.47619047619048,
         "iva": 3238.0952380952385,
         "iva_pct": 5,
-        "total": 68000
+        "total": 68000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -28792,6 +28803,6 @@
       "codigo": 3,
       "valor": 139000
     },
-    "observaciones": ""
+    "observaciones": "Panorama park TOrre 1"
   }
 ]
