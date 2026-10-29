@@ -28747,5 +28747,51 @@
       "valor": 102000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 3036,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "79971971",
+    "nombre_tercero": "Oscar Barbosa",
+    "fecha_elaboracion": "2026-10-29",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BNA",
+        "producto": "Blend Natural 56h",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 148.45938375350138,
+        "iva": 2523.809523809524,
+        "iva_pct": 5,
+        "total": 53000
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 190.47619047619048,
+        "iva": 3238.0952380952385,
+        "iva_pct": 5,
+        "total": 68000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 5761.904761904762,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 139000
+    },
+    "observaciones": ""
   }
 ]
