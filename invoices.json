@@ -28598,8 +28598,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       }
     ],
     "iva_total": 3619.0476190476193,
@@ -28625,8 +28624,7 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000,
-        "molienda": "grano"
+        "total": 89000
       },
       {
         "sku": "CGA",
@@ -28636,8 +28634,7 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999,
-        "molienda": "grano"
+        "total": 51999.99999999999
       },
       {
         "sku": "BHO",
@@ -28649,8 +28646,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "BHO72",
@@ -28662,8 +28658,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "BHO120",
@@ -28675,8 +28670,7 @@
         "iva_pct": 5,
         "total": 19000,
         "descuento_pct": 5,
-        "descuento_valor": 952.3809523809525,
-        "molienda": "grano"
+        "descuento_valor": 952.3809523809525
       },
       {
         "sku": "DOM",
@@ -28714,8 +28708,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "grano"
+        "total": 37999.99999999999
       },
       {
         "sku": "CMA",
@@ -28725,8 +28718,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "grano"
+        "total": 23000
       },
       {
         "sku": "CGA",
@@ -28736,8 +28728,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "grano"
+        "total": 23000
       },
       {
         "sku": "DOM",
@@ -28773,8 +28764,7 @@
         "valor_unitario": 148.45938375350138,
         "iva": 2523.809523809524,
         "iva_pct": 5,
-        "total": 53000,
-        "molienda": "grano"
+        "total": 53000
       },
       {
         "sku": "CGA",
@@ -28784,8 +28774,7 @@
         "valor_unitario": 190.47619047619048,
         "iva": 3238.0952380952385,
         "iva_pct": 5,
-        "total": 68000,
-        "molienda": "grano"
+        "total": 68000
       },
       {
         "sku": "DOM",
@@ -28804,5 +28793,51 @@
       "valor": 139000
     },
     "observaciones": "Panorama park TOrre 1"
+  },
+  {
+    "consecutivo": 3037,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "45560546",
+    "nombre_tercero": "Lucía Viola",
+    "fecha_elaboracion": "2026-10-29",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO72",
+        "producto": "Blend Honey72h",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 148.45938375350138,
+        "iva": 2523.809523809524,
+        "iva_pct": 5,
+        "total": 53000
+      },
+      {
+        "sku": "BHO120",
+        "producto": "Blend Honey 120h",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 148.45938375350138,
+        "iva": 2523.809523809524,
+        "iva_pct": 5,
+        "total": 53000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 5047.619047619048,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 124000
+    },
+    "observaciones": ""
   }
 ]
