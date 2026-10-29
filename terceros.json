@@ -2670,5 +2670,21 @@
     "Teléfono móvil de contacto": "3152184844",
     "Estado": "Activo",
     "siigoId": "4c819034-484c-4301-96a1-fd4ad537280b"
+  },
+  {
+    "Nombre tercero": "Lucía Viola",
+    "Tipo de identificación": "13",
+    "Identificación": "45560546",
+    "Dirección": "Calle 136 #15-18 Apatamento 503 Edifício Contador 136",
+    "Ciudad": "Bogotá D.C.",
+    "Código departamento": "11",
+    "Código ciudad": "11001",
+    "Teléfono.": "3013709164",
+    "Correo electrónico": "lcviola8@gmail.com",
+    "Nombres contacto": "Lucía",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3013709164",
+    "Estado": "Activo",
+    "siigoId": "c7bd8196-9ce7-460b-96df-d282c4b48342"
   }
 ]
