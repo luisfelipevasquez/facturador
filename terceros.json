@@ -2686,5 +2686,21 @@
     "Teléfono móvil de contacto": "3013709164",
     "Estado": "Activo",
     "siigoId": "c7bd8196-9ce7-460b-96df-d282c4b48342"
+  },
+  {
+    "Nombre tercero": "Diana Carolina Clavijo",
+    "Tipo de identificación": "13",
+    "Identificación": "40215869",
+    "Dirección": "Dg 6 sur #40a 124 Arauco Torre 8 apto 406",
+    "Ciudad": "Villavicencio",
+    "Código departamento": "50",
+    "Código ciudad": "50001",
+    "Teléfono.": "3145117259",
+    "Correo electrónico": "dcarolinaclavijo@gmail.com",
+    "Nombres contacto": "Diana",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3145117259",
+    "Estado": "Activo",
+    "siigoId": "b681863e-c9ad-4aad-963b-81b8181f28c9"
   }
 ]
