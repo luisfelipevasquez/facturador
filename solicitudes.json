@@ -651,5 +651,55 @@
       "wamid": "wamid.HBgMNTczMTE2MDk5MTk0FQIAERgSOTEzRDY3MTNEMTY4RDhGQkZGAA==",
       "to": "573116099194"
     }
+  },
+  {
+    "id": "SOL-1793248923726-wgj8c",
+    "estado": "pendiente",
+    "creado": "2026-10-29T04:42:03.726Z",
+    "cliente": {
+      "nombre": "Sandra Uribe",
+      "tipo_documento": "13",
+      "documento": "8028804",
+      "email": "luisfelipevasquezj@gmail.com",
+      "celular": "3116099194",
+      "ciudad": "Medellín",
+      "direccion": "Carrera 29 # 1 - 131. apartamento 502. Ed Palmar del Tesoro",
+      "observaciones": ""
+    },
+    "productos": [
+      {
+        "sku": "TO-GO-BORRA-DE-CAFE",
+        "nombre": "To Go Borra de Café",
+        "presentacion": "350ml · Blanco",
+        "molienda": "",
+        "cantidad": 1,
+        "precio": 55000
+      },
+      {
+        "sku": "DOM",
+        "nombre": "Domicilio",
+        "presentacion": "Envío Área Metropolitana",
+        "molienda": "",
+        "cantidad": 1,
+        "precio": 14000
+      }
+    ],
+    "total_estimado": 69000,
+    "siigo_customer_found": true,
+    "siigo_customer_id": "6606d632-33d3-40d3-bb06-e2b4201daaad",
+    "envio": {
+      "registered_address": "VDA EL PLACER SANTA ELENA PA PIEDRA BLANCA CR 36 ESTE 19 754 CA 10",
+      "shipping_address_same_as_registered": true,
+      "shipping_address": "Carrera 29 # 1 - 131. apartamento 502. Ed Palmar del Tesoro",
+      "customer_overrode_address": true,
+      "shipping_method": "Envío Área Metropolitana",
+      "shipping_base_cost": 14000,
+      "shipping_cost": 14000,
+      "free_shipping": false,
+      "shipping_departamento": "Antioquia",
+      "shipping_ciudad": "Medellín",
+      "cod_dpto_envio": "05",
+      "cod_ciudad_envio": "05001"
+    }
   }
 ]
