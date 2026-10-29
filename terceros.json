@@ -2638,5 +2638,21 @@
     "Teléfono móvil de contacto": "3104274646",
     "Estado": "Activo",
     "siigoId": "34f1f664-f220-4763-b1c8-6e20f008d2f0"
+  },
+  {
+    "Nombre tercero": "Nicolás Diaz",
+    "Tipo de identificación": "13",
+    "Identificación": "1083894463",
+    "Dirección": "Carrera 41 No 21 sur - 91 TO 2 apto 1203 edificio zu4121",
+    "Ciudad": "Envigado",
+    "Código departamento": "05",
+    "Código ciudad": "05266",
+    "Teléfono.": "3504186666",
+    "Correo electrónico": "diaz20131@gmail.com",
+    "Nombres contacto": "Nicolás",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3504186666",
+    "Estado": "Activo",
+    "siigoId": "156461e8-8053-4130-a907-72c5f8000d00"
   }
 ]
