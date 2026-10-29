@@ -2654,5 +2654,21 @@
     "Teléfono móvil de contacto": "3504186666",
     "Estado": "Activo",
     "siigoId": "156461e8-8053-4130-a907-72c5f8000d00"
+  },
+  {
+    "Nombre tercero": "Oscar Barbosa",
+    "Tipo de identificación": "13",
+    "Identificación": "79971971",
+    "Dirección": "Cl. 130c #59D-75 Apt 1004",
+    "Ciudad": "Bogotá D.C.",
+    "Código departamento": "11",
+    "Código ciudad": "11001",
+    "Teléfono.": "3152184844",
+    "Correo electrónico": "ombb1@hotmail.com",
+    "Nombres contacto": "Oscar",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3152184844",
+    "Estado": "Activo",
+    "siigoId": "4c819034-484c-4301-96a1-fd4ad537280b"
   }
 ]
