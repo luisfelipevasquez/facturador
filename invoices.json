@@ -29052,8 +29052,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "grano"
+        "total": 23000
       },
       {
         "sku": "BBO",
@@ -29063,8 +29062,7 @@
         "valor_unitario": 247.61904761904762,
         "iva": 1238.0952380952383,
         "iva_pct": 5,
-        "total": 26000,
-        "molienda": "grano"
+        "total": 26000
       },
       {
         "sku": "DOM",
@@ -29084,8 +29082,7 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000,
-        "molienda": "grano"
+        "total": 42000
       }
     ],
     "iva_total": 4333.333333333334,
@@ -29130,6 +29127,42 @@
     "forma_pago": {
       "codigo": 3,
       "valor": 210000
+    },
+    "observaciones": ""
+  },
+  {
+    "consecutivo": 3044,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "71755098",
+    "nombre_tercero": "Lenin Flórez",
+    "fecha_elaboracion": "2026-10-30",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAA",
+        "producto": "Regional Lavado Andes",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 2761.904761904762,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 72000
     },
     "observaciones": ""
   }
