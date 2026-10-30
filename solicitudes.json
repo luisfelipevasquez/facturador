@@ -709,6 +709,12 @@
       "shipping_ciudad": "Envigado",
       "cod_dpto_envio": "05",
       "cod_ciudad_envio": "05266"
+    },
+    "wa": {
+      "at": "2026-10-30T12:17:33.306Z",
+      "status": "sent",
+      "wamid": "wamid.HBgMNTczMTk1Njc5MTM0FQIAERgSOUJDOUFEN0U2RTY2RUExNTAyAA==",
+      "to": "573195679134"
     }
   }
 ]
