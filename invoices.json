@@ -29239,5 +29239,69 @@
       "valor": 103999.99999999999
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 3047,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "93294349",
+    "nombre_tercero": "Edward Arturo Bermudez",
+    "fecha_elaboracion": "2026-10-30",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 190.47619047619048,
+        "iva": 2914.2857142857147,
+        "iva_pct": 5,
+        "total": 61200.00000000001,
+        "descuento_pct": 10,
+        "descuento_valor": 6476.190476190477
+      },
+      {
+        "sku": "BHO72",
+        "producto": "Blend Honey72h",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 137.14285714285714,
+        "iva": 3085.714285714286,
+        "iva_pct": 5,
+        "total": 64799.99999999999,
+        "descuento_pct": 10,
+        "descuento_valor": 6857.142857142857
+      },
+      {
+        "sku": "GELA",
+        "producto": "Gesha Lavado",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 264.76190476190476,
+        "iva": 5957.142857142857,
+        "iva_pct": 5,
+        "total": 125099.99999999999,
+        "descuento_pct": 10,
+        "descuento_valor": 13238.095238095237
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 18000
+      }
+    ],
+    "iva_total": 11957.142857142857,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 251100
+    },
+    "observaciones": ""
   }
 ]
