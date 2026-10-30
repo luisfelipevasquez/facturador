@@ -14097,5 +14097,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 3045,
+    "fecha": "2026-10-30",
+    "tercero": "Javier Mauricio García Céspedes",
+    "identificacion": "86088860",
+    "productos": "RLAS 2500g x2500",
+    "domicilio": "Nacional Transportadora",
+    "total": 210000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAS",
+        "presentacion": "2500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
