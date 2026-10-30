@@ -2702,5 +2702,21 @@
     "Teléfono móvil de contacto": "3145117259",
     "Estado": "Activo",
     "siigoId": "b681863e-c9ad-4aad-963b-81b8181f28c9"
+  },
+  {
+    "Nombre tercero": "Edward Arturo Bermudez",
+    "Tipo de identificación": "13",
+    "Identificación": "93294349",
+    "Dirección": "Calle 14 sur 48b 6 1 Serramonte 1 casa 77D",
+    "Ciudad": "Villavicencio",
+    "Código departamento": "50",
+    "Código ciudad": "50001",
+    "Teléfono.": "3102006754",
+    "Correo electrónico": "edward.arturo16@gmail.com",
+    "Nombres contacto": "Edward",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3102006754",
+    "Estado": "Activo",
+    "siigoId": "2fdec7ec-f309-4390-921e-6308bfcabfa2"
   }
 ]
