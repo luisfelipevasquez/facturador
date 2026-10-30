@@ -14052,5 +14052,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 3043,
+    "fecha": "2026-10-29",
+    "tercero": "Silvia Gutierrez",
+    "identificacion": "43547514",
+    "productos": "RLAA 2500g x2500",
+    "domicilio": "Local Mensajero",
+    "total": 210000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAA",
+        "presentacion": "2500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
