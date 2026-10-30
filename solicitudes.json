@@ -655,7 +655,7 @@
   },
   {
     "id": "SOL-1793362649977-tx4cr",
-    "estado": "revisado",
+    "estado": "completado",
     "creado": "2026-10-30T12:17:29.977Z",
     "cliente": {
       "nombre": "Jesús David Rueda Peña",
@@ -716,6 +716,6 @@
       "wamid": "wamid.HBgMNTczMTk1Njc5MTM0FQIAERgSOUJDOUFEN0U2RTY2RUExNTAyAA==",
       "to": "573195679134"
     },
-    "actualizado": "2026-10-30T15:01:34.664Z"
+    "actualizado": "2026-10-30T15:02:00.900Z"
   }
 ]
