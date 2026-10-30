@@ -598,7 +598,7 @@
   },
   {
     "id": "SOL-1793299772824-18iy9",
-    "estado": "pendiente",
+    "estado": "revisado",
     "creado": "2026-10-29T18:49:32.824Z",
     "cliente": {
       "nombre": "Santiago Guzmán Martínez",
@@ -650,6 +650,7 @@
       "status": "sent",
       "wamid": "wamid.HBgMNTczMTM2OTU0MjU4FQIAERgSRTY2OTU5RTQ3ODc1ODkwN0ZDAA==",
       "to": "573136954258"
-    }
+    },
+    "actualizado": "2026-10-30T02:47:21.380Z"
   }
 ]
