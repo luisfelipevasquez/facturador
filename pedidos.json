@@ -14033,9 +14033,9 @@
     "fecha": "2026-10-29",
     "tercero": "Xiomara Diaz Madera",
     "identificacion": "45515145",
-    "productos": "CMA 100g x100, BBO 100g x100",
+    "productos": "CMA 100g x100, BBO 100g x100, BNA120 250g x250",
     "domicilio": "Local Mensajero",
-    "total": 63000,
+    "total": 105000,
     "forma_pago": "T. Débito",
     "status": "En proceso",
     "client_type": "Antiguo",
@@ -14049,6 +14049,11 @@
       {
         "sku": "BBO",
         "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BNA120",
+        "presentacion": "250g",
         "molienda": "grano"
       }
     ]
@@ -14069,6 +14074,26 @@
       {
         "sku": "RLAA",
         "presentacion": "2500g",
+        "molienda": "grano"
+      }
+    ]
+  },
+  {
+    "consecutivo": 3044,
+    "fecha": "2026-10-30",
+    "tercero": "Lenin Flórez",
+    "identificacion": "71755098",
+    "productos": "RLAA 500g x500",
+    "domicilio": "Local Mensajero",
+    "total": 72000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAA",
+        "presentacion": "500g",
         "molienda": "grano"
       }
     ]
