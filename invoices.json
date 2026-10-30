@@ -29052,7 +29052,8 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000
+        "total": 23000,
+        "molienda": "grano"
       },
       {
         "sku": "BBO",
@@ -29062,7 +29063,8 @@
         "valor_unitario": 247.61904761904762,
         "iva": 1238.0952380952383,
         "iva_pct": 5,
-        "total": 26000
+        "total": 26000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -29073,12 +29075,23 @@
         "iva": 0,
         "iva_pct": 0,
         "total": 14000
+      },
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000,
+        "molienda": "grano"
       }
     ],
-    "iva_total": 2333.3333333333335,
+    "iva_total": 4333.333333333334,
     "forma_pago": {
       "codigo": 3,
-      "valor": 63000
+      "valor": 105000
     },
     "observaciones": ""
   },
