@@ -29035,5 +29035,51 @@
       "valor": 208000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 3042,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "45515145",
+    "nombre_tercero": "Xiomara Diaz Madera",
+    "fecha_elaboracion": "2026-10-29",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 1095.2380952380952,
+        "iva_pct": 5,
+        "total": 23000
+      },
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 247.61904761904762,
+        "iva": 1238.0952380952383,
+        "iva_pct": 5,
+        "total": 26000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 2333.3333333333335,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 63000
+    },
+    "observaciones": ""
   }
 ]
