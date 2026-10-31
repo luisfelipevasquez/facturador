@@ -14197,5 +14197,30 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 3050,
+    "fecha": "2026-10-31",
+    "tercero": "Keyner Enrique Tatis Villamizar",
+    "identificacion": "1235044084",
+    "productos": "RLAC 500g x500, CGA 500g x500",
+    "domicilio": "Nacional Transportadora",
+    "total": 165000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAC",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
