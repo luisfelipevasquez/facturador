@@ -29320,7 +29320,8 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000
+        "total": 72000,
+        "molienda": "grano"
       },
       {
         "sku": "BHO",
@@ -29330,7 +29331,8 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000
+        "total": 72000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -29348,6 +29350,6 @@
       "codigo": 3,
       "valor": 158000
     },
-    "observaciones": ""
+    "observaciones": "Enviar a Calle 94 A # 63 A 80 Bloque 11 apto 322. Tricentenario. 3185409659 Doris"
   }
 ]
