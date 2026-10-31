@@ -28420,7 +28420,12 @@
       "codigo": 3,
       "valor": 128000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "63c7fae6-4d9e-4941-b38c-ffd8d7c35ae9",
+    "siigoNumber": "FV-2-3029",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-31T04:06:06.975Z"
   },
   {
     "consecutivo": 3029,
@@ -28466,7 +28471,12 @@
       "codigo": 3,
       "valor": 112000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "fe5442f4-aa7e-4de1-b3f5-fa8cf9f5d23d",
+    "siigoNumber": "FV-2-3030",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-31T04:06:07.894Z"
   },
   {
     "consecutivo": 3030,
@@ -28502,7 +28512,12 @@
       "codigo": 3,
       "valor": 86000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "32cdfb5b-6937-4cc9-932b-624f9f33dd8c",
+    "siigoNumber": "FV-2-3031",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-31T04:06:08.610Z"
   },
   {
     "consecutivo": 3031,
@@ -28542,7 +28557,12 @@
       "codigo": 3,
       "valor": 170100
     },
-    "observaciones": "OJO molido medio grueso"
+    "observaciones": "OJO molido medio grueso",
+    "siigoId": "ee05200d-4d66-4671-994e-68ff5500f967",
+    "siigoNumber": "FV-2-3032",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-31T04:06:09.327Z"
   },
   {
     "consecutivo": 3032,
@@ -28580,7 +28600,12 @@
       "codigo": 3,
       "valor": 420000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "bf389403-1761-493d-9a37-dcac3892699d",
+    "siigoNumber": "FV-2-3033",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-31T04:06:10.249Z"
   },
   {
     "consecutivo": 3033,
@@ -28606,7 +28631,12 @@
       "codigo": 3,
       "valor": 76000
     },
-    "observaciones": "Yo lo llevo"
+    "observaciones": "Yo lo llevo",
+    "siigoId": "aa3dc538-d6c7-45d1-8bf8-fa3b5d8ba014",
+    "siigoNumber": "FV-2-3034",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-31T04:06:10.761Z"
   },
   {
     "consecutivo": 3034,
@@ -28690,7 +28720,12 @@
       "codigo": 3,
       "valor": 198000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "a884d4fb-65f8-4bb1-bbdc-e2e1d17991f7",
+    "siigoNumber": "FV-2-3035",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-31T04:06:11.374Z"
   },
   {
     "consecutivo": 3035,
@@ -28746,7 +28781,12 @@
       "codigo": 3,
       "valor": 102000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "866492f8-d53e-4b37-a228-afcaec259006",
+    "siigoNumber": "FV-2-3036",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-31T04:06:11.888Z"
   },
   {
     "consecutivo": 3036,
@@ -28792,7 +28832,12 @@
       "codigo": 3,
       "valor": 139000
     },
-    "observaciones": "Panorama park TOrre 1"
+    "observaciones": "Panorama park TOrre 1",
+    "siigoId": "99b30cad-094d-47ce-9ef1-c5e01cfef330",
+    "siigoNumber": "FV-2-3037",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-31T04:06:12.603Z"
   },
   {
     "consecutivo": 3037,
@@ -28838,7 +28883,12 @@
       "codigo": 3,
       "valor": 124000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "7bc34302-3c9c-434e-9645-77e8d9390207",
+    "siigoNumber": "FV-2-3038",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-31T04:06:13.116Z"
   },
   {
     "consecutivo": 3038,
@@ -28884,7 +28934,12 @@
       "codigo": 3,
       "valor": 136000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "3cf3e552-5ac0-430f-9a03-11127b5453e4",
+    "siigoNumber": "FV-2-3039",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-31T04:06:13.937Z"
   },
   {
     "consecutivo": 3039,
@@ -28940,7 +28995,12 @@
       "codigo": 3,
       "valor": 136000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "94595798-7fb8-4cb1-bdfa-d32febaab3ea",
+    "siigoNumber": "FV-2-3040",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-31T04:06:14.551Z"
   },
   {
     "consecutivo": 3040,
@@ -28966,7 +29026,12 @@
       "codigo": 3,
       "valor": 72000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "7f6ff1ad-beb2-40d6-b1ce-887047096f8a",
+    "siigoNumber": "FV-2-3041",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-31T04:06:15.168Z"
   },
   {
     "consecutivo": 3041,
@@ -29034,7 +29099,12 @@
       "codigo": 3,
       "valor": 208000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "4a3236c6-f5b0-4491-b39b-55dfb0ad2194",
+    "siigoNumber": "FV-2-3042",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-31T04:06:15.881Z"
   },
   {
     "consecutivo": 3042,
@@ -29090,7 +29160,12 @@
       "codigo": 3,
       "valor": 105000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "b8f807e1-5e11-422e-8d9c-a811eeeb4409",
+    "siigoNumber": "FV-2-3043",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-31T04:06:16.495Z"
   },
   {
     "consecutivo": 3043,
@@ -29128,7 +29203,12 @@
       "codigo": 3,
       "valor": 210000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "2283eda8-42cd-4224-8b9f-a5adb8e21bea",
+    "siigoNumber": "FV-2-3044",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-31T04:06:16.912Z"
   },
   {
     "consecutivo": 3044,
@@ -29164,7 +29244,12 @@
       "codigo": 3,
       "valor": 72000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "e0809745-c96a-4f46-9c89-d954950ce081",
+    "siigoNumber": "FV-2-3045",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-31T04:06:17.417Z"
   },
   {
     "consecutivo": 3045,
@@ -29202,7 +29287,12 @@
       "codigo": 3,
       "valor": 210000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "424f4050-f835-4292-a6d7-f87a03903b0a",
+    "siigoNumber": "FV-2-3046",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-31T04:06:17.929Z"
   },
   {
     "consecutivo": 3046,
@@ -29238,7 +29328,12 @@
       "codigo": 3,
       "valor": 103999.99999999999
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "d66b3a63-8838-44a4-b74d-08484503ebb1",
+    "siigoNumber": "FV-2-3047",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-31T04:06:18.440Z"
   },
   {
     "consecutivo": 3047,
@@ -29302,7 +29397,12 @@
       "codigo": 3,
       "valor": 251100
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "8b525b8f-61da-4634-be67-538d22be571f",
+    "siigoNumber": "FV-2-3048",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-31T04:06:18.953Z"
   },
   {
     "consecutivo": 3048,
@@ -29350,6 +29450,11 @@
       "codigo": 3,
       "valor": 158000
     },
-    "observaciones": "Enviar a Calle 94 A # 63 A 80 Bloque 11 apto 322. Tricentenario. 3185409659 Doris"
+    "observaciones": "Enviar a Calle 94 A # 63 A 80 Bloque 11 apto 322. Tricentenario. 3185409659 Doris",
+    "siigoId": "0bcf91f8-5798-47ba-8819-07ed14906067",
+    "siigoNumber": "FV-2-3049",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-10-31T04:06:19.464Z"
   }
 ]
