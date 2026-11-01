@@ -14272,5 +14272,30 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 3054,
+    "fecha": "2026-10-31",
+    "tercero": "Jey Maza",
+    "identificacion": "1045749098",
+    "productos": "BBO 340g x340, CHLA 340g x340",
+    "domicilio": "Nacional Transportadora",
+    "total": 154999.99999999997,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BBO",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CHLA",
+        "presentacion": "340g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
