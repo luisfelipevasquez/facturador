@@ -717,5 +717,55 @@
       "to": "573195679134"
     },
     "actualizado": "2026-10-30T15:02:00.900Z"
+  },
+  {
+    "id": "SOL-1793550534508-w4bvj",
+    "estado": "pendiente",
+    "creado": "2026-11-01T16:28:54.508Z",
+    "cliente": {
+      "nombre": "Jose Manuel Errazuriz",
+      "tipo_documento": "41",
+      "documento": "49977272",
+      "email": "jmerrazu@gmail.com",
+      "celular": "+56981363581",
+      "ciudad": "Bogotá D.C.",
+      "direccion": "Cl Calle 93b Numero 19-44",
+      "observaciones": ""
+    },
+    "productos": [
+      {
+        "sku": "BBO",
+        "nombre": "Blend Bourbon",
+        "presentacion": "500g",
+        "molienda": "grano",
+        "cantidad": 2,
+        "precio": 99000
+      },
+      {
+        "sku": "BNA120",
+        "nombre": "Natural 120 horas",
+        "presentacion": "500g",
+        "molienda": "grano",
+        "cantidad": 2,
+        "precio": 72000
+      }
+    ],
+    "total_estimado": 342000,
+    "siigo_customer_found": false,
+    "siigo_customer_id": "",
+    "envio": {
+      "registered_address": "Cl Calle 93b Numero 19-44",
+      "shipping_address_same_as_registered": true,
+      "shipping_address": "Cl Calle 93b Numero 19-44",
+      "customer_overrode_address": false,
+      "shipping_method": "Envío Nacional",
+      "shipping_base_cost": 18000,
+      "shipping_cost": 0,
+      "free_shipping": true,
+      "shipping_departamento": "Bogotá D.C.",
+      "shipping_ciudad": "Bogotá D.C.",
+      "cod_dpto_envio": "11",
+      "cod_ciudad_envio": "11001"
+    }
   }
 ]
