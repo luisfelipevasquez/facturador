@@ -730,5 +730,29 @@
     "fecha_woo": "2026-06-27",
     "nombre": "Ricardo Casas",
     "enviado_at": "2026-06-29T02:35:03.159Z"
+  },
+  {
+    "plataforma": "shopify",
+    "clave": "shopify:7412202766582",
+    "consecutivo": 1065,
+    "pedido": "#1065",
+    "fecha_woo": "2026-10-31",
+    "nombre": "Julian Rivera",
+    "identificacion": "1094975658",
+    "total": 76000,
+    "estado": "enviando",
+    "reservado_at": "2026-11-01T17:41:19.986Z"
+  },
+  {
+    "plataforma": "shopify",
+    "clave": "shopify:7412174291190",
+    "consecutivo": 1064,
+    "pedido": "#1064",
+    "fecha_woo": "2026-10-31",
+    "nombre": "Jey Maza",
+    "identificacion": "1045749098",
+    "total": 155000,
+    "estado": "enviando",
+    "reservado_at": "2026-11-01T17:41:19.986Z"
   }
 ]
