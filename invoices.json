@@ -29724,6 +29724,11 @@
       "codigo": 1,
       "valor": 42000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "01f35291-eb40-428e-b78c-93cb03493de2",
+    "siigoNumber": "FV-2-3056",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-01T17:57:09.376Z"
   }
 ]
