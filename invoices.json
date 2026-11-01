@@ -29597,5 +29597,51 @@
     "cufe": null,
     "siigoStatus": "Sincronizado",
     "siigoSyncedAt": "2026-10-31T23:19:34.806Z"
+  },
+  {
+    "consecutivo": 3054,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1045749098",
+    "nombre_tercero": "Jey Maza",
+    "fecha_elaboracion": "2026-10-31",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 210.08403361344537,
+        "iva": 3571.428571428571,
+        "iva_pct": 5,
+        "total": 74999.99999999999
+      },
+      {
+        "sku": "CHLA",
+        "producto": "Chiroso Lavado",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 173.66946778711483,
+        "iva": 2952.3809523809523,
+        "iva_pct": 5,
+        "total": 61999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 6523.809523809523,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 154999.99999999997
+    },
+    "observaciones": ""
   }
 ]
