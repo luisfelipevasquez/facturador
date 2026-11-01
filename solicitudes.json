@@ -766,6 +766,11 @@
       "shipping_ciudad": "Bogotá D.C.",
       "cod_dpto_envio": "11",
       "cod_ciudad_envio": "11001"
+    },
+    "wa": {
+      "at": "2026-11-01T16:28:56.039Z",
+      "status": "invalid_phone",
+      "error": "celular no válido: +56981363581"
     }
   }
 ]
