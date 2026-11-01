@@ -29776,5 +29776,53 @@
       "valor": 158000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 3058,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "49977272",
+    "nombre_tercero": "Jose Manuel Errazuriz",
+    "fecha_elaboracion": "2026-11-01",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "500g",
+        "cantidad": 1000,
+        "valor_unitario": 188.57142857142856,
+        "iva": 9428.571428571428,
+        "iva_pct": 5,
+        "total": 197999.99999999997
+      },
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "500g",
+        "cantidad": 1000,
+        "valor_unitario": 137.14285714285714,
+        "iva": 6857.142857142857,
+        "iva_pct": 5,
+        "total": 144000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 18000
+      }
+    ],
+    "iva_total": 16285.714285714284,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 342000
+    },
+    "observaciones": ""
   }
 ]
