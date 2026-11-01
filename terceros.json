@@ -2718,5 +2718,21 @@
     "Teléfono móvil de contacto": "3102006754",
     "Estado": "Activo",
     "siigoId": "2fdec7ec-f309-4390-921e-6308bfcabfa2"
+  },
+  {
+    "Nombre tercero": "Julián Rivera",
+    "Tipo de identificación": "13",
+    "Identificación": "1094975658",
+    "Dirección": "Carrera 14 #52-13 Barrio la Castilla",
+    "Ciudad": "Armenia",
+    "Código departamento": "63",
+    "Código ciudad": "63001",
+    "Teléfono.": "3108366487",
+    "Correo electrónico": "julian050799@outlook.com",
+    "Nombres contacto": "Julián",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3108366487",
+    "Estado": "Activo",
+    "siigoId": "bcf0da5c-26c7-436a-b596-84608bc38329"
   }
 ]
