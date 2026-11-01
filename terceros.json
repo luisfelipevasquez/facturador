@@ -2734,5 +2734,21 @@
     "Teléfono móvil de contacto": "3108366487",
     "Estado": "Activo",
     "siigoId": "bcf0da5c-26c7-436a-b596-84608bc38329"
+  },
+  {
+    "Nombre tercero": "Jose Manuel Errazuriz",
+    "Tipo de identificación": "41",
+    "Identificación": "49977272",
+    "Dirección": "Cl Calle 93b Numero 19-44",
+    "Ciudad": "Bogotá D.C.",
+    "Código departamento": "11",
+    "Código ciudad": "11001",
+    "Teléfono.": "+56981363581",
+    "Correo electrónico": "jmerrazu@gmail.com",
+    "Nombres contacto": "Jose",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "+56981363581",
+    "Estado": "Activo",
+    "siigoId": "894a422f-4db9-4f60-83e7-16230de8d6bc"
   }
 ]
