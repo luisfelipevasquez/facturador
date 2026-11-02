@@ -1,5 +1,29 @@
 [
   {
+    "uid": "shopify:7415797809398",
+    "plataforma": "shopify",
+    "order_id": "7415797809398",
+    "consecutivo": "1066",
+    "numero_visible": "#1066",
+    "fecha": "2026-11-02",
+    "creado": "2026-11-02T16:53:44Z",
+    "tercero": "Luis Felipe Zapata Ochoa",
+    "identificacion": "8154960",
+    "productos": "GELA Gesha Lavado 340 g / Grano x1, BRO Bourbon Rosado 340 g / Grano x1",
+    "domicilio": "Envío por transportadora (3 a 5 días hábiles)",
+    "total": 212000,
+    "forma_pago": "Wompi",
+    "estado_financiero": "PAID",
+    "estado_cumplimiento": "UNFULFILLED",
+    "estado_operativo": "processing",
+    "factura_etiqueta": "",
+    "status": "En proceso",
+    "manual": false,
+    "client_type": null,
+    "observaciones": "",
+    "snapshot_at": "2026-11-02T16:57:37.503Z"
+  },
+  {
     "uid": "shopify:7412202766582",
     "plataforma": "shopify",
     "order_id": "7412202766582",
@@ -21,7 +45,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-01T18:38:49.048Z"
+    "snapshot_at": "2026-11-02T16:57:37.503Z"
   },
   {
     "uid": "shopify:7412174291190",
@@ -45,7 +69,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-01T18:38:49.049Z"
+    "snapshot_at": "2026-11-02T16:57:37.503Z"
   },
   {
     "uid": "shopify:7412034961654",
@@ -69,7 +93,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-01T18:38:49.049Z"
+    "snapshot_at": "2026-11-02T16:57:37.503Z"
   },
   {
     "uid": "shopify:7409397104886",
@@ -93,7 +117,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-01T18:38:49.049Z"
+    "snapshot_at": "2026-11-02T16:57:37.503Z"
   },
   {
     "uid": "shopify:7408960864502",
@@ -117,7 +141,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-01T18:38:49.049Z"
+    "snapshot_at": "2026-11-02T16:57:37.503Z"
   },
   {
     "uid": "shopify:7408915054838",
@@ -141,7 +165,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-01T18:38:49.049Z"
+    "snapshot_at": "2026-11-02T16:57:37.503Z"
   },
   {
     "uid": "shopify:7408248848630",
