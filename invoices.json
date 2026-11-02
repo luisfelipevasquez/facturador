@@ -29747,8 +29747,7 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000,
-        "molienda": "grano"
+        "total": 72000
       },
       {
         "sku": "CMA",
@@ -29758,8 +29757,7 @@
         "valor_unitario": 190.47619047619048,
         "iva": 3238.0952380952385,
         "iva_pct": 5,
-        "total": 68000,
-        "molienda": "grano"
+        "total": 68000
       },
       {
         "sku": "DOM",
@@ -29795,8 +29793,7 @@
         "valor_unitario": 188.57142857142856,
         "iva": 9428.571428571428,
         "iva_pct": 5,
-        "total": 197999.99999999997,
-        "molienda": "grano"
+        "total": 197999.99999999997
       },
       {
         "sku": "BNA120",
@@ -29806,8 +29803,7 @@
         "valor_unitario": 137.14285714285714,
         "iva": 6857.142857142857,
         "iva_pct": 5,
-        "total": 144000,
-        "molienda": "grano"
+        "total": 144000
       },
       {
         "sku": "DOM",
@@ -29831,8 +29827,7 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 40000,
-        "molienda": "grano"
+        "descuento_valor": 40000
       }
     ],
     "iva_total": 16285.714285714284,
@@ -29841,5 +29836,73 @@
       "valor": 342000
     },
     "observaciones": "Redime 250g natural56 y se envía tarjeta con 3 stickers"
+  },
+  {
+    "consecutivo": 3059,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "10013680087",
+    "nombre_tercero": "Juan Alejandro Pinilla",
+    "fecha_elaboracion": "2026-11-01",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAA",
+        "producto": "Regional Lavado Andes",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "RLAA",
+        "producto": "Regional Lavado Andes",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "RLAA",
+        "producto": "Regional Lavado Andes",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      },
+      {
+        "sku": "RLAA",
+        "producto": "Regional Lavado Andes",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 144.76190476190476,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 36190.47619047619
+      }
+    ],
+    "iva_total": 8285.714285714286,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 188000
+    },
+    "observaciones": "Redime 250g RLAA no se envía tarjeta ni stickers"
   }
 ]
