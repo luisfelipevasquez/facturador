@@ -14407,7 +14407,7 @@
     "domicilio": "Local Mensajero",
     "total": 188000,
     "forma_pago": "T. Débito",
-    "status": "Completado",
+    "status": "En proceso",
     "client_type": "Antiguo",
     "recoge": "No",
     "items_molienda": [
@@ -14494,51 +14494,6 @@
       {
         "sku": "RLAC",
         "presentacion": "2500g",
-        "molienda": "grano"
-      }
-    ]
-  },
-  {
-    "consecutivo": 3065,
-    "fecha": "2026-11-03",
-    "tercero": "Angie Aleman",
-    "identificacion": "1002248665",
-    "productos": "BHO72 500g x500",
-    "domicilio": "Nacional Transportadora",
-    "total": 90000,
-    "forma_pago": "T. Débito",
-    "status": "En proceso",
-    "client_type": "Antiguo",
-    "recoge": "No",
-    "items_molienda": [
-      {
-        "sku": "BHO72",
-        "presentacion": "500g",
-        "molienda": "molido grueso"
-      }
-    ]
-  },
-  {
-    "consecutivo": 3066,
-    "fecha": "2026-11-03",
-    "tercero": "Mateo Chacon Osorio",
-    "identificacion": "1152463515",
-    "productos": "BNA120 340g x340, PANA 250g x250",
-    "domicilio": "Envío Nacional",
-    "total": 147000,
-    "forma_pago": "T. Débito",
-    "status": "En proceso",
-    "client_type": "Nuevo",
-    "recoge": "No",
-    "items_molienda": [
-      {
-        "sku": "BNA120",
-        "presentacion": "340g",
-        "molienda": "grano"
-      },
-      {
-        "sku": "PANA",
-        "presentacion": "250g",
         "molienda": "grano"
       }
     ]
