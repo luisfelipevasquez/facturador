@@ -776,7 +776,7 @@
   },
   {
     "id": "SOL-1793726574451-2sp09",
-    "estado": "pendiente",
+    "estado": "revisado",
     "creado": "2026-11-03T17:22:54.451Z",
     "cliente": {
       "nombre": "Mateo Chacon Osorio",
@@ -836,6 +836,7 @@
       "status": "sent",
       "wamid": "wamid.HBgMNTczMjEzNDA4NzA0FQIAERgSRjhFQTVERjBGOTJFNEYxOEVBAA==",
       "to": "573213408704"
-    }
+    },
+    "actualizado": "2026-11-03T17:33:42.321Z"
   }
 ]
