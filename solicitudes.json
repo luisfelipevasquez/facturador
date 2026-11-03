@@ -830,6 +830,12 @@
       "shipping_ciudad": "Guarne",
       "cod_dpto_envio": "05",
       "cod_ciudad_envio": "05318"
+    },
+    "wa": {
+      "at": "2026-11-03T17:22:57.795Z",
+      "status": "sent",
+      "wamid": "wamid.HBgMNTczMjEzNDA4NzA0FQIAERgSRjhFQTVERjBGOTJFNEYxOEVBAA==",
+      "to": "573213408704"
     }
   }
 ]
