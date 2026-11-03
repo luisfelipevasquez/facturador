@@ -1,5 +1,29 @@
 [
   {
+    "uid": "shopify:7416719212790",
+    "plataforma": "shopify",
+    "order_id": "7416719212790",
+    "consecutivo": "1068",
+    "numero_visible": "#1068",
+    "fecha": "2026-11-02",
+    "creado": "2026-11-03T01:47:43Z",
+    "tercero": "Natalia Sanabria",
+    "identificacion": "1007555169",
+    "productos": "CGA Galleta Mantequilla 500 g / Molienda media x1",
+    "domicilio": "Envío por transportadora (3 a 5 días hábiles)",
+    "total": 107000,
+    "forma_pago": "Wompi",
+    "estado_financiero": "PAID",
+    "estado_cumplimiento": "UNFULFILLED",
+    "estado_operativo": "processing",
+    "factura_etiqueta": "",
+    "status": "En proceso",
+    "manual": false,
+    "client_type": null,
+    "observaciones": "",
+    "snapshot_at": "2026-11-03T05:00:35.953Z"
+  },
+  {
     "uid": "shopify:7416558387446",
     "plataforma": "shopify",
     "order_id": "7416558387446",
@@ -21,7 +45,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.895Z"
+    "snapshot_at": "2026-11-03T05:00:35.953Z"
   },
   {
     "uid": "shopify:7415797809398",
@@ -45,7 +69,7 @@
     "manual": false,
     "client_type": "Antiguo",
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.895Z"
+    "snapshot_at": "2026-11-03T05:00:35.953Z"
   },
   {
     "uid": "shopify:7412202766582",
@@ -69,7 +93,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.895Z"
+    "snapshot_at": "2026-11-03T05:00:35.953Z"
   },
   {
     "uid": "shopify:7412174291190",
@@ -93,7 +117,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.895Z"
+    "snapshot_at": "2026-11-03T05:00:35.953Z"
   },
   {
     "uid": "shopify:7412034961654",
@@ -117,7 +141,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.895Z"
+    "snapshot_at": "2026-11-03T05:00:35.953Z"
   },
   {
     "uid": "shopify:7409397104886",
@@ -141,7 +165,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.895Z"
+    "snapshot_at": "2026-11-03T05:00:35.953Z"
   },
   {
     "uid": "shopify:7408960864502",
@@ -165,7 +189,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.895Z"
+    "snapshot_at": "2026-11-03T05:00:35.953Z"
   },
   {
     "uid": "shopify:7408915054838",
@@ -189,7 +213,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.895Z"
+    "snapshot_at": "2026-11-03T05:00:35.953Z"
   },
   {
     "uid": "shopify:7408248848630",
@@ -213,7 +237,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.895Z"
+    "snapshot_at": "2026-11-03T05:00:35.953Z"
   },
   {
     "uid": "shopify:7407219605750",
@@ -237,7 +261,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.895Z"
+    "snapshot_at": "2026-11-03T05:00:35.953Z"
   },
   {
     "uid": "shopify:7405773586678",
@@ -261,7 +285,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.895Z"
+    "snapshot_at": "2026-11-03T05:00:35.953Z"
   },
   {
     "uid": "shopify:7405766639862",
@@ -285,7 +309,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.895Z"
+    "snapshot_at": "2026-11-03T05:00:35.953Z"
   },
   {
     "uid": "shopify:7405598572790",
@@ -309,7 +333,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.895Z"
+    "snapshot_at": "2026-11-03T05:00:35.953Z"
   },
   {
     "uid": "shopify:7402841178358",
@@ -333,7 +357,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.953Z"
   },
   {
     "uid": "shopify:7402376855798",
@@ -357,7 +381,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.953Z"
   },
   {
     "uid": "shopify:7402102653174",
@@ -381,7 +405,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.953Z"
   },
   {
     "uid": "shopify:7400164065526",
@@ -405,7 +429,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.953Z"
   },
   {
     "uid": "shopify:7399430783222",
@@ -429,7 +453,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.953Z"
   },
   {
     "uid": "shopify:7398703956214",
@@ -453,7 +477,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.953Z"
   },
   {
     "uid": "shopify:7397615075574",
@@ -477,7 +501,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.953Z"
   },
   {
     "uid": "shopify:7395793240310",
@@ -501,7 +525,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.953Z"
   },
   {
     "uid": "shopify:7394807415030",
@@ -525,7 +549,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.953Z"
   },
   {
     "uid": "shopify:7393478672630",
@@ -549,7 +573,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.953Z"
   },
   {
     "uid": "shopify:7389606346998",
@@ -573,7 +597,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.953Z"
   },
   {
     "uid": "shopify:7389338763510",
@@ -597,7 +621,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.953Z"
   },
   {
     "uid": "shopify:7387209629942",
@@ -621,7 +645,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.953Z"
   },
   {
     "uid": "shopify:7385250300150",
@@ -645,7 +669,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.953Z"
   },
   {
     "uid": "shopify:7383808934134",
@@ -669,7 +693,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.953Z"
   },
   {
     "uid": "shopify:7383690051830",
@@ -693,7 +717,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.954Z"
   },
   {
     "uid": "shopify:7383334715638",
@@ -717,7 +741,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.954Z"
   },
   {
     "uid": "shopify:7381433155830",
@@ -741,7 +765,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.954Z"
   },
   {
     "uid": "shopify:7381332984054",
@@ -765,7 +789,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.954Z"
   },
   {
     "uid": "shopify:7380402372854",
@@ -789,7 +813,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.954Z"
   },
   {
     "uid": "shopify:7380005191926",
@@ -813,7 +837,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.954Z"
   },
   {
     "uid": "shopify:7379890372854",
@@ -837,7 +861,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.954Z"
   },
   {
     "uid": "shopify:7378341462262",
@@ -861,7 +885,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.954Z"
   },
   {
     "uid": "shopify:7375806791926",
@@ -885,7 +909,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.954Z"
   },
   {
     "uid": "shopify:7373529972982",
@@ -909,7 +933,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.954Z"
   },
   {
     "uid": "shopify:7368295514358",
@@ -933,7 +957,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.954Z"
   },
   {
     "uid": "shopify:7366399066358",
@@ -957,7 +981,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.954Z"
   },
   {
     "uid": "shopify:7363946053878",
@@ -981,7 +1005,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.954Z"
   },
   {
     "uid": "shopify:7362755199222",
@@ -1005,7 +1029,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.954Z"
   },
   {
     "uid": "shopify:7361547501814",
@@ -1029,7 +1053,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.954Z"
   },
   {
     "uid": "shopify:7358475501814",
@@ -1053,7 +1077,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.954Z"
   },
   {
     "uid": "shopify:7357223862518",
@@ -1077,7 +1101,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.954Z"
   },
   {
     "uid": "shopify:7356396339446",
@@ -1101,7 +1125,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.954Z"
   },
   {
     "uid": "shopify:7355197980918",
@@ -1125,7 +1149,7 @@
     "manual": false,
     "client_type": null,
     "observaciones": "",
-    "snapshot_at": "2026-11-03T00:17:10.896Z"
+    "snapshot_at": "2026-11-03T05:00:35.954Z"
   },
   {
     "uid": "shopify:7353456623862",
