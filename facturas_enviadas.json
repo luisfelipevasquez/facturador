@@ -770,8 +770,11 @@
     "nombre": "Natalia Sanabria",
     "identificacion": "1007555169",
     "total": 107000,
-    "estado": "enviando",
-    "reservado_at": "2026-11-03T12:45:28.618Z"
+    "estado": "enviada",
+    "enviado_at": "2026-11-03T12:45:33.455Z",
+    "siigo_id": "2da56ba9-2f5d-45fe-9e61-2b286cd10b0d",
+    "siigo_numero": "FV-2-3057",
+    "cufe": ""
   },
   {
     "plataforma": "shopify",
@@ -782,8 +785,11 @@
     "nombre": "Sebastian Sandoval valencia",
     "identificacion": "1216714627",
     "total": 82000,
-    "estado": "enviando",
-    "reservado_at": "2026-11-03T12:45:28.618Z"
+    "estado": "enviada",
+    "enviado_at": "2026-11-03T12:45:33.455Z",
+    "siigo_id": "207e45cd-20f1-477d-8855-3e23363e8c0c",
+    "siigo_numero": "FV-2-3058",
+    "cufe": ""
   },
   {
     "plataforma": "shopify",
@@ -794,7 +800,10 @@
     "nombre": "Luis Felipe Zapata Ochoa",
     "identificacion": "8154960",
     "total": 212000,
-    "estado": "enviando",
-    "reservado_at": "2026-11-03T12:45:28.618Z"
+    "estado": "enviada",
+    "enviado_at": "2026-11-03T12:45:33.455Z",
+    "siigo_id": "01fd005c-c115-4fa9-8001-ed51e9fa2aae",
+    "siigo_numero": "FV-2-3059",
+    "cufe": ""
   }
 ]
