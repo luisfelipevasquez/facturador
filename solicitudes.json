@@ -773,5 +773,63 @@
       "error": "celular no válido: +56981363581"
     },
     "actualizado": "2026-11-01T19:03:26.983Z"
+  },
+  {
+    "id": "SOL-1793726574451-2sp09",
+    "estado": "pendiente",
+    "creado": "2026-11-03T17:22:54.451Z",
+    "cliente": {
+      "nombre": "Mateo Chacon Osorio",
+      "tipo_documento": "13",
+      "documento": "1152463515",
+      "email": "mateochc777@gmail.com",
+      "celular": "57 3213408704",
+      "ciudad": "Guarne",
+      "direccion": "Carrera 50 # 35-96, Torre 2 apartamento 1301 Urbanización Mentha",
+      "observaciones": ""
+    },
+    "productos": [
+      {
+        "sku": "BNA120",
+        "nombre": "Natural 120 horas",
+        "presentacion": "340g",
+        "molienda": "grano",
+        "cantidad": 1,
+        "precio": 53000
+      },
+      {
+        "sku": "PANA",
+        "nombre": "Papayo Natural",
+        "presentacion": "250g",
+        "molienda": "grano",
+        "cantidad": 1,
+        "precio": 76000
+      },
+      {
+        "sku": "DOM",
+        "nombre": "Domicilio",
+        "presentacion": "Envío Nacional",
+        "molienda": "",
+        "cantidad": 1,
+        "precio": 18000
+      }
+    ],
+    "total_estimado": 147000,
+    "siigo_customer_found": true,
+    "siigo_customer_id": "f199e9f6-eda7-4818-8339-30cb5af712f3",
+    "envio": {
+      "registered_address": "Carrera 50 # 35-96, Torre 2 apartamento 1301 Urbanización Mentha",
+      "shipping_address_same_as_registered": true,
+      "shipping_address": "Carrera 50 # 35-96, Torre 2 apartamento 1301 Urbanización Mentha",
+      "customer_overrode_address": false,
+      "shipping_method": "Envío Nacional",
+      "shipping_base_cost": 18000,
+      "shipping_cost": 18000,
+      "free_shipping": false,
+      "shipping_departamento": "Antioquia",
+      "shipping_ciudad": "Guarne",
+      "cod_dpto_envio": "05",
+      "cod_ciudad_envio": "05318"
+    }
   }
 ]
