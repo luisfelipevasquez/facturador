@@ -760,5 +760,41 @@
     "siigo_id": "df250374-e63a-4eb0-9017-418eeec07ce6",
     "siigo_numero": "FV-2-3055",
     "cufe": ""
+  },
+  {
+    "plataforma": "shopify",
+    "clave": "shopify:7416719212790",
+    "consecutivo": 1068,
+    "pedido": "#1068",
+    "fecha_woo": "2026-11-02",
+    "nombre": "Natalia Sanabria",
+    "identificacion": "1007555169",
+    "total": 107000,
+    "estado": "enviando",
+    "reservado_at": "2026-11-03T12:45:28.618Z"
+  },
+  {
+    "plataforma": "shopify",
+    "clave": "shopify:7416558387446",
+    "consecutivo": 1067,
+    "pedido": "#1067",
+    "fecha_woo": "2026-11-02",
+    "nombre": "Sebastian Sandoval valencia",
+    "identificacion": "1216714627",
+    "total": 82000,
+    "estado": "enviando",
+    "reservado_at": "2026-11-03T12:45:28.618Z"
+  },
+  {
+    "plataforma": "shopify",
+    "clave": "shopify:7415797809398",
+    "consecutivo": 1066,
+    "pedido": "#1066",
+    "fecha_woo": "2026-11-02",
+    "nombre": "Luis Felipe Zapata Ochoa",
+    "identificacion": "8154960",
+    "total": 212000,
+    "estado": "enviando",
+    "reservado_at": "2026-11-03T12:45:28.618Z"
   }
 ]
