@@ -14477,5 +14477,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 3064,
+    "fecha": "2026-11-03",
+    "tercero": "Alejandra Gómez",
+    "identificacion": "1037588594",
+    "productos": "RLAC 2500g x2500",
+    "domicilio": "Local Mensajero",
+    "total": 210000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAC",
+        "presentacion": "2500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
