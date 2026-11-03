@@ -29793,7 +29793,8 @@
         "valor_unitario": 188.57142857142856,
         "iva": 9428.571428571428,
         "iva_pct": 5,
-        "total": 197999.99999999997
+        "total": 197999.99999999997,
+        "molienda": "grano"
       },
       {
         "sku": "BNA120",
@@ -29803,7 +29804,8 @@
         "valor_unitario": 137.14285714285714,
         "iva": 6857.142857142857,
         "iva_pct": 5,
-        "total": 144000
+        "total": 144000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -29827,7 +29829,8 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 40000
+        "descuento_valor": 40000,
+        "molienda": "grano"
       }
     ],
     "iva_total": 16285.714285714284,
@@ -29835,7 +29838,7 @@
       "codigo": 3,
       "valor": 342000
     },
-    "observaciones": "Redime 250g natural56 y se envía tarjeta con 3 stickers"
+    "observaciones": "Casa Dan Carltonn Hotel Bogotá Redime 250g natural56 y se envía tarjeta con 3 stickers"
   },
   {
     "consecutivo": 3059,
