@@ -29775,7 +29775,12 @@
       "codigo": 3,
       "valor": 158000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "6842c9d3-f660-4624-9364-cdc735bfe62f",
+    "siigoNumber": "FV-2-3060",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-03T12:49:07.997Z"
   },
   {
     "consecutivo": 3058,
@@ -29838,7 +29843,12 @@
       "codigo": 3,
       "valor": 342000
     },
-    "observaciones": "Casa Dan Carltonn Hotel Bogotá Redime 250g natural56 y se envía tarjeta con 3 stickers"
+    "observaciones": "Casa Dan Carltonn Hotel Bogotá Redime 250g natural56 y se envía tarjeta con 3 stickers",
+    "siigoId": "3cd80eff-0b12-41fb-86b7-b524908b51f5",
+    "siigoNumber": "FV-2-3061",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-03T12:49:09.555Z"
   },
   {
     "consecutivo": 3059,
@@ -29906,7 +29916,12 @@
       "codigo": 3,
       "valor": 188000
     },
-    "observaciones": "Redime 250g RLAA no se envía tarjeta ni stickers"
+    "observaciones": "Redime 250g RLAA no se envía tarjeta ni stickers",
+    "siigoId": "95e8af8a-3715-4f1c-9486-e6d9493455d5",
+    "siigoNumber": "FV-2-3062",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-03T12:49:10.273Z"
   },
   {
     "consecutivo": 3060,
@@ -30002,6 +30017,11 @@
       "codigo": 3,
       "valor": 136000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "6ba30128-536d-4786-8518-bfaaa78a44fb",
+    "siigoNumber": "FV-2-3063",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-03T12:49:11.991Z"
   }
 ]
