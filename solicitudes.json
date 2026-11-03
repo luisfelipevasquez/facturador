@@ -720,7 +720,7 @@
   },
   {
     "id": "SOL-1793550534508-w4bvj",
-    "estado": "revisado",
+    "estado": "completado",
     "creado": "2026-11-01T16:28:54.508Z",
     "cliente": {
       "nombre": "Jose Manuel Errazuriz",
@@ -772,7 +772,7 @@
       "status": "invalid_phone",
       "error": "celular no válido: +56981363581"
     },
-    "actualizado": "2026-11-01T19:03:26.983Z"
+    "actualizado": "2026-11-03T23:35:39.074Z"
   },
   {
     "id": "SOL-1793726574451-2sp09",
