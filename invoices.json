@@ -30140,5 +30140,31 @@
       "valor": 147000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 3067,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1033371344",
+    "nombre_tercero": "Javier Cando",
+    "fecha_elaboracion": "2026-11-04",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BHO72",
+        "producto": "Blend Honey72h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      }
+    ],
+    "iva_total": 2000,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 42000
+    },
+    "observaciones": ""
   }
 ]
