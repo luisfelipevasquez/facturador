@@ -30166,5 +30166,31 @@
       "valor": 42000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 3068,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "71792081",
+    "nombre_tercero": "Carlos Federico Vásquez Jiménez",
+    "fecha_elaboracion": "2026-11-04",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      }
+    ],
+    "iva_total": 4238.0952380952385,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 89000
+    },
+    "observaciones": "Ojo: molido medio fino"
   }
 ]
