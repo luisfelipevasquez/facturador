@@ -14523,5 +14523,25 @@
     "status": "En proceso",
     "client_type": "Antiguo",
     "recoge": "No"
+  },
+  {
+    "consecutivo": 3067,
+    "fecha": "2026-11-04",
+    "tercero": "Javier Cando",
+    "identificacion": "1033371344",
+    "productos": "BHO72 250g x250",
+    "domicilio": "",
+    "total": 42000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BHO72",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
