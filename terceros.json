@@ -2766,5 +2766,21 @@
     "Teléfono móvil de contacto": "3112809056",
     "Estado": "Activo",
     "siigoId": "918edb41-78db-426e-84b2-6a6cb19c2098"
+  },
+  {
+    "Nombre tercero": "Javier Cando",
+    "Tipo de identificación": "13",
+    "Identificación": "1033371344",
+    "Dirección": "Cra 37 # 63-67 villa Barcelona Apto 1301",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3205504973",
+    "Correo electrónico": "javierkando89@gmail.com",
+    "Nombres contacto": "Javier",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3205504973",
+    "Estado": "Activo",
+    "siigoId": "cd26efbb-3734-48bd-99ec-b0ea400dc134"
   }
 ]
