@@ -2782,5 +2782,21 @@
     "Teléfono móvil de contacto": "3205504973",
     "Estado": "Activo",
     "siigoId": "cd26efbb-3734-48bd-99ec-b0ea400dc134"
+  },
+  {
+    "Nombre tercero": "Julián Rodríguez",
+    "Tipo de identificación": "13",
+    "Identificación": "1018435237",
+    "Dirección": "Cra 18 #113-55 Apto 202 San Remo Village",
+    "Ciudad": "Bogotá D.C.",
+    "Código departamento": "11",
+    "Código ciudad": "11001",
+    "Teléfono.": "3005170534",
+    "Correo electrónico": "Jrodriguez.90@gmail.com",
+    "Nombres contacto": "Julián",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3005170534",
+    "Estado": "Activo",
+    "siigoId": "52508173-9b47-4139-8924-9ec2bb9aa509"
   }
 ]
