@@ -30343,7 +30343,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "grano"
       }
     ],
     "iva_total": 3619.0476190476193,
@@ -30351,6 +30352,6 @@
       "codigo": 3,
       "valor": 76000
     },
-    "observaciones": ""
+    "observaciones": "Felipe lo lleva"
   }
 ]
