@@ -30343,8 +30343,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       }
     ],
     "iva_total": 3619.0476190476193,
@@ -30353,5 +30352,63 @@
       "valor": 76000
     },
     "observaciones": "Felipe lo lleva"
+  },
+  {
+    "consecutivo": 3072,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1018435237",
+    "nombre_tercero": "Julián Rodríguez",
+    "fecha_elaboracion": "2026-11-05",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      },
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 188.57142857142856,
+        "iva": 4714.285714285714,
+        "iva_pct": 5,
+        "total": 98999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 18000
+      }
+    ],
+    "iva_total": 13190.47619047619,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 277000
+    },
+    "observaciones": ""
   }
 ]
