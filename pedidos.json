@@ -14650,7 +14650,7 @@
     "forma_pago": "T. Débito",
     "status": "En proceso",
     "client_type": "Antiguo",
-    "recoge": "Si",
+    "recoge": "No",
     "items_molienda": [
       {
         "sku": "BRO",
