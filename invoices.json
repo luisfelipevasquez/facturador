@@ -30503,7 +30503,8 @@
         "iva_pct": 5,
         "total": 87570,
         "descuento_pct": 37,
-        "descuento_valor": 48980.952380952374
+        "descuento_valor": 48980.952380952374,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -30521,6 +30522,6 @@
       "codigo": 3,
       "valor": 101570
     },
-    "observaciones": ""
+    "observaciones": "Redime fidelización pero con $ se descuenta el valor de un maracuyá"
   }
 ]
