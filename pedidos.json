@@ -14708,5 +14708,25 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 3074,
+    "fecha": "2026-11-06",
+    "tercero": "Edwin Alfonso Martinez Padilla",
+    "identificacion": "73180613",
+    "productos": "RLAC 2500g x2500",
+    "domicilio": "Nacional Transportadora",
+    "total": 210000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAC",
+        "presentacion": "2500g",
+        "molienda": "molido fino"
+      }
+    ]
   }
 ]
