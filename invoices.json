@@ -30343,8 +30343,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       }
     ],
     "iva_total": 3619.0476190476193,
@@ -30370,8 +30369,7 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000,
-        "molienda": "molido medio"
+        "total": 89000
       },
       {
         "sku": "CMA",
@@ -30381,8 +30379,7 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000,
-        "molienda": "molido medio"
+        "total": 89000
       },
       {
         "sku": "BBO",
@@ -30392,8 +30389,7 @@
         "valor_unitario": 188.57142857142856,
         "iva": 4714.285714285714,
         "iva_pct": 5,
-        "total": 98999.99999999999,
-        "molienda": "molido medio"
+        "total": 98999.99999999999
       },
       {
         "sku": "DOM",
@@ -30412,6 +30408,42 @@
     "forma_pago": {
       "codigo": 3,
       "valor": 277000
+    },
+    "observaciones": ""
+  },
+  {
+    "consecutivo": 3073,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "43265404",
+    "nombre_tercero": "Catalina Velasquez Castro",
+    "fecha_elaboracion": "2026-11-06",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 2476.190476190476,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 66000
     },
     "observaciones": ""
   }
