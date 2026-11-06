@@ -30484,5 +30484,43 @@
       "valor": 210000
     },
     "observaciones": "OJO: molido moka"
+  },
+  {
+    "consecutivo": 3075,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "6375662",
+    "nombre_tercero": "Luis Fernando Sandoval Marquina",
+    "fecha_elaboracion": "2026-11-06",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BRO",
+        "producto": "Bourbon Rosado",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 264.76190476190476,
+        "iva": 4170,
+        "iva_pct": 5,
+        "total": 87570,
+        "descuento_pct": 37,
+        "descuento_valor": 48980.952380952374
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 4170,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 101570
+    },
+    "observaciones": ""
   }
 ]
