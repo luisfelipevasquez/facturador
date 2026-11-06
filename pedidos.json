@@ -14728,5 +14728,25 @@
         "molienda": "molido fino"
       }
     ]
+  },
+  {
+    "consecutivo": 3075,
+    "fecha": "2026-11-06",
+    "tercero": "Luis Fernando Sandoval Marquina",
+    "identificacion": "6375662",
+    "productos": "BRO 500g x500",
+    "domicilio": "Local Mensajero",
+    "total": 101570,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BRO",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
