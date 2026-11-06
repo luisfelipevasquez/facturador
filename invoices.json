@@ -30343,7 +30343,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "grano"
       }
     ],
     "iva_total": 3619.0476190476193,
@@ -30369,7 +30370,8 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000
+        "total": 89000,
+        "molienda": "molido medio"
       },
       {
         "sku": "CMA",
@@ -30379,7 +30381,8 @@
         "valor_unitario": 169.52380952380952,
         "iva": 4238.0952380952385,
         "iva_pct": 5,
-        "total": 89000
+        "total": 89000,
+        "molienda": "molido medio"
       },
       {
         "sku": "BBO",
@@ -30389,7 +30392,8 @@
         "valor_unitario": 188.57142857142856,
         "iva": 4714.285714285714,
         "iva_pct": 5,
-        "total": 98999.99999999999
+        "total": 98999.99999999999,
+        "molienda": "molido medio"
       },
       {
         "sku": "DOM",
