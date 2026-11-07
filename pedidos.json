@@ -14853,5 +14853,25 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 3080,
+    "fecha": "2026-11-07",
+    "tercero": "Sandra Patricia Salas Mora",
+    "identificacion": "52164757",
+    "productos": "CMA 2500g x2500",
+    "domicilio": "Nacional Transportadora",
+    "total": 420000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CMA",
+        "presentacion": "2500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
