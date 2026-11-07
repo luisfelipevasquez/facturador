@@ -14923,5 +14923,45 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 3083,
+    "fecha": "2026-11-07",
+    "tercero": "Katherine Salazar Cardona",
+    "identificacion": "101722713",
+    "productos": "CMA 100g x100, CGA 100g x100, CGA 100g x100, CMA 250g x250, CMA 340g x340",
+    "domicilio": "Local Mensajero",
+    "total": 203000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CMA",
+        "presentacion": "100g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "100g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "100g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "250g",
+        "molienda": "molido grueso"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "340g",
+        "molienda": "molido grueso"
+      }
+    ]
   }
 ]
