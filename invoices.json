@@ -30869,8 +30869,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "molido grueso"
+        "total": 23000
       },
       {
         "sku": "CGA",
@@ -30880,8 +30879,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "molido grueso"
+        "total": 23000
       },
       {
         "sku": "CGA",
@@ -30891,8 +30889,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "molido grueso"
+        "total": 23000
       },
       {
         "sku": "CMA",
@@ -30902,8 +30899,7 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999,
-        "molienda": "molido grueso"
+        "total": 51999.99999999999
       },
       {
         "sku": "CMA",
@@ -30913,8 +30909,7 @@
         "valor_unitario": 190.47619047619048,
         "iva": 3238.0952380952385,
         "iva_pct": 5,
-        "total": 68000,
-        "molienda": "molido grueso"
+        "total": 68000
       },
       {
         "sku": "DOM",
@@ -30933,5 +30928,61 @@
       "valor": 203000
     },
     "observaciones": "Enviar a CEHO Calle 32f #75c-86"
+  },
+  {
+    "consecutivo": 3084,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1085327736",
+    "nombre_tercero": "Jair / Natalia Fuertes Unigarro",
+    "fecha_elaboracion": "2026-11-07",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BNA",
+        "producto": "Blend Natural 56h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 952.3809523809525,
+        "iva_pct": 5,
+        "total": 20000.000000000004
+      },
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 148.45938375350138,
+        "iva": 2523.809523809524,
+        "iva_pct": 5,
+        "total": 53000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 190.47619047619048,
+        "iva": 3238.0952380952385,
+        "iva_pct": 5,
+        "total": 68000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 6714.285714285715,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 159000
+    },
+    "observaciones": ""
   }
 ]
