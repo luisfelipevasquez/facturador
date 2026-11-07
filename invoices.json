@@ -30684,26 +30684,6 @@
     "identificacion_vendedor": "901906362",
     "items": [
       {
-        "sku": "BHO",
-        "producto": "Blend Honey 56h",
-        "presentacion": "500g",
-        "cantidad": 500,
-        "valor_unitario": 137.14285714285714,
-        "iva": 3428.5714285714284,
-        "iva_pct": 5,
-        "total": 72000
-      },
-      {
-        "sku": "BHO",
-        "producto": "Blend Honey 56h",
-        "presentacion": "500g",
-        "cantidad": 500,
-        "valor_unitario": 137.14285714285714,
-        "iva": 3428.5714285714284,
-        "iva_pct": 5,
-        "total": 72000
-      },
-      {
         "sku": "DOM",
         "producto": "Domicilio",
         "presentacion": "Nacional Transportadora",
@@ -30712,12 +30692,34 @@
         "iva": 0,
         "iva_pct": 0,
         "total": 18000
+      },
+      {
+        "sku": "RLAA",
+        "producto": "Regional Lavado Andes",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000,
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "RLAS",
+        "producto": "Regional Lavado SurOeste",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000,
+        "molienda": "molido medio"
       }
     ],
-    "iva_total": 6857.142857142857,
+    "iva_total": 5523.809523809524,
     "forma_pago": {
       "codigo": 3,
-      "valor": 162000
+      "valor": 134000
     },
     "observaciones": ""
   },
@@ -30737,7 +30739,8 @@
         "valor_unitario": 160,
         "iva": 20000,
         "iva_pct": 5,
-        "total": 420000
+        "total": 420000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
