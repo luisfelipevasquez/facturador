@@ -2798,5 +2798,21 @@
     "Teléfono móvil de contacto": "3005170534",
     "Estado": "Activo",
     "siigoId": "52508173-9b47-4139-8924-9ec2bb9aa509"
+  },
+  {
+    "Nombre tercero": "Lina Vannesa Saavedra Escobar",
+    "Tipo de identificación": "13",
+    "Identificación": "1115091277",
+    "Dirección": "Cra 16 # 14-61 Barrio Sucre",
+    "Ciudad": "Buga",
+    "Código departamento": "76",
+    "Código ciudad": "76111",
+    "Teléfono.": "3023358859",
+    "Correo electrónico": "saavedraeslv@gmail.com",
+    "Nombres contacto": "Lina Vannesa",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3023358859",
+    "Estado": "Activo",
+    "siigoId": "aec309aa-ef45-4897-8237-d0b63dea2d63"
   }
 ]
