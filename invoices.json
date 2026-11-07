@@ -30616,5 +30616,63 @@
       "valor": 495000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 3078,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1061735742",
+    "nombre_tercero": "Rodolfo/Nicolas Morales Martínez",
+    "fecha_elaboracion": "2026-11-07",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 18000
+      },
+      {
+        "sku": "CHLA",
+        "producto": "Chiroso Lavado",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 209.52380952380952,
+        "iva": 1047.6190476190475,
+        "iva_pct": 5,
+        "total": 21999.999999999996
+      }
+    ],
+    "iva_total": 9523.809523809525,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 200000
+    },
+    "observaciones": ""
   }
 ]
