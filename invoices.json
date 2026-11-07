@@ -30558,5 +30558,63 @@
       "valor": 107000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 3077,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1037626026",
+    "nombre_tercero": "Ivan Fernando Bedoya Jaramillo",
+    "fecha_elaboracion": "2026-11-06",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "2500g",
+        "cantidad": 2500,
+        "valor_unitario": 160,
+        "iva": 20000,
+        "iva_pct": 5,
+        "total": 420000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 1095.2380952380952,
+        "iva_pct": 5,
+        "total": 23000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 14000
+      }
+    ],
+    "iva_total": 23571.428571428572,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 495000
+    },
+    "observaciones": ""
   }
 ]
