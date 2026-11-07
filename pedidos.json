@@ -14798,5 +14798,35 @@
         "molienda": "molido grueso"
       }
     ]
+  },
+  {
+    "consecutivo": 3078,
+    "fecha": "2026-11-07",
+    "tercero": "Rodolfo/Nicolas Morales Martínez",
+    "identificacion": "1061735742",
+    "productos": "CMA 500g x500, CGA 500g x500, CHLA 100g x100",
+    "domicilio": "Nacional Transportadora",
+    "total": 200000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "CMA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CHLA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
