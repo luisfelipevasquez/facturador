@@ -805,5 +805,53 @@
     "siigo_id": "01fd005c-c115-4fa9-8001-ed51e9fa2aae",
     "siigo_numero": "FV-2-3059",
     "cufe": ""
+  },
+  {
+    "plataforma": "shopify",
+    "clave": "shopify:7422795743478",
+    "consecutivo": 1072,
+    "pedido": "#1072",
+    "fecha_woo": "2026-11-05",
+    "nombre": "Alejandro Angel Ceballos",
+    "identificacion": "1017261217",
+    "total": 61000,
+    "estado": "enviando",
+    "reservado_at": "2026-11-08T21:02:59.740Z"
+  },
+  {
+    "plataforma": "shopify",
+    "clave": "shopify:7422567940342",
+    "consecutivo": 1071,
+    "pedido": "#1071",
+    "fecha_woo": "2026-11-05",
+    "nombre": "Samir Perez",
+    "identificacion": "1010127001",
+    "total": 86000,
+    "estado": "enviando",
+    "reservado_at": "2026-11-08T21:02:59.740Z"
+  },
+  {
+    "plataforma": "shopify",
+    "clave": "shopify:7419117502710",
+    "consecutivo": 1070,
+    "pedido": "#1070",
+    "fecha_woo": "2026-11-03",
+    "nombre": "Juan Daniel Sánchez Ortiz",
+    "identificacion": "1115575344",
+    "total": 38000,
+    "estado": "enviando",
+    "reservado_at": "2026-11-08T21:02:59.740Z"
+  },
+  {
+    "plataforma": "shopify",
+    "clave": "shopify:7418663174390",
+    "consecutivo": 1069,
+    "pedido": "#1069",
+    "fecha_woo": "2026-11-03",
+    "nombre": "David Ayala",
+    "identificacion": "1152703016",
+    "total": 290000,
+    "estado": "enviando",
+    "reservado_at": "2026-11-08T21:02:59.740Z"
   }
 ]
