@@ -30522,7 +30522,12 @@
       "codigo": 3,
       "valor": 101570
     },
-    "observaciones": "Redime fidelización pero con $ se descuenta el valor de un maracuyá"
+    "observaciones": "Redime fidelización pero con $ se descuenta el valor de un maracuyá",
+    "siigoId": "969e568a-1643-4826-9649-167161dfbe8e",
+    "siigoNumber": "FV-2-3064",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-08T20:40:00.480Z"
   },
   {
     "consecutivo": 3076,
