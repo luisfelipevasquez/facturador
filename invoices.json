@@ -30984,5 +30984,53 @@
       "valor": 159000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 3085,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1017259405",
+    "nombre_tercero": "Juan David Reyes",
+    "fecha_elaboracion": "2026-11-08",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "RLAC",
+        "producto": "Regional Lavado Caicedo",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 110.47619047619047,
+        "iva": 2761.904761904762,
+        "iva_pct": 5,
+        "total": 58000
+      },
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 148.45938375350138,
+        "iva": 2523.809523809524,
+        "iva_pct": 5,
+        "total": 53000
+      },
+      {
+        "sku": "BNA",
+        "producto": "Blend Natural 56h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 40000
+      }
+    ],
+    "iva_total": 5285.714285714286,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 111000
+    },
+    "observaciones": "Redime 250 bna56. No se envía tarjeta nueva aún, se envían los stickers para que termine de llenar la que tiene"
   }
 ]
