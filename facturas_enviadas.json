@@ -815,8 +815,11 @@
     "nombre": "Alejandro Angel Ceballos",
     "identificacion": "1017261217",
     "total": 61000,
-    "estado": "enviando",
-    "reservado_at": "2026-11-08T21:02:59.740Z"
+    "estado": "enviada",
+    "enviado_at": "2026-11-08T21:03:04.762Z",
+    "siigo_id": "b823693c-8f98-4692-8bee-b5434cc70aa8",
+    "siigo_numero": "FV-2-3086",
+    "cufe": ""
   },
   {
     "plataforma": "shopify",
@@ -827,8 +830,11 @@
     "nombre": "Samir Perez",
     "identificacion": "1010127001",
     "total": 86000,
-    "estado": "enviando",
-    "reservado_at": "2026-11-08T21:02:59.740Z"
+    "estado": "enviada",
+    "enviado_at": "2026-11-08T21:03:04.762Z",
+    "siigo_id": "bc8db016-eab5-4dec-a263-8437d68a73b7",
+    "siigo_numero": "FV-2-3087",
+    "cufe": ""
   },
   {
     "plataforma": "shopify",
@@ -839,8 +845,11 @@
     "nombre": "Juan Daniel Sánchez Ortiz",
     "identificacion": "1115575344",
     "total": 38000,
-    "estado": "enviando",
-    "reservado_at": "2026-11-08T21:02:59.740Z"
+    "estado": "enviada",
+    "enviado_at": "2026-11-08T21:03:04.762Z",
+    "siigo_id": "de3db5db-4646-4cc0-9dd4-339b019010a7",
+    "siigo_numero": "FV-2-3088",
+    "cufe": ""
   },
   {
     "plataforma": "shopify",
@@ -851,7 +860,10 @@
     "nombre": "David Ayala",
     "identificacion": "1152703016",
     "total": 290000,
-    "estado": "enviando",
-    "reservado_at": "2026-11-08T21:02:59.740Z"
+    "estado": "enviada",
+    "enviado_at": "2026-11-08T21:03:04.762Z",
+    "siigo_id": "9aa62aec-5696-4f4b-87c9-4520ac87c3f6",
+    "siigo_numero": "FV-2-3089",
+    "cufe": ""
   }
 ]
