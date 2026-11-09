@@ -31316,5 +31316,41 @@
       "valor": 232500
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 3094,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1152225725",
+    "nombre_tercero": "María Camila Martínez Amaya",
+    "fecha_elaboracion": "2026-11-09",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 190.47619047619048,
+        "iva": 3238.0952380952385,
+        "iva_pct": 5,
+        "total": 68000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 3238.0952380952385,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 86000
+    },
+    "observaciones": "Lleva tarjeta de regalo"
   }
 ]
