@@ -2814,5 +2814,21 @@
     "Teléfono móvil de contacto": "3023358859",
     "Estado": "Activo",
     "siigoId": "aec309aa-ef45-4897-8237-d0b63dea2d63"
+  },
+  {
+    "Nombre tercero": "Maria Camila Martínez Suárez",
+    "Tipo de identificación": "13",
+    "Identificación": "1002244656",
+    "Dirección": "Calle 28 #22-176 Ed. Antonela apto 13d",
+    "Ciudad": "Cartagena de Indias",
+    "Código departamento": "13",
+    "Código ciudad": "13001",
+    "Teléfono.": "3002805569‬",
+    "Correo electrónico": "cmartinezsuarez@hotmail.com",
+    "Nombres contacto": "Maria Camila",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3002805569‬",
+    "Estado": "Activo",
+    "siigoId": "cf5ea3f6-b76a-4173-bb62-9994b64cb4e9"
   }
 ]
