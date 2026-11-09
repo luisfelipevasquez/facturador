@@ -31263,7 +31263,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "grano"
       },
       {
         "sku": "RLAS",
@@ -31273,7 +31274,8 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000
+        "total": 58000,
+        "molienda": "grano"
       },
       {
         "sku": "BHO120",
@@ -31283,7 +31285,8 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000
+        "total": 72000,
+        "molienda": "grano"
       },
       {
         "sku": "CGA",
@@ -31295,7 +31298,8 @@
         "iva_pct": 5,
         "total": 44500,
         "descuento_pct": 50,
-        "descuento_valor": 42380.95238095238
+        "descuento_valor": 42380.95238095238,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -31333,7 +31337,8 @@
         "valor_unitario": 190.47619047619048,
         "iva": 3238.0952380952385,
         "iva_pct": 5,
-        "total": 68000
+        "total": 68000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -31351,6 +31356,6 @@
       "codigo": 3,
       "valor": 86000
     },
-    "observaciones": "Lleva tarjeta de regalo"
+    "observaciones": "Lleva tarjeta de regalo. Enviar a Camilo Cespedes Calle 98A #49E-37 CR las Bahamas apto 2202 Ciudad: Barranquilla Celular: +57 300 8270097"
   }
 ]
