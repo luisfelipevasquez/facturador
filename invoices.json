@@ -30558,8 +30558,7 @@
         "iva_pct": 5,
         "total": 87570,
         "descuento_pct": 37,
-        "descuento_valor": 48980.952380952374,
-        "molienda": "grano"
+        "descuento_valor": 48980.952380952374
       },
       {
         "sku": "DOM",
@@ -31107,8 +31106,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "molido medio"
+        "total": 58000
       },
       {
         "sku": "BNA120",
@@ -31118,8 +31116,7 @@
         "valor_unitario": 148.45938375350138,
         "iva": 2523.809523809524,
         "iva_pct": 5,
-        "total": 53000,
-        "molienda": "grano"
+        "total": 53000
       },
       {
         "sku": "BNA",
@@ -31131,8 +31128,7 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 40000,
-        "molienda": "grano"
+        "descuento_valor": 40000
       }
     ],
     "iva_total": 5285.714285714286,
@@ -31146,5 +31142,41 @@
     "cufe": null,
     "siigoStatus": "Sincronizado",
     "siigoSyncedAt": "2026-11-08T20:46:25.211Z"
+  },
+  {
+    "consecutivo": 3091,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1083894463",
+    "nombre_tercero": "Nicolás Diaz",
+    "fecha_elaboracion": "2026-11-09",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 271.7086834733894,
+        "iva": 4619.04761904762,
+        "iva_pct": 5,
+        "total": 97000.00000000001
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 4619.04761904762,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 111000.00000000001
+    },
+    "observaciones": ""
   }
 ]
