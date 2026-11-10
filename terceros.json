@@ -2830,5 +2830,21 @@
     "Teléfono móvil de contacto": "3002805569‬",
     "Estado": "Activo",
     "siigoId": "cf5ea3f6-b76a-4173-bb62-9994b64cb4e9"
+  },
+  {
+    "Nombre tercero": "Gustavo Adolfo Díaz Rios",
+    "Tipo de identificación": "13",
+    "Identificación": "1143134228",
+    "Dirección": "Cra 42e #83-40 Ed. Yuyos Apto 9b",
+    "Ciudad": "Barranquilla",
+    "Código departamento": "08",
+    "Código ciudad": "08001",
+    "Teléfono.": "3242626351",
+    "Correo electrónico": "epicentroglobal20@gmail.com",
+    "Nombres contacto": "Gustavo Adolfo",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3242626351",
+    "Estado": "Activo",
+    "siigoId": "ac2fd0a6-4468-4f60-b072-ec0d19179728"
   }
 ]
