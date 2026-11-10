@@ -2846,5 +2846,21 @@
     "Teléfono móvil de contacto": "3242626351",
     "Estado": "Activo",
     "siigoId": "ac2fd0a6-4468-4f60-b072-ec0d19179728"
+  },
+  {
+    "Nombre tercero": "Gustavo Zamora",
+    "Tipo de identificación": "13",
+    "Identificación": "16689949",
+    "Dirección": "Cra 82b # 48A-53 casa",
+    "Ciudad": "Cali",
+    "Código departamento": "76",
+    "Código ciudad": "76001",
+    "Teléfono.": "3167599469",
+    "Correo electrónico": "Yustans@hotmail.com",
+    "Nombres contacto": "Gustavo",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3167599469",
+    "Estado": "Activo",
+    "siigoId": "f1251dcd-a475-489d-be62-ebee4a643b2b"
   }
 ]
