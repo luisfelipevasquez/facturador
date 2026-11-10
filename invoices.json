@@ -31263,8 +31263,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       },
       {
         "sku": "RLAS",
@@ -31274,8 +31273,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       },
       {
         "sku": "BHO120",
@@ -31285,8 +31283,7 @@
         "valor_unitario": 137.14285714285714,
         "iva": 3428.5714285714284,
         "iva_pct": 5,
-        "total": 72000,
-        "molienda": "grano"
+        "total": 72000
       },
       {
         "sku": "CGA",
@@ -31298,8 +31295,7 @@
         "iva_pct": 5,
         "total": 44500,
         "descuento_pct": 50,
-        "descuento_valor": 42380.95238095238,
-        "molienda": "grano"
+        "descuento_valor": 42380.95238095238
       },
       {
         "sku": "DOM",
@@ -31337,8 +31333,7 @@
         "valor_unitario": 190.47619047619048,
         "iva": 3238.0952380952385,
         "iva_pct": 5,
-        "total": 68000,
-        "molienda": "grano"
+        "total": 68000
       },
       {
         "sku": "DOM",
@@ -31357,5 +31352,53 @@
       "valor": 86000
     },
     "observaciones": "Lleva tarjeta de regalo. Enviar a Camilo Cespedes Calle 98A #49E-37 CR las Bahamas apto 2202 Ciudad: Barranquilla Celular: +57 300 8270097"
+  },
+  {
+    "consecutivo": 3095,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1143134228",
+    "nombre_tercero": "Gustavo Adolfo Díaz Rios",
+    "fecha_elaboracion": "2026-11-09",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 264.76190476190476,
+        "iva": 6619.047619047618,
+        "iva_pct": 5,
+        "total": 139000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 18000
+      }
+    ],
+    "iva_total": 10857.142857142857,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 228000
+    },
+    "observaciones": ""
   }
 ]
