@@ -31661,7 +31661,8 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999
+        "total": 37999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "BSIN",
@@ -31671,7 +31672,8 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999
+        "total": 37999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "PNA",
@@ -31681,7 +31683,8 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999
+        "total": 37999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "CHLA",
@@ -31691,7 +31694,8 @@
         "valor_unitario": 209.52380952380952,
         "iva": 1047.6190476190475,
         "iva_pct": 5,
-        "total": 21999.999999999996
+        "total": 21999.999999999996,
+        "molienda": "molido grueso"
       },
       {
         "sku": "DOM",
@@ -31727,7 +31731,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "grano"
       },
       {
         "sku": "JNA",
@@ -31737,7 +31742,8 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000
+        "total": 139000,
+        "molienda": "grano"
       },
       {
         "sku": "PNA",
@@ -31747,7 +31753,8 @@
         "valor_unitario": 271.7086834733894,
         "iva": 4619.04761904762,
         "iva_pct": 5,
-        "total": 97000.00000000001
+        "total": 97000.00000000001,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -31771,7 +31778,8 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 19047.61904761905
+        "descuento_valor": 19047.61904761905,
+        "molienda": "grano"
       }
     ],
     "iva_total": 14857.142857142857,
@@ -31797,7 +31805,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -31815,6 +31824,6 @@
       "codigo": 3,
       "valor": 90000
     },
-    "observaciones": ""
+    "observaciones": "Redime fidelización pendiente preguntar cual"
   }
 ]
