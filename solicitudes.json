@@ -895,5 +895,47 @@
       "to": "573136954258"
     },
     "actualizado": "2026-11-05T21:36:25.966Z"
+  },
+  {
+    "id": "SOL-1794427811263-vqf5x",
+    "estado": "pendiente",
+    "creado": "2026-11-11T20:10:11.263Z",
+    "cliente": {
+      "nombre": "Daniel Vallejo Uran",
+      "tipo_documento": "13",
+      "documento": "1039463451",
+      "email": "vallejo040@hotmail.com",
+      "celular": "57 3164095153",
+      "ciudad": "Medellín",
+      "direccion": "Calle 5a # 39-194 Torre Concasa o Diners Club",
+      "observaciones": ""
+    },
+    "productos": [
+      {
+        "sku": "BHO120",
+        "nombre": "Honey 120 Horas",
+        "presentacion": "2500g",
+        "molienda": "grano",
+        "cantidad": 1,
+        "precio": 290000
+      }
+    ],
+    "total_estimado": 290000,
+    "siigo_customer_found": true,
+    "siigo_customer_id": "7b3d02d5-9519-4c1f-ba46-98d9e2028ba2",
+    "envio": {
+      "registered_address": "Calle 5a # 39-194 Torre Concasa o Diners Club",
+      "shipping_address_same_as_registered": true,
+      "shipping_address": "Calle 5a # 39-194 Torre Concasa o Diners Club",
+      "customer_overrode_address": false,
+      "shipping_method": "Envío Área Metropolitana por Transportadora",
+      "shipping_base_cost": 10000,
+      "shipping_cost": 0,
+      "free_shipping": true,
+      "shipping_departamento": "Antioquia",
+      "shipping_ciudad": "Medellín",
+      "cod_dpto_envio": "05",
+      "cod_ciudad_envio": "05001"
+    }
   }
 ]
