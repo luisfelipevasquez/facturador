@@ -946,7 +946,7 @@
   },
   {
     "id": "SOL-1794453811741-vf1vt",
-    "estado": "revisado",
+    "estado": "completado",
     "creado": "2026-11-12T03:23:31.741Z",
     "cliente": {
       "nombre": "Adrian Rincón",
@@ -1006,6 +1006,6 @@
       "status": "invalid_phone",
       "error": "celular no válido: 57 320718633"
     },
-    "actualizado": "2026-11-12T12:45:39.492Z"
+    "actualizado": "2026-11-12T20:06:31.923Z"
   }
 ]
