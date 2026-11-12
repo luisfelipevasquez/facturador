@@ -31936,5 +31936,53 @@
       "valor": 86000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 3103,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1049637132",
+    "nombre_tercero": "Juan Camilo Fernandez Alvarez",
+    "fecha_elaboracion": "2026-11-12",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 271.7086834733894,
+        "iva": 4619.04761904762,
+        "iva_pct": 5,
+        "total": 97000.00000000001
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 49523.80952380952
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 4619.04761904762,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 115000.00000000001
+    },
+    "observaciones": ""
   }
 ]
