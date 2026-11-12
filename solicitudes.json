@@ -1000,6 +1000,11 @@
       "shipping_ciudad": "Medellín",
       "cod_dpto_envio": "05",
       "cod_ciudad_envio": "05001"
+    },
+    "wa": {
+      "at": "2026-11-12T03:23:33.282Z",
+      "status": "invalid_phone",
+      "error": "celular no válido: 57 320718633"
     }
   }
 ]
