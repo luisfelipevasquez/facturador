@@ -31953,8 +31953,7 @@
         "valor_unitario": 271.7086834733894,
         "iva": 4619.04761904762,
         "iva_pct": 5,
-        "total": 97000.00000000001,
-        "molienda": "grano"
+        "total": 97000.00000000001
       },
       {
         "sku": "CGA",
@@ -31966,8 +31965,7 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 49523.80952380952,
-        "molienda": "grano"
+        "descuento_valor": 49523.80952380952
       },
       {
         "sku": "DOM",
@@ -31986,5 +31984,53 @@
       "valor": 115000.00000000001
     },
     "observaciones": "Redime el galleta y se encía nueva tarjeta con 1 sticker"
+  },
+  {
+    "consecutivo": 3104,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "71292058",
+    "nombre_tercero": "Esteban Vinasco",
+    "fecha_elaboracion": "2026-11-12",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PNA",
+        "producto": "Pacamara Natural",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 271.7086834733894,
+        "iva": 4619.04761904762,
+        "iva_pct": 5,
+        "total": 97000.00000000001
+      },
+      {
+        "sku": "SURU",
+        "producto": "Sudan Rumé Natural",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 271.7086834733894,
+        "iva": 4619.04761904762,
+        "iva_pct": 5,
+        "total": 97000.00000000001
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 14000
+      }
+    ],
+    "iva_total": 9238.09523809524,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 194000.00000000003
+    },
+    "observaciones": ""
   }
 ]
