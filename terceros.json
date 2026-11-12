@@ -2862,5 +2862,21 @@
     "Teléfono móvil de contacto": "3167599469",
     "Estado": "Activo",
     "siigoId": "f1251dcd-a475-489d-be62-ebee4a643b2b"
+  },
+  {
+    "Nombre tercero": "Esteban Vinasco",
+    "Tipo de identificación": "13",
+    "Identificación": "71292058",
+    "Dirección": "Calle 78sur #40-211 Parques de san Remo Apto 1702",
+    "Ciudad": "Sabaneta",
+    "Código departamento": "05",
+    "Código ciudad": "05631",
+    "Teléfono.": "3003520050",
+    "Correo electrónico": "va_esteban@hotmail.com",
+    "Nombres contacto": "Esteban",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3003520050",
+    "Estado": "Activo",
+    "siigoId": "7d7ebb99-634b-4e25-a90f-85b71f93fa62"
   }
 ]
