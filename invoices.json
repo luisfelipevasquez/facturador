@@ -31953,7 +31953,8 @@
         "valor_unitario": 271.7086834733894,
         "iva": 4619.04761904762,
         "iva_pct": 5,
-        "total": 97000.00000000001
+        "total": 97000.00000000001,
+        "molienda": "grano"
       },
       {
         "sku": "CGA",
@@ -31965,7 +31966,8 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 49523.80952380952
+        "descuento_valor": 49523.80952380952,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -31983,6 +31985,6 @@
       "codigo": 3,
       "valor": 115000.00000000001
     },
-    "observaciones": ""
+    "observaciones": "Redime el galleta y se encía nueva tarjeta con 1 sticker"
   }
 ]
