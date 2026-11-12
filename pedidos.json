@@ -15443,5 +15443,30 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 3104,
+    "fecha": "2026-11-12",
+    "tercero": "Esteban Vinasco",
+    "identificacion": "71292058",
+    "productos": "PNA 340g x340, SURU 340g x340",
+    "domicilio": "Local Mensajero",
+    "total": 194000.00000000003,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "PNA",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "SURU",
+        "presentacion": "340g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
