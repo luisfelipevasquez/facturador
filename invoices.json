@@ -32097,8 +32097,7 @@
         "iva_pct": 5,
         "total": 72200,
         "descuento_pct": 5,
-        "descuento_valor": 3619.0476190476193,
-        "molienda": "grano"
+        "descuento_valor": 3619.0476190476193
       },
       {
         "sku": "BBO",
@@ -32110,8 +32109,7 @@
         "iva_pct": 5,
         "total": 55100,
         "descuento_pct": 5,
-        "descuento_valor": 2761.904761904762,
-        "molienda": "grano"
+        "descuento_valor": 2761.904761904762
       },
       {
         "sku": "BRO",
@@ -32123,8 +32121,7 @@
         "iva_pct": 5,
         "total": 72200,
         "descuento_pct": 5,
-        "descuento_valor": 3619.0476190476193,
-        "molienda": "grano"
+        "descuento_valor": 3619.0476190476193
       },
       {
         "sku": "DOM",
@@ -32162,8 +32159,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "grano"
+        "total": 37999.99999999999
       },
       {
         "sku": "PNA",
@@ -32173,8 +32169,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "grano"
+        "total": 37999.99999999999
       },
       {
         "sku": "MNA",
@@ -32184,8 +32179,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "grano"
+        "total": 37999.99999999999
       },
       {
         "sku": "BSIN",
@@ -32195,8 +32189,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "grano"
+        "total": 37999.99999999999
       },
       {
         "sku": "SURU",
@@ -32206,8 +32199,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "grano"
+        "total": 37999.99999999999
       },
       {
         "sku": "DOM",
@@ -32243,8 +32235,7 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000,
-        "molienda": "grano"
+        "total": 139000
       },
       {
         "sku": "PNA",
@@ -32254,8 +32245,7 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000,
-        "molienda": "grano"
+        "total": 139000
       },
       {
         "sku": "MNA",
@@ -32265,8 +32255,7 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000,
-        "molienda": "grano"
+        "total": 139000
       },
       {
         "sku": "DOM",
@@ -32290,8 +32279,7 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 19047.61904761905,
-        "molienda": "grano"
+        "descuento_valor": 19047.61904761905
       }
     ],
     "iva_total": 19857.142857142855,
@@ -32317,8 +32305,7 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000,
-        "molienda": "grano"
+        "total": 139000
       },
       {
         "sku": "RLAC",
@@ -32328,8 +32315,7 @@
         "valor_unitario": 110.47619047619047,
         "iva": 2761.904761904762,
         "iva_pct": 5,
-        "total": 58000,
-        "molienda": "grano"
+        "total": 58000
       },
       {
         "sku": "DOM",
@@ -32367,8 +32353,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "molido medio"
+        "total": 37999.99999999999
       },
       {
         "sku": "PNA",
@@ -32378,8 +32363,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "molido medio"
+        "total": 37999.99999999999
       },
       {
         "sku": "BSIN",
@@ -32389,8 +32373,7 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999,
-        "molienda": "molido medio"
+        "total": 37999.99999999999
       },
       {
         "sku": "CMA",
@@ -32400,8 +32383,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "molido medio"
+        "total": 23000
       },
       {
         "sku": "CGA",
@@ -32411,8 +32393,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "molido medio"
+        "total": 23000
       },
       {
         "sku": "CHLA",
@@ -32422,8 +32403,7 @@
         "valor_unitario": 209.52380952380952,
         "iva": 1047.6190476190475,
         "iva_pct": 5,
-        "total": 21999.999999999996,
-        "molienda": "molido medio"
+        "total": 21999.999999999996
       },
       {
         "sku": "DOM",
@@ -32445,14 +32425,123 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 40000,
-        "molienda": "molido medio"
+        "descuento_valor": 40000
       }
     ],
     "iva_total": 8666.666666666666,
     "forma_pago": {
       "codigo": 3,
       "valor": 195999.99999999997
+    },
+    "observaciones": ""
+  },
+  {
+    "consecutivo": 3111,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "900316792",
+    "nombre_tercero": "Strategic data SAS",
+    "fecha_elaboracion": "2026-11-12",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PNA",
+        "producto": "Pacamara Natural",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 271.7086834733894,
+        "iva": 4619.04761904762,
+        "iva_pct": 5,
+        "total": 97000.00000000001
+      },
+      {
+        "sku": "MNA",
+        "producto": "Maragogype Natural",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 271.7086834733894,
+        "iva": 4619.04761904762,
+        "iva_pct": 5,
+        "total": 97000.00000000001
+      },
+      {
+        "sku": "SURU",
+        "producto": "Sudan Rumé Natural",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 271.7086834733894,
+        "iva": 4619.04761904762,
+        "iva_pct": 5,
+        "total": 97000.00000000001
+      },
+      {
+        "sku": "CHLA",
+        "producto": "Chiroso Lavado",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 173.66946778711483,
+        "iva": 2952.3809523809523,
+        "iva_pct": 5,
+        "total": 61999.99999999999
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 190.47619047619048,
+        "iva": 3238.0952380952385,
+        "iva_pct": 5,
+        "total": 68000
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 190.47619047619048,
+        "iva": 3238.0952380952385,
+        "iva_pct": 5,
+        "total": 68000
+      },
+      {
+        "sku": "BRO",
+        "producto": "Bourbon Rosado",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 271.7086834733894,
+        "iva": 4619.04761904762,
+        "iva_pct": 5,
+        "total": 97000.00000000001
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 14000
+      },
+      {
+        "sku": "BHO120",
+        "producto": "Blend Honey 120h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 40000
+      }
+    ],
+    "iva_total": 27904.76190476191,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 586000.0000000001
     },
     "observaciones": ""
   }
