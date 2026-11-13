@@ -32441,16 +32441,18 @@
         "presentacion": "250g",
         "cantidad": 250,
         "valor_unitario": 160,
-        "iva": 2000,
+        "iva": 0,
         "iva_pct": 5,
-        "total": 42000,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 40000,
         "molienda": "molido medio"
       }
     ],
-    "iva_total": 10666.666666666666,
+    "iva_total": 8666.666666666666,
     "forma_pago": {
       "codigo": 3,
-      "valor": 237999.99999999997
+      "valor": 195999.99999999997
     },
     "observaciones": ""
   }
