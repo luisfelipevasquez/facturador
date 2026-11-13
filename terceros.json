@@ -2878,5 +2878,21 @@
     "Teléfono móvil de contacto": "3003520050",
     "Estado": "Activo",
     "siigoId": "7d7ebb99-634b-4e25-a90f-85b71f93fa62"
+  },
+  {
+    "Nombre tercero": "Julian Paul Martinez Galán",
+    "Tipo de identificación": "13",
+    "Identificación": "74185664",
+    "Dirección": "Trv 51A # 69-81 Ed. Estadio 70 Apto 213",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3002790713",
+    "Correo electrónico": "julian.martinez@udea.edu.co",
+    "Nombres contacto": "Julian Paul",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3002790713",
+    "Estado": "Activo",
+    "siigoId": "979976de-d553-4afc-b547-fa7050c8901c"
   }
 ]
