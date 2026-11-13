@@ -32078,5 +32078,69 @@
       "valor": 130000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 3106,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "5954767",
+    "nombre_tercero": "Edson Echevarria Aldana",
+    "fecha_elaboracion": "2026-11-12",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BSIN",
+        "producto": "Bourbon Sidra",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3438.0952380952385,
+        "iva_pct": 5,
+        "total": 72200,
+        "descuento_pct": 5,
+        "descuento_valor": 3619.0476190476193
+      },
+      {
+        "sku": "BBO",
+        "producto": "Blend Bourbon",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 220.95238095238093,
+        "iva": 2623.809523809524,
+        "iva_pct": 5,
+        "total": 55100,
+        "descuento_pct": 5,
+        "descuento_valor": 2761.904761904762
+      },
+      {
+        "sku": "BRO",
+        "producto": "Bourbon Rosado",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3438.0952380952385,
+        "iva_pct": 5,
+        "total": 72200,
+        "descuento_pct": 5,
+        "descuento_valor": 3619.0476190476193
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 14000
+      }
+    ],
+    "iva_total": 9500,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 199500
+    },
+    "observaciones": "En caja grande blanca con tarjeta de regalo sin marcar y tarjeta de fidelización como nuevo. Lleva termo prensa"
   }
 ]
