@@ -15629,7 +15629,7 @@
     "fecha": "2026-11-12",
     "tercero": "Julian Paul Martinez Galán",
     "identificacion": "74185664",
-    "productos": "MNA 100g x100, PNA 100g x100, BSIN 100g x100, CMA 100g x100, CGA 100g x100, CHLA 100g x100",
+    "productos": "MNA 100g x100, PNA 100g x100, BSIN 100g x100, CMA 100g x100, CGA 100g x100, CHLA 100g x100, BNA 250g x250",
     "domicilio": "Local Mensajero",
     "total": 195999.99999999997,
     "forma_pago": "T. Débito",
@@ -15665,6 +15665,66 @@
       {
         "sku": "CHLA",
         "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "BNA",
+        "presentacion": "250g",
+        "molienda": "molido medio"
+      }
+    ]
+  },
+  {
+    "consecutivo": 3111,
+    "fecha": "2026-11-12",
+    "tercero": "Strategic data SAS",
+    "identificacion": "900316792",
+    "productos": "PNA 340g x340, MNA 340g x340, SURU 340g x340, CHLA 340g x340, CMA 340g x340, CGA 340g x340, BRO 340g x340, BHO120 250g x250",
+    "domicilio": "Local Mensajero",
+    "total": 586000.0000000001,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "PNA",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "MNA",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "SURU",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CHLA",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "340g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "340g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "BRO",
+        "presentacion": "340g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "BHO120",
+        "presentacion": "250g",
         "molienda": "molido medio"
       }
     ]
