@@ -32218,5 +32218,75 @@
       "valor": 203999.99999999997
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 3108,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "3391657",
+    "nombre_tercero": "Andrés Ramírez",
+    "fecha_elaboracion": "2026-11-12",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "JNA",
+        "producto": "Java Natural",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 264.76190476190476,
+        "iva": 6619.047619047618,
+        "iva_pct": 5,
+        "total": 139000
+      },
+      {
+        "sku": "PNA",
+        "producto": "Pacamara Natural",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 264.76190476190476,
+        "iva": 6619.047619047618,
+        "iva_pct": 5,
+        "total": 139000
+      },
+      {
+        "sku": "MNA",
+        "producto": "Maragogype Natural",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 264.76190476190476,
+        "iva": 6619.047619047618,
+        "iva_pct": 5,
+        "total": 139000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 14000
+      },
+      {
+        "sku": "BHO120",
+        "producto": "Blend Honey 120h",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 190.47619047619048,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 19047.61904761905
+      }
+    ],
+    "iva_total": 19857.142857142855,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 417000
+    },
+    "observaciones": ""
   }
 ]
