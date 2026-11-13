@@ -32142,5 +32142,81 @@
       "valor": 199500
     },
     "observaciones": "En caja grande blanca con tarjeta de regalo sin marcar y tarjeta de fidelización como nuevo. Lleva termo prensa"
+  },
+  {
+    "consecutivo": 3107,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1017318701",
+    "nombre_tercero": "Manuela Zuluaga",
+    "fecha_elaboracion": "2026-11-12",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "JNA",
+        "producto": "Java Natural",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "PNA",
+        "producto": "Pacamara Natural",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "MNA",
+        "producto": "Maragogype Natural",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "BSIN",
+        "producto": "Bourbon Sidra",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "SURU",
+        "producto": "Sudan Rumé Natural",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 9047.619047619046,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 203999.99999999997
+    },
+    "observaciones": ""
   }
 ]
