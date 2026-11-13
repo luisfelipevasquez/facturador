@@ -2894,5 +2894,21 @@
     "Teléfono móvil de contacto": "3002790713",
     "Estado": "Activo",
     "siigoId": "979976de-d553-4afc-b547-fa7050c8901c"
+  },
+  {
+    "Nombre tercero": "Leonardo Aleman",
+    "Tipo de identificación": "13",
+    "Identificación": "1009144",
+    "Dirección": "Calle 179 #6-41 Int 1 Apto 201 CR Bosqueladera",
+    "Ciudad": "Bogotá D.C.",
+    "Código departamento": "11",
+    "Código ciudad": "11001",
+    "Teléfono.": "3132014492",
+    "Correo electrónico": "Lnrd256@gmail.com",
+    "Nombres contacto": "Leonardo",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3132014492",
+    "Estado": "Activo",
+    "siigoId": "fd8b27e3-c4d9-4c20-9a76-d2e7034849ef"
   }
 ]
