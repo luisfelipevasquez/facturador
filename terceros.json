@@ -2910,5 +2910,21 @@
     "Teléfono móvil de contacto": "3132014492",
     "Estado": "Activo",
     "siigoId": "fd8b27e3-c4d9-4c20-9a76-d2e7034849ef"
+  },
+  {
+    "Nombre tercero": "Juan Sebastián Sarmiento Cancino",
+    "Tipo de identificación": "13",
+    "Identificación": "1018418118",
+    "Dirección": "Cra 11A # 144-30 Ed. Séptimo Arte Apto 301",
+    "Ciudad": "Bogotá D.C.",
+    "Código departamento": "11",
+    "Código ciudad": "11001",
+    "Teléfono.": "3112334902",
+    "Correo electrónico": "juanssarmiento24@gmail.com",
+    "Nombres contacto": "Juan Sebastián",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3112334902",
+    "Estado": "Activo",
+    "siigoId": "491fc4d9-242d-4317-94ec-04b756fdd53d"
   }
 ]
