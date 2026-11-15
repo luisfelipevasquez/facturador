@@ -32920,5 +32920,61 @@
       "valor": 207999.99999999997
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 3119,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "98658895",
+    "nombre_tercero": "Javier Alexis Giron Perez",
+    "fecha_elaboracion": "2026-11-15",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "MNA",
+        "producto": "Maragogype Natural",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "BSIN",
+        "producto": "Bourbon Sidra",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 6095.2380952380945,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 141999.99999999997
+    },
+    "observaciones": ""
   }
 ]
