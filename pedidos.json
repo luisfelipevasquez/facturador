@@ -15883,5 +15883,60 @@
         "molienda": "molido grueso"
       }
     ]
+  },
+  {
+    "consecutivo": 3118,
+    "fecha": "2026-11-15",
+    "tercero": "Cesar Mauricio Núñez Quintero",
+    "identificacion": "13169282",
+    "productos": "SURU 100g x100, MNA 100g x100, BSIN 100g x100, BHO72 100g x100, BHO72 100g x100, BHO72 100g x100, RLAS 100g x100, RLAS 100g x100",
+    "domicilio": "Nacional Transportadora",
+    "total": 207999.99999999997,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "SURU",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "MNA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BSIN",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO72",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO72",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO72",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAS",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAS",
+        "presentacion": "100g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
