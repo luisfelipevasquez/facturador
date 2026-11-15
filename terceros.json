@@ -2926,5 +2926,21 @@
     "Teléfono móvil de contacto": "3112334902",
     "Estado": "Activo",
     "siigoId": "491fc4d9-242d-4317-94ec-04b756fdd53d"
+  },
+  {
+    "Nombre tercero": "Ana Cristina Jaramillo",
+    "Tipo de identificación": "13",
+    "Identificación": "1020420550",
+    "Dirección": "Calle 23 #57a-95 Ed. Sky Apto 1401",
+    "Ciudad": "Bello",
+    "Código departamento": "05",
+    "Código ciudad": "05088",
+    "Teléfono.": "3155013790",
+    "Correo electrónico": "anacjaramillom@gmail.com",
+    "Nombres contacto": "Ana",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3155013790",
+    "Estado": "Activo",
+    "siigoId": "94451a5a-634e-4317-99fa-161b5494e62c"
   }
 ]
