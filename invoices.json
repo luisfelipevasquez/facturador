@@ -32993,8 +32993,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "RLAA",
@@ -33004,8 +33003,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "RLAA",
@@ -33015,8 +33013,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "RLAS",
@@ -33026,8 +33023,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "RLAS",
@@ -33037,8 +33033,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "RLAC",
@@ -33048,8 +33043,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "RLAC",
@@ -33059,8 +33053,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "RLAC",
@@ -33070,8 +33063,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "RLAS",
@@ -33081,8 +33073,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "RLAA",
@@ -33092,8 +33083,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "RLAS",
@@ -33103,8 +33093,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "RLAC",
@@ -33114,8 +33103,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "RLAS",
@@ -33125,8 +33113,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "RLAS",
@@ -33136,8 +33123,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "CGA",
@@ -33147,8 +33133,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "molido medio"
+        "total": 23000
       },
       {
         "sku": "DOM",
@@ -33167,6 +33152,42 @@
     "forma_pago": {
       "codigo": 3,
       "valor": 261000
+    },
+    "observaciones": ""
+  },
+  {
+    "consecutivo": 3121,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1015412106",
+    "nombre_tercero": "Carlos José Peñalosa Ospina",
+    "fecha_elaboracion": "2026-11-16",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "340g",
+        "cantidad": 340,
+        "valor_unitario": 148.45938375350138,
+        "iva": 2523.809523809524,
+        "iva_pct": 5,
+        "total": 53000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 2523.809523809524,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 67000
     },
     "observaciones": ""
   }
