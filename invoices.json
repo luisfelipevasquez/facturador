@@ -32957,8 +32957,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "RLAA",
@@ -32968,8 +32967,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "RLAA",
@@ -32979,8 +32977,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "RLAS",
@@ -32990,8 +32987,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "RLAS",
@@ -33001,8 +32997,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "RLAC",
@@ -33012,8 +33007,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "RLAC",
@@ -33023,8 +33017,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "RLAC",
@@ -33034,8 +33027,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "RLAS",
@@ -33045,8 +33037,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "RLAA",
@@ -33056,8 +33047,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "RLAS",
@@ -33067,8 +33057,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "RLAC",
@@ -33078,8 +33067,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "RLAS",
@@ -33089,8 +33077,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "RLAS",
@@ -33100,8 +33087,7 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000,
-        "molienda": "molido medio"
+        "total": 17000
       },
       {
         "sku": "CGA",
@@ -33111,8 +33097,7 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000,
-        "molienda": "molido medio"
+        "total": 23000
       },
       {
         "sku": "DOM",
@@ -33150,8 +33135,7 @@
         "valor_unitario": 148.45938375350138,
         "iva": 2523.809523809524,
         "iva_pct": 5,
-        "total": 53000,
-        "molienda": "molido grueso"
+        "total": 53000
       },
       {
         "sku": "DOM",
@@ -33170,5 +33154,31 @@
       "valor": 67000
     },
     "observaciones": "Enviar a calle 7 # 39-197 edificio intermedica, consultorio 917 antes de las 4:30 pm"
+  },
+  {
+    "consecutivo": 3122,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "8028804",
+    "nombre_tercero": "Luis Felipe Vasquez Jimenez",
+    "fecha_elaboracion": "2026-11-16",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "JNA",
+        "producto": "Java Natural",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 264.76190476190476,
+        "iva": 6619.047619047618,
+        "iva_pct": 5,
+        "total": 139000
+      }
+    ],
+    "iva_total": 6619.047619047618,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 139000
+    },
+    "observaciones": ""
   }
 ]
