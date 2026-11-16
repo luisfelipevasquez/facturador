@@ -15860,31 +15860,6 @@
     ]
   },
   {
-    "consecutivo": 3117,
-    "fecha": "2026-11-14",
-    "tercero": "Luz Marina Jiménez",
-    "identificacion": "32505957",
-    "productos": "JNA 500g x500, CGA 500g x500",
-    "domicilio": "",
-    "total": 228000,
-    "forma_pago": "T. Débito",
-    "status": "Completado",
-    "client_type": "Antiguo",
-    "recoge": "No",
-    "items_molienda": [
-      {
-        "sku": "JNA",
-        "presentacion": "500g",
-        "molienda": "molido medio"
-      },
-      {
-        "sku": "CGA",
-        "presentacion": "500g",
-        "molienda": "molido grueso"
-      }
-    ]
-  },
-  {
     "consecutivo": 3118,
     "fecha": "2026-11-15",
     "tercero": "Cesar Mauricio Núñez Quintero",
@@ -16076,6 +16051,26 @@
         "sku": "BNA120",
         "presentacion": "340g",
         "molienda": "molido grueso"
+      }
+    ]
+  },
+  {
+    "consecutivo": 3122,
+    "fecha": "2026-11-16",
+    "tercero": "Luis Felipe Vasquez Jimenez",
+    "identificacion": "8028804",
+    "productos": "JNA 500g x500",
+    "domicilio": "",
+    "total": 139000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "JNA",
+        "presentacion": "500g",
+        "molienda": "molido medio"
       }
     ]
   }
