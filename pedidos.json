@@ -15968,5 +15968,95 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 3120,
+    "fecha": "2026-11-16",
+    "tercero": "Ana Cristina Jaramillo",
+    "identificacion": "1020420550",
+    "productos": "RLAA 100g x100, RLAA 100g x100, RLAA 100g x100, RLAS 100g x100, RLAS 100g x100, RLAC 100g x100, RLAC 100g x100, RLAC 100g x100, RLAS 100g x100, RLAA 100g x100, RLAS 100g x100, RLAC 100g x100, RLAS 100g x100, RLAS 100g x100, CGA 100g x100",
+    "domicilio": "",
+    "total": 261000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "RLAA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "RLAA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "RLAS",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "RLAS",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "RLAC",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "RLAC",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "RLAC",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "RLAS",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "RLAA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "RLAS",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "RLAC",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "RLAS",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "RLAS",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      }
+    ]
   }
 ]
