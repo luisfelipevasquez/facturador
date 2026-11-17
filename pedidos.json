@@ -16208,5 +16208,25 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 3125,
+    "fecha": "2026-11-17",
+    "tercero": "Ricardo León Lopera Echeverri",
+    "identificacion": "98561035",
+    "productos": "BHO120 500g x500",
+    "domicilio": "Local Mensajero",
+    "total": 86000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BHO120",
+        "presentacion": "500g",
+        "molienda": "molido grueso"
+      }
+    ]
   }
 ]
