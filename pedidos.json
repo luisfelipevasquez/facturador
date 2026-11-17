@@ -16343,5 +16343,30 @@
         "molienda": "molido grueso"
       }
     ]
+  },
+  {
+    "consecutivo": 3129,
+    "fecha": "2026-11-17",
+    "tercero": "Jhon Jairo Cárdenas Moreno",
+    "identificacion": "74082941",
+    "productos": "PNA 250g x250, JNA 250g x250",
+    "domicilio": "Local Mensajero",
+    "total": 159008,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "PNA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "JNA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
