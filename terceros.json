@@ -2942,5 +2942,21 @@
     "Teléfono móvil de contacto": "3155013790",
     "Estado": "Activo",
     "siigoId": "94451a5a-634e-4317-99fa-161b5494e62c"
+  },
+  {
+    "Nombre tercero": "Daniela Herrera",
+    "Tipo de identificación": "13",
+    "Identificación": "1192746097",
+    "Dirección": "CLL 52 N48-43 MZ8 Zungo Embarcadero",
+    "Ciudad": "Carepa",
+    "Código departamento": "05",
+    "Código ciudad": "05147",
+    "Teléfono.": "3226688632",
+    "Correo electrónico": "daniela.herrera.1192@gmail.com",
+    "Nombres contacto": "Daniela",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3226688632",
+    "Estado": "Activo",
+    "siigoId": "e942258a-efd1-47cf-8d94-67a4ba8fe941"
   }
 ]
