@@ -33633,7 +33633,8 @@
         "valor_unitario": 161.9047619047619,
         "iva": 809.5238095238095,
         "iva_pct": 5,
-        "total": 17000
+        "total": 17000,
+        "molienda": "grano"
       },
       {
         "sku": "BHO120",
@@ -33643,7 +33644,8 @@
         "valor_unitario": 190.47619047619048,
         "iva": 952.3809523809525,
         "iva_pct": 5,
-        "total": 20000.000000000004
+        "total": 20000.000000000004,
+        "molienda": "grano"
       },
       {
         "sku": "BBO",
@@ -33653,7 +33655,8 @@
         "valor_unitario": 247.61904761904762,
         "iva": 1238.0952380952383,
         "iva_pct": 5,
-        "total": 26000
+        "total": 26000,
+        "molienda": "grano"
       },
       {
         "sku": "BRO",
@@ -33663,7 +33666,8 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999
+        "total": 37999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "CMA",
@@ -33673,7 +33677,8 @@
         "valor_unitario": 219.04761904761904,
         "iva": 1095.2380952380952,
         "iva_pct": 5,
-        "total": 23000
+        "total": 23000,
+        "molienda": "grano"
       },
       {
         "sku": "GELA",
@@ -33683,7 +33688,8 @@
         "valor_unitario": 361.90476190476187,
         "iva": 1809.5238095238092,
         "iva_pct": 5,
-        "total": 37999.99999999999
+        "total": 37999.99999999999,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -33703,7 +33709,8 @@
         "valor_unitario": 131.65266106442579,
         "iva": 2238.0952380952385,
         "iva_pct": 5,
-        "total": 47000.00000000001
+        "total": 47000.00000000001,
+        "molienda": "molido grueso"
       }
     ],
     "iva_total": 9952.380952380952,
@@ -33711,6 +33718,6 @@
       "codigo": 3,
       "valor": 227000
     },
-    "observaciones": "En cajita negra con Tarjeta de regalo marcada Para: Giovanni Linares\nDe: Yinna V \nFeliz cumpleaños !!\nY los stickers en la bolsa de 340g"
+    "observaciones": "Enviar a interrapidisimo del El Bagre, Antioquia. En cajita negra con Tarjeta de regalo marcada Para: Giovanni LinaresDe: Yinna V Feliz cumpleaños !!Y los stickers en la bolsa de 340g"
   }
 ]
