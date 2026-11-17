@@ -16253,5 +16253,45 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 3127,
+    "fecha": "2026-11-17",
+    "tercero": "Daniela Herrera",
+    "identificacion": "1192746097",
+    "productos": "RLAS 100g x100, BBO 100g x100, BHO72 100g x100, GELA 100g x100, BRO 100g x100",
+    "domicilio": "Nacional Transportadora",
+    "total": 157000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAS",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BBO",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO72",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "GELA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BRO",
+        "presentacion": "100g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
