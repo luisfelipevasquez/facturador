@@ -33840,5 +33840,41 @@
       "valor": 202000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 3131,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1152703590",
+    "nombre_tercero": "Arley Esteban Restrepo López",
+    "fecha_elaboracion": "2026-11-18",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "SURU",
+        "producto": "Sudan Rumé Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 3619.0476190476193,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 90000
+    },
+    "observaciones": ""
   }
 ]
