@@ -16408,5 +16408,18 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 3131,
+    "fecha": "2026-11-18",
+    "tercero": "Arley Esteban Restrepo López",
+    "identificacion": "1152703590",
+    "productos": "SURU 250g x250",
+    "domicilio": "Local Mensajero",
+    "total": 90000,
+    "forma_pago": "T. Débito",
+    "status": "Completado",
+    "client_type": "Antiguo",
+    "recoge": "No"
   }
 ]
