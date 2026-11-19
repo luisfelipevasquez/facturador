@@ -1007,5 +1007,71 @@
       "error": "celular no válido: 57 320718633"
     },
     "actualizado": "2026-11-12T20:06:31.923Z"
+  },
+  {
+    "id": "SOL-1795104614075-dpdst",
+    "estado": "pendiente",
+    "creado": "2026-11-19T16:10:14.076Z",
+    "cliente": {
+      "nombre": "Ana Maria Sierra Uribe",
+      "tipo_documento": "13",
+      "documento": "43982929",
+      "email": "Anamasierra84@gmail.com",
+      "celular": "3108233265",
+      "ciudad": "Medellín",
+      "direccion": "Carrera 76A #53-215 apto 1312 urb plaza de colores",
+      "observaciones": ""
+    },
+    "productos": [
+      {
+        "sku": "SURU",
+        "nombre": "Sudán Rumé",
+        "presentacion": "100g",
+        "molienda": "grano",
+        "cantidad": 1,
+        "precio": 38000
+      },
+      {
+        "sku": "CMA",
+        "nombre": "Maracuyá",
+        "presentacion": "100g",
+        "molienda": "grano",
+        "cantidad": 1,
+        "precio": 23000
+      },
+      {
+        "sku": "CGA",
+        "nombre": "Galleta Mantequilla",
+        "presentacion": "100g",
+        "molienda": "grano",
+        "cantidad": 1,
+        "precio": 23000
+      },
+      {
+        "sku": "DOM",
+        "nombre": "Domicilio",
+        "presentacion": "Envío Área Metropolitana",
+        "molienda": "",
+        "cantidad": 1,
+        "precio": 14000
+      }
+    ],
+    "total_estimado": 98000,
+    "siigo_customer_found": false,
+    "siigo_customer_id": "",
+    "envio": {
+      "registered_address": "Carrera 76A #53-215 apto 1312 urb plaza de colores",
+      "shipping_address_same_as_registered": true,
+      "shipping_address": "Carrera 76A #53-215 apto 1312 urb plaza de colores",
+      "customer_overrode_address": false,
+      "shipping_method": "Envío Área Metropolitana",
+      "shipping_base_cost": 14000,
+      "shipping_cost": 14000,
+      "free_shipping": false,
+      "shipping_departamento": "Antioquia",
+      "shipping_ciudad": "Medellín",
+      "cod_dpto_envio": "05",
+      "cod_ciudad_envio": "05001"
+    }
   }
 ]
