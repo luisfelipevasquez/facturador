@@ -33949,7 +33949,8 @@
         "valor_unitario": 144.76190476190476,
         "iva": 1809.5238095238096,
         "iva_pct": 5,
-        "total": 38000
+        "total": 38000,
+        "molienda": "molido medio"
       },
       {
         "sku": "BHO",
@@ -33959,7 +33960,8 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000
+        "total": 42000,
+        "molienda": "molido medio"
       },
       {
         "sku": "DOM",
@@ -33977,6 +33979,6 @@
       "codigo": 3,
       "valor": 94000
     },
-    "observaciones": ""
+    "observaciones": "OJO: molidos medio-fino para moka"
   }
 ]
