@@ -16456,5 +16456,30 @@
         "molienda": "molido medio"
       }
     ]
+  },
+  {
+    "consecutivo": 3133,
+    "fecha": "2026-11-19",
+    "tercero": "Natalia Henao Arismendy",
+    "identificacion": "32295482",
+    "productos": "RLAS 250g x250, BHO 250g x250",
+    "domicilio": "Local Mensajero",
+    "total": 94000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Nuevo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "RLAS",
+        "presentacion": "250g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "BHO",
+        "presentacion": "250g",
+        "molienda": "molido medio"
+      }
+    ]
   }
 ]
