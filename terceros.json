@@ -2974,5 +2974,21 @@
     "Teléfono móvil de contacto": "3108233265",
     "Estado": "Activo",
     "siigoId": "bf4e199f-0475-4d76-bb12-e8c64747f41c"
+  },
+  {
+    "Nombre tercero": "John Byron Buitrago",
+    "Tipo de identificación": "13",
+    "Identificación": "71388436",
+    "Dirección": "Calle 54 # 85-40 Apto 1409 Ed. Sendero de la 80",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3155027869",
+    "Correo electrónico": "byronbp@gmail.com",
+    "Nombres contacto": "John",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3155027869",
+    "Estado": "Activo",
+    "siigoId": "f86dcb9e-17a4-48af-8462-33ba9759d8e7"
   }
 ]
