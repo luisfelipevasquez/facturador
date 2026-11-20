@@ -2990,5 +2990,21 @@
     "Teléfono móvil de contacto": "3155027869",
     "Estado": "Activo",
     "siigoId": "f86dcb9e-17a4-48af-8462-33ba9759d8e7"
+  },
+  {
+    "Nombre tercero": "Nohemy Silva Garces",
+    "Tipo de identificación": "13",
+    "Identificación": "30301227",
+    "Dirección": "Cra 30 # 27-16 piso 3 de compraventa de café",
+    "Ciudad": "Cañasgordas",
+    "Código departamento": "05",
+    "Código ciudad": "05138",
+    "Teléfono.": "3117645003",
+    "Correo electrónico": "memy0205@hotmail.com",
+    "Nombres contacto": "Nohemy",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3117645003",
+    "Estado": "Activo",
+    "siigoId": "82eb00de-f79d-4412-89a4-8db04650fc20"
   }
 ]
