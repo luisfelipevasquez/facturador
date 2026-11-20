@@ -2958,5 +2958,21 @@
     "Teléfono móvil de contacto": "3226688632",
     "Estado": "Activo",
     "siigoId": "e942258a-efd1-47cf-8d94-67a4ba8fe941"
+  },
+  {
+    "Nombre tercero": "Ana María Sierra Uribe",
+    "Tipo de identificación": "13",
+    "Identificación": "43982929",
+    "Dirección": "Cra 76a # 53-215 Apto 1312 Plaza de colores",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3108233265",
+    "Correo electrónico": "Anamasierra84@gmail.com",
+    "Nombres contacto": "Ana María",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3108233265",
+    "Estado": "Activo",
+    "siigoId": "bf4e199f-0475-4d76-bb12-e8c64747f41c"
   }
 ]
