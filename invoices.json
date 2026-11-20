@@ -34046,8 +34046,7 @@
         "valor_unitario": 264.76190476190476,
         "iva": 6619.047619047618,
         "iva_pct": 5,
-        "total": 139000,
-        "molienda": "grano"
+        "total": 139000
       },
       {
         "sku": "BSIN",
@@ -34057,8 +34056,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       },
       {
         "sku": "DOM",
@@ -34096,8 +34094,7 @@
         "valor_unitario": 160,
         "iva": 2000,
         "iva_pct": 5,
-        "total": 42000,
-        "molienda": "grano"
+        "total": 42000
       },
       {
         "sku": "CMA",
@@ -34107,8 +34104,7 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999,
-        "molienda": "grano"
+        "total": 51999.99999999999
       },
       {
         "sku": "DOM",
@@ -34125,6 +34121,62 @@
     "forma_pago": {
       "codigo": 3,
       "valor": 108000
+    },
+    "observaciones": ""
+  },
+  {
+    "consecutivo": 3137,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "43982929",
+    "nombre_tercero": "Ana María Sierra Uribe",
+    "fecha_elaboracion": "2026-11-20",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "SURU",
+        "producto": "Sudan Rumé Natural",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 361.90476190476187,
+        "iva": 1809.5238095238092,
+        "iva_pct": 5,
+        "total": 37999.99999999999
+      },
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 1095.2380952380952,
+        "iva_pct": 5,
+        "total": 23000
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "100g",
+        "cantidad": 100,
+        "valor_unitario": 219.04761904761904,
+        "iva": 1095.2380952380952,
+        "iva_pct": 5,
+        "total": 23000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 4000,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 98000
     },
     "observaciones": ""
   }
