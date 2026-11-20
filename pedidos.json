@@ -16606,5 +16606,110 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 3139,
+    "fecha": "2026-11-20",
+    "tercero": "Yefisa Catalina Marín Parra",
+    "identificacion": "43468274",
+    "productos": "BNA 100g x100, BHO72 100g x100, RLAS 100g x100, PANA 100g x100, BRO 100g x100, GELA 100g x100, CGA 100g x100, CMA 100g x100, CHLA 100g x100, BNA 100g x100, BHO72 100g x100, RLAS 100g x100, PANA 100g x100, BRO 100g x100, GELA 100g x100, CGA 100g x100, CMA 100g x100, CHLA 100g x100",
+    "domicilio": "",
+    "total": 396262,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BNA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "BHO72",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "RLAS",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "PANA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "BRO",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "GELA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "CHLA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "BNA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "BHO72",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "RLAS",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "PANA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "BRO",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "GELA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "CMA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "CHLA",
+        "presentacion": "100g",
+        "molienda": "molido medio"
+      }
+    ]
   }
 ]
