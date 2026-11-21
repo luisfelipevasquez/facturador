@@ -875,8 +875,11 @@
     "nombre": "Alejandra Arboleda",
     "identificacion": "1017237696",
     "total": 397000,
-    "estado": "enviando",
-    "reservado_at": "2026-11-21T04:15:28.823Z"
+    "estado": "enviada",
+    "enviado_at": "2026-11-21T04:15:51.450Z",
+    "siigo_id": "c93d635b-b3c0-450e-b29c-977757bb556b",
+    "siigo_numero": "FV-2-3143",
+    "cufe": ""
   },
   {
     "plataforma": "shopify",
@@ -887,8 +890,11 @@
     "nombre": "Milena Delgado",
     "identificacion": "1116270334",
     "total": 70000,
-    "estado": "enviando",
-    "reservado_at": "2026-11-21T04:15:28.823Z"
+    "estado": "enviada",
+    "enviado_at": "2026-11-21T04:15:51.450Z",
+    "siigo_id": "6dc4a026-eb8a-4189-bf8a-fe359775ba49",
+    "siigo_numero": "FV-2-3144",
+    "cufe": ""
   },
   {
     "plataforma": "shopify",
@@ -899,8 +905,11 @@
     "nombre": "Miguel Hincapie",
     "identificacion": "1033176166",
     "total": 52000,
-    "estado": "enviando",
-    "reservado_at": "2026-11-21T04:15:28.823Z"
+    "estado": "enviada",
+    "enviado_at": "2026-11-21T04:15:51.450Z",
+    "siigo_id": "b2240ac7-4adc-4ffa-80b6-1e704d5fbf0e",
+    "siigo_numero": "FV-2-3145",
+    "cufe": ""
   },
   {
     "plataforma": "shopify",
@@ -911,8 +920,11 @@
     "nombre": "Albert Beltran Ordoñez",
     "identificacion": "1107052777",
     "total": 212000,
-    "estado": "enviando",
-    "reservado_at": "2026-11-21T04:15:28.823Z"
+    "estado": "enviada",
+    "enviado_at": "2026-11-21T04:15:51.450Z",
+    "siigo_id": "95b15f4b-86dd-4602-b829-3509a46b07a3",
+    "siigo_numero": "FV-2-3146",
+    "cufe": ""
   },
   {
     "plataforma": "shopify",
@@ -923,8 +935,11 @@
     "nombre": "Santiago Roquemen",
     "identificacion": "1040738109",
     "total": 143600,
-    "estado": "enviando",
-    "reservado_at": "2026-11-21T04:15:28.823Z"
+    "estado": "enviada",
+    "enviado_at": "2026-11-21T04:15:51.450Z",
+    "siigo_id": "3129e8c4-dc66-40c2-9ed9-bded0253ac08",
+    "siigo_numero": "FV-2-3147",
+    "cufe": ""
   },
   {
     "plataforma": "shopify",
@@ -935,8 +950,11 @@
     "nombre": "Jorge Perez Cassiani",
     "identificacion": "1143390389",
     "total": 164000,
-    "estado": "enviando",
-    "reservado_at": "2026-11-21T04:15:28.823Z"
+    "estado": "enviada",
+    "enviado_at": "2026-11-21T04:15:51.450Z",
+    "siigo_id": "13dfddc6-57e4-43df-be16-7bcd66f2c2c7",
+    "siigo_numero": "FV-2-3148",
+    "cufe": ""
   },
   {
     "plataforma": "shopify",
@@ -947,8 +965,11 @@
     "nombre": "Daniel Muñoz",
     "identificacion": "1128420145",
     "total": 228000,
-    "estado": "enviando",
-    "reservado_at": "2026-11-21T04:15:28.823Z"
+    "estado": "enviada",
+    "enviado_at": "2026-11-21T04:15:51.450Z",
+    "siigo_id": "a101410d-4875-45af-bbd2-a3d5c7fda9fc",
+    "siigo_numero": "FV-2-3149",
+    "cufe": ""
   },
   {
     "plataforma": "shopify",
@@ -959,8 +980,11 @@
     "nombre": "Héctor Eduardo Munévar Fernández",
     "identificacion": "1032358860",
     "total": 257000,
-    "estado": "enviando",
-    "reservado_at": "2026-11-21T04:15:28.823Z"
+    "estado": "enviada",
+    "enviado_at": "2026-11-21T04:15:51.450Z",
+    "siigo_id": "f1cf95a2-b6b2-4a03-9133-5a0c932ca14c",
+    "siigo_numero": "FV-2-3150",
+    "cufe": ""
   },
   {
     "plataforma": "shopify",
@@ -971,8 +995,11 @@
     "nombre": "Laura Penagos",
     "identificacion": "1013577312",
     "total": 430000,
-    "estado": "enviando",
-    "reservado_at": "2026-11-21T04:15:28.823Z"
+    "estado": "enviada",
+    "enviado_at": "2026-11-21T04:15:51.450Z",
+    "siigo_id": "0e73d3f4-c345-4153-82eb-bd43d368e2a1",
+    "siigo_numero": "FV-2-3151",
+    "cufe": ""
   },
   {
     "plataforma": "shopify",
@@ -983,8 +1010,11 @@
     "nombre": "Gabriel Salamanca",
     "identificacion": "1140869461",
     "total": 278000,
-    "estado": "enviando",
-    "reservado_at": "2026-11-21T04:15:28.823Z"
+    "estado": "enviada",
+    "enviado_at": "2026-11-21T04:15:51.450Z",
+    "siigo_id": "05240658-5f22-46f1-b6e5-f2362506042f",
+    "siigo_numero": "FV-2-3152",
+    "cufe": ""
   },
   {
     "plataforma": "shopify",
@@ -995,8 +1025,11 @@
     "nombre": "Jairo Corzo",
     "identificacion": "1000288500",
     "total": 193000,
-    "estado": "enviando",
-    "reservado_at": "2026-11-21T04:15:28.823Z"
+    "estado": "enviada",
+    "enviado_at": "2026-11-21T04:15:51.450Z",
+    "siigo_id": "1623ddfe-4c48-4d18-ac21-5bad912df85c",
+    "siigo_numero": "FV-2-3153",
+    "cufe": ""
   },
   {
     "plataforma": "shopify",
@@ -1007,8 +1040,11 @@
     "nombre": "Manuel Nino",
     "identificacion": "1098660629",
     "total": 214000,
-    "estado": "enviando",
-    "reservado_at": "2026-11-21T04:15:28.823Z"
+    "estado": "enviada",
+    "enviado_at": "2026-11-21T04:15:51.450Z",
+    "siigo_id": "678e2f4a-bded-4fd7-aad6-3b01bc274cd2",
+    "siigo_numero": "FV-2-3154",
+    "cufe": ""
   },
   {
     "plataforma": "shopify",
@@ -1019,8 +1055,11 @@
     "nombre": "Carlos Andres Lopez Ramirez",
     "identificacion": "14802380",
     "total": 80000,
-    "estado": "enviando",
-    "reservado_at": "2026-11-21T04:15:28.823Z"
+    "estado": "enviada",
+    "enviado_at": "2026-11-21T04:15:51.450Z",
+    "siigo_id": "7ff2db22-9dc8-4be1-91b3-9c5924c43e58",
+    "siigo_numero": "FV-2-3155",
+    "cufe": ""
   },
   {
     "plataforma": "shopify",
@@ -1031,8 +1070,11 @@
     "nombre": "David Hincapie",
     "identificacion": "1152196710",
     "total": 182000,
-    "estado": "enviando",
-    "reservado_at": "2026-11-21T04:15:28.823Z"
+    "estado": "enviada",
+    "enviado_at": "2026-11-21T04:15:51.450Z",
+    "siigo_id": "04113e5c-343e-41dc-8d40-09888d8becb3",
+    "siigo_numero": "FV-2-3156",
+    "cufe": ""
   },
   {
     "plataforma": "shopify",
@@ -1043,8 +1085,11 @@
     "nombre": "ANDRES VILLALBA",
     "identificacion": "1056771241",
     "total": 196000,
-    "estado": "enviando",
-    "reservado_at": "2026-11-21T04:15:28.823Z"
+    "estado": "enviada",
+    "enviado_at": "2026-11-21T04:15:51.450Z",
+    "siigo_id": "0d89270c-86e4-40f6-bdd6-fd82eb3fcb5e",
+    "siigo_numero": "FV-2-3157",
+    "cufe": ""
   },
   {
     "plataforma": "shopify",
@@ -1055,8 +1100,11 @@
     "nombre": "Jhanet Avila",
     "identificacion": "43144875",
     "total": 139000,
-    "estado": "enviando",
-    "reservado_at": "2026-11-21T04:15:28.823Z"
+    "estado": "enviada",
+    "enviado_at": "2026-11-21T04:15:51.450Z",
+    "siigo_id": "a91c6aa6-4cf0-40c2-9d62-0aa169f584b3",
+    "siigo_numero": "FV-2-3158",
+    "cufe": ""
   },
   {
     "plataforma": "shopify",
@@ -1067,8 +1115,11 @@
     "nombre": "Rosa Elvira Quiroga",
     "identificacion": "41378138",
     "total": 210000,
-    "estado": "enviando",
-    "reservado_at": "2026-11-21T04:15:28.823Z"
+    "estado": "enviada",
+    "enviado_at": "2026-11-21T04:15:51.450Z",
+    "siigo_id": "60f6199b-ce5c-4dde-9e37-3134c5f287ae",
+    "siigo_numero": "FV-2-3159",
+    "cufe": ""
   },
   {
     "plataforma": "shopify",
@@ -1079,8 +1130,11 @@
     "nombre": "Fernando Diaz Acero",
     "identificacion": "80410833",
     "total": 260000,
-    "estado": "enviando",
-    "reservado_at": "2026-11-21T04:15:28.823Z"
+    "estado": "enviada",
+    "enviado_at": "2026-11-21T04:15:51.450Z",
+    "siigo_id": "6e1bc0e6-7d80-4a0d-9668-64f518539608",
+    "siigo_numero": "FV-2-3160",
+    "cufe": ""
   },
   {
     "plataforma": "shopify",
@@ -1091,8 +1145,11 @@
     "nombre": "EDUARDO PATIÑO VELASQUEZ",
     "identificacion": "98669994",
     "total": 75000,
-    "estado": "enviando",
-    "reservado_at": "2026-11-21T04:15:28.823Z"
+    "estado": "enviada",
+    "enviado_at": "2026-11-21T04:15:51.450Z",
+    "siigo_id": "a176fbcf-f144-4407-96bd-14137fdea66b",
+    "siigo_numero": "FV-2-3161",
+    "cufe": ""
   },
   {
     "plataforma": "shopify",
@@ -1103,7 +1160,10 @@
     "nombre": "Julián Cardona Roldán",
     "identificacion": "1037646726",
     "total": 157000,
-    "estado": "enviando",
-    "reservado_at": "2026-11-21T04:15:28.823Z"
+    "estado": "enviada",
+    "enviado_at": "2026-11-21T04:15:51.450Z",
+    "siigo_id": "8fa61d7f-1dad-4265-a6b2-e545d4807f68",
+    "siigo_numero": "FV-2-3162",
+    "cufe": ""
   }
 ]
