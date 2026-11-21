@@ -31177,7 +31177,12 @@
       "codigo": 3,
       "valor": 111000.00000000001
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "b43c0d87-edea-4e29-8995-d8486855fea6",
+    "siigoNumber": "FV-2-3094",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:04:12.690Z"
   },
   {
     "consecutivo": 3092,
@@ -31245,7 +31250,12 @@
       "codigo": 3,
       "valor": 209000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "1fe8661b-a3fe-43f3-8428-5596235cc3c0",
+    "siigoNumber": "FV-2-3095",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:04:14.227Z"
   },
   {
     "consecutivo": 3093,
@@ -31315,7 +31325,12 @@
       "codigo": 3,
       "valor": 232500
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "c57c5827-803c-4df2-8400-52f856749448",
+    "siigoNumber": "FV-2-3096",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:04:15.352Z"
   },
   {
     "consecutivo": 3094,
@@ -31351,7 +31366,12 @@
       "codigo": 3,
       "valor": 86000
     },
-    "observaciones": "Lleva tarjeta de regalo. Enviar a Camilo Cespedes Calle 98A #49E-37 CR las Bahamas apto 2202 Ciudad: Barranquilla Celular: +57 300 8270097"
+    "observaciones": "Lleva tarjeta de regalo. Enviar a Camilo Cespedes Calle 98A #49E-37 CR las Bahamas apto 2202 Ciudad: Barranquilla Celular: +57 300 8270097",
+    "siigoId": "ae5cecd5-2521-42a8-ad8a-8e3c3a6c3b5f",
+    "siigoNumber": "FV-2-3097",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:04:16.375Z"
   },
   {
     "consecutivo": 3095,
@@ -31399,7 +31419,12 @@
       "codigo": 3,
       "valor": 228000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "915a530a-d3da-415a-a7be-35e67c836286",
+    "siigoNumber": "FV-2-3098",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:04:17.195Z"
   },
   {
     "consecutivo": 3096,
@@ -31643,7 +31668,12 @@
       "codigo": 3,
       "valor": 421600
     },
-    "observaciones": "Enviar dos cajas grandes blancas desarmadas"
+    "observaciones": "Enviar dos cajas grandes blancas desarmadas",
+    "siigoId": "dbcb614c-3b75-4c21-9697-622d360dba79",
+    "siigoNumber": "FV-2-3099",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:04:18.837Z"
   },
   {
     "consecutivo": 3097,
@@ -31709,7 +31739,12 @@
       "codigo": 3,
       "valor": 149999.99999999997
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "711e890b-c85a-4833-8816-f5c43a6cd977",
+    "siigoNumber": "FV-2-3100",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:04:20.266Z"
   },
   {
     "consecutivo": 3098,
@@ -31779,7 +31814,12 @@
       "codigo": 3,
       "valor": 312000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "30b8a2e8-9f60-4130-9385-65fe47aad3dd",
+    "siigoNumber": "FV-2-3101",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:04:21.496Z"
   },
   {
     "consecutivo": 3099,
@@ -31815,7 +31855,12 @@
       "codigo": 3,
       "valor": 90000
     },
-    "observaciones": "Redime fidelización 250 CMA"
+    "observaciones": "Redime fidelización 250 CMA",
+    "siigoId": "75caceeb-cfc1-4d6c-a7e0-6182afd92e3a",
+    "siigoNumber": "FV-2-3102",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:04:22.318Z"
   },
   {
     "consecutivo": 3100,
@@ -31853,7 +31898,12 @@
       "codigo": 3,
       "valor": 210000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "2e0163f4-91a5-4d7a-b074-e4eba9d1e7e3",
+    "siigoNumber": "FV-2-3103",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:04:23.135Z"
   },
   {
     "consecutivo": 3101,
@@ -31899,7 +31949,12 @@
       "codigo": 3,
       "valor": 125000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "d01fd3ad-7656-4e4e-9e63-5b22bd4db55d",
+    "siigoNumber": "FV-2-3104",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:04:23.953Z"
   },
   {
     "consecutivo": 3102,
@@ -31935,7 +31990,12 @@
       "codigo": 3,
       "valor": 86000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "fdbee86d-34e1-4d74-9fa0-78d378353998",
+    "siigoNumber": "FV-2-3105",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:04:24.671Z"
   },
   {
     "consecutivo": 3103,
@@ -31983,7 +32043,12 @@
       "codigo": 3,
       "valor": 115000.00000000001
     },
-    "observaciones": "Redime el galleta y se encía nueva tarjeta con 1 sticker"
+    "observaciones": "Redime el galleta y se encía nueva tarjeta con 1 sticker",
+    "siigoId": "e6c404bf-49dd-4647-ad73-55bbc4243341",
+    "siigoNumber": "FV-2-3106",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:04:25.490Z"
   },
   {
     "consecutivo": 3104,
@@ -32031,7 +32096,12 @@
       "codigo": 3,
       "valor": 194000.00000000003
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "ec5f382e-cb0e-43a1-86d6-46431e575bf3",
+    "siigoNumber": "FV-2-3107",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:04:26.514Z"
   },
   {
     "consecutivo": 3105,
@@ -32077,7 +32147,12 @@
       "codigo": 3,
       "valor": 130000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "2a4af7e9-631d-422a-93d5-7537c327fd1a",
+    "siigoNumber": "FV-2-3108",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:04:27.231Z"
   },
   {
     "consecutivo": 3106,
@@ -32141,7 +32216,12 @@
       "codigo": 3,
       "valor": 199500
     },
-    "observaciones": "En caja grande blanca con tarjeta de regalo sin marcar y tarjeta de fidelización como nuevo. Lleva termo prensa"
+    "observaciones": "En caja grande blanca con tarjeta de regalo sin marcar y tarjeta de fidelización como nuevo. Lleva termo prensa",
+    "siigoId": "dc63e31c-7ae5-4128-abe1-8d60bb918542",
+    "siigoNumber": "FV-2-3109",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:04:28.155Z"
   },
   {
     "consecutivo": 3107,
@@ -32217,7 +32297,12 @@
       "codigo": 3,
       "valor": 203999.99999999997
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "b814cee8-d024-4297-a1dc-15850871c735",
+    "siigoNumber": "FV-2-3110",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:04:29.383Z"
   },
   {
     "consecutivo": 3108,
@@ -32287,7 +32372,12 @@
       "codigo": 3,
       "valor": 417000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "28eb28b0-495e-445e-8bc4-d548398e8737",
+    "siigoNumber": "FV-2-3111",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:04:30.420Z"
   },
   {
     "consecutivo": 3109,
@@ -32335,7 +32425,12 @@
       "codigo": 3,
       "valor": 197000
     },
-    "observaciones": "Enviar el martes"
+    "observaciones": "Enviar el martes",
+    "siigoId": "2a6d9b29-e056-4faf-adef-babc8e5e41d8",
+    "siigoNumber": "FV-2-3112",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:04:31.225Z"
   },
   {
     "consecutivo": 3110,
@@ -32433,7 +32528,12 @@
       "codigo": 3,
       "valor": 195999.99999999997
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "c35414c3-42c7-488c-a4dd-e9c61d1baf35",
+    "siigoNumber": "FV-2-3113",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:04:32.452Z"
   },
   {
     "consecutivo": 3111,
@@ -34532,7 +34632,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "grano"
       }
     ],
     "iva_total": 3619.0476190476193,
