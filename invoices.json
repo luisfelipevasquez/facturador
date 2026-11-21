@@ -32694,7 +32694,12 @@
       "codigo": 3,
       "valor": 128000
     },
-    "observaciones": "1 sticker en suroeste y los otros dos en galleta. Todos en 1 bolsa"
+    "observaciones": "1 sticker en suroeste y los otros dos en galleta. Todos en 1 bolsa",
+    "siigoId": "86dc0814-cff3-4981-95c9-540a610c68fb",
+    "siigoNumber": "FV-2-3114",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:06:17.904Z"
   },
   {
     "consecutivo": 3113,
@@ -32740,7 +32745,12 @@
       "codigo": 3,
       "valor": 132000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "f2529b05-4fb5-4a52-a1fb-1a21838ec779",
+    "siigoNumber": "FV-2-3115",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:06:18.825Z"
   },
   {
     "consecutivo": 3114,
@@ -32776,7 +32786,12 @@
       "codigo": 3,
       "valor": 72000
     },
-    "observaciones": "Enviar el martes"
+    "observaciones": "Enviar el martes",
+    "siigoId": "7e9783e4-470a-4f30-9895-b94dfa134ce1",
+    "siigoNumber": "FV-2-3116",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:06:19.648Z"
   },
   {
     "consecutivo": 3115,
@@ -32812,7 +32827,12 @@
       "codigo": 3,
       "valor": 72000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "69afd3f8-4780-48aa-8d38-6a04e4ecf338",
+    "siigoNumber": "FV-2-3117",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:06:20.668Z"
   },
   {
     "consecutivo": 3116,
@@ -32880,7 +32900,12 @@
       "codigo": 3,
       "valor": 258000
     },
-    "observaciones": "Para enviar el martes y OJO: pendiente definir molienda"
+    "observaciones": "Para enviar el martes y OJO: pendiente definir molienda",
+    "siigoId": "0367aebe-4041-4eab-9489-58ef483987c7",
+    "siigoNumber": "FV-2-3118",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:06:21.694Z"
   },
   {
     "consecutivo": 3118,
@@ -32988,7 +33013,12 @@
       "codigo": 3,
       "valor": 207999.99999999997
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "aa466b38-101b-47d0-b910-24606ddc2264",
+    "siigoNumber": "FV-2-3119",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:06:23.745Z"
   },
   {
     "consecutivo": 3119,
@@ -33044,7 +33074,12 @@
       "codigo": 3,
       "valor": 141999.99999999997
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "4f07d766-6b08-4d99-8b36-90f000496dac",
+    "siigoNumber": "FV-2-3120",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:06:25.278Z"
   },
   {
     "consecutivo": 3120,
@@ -33222,7 +33257,12 @@
       "codigo": 3,
       "valor": 261000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "1762d35c-5be4-4374-9e0f-f6d1b9e4260e",
+    "siigoNumber": "FV-2-3121",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:06:26.924Z"
   },
   {
     "consecutivo": 3121,
@@ -33258,7 +33298,12 @@
       "codigo": 3,
       "valor": 67000
     },
-    "observaciones": "Enviar a calle 7 # 39-197 edificio intermedica, consultorio 917 antes de las 4:30 pm"
+    "observaciones": "Enviar a calle 7 # 39-197 edificio intermedica, consultorio 917 antes de las 4:30 pm",
+    "siigoId": "a7d62004-3835-4b4f-aa8d-cfb27b59b18e",
+    "siigoNumber": "FV-2-3122",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:06:27.933Z"
   },
   {
     "consecutivo": 3122,
@@ -33284,7 +33329,12 @@
       "codigo": 3,
       "valor": 139000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "28f3f1d7-fd87-4f95-b2d8-ff872b4169ad",
+    "siigoNumber": "FV-2-3123",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:06:28.656Z"
   },
   {
     "consecutivo": 3123,
@@ -33462,7 +33512,12 @@
       "codigo": 3,
       "valor": 449000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "3d6b0367-a5ad-4286-9a40-29171410a3d1",
+    "siigoNumber": "FV-2-3124",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:06:30.807Z"
   },
   {
     "consecutivo": 3124,
@@ -33560,7 +33615,12 @@
       "codigo": 3,
       "valor": 132000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "97fcb88d-cdbd-4f29-b306-dd54f161e09d",
+    "siigoNumber": "FV-2-3125",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:06:32.347Z"
   },
   {
     "consecutivo": 3125,
@@ -33596,7 +33656,12 @@
       "codigo": 3,
       "valor": 86000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "5d95f32a-82b6-486f-a63f-87cf8d3cea1f",
+    "siigoNumber": "FV-2-3126",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:06:33.366Z"
   },
   {
     "consecutivo": 3126,
@@ -33644,7 +33709,12 @@
       "codigo": 3,
       "valor": 236000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "a5cc9185-824d-4102-af9b-d8d0936c595b",
+    "siigoNumber": "FV-2-3127",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:06:34.594Z"
   },
   {
     "consecutivo": 3127,
@@ -33720,7 +33790,12 @@
       "codigo": 3,
       "valor": 157000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "b7ae70ad-f047-4681-8fb5-578b865d1fb5",
+    "siigoNumber": "FV-2-3128",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:06:35.824Z"
   },
   {
     "consecutivo": 3128,
@@ -33816,7 +33891,12 @@
       "codigo": 3,
       "valor": 227000
     },
-    "observaciones": "Enviar a interrapidisimo del El Bagre, Antioquia. En cajita negra con Tarjeta de regalo marcada Para: Giovanni LinaresDe: Yinna V Feliz cumpleaños !!Y los stickers en la bolsa de 340g"
+    "observaciones": "Enviar a interrapidisimo del El Bagre, Antioquia. En cajita negra con Tarjeta de regalo marcada Para: Giovanni LinaresDe: Yinna V Feliz cumpleaños !!Y los stickers en la bolsa de 340g",
+    "siigoId": "14021cac-d539-4516-87d3-28afc79bf47f",
+    "siigoNumber": "FV-2-3129",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:06:37.259Z"
   },
   {
     "consecutivo": 3129,
@@ -33866,7 +33946,12 @@
       "codigo": 3,
       "valor": 159008
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "b6f53e6c-21ee-4d92-8166-a02b97e14cc5",
+    "siigoNumber": "FV-2-3130",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:06:38.487Z"
   },
   {
     "consecutivo": 3130,
@@ -33944,7 +34029,12 @@
       "codigo": 3,
       "valor": 202000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "f0d3b7db-8c14-488b-9bf7-e4d6153594f2",
+    "siigoNumber": "FV-2-3131",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:06:39.923Z"
   },
   {
     "consecutivo": 3131,
@@ -33980,7 +34070,12 @@
       "codigo": 3,
       "valor": 90000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "fc6f008e-47c2-49aa-8379-fef26f71968b",
+    "siigoNumber": "FV-2-3132",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:06:40.947Z"
   },
   {
     "consecutivo": 3132,
@@ -34036,7 +34131,12 @@
       "codigo": 3,
       "valor": 152000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "bcc78626-48c9-4922-b029-18e15e33007a",
+    "siigoNumber": "FV-2-3133",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:06:41.765Z"
   },
   {
     "consecutivo": 3133,
@@ -34082,7 +34182,12 @@
       "codigo": 3,
       "valor": 94000
     },
-    "observaciones": "OJO: molidos medio-fino para moka"
+    "observaciones": "OJO: molidos medio-fino para moka",
+    "siigoId": "748d6435-b721-4f8e-9351-e6a41d4b6fc3",
+    "siigoNumber": "FV-2-3134",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:06:42.480Z"
   },
   {
     "consecutivo": 3134,
@@ -34128,7 +34233,12 @@
       "codigo": 3,
       "valor": 148000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "9a9dfea3-f4ff-45bb-8941-151410d8a972",
+    "siigoNumber": "FV-2-3135",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:06:43.301Z"
   },
   {
     "consecutivo": 3135,
@@ -34176,7 +34286,12 @@
       "codigo": 3,
       "valor": 215000
     },
-    "observaciones": "Tarjeta stickers nueva. Enviar a Calle 14 # 35 - 16. Apto 504. Edificio el pórtico. Barrio los pinos. Bucaramanga"
+    "observaciones": "Tarjeta stickers nueva. Enviar a Calle 14 # 35 - 16. Apto 504. Edificio el pórtico. Barrio los pinos. Bucaramanga",
+    "siigoId": "46292d45-f79d-4225-8529-2abd173430e8",
+    "siigoNumber": "FV-2-3136",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:06:44.118Z"
   },
   {
     "consecutivo": 3136,
@@ -34222,7 +34337,12 @@
       "codigo": 3,
       "valor": 108000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "82d973e3-78ff-4bdd-9306-7f3d295c14b2",
+    "siigoNumber": "FV-2-3137",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:06:45.347Z"
   },
   {
     "consecutivo": 3137,
@@ -34278,7 +34398,12 @@
       "codigo": 3,
       "valor": 98000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "8c0ee7d4-e127-4ac0-bbc3-857cb40515be",
+    "siigoNumber": "FV-2-3138",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:06:46.474Z"
   },
   {
     "consecutivo": 3138,
@@ -34314,7 +34439,12 @@
       "codigo": 3,
       "valor": 90000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "4d6d4cfd-539c-4903-9d69-95420320b01f",
+    "siigoNumber": "FV-2-3139",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:06:47.172Z"
   },
   {
     "consecutivo": 3139,
@@ -34546,7 +34676,12 @@
       "codigo": 3,
       "valor": 396262
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "75208709-70c9-46b8-91ce-31f723c13a38",
+    "siigoNumber": "FV-2-3140",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:06:48.830Z"
   },
   {
     "consecutivo": 3140,
@@ -34614,7 +34749,12 @@
       "codigo": 3,
       "valor": 202999.99999999997
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "0b91ebcb-758b-4aa0-bc12-9604fc636d27",
+    "siigoNumber": "FV-2-3141",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:06:50.879Z"
   },
   {
     "consecutivo": 3141,
@@ -34641,6 +34781,11 @@
       "codigo": 3,
       "valor": 76000
     },
-    "observaciones": ""
+    "observaciones": "",
+    "siigoId": "9a9b906b-2919-45ab-b183-f6f8f3518eac",
+    "siigoNumber": "FV-2-3142",
+    "cufe": null,
+    "siigoStatus": "Sincronizado",
+    "siigoSyncedAt": "2026-11-21T04:06:51.491Z"
   }
 ]
