@@ -16786,5 +16786,35 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 3165,
+    "fecha": "2026-11-22",
+    "tercero": "Juan Camilo Ospina Quintero",
+    "identificacion": "1061735209",
+    "productos": "BHO120 250g x250, RLAC 500g x500, CGA 100g x100",
+    "domicilio": "Local Mensajero",
+    "total": 14000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BHO120",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAC",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "CGA",
+        "presentacion": "100g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
