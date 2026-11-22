@@ -34772,8 +34772,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       }
     ],
     "iva_total": 3619.0476190476193,
@@ -34787,5 +34786,41 @@
     "cufe": null,
     "siigoStatus": "Sincronizado",
     "siigoSyncedAt": "2026-11-21T04:06:51.491Z"
+  },
+  {
+    "consecutivo": 3164,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1072749518",
+    "nombre_tercero": "Eduardo Vallejo",
+    "fecha_elaboracion": "2026-11-21",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 4238.0952380952385,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 103000
+    },
+    "observaciones": "Entregar a Ana Maria García Calle 7 #83-31 urbanización siempre verde Medellín Apto 805 dejar en portería"
   }
 ]
