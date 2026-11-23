@@ -3006,5 +3006,21 @@
     "Teléfono móvil de contacto": "3117645003",
     "Estado": "Activo",
     "siigoId": "82eb00de-f79d-4412-89a4-8db04650fc20"
+  },
+  {
+    "Nombre tercero": "Sara Cobaleda Vásquez",
+    "Tipo de identificación": "13",
+    "Identificación": "1152447343",
+    "Dirección": "Calle 5A.   No 33-5 casa 9 Urbanización Villas de Sauzalito",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3105057924",
+    "Correo electrónico": "saracobaledav@gmail.com",
+    "Nombres contacto": "Sara",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3105057924",
+    "Estado": "Activo",
+    "siigoId": "5fafb284-c766-4acf-b2b4-0ba3f5fc68f4"
   }
 ]
