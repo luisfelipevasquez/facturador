@@ -16881,5 +16881,30 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 3169,
+    "fecha": "2026-11-23",
+    "tercero": "Nicolás Andrés Bohórquez Díaz",
+    "identificacion": "1013679380",
+    "productos": "BBO 500g x500, RLAS 500g x500",
+    "domicilio": "Local Mensajero",
+    "total": 171000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BBO",
+        "presentacion": "500g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAS",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
