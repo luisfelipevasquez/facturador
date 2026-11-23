@@ -1079,5 +1079,55 @@
       "wamid": "wamid.HBgMNTczMTA4MjMzMjY1FQIAERgSNEY1QjY4MkE0M0Y4M0U5N0FDAA==",
       "to": "573108233265"
     }
+  },
+  {
+    "id": "SOL-1795431710436-3lifj",
+    "estado": "pendiente",
+    "creado": "2026-11-23T11:01:50.436Z",
+    "cliente": {
+      "nombre": "Sara Cobaleda",
+      "tipo_documento": "13",
+      "documento": "1152447343",
+      "email": "saracobaledav@gmail.com",
+      "celular": "3105057924",
+      "ciudad": "Medellín",
+      "direccion": "Calle 5A.   No 33-5 casa 9 Urbanización Villas de Sauzalito",
+      "observaciones": ""
+    },
+    "productos": [
+      {
+        "sku": "CGA",
+        "nombre": "Galleta Mantequilla",
+        "presentacion": "340g",
+        "molienda": "molido fino",
+        "cantidad": 1,
+        "precio": 68000
+      },
+      {
+        "sku": "DOM",
+        "nombre": "Domicilio",
+        "presentacion": "Envío Área Metropolitana",
+        "molienda": "",
+        "cantidad": 1,
+        "precio": 14000
+      }
+    ],
+    "total_estimado": 82000,
+    "siigo_customer_found": false,
+    "siigo_customer_id": "",
+    "envio": {
+      "registered_address": "Calle 5A.   No 33-5 casa 9 Urbanización Villas de Sauzalito",
+      "shipping_address_same_as_registered": true,
+      "shipping_address": "Calle 5A.   No 33-5 casa 9 Urbanización Villas de Sauzalito",
+      "customer_overrode_address": false,
+      "shipping_method": "Envío Área Metropolitana",
+      "shipping_base_cost": 14000,
+      "shipping_cost": 14000,
+      "free_shipping": false,
+      "shipping_departamento": "Antioquia",
+      "shipping_ciudad": "Medellín",
+      "cod_dpto_envio": "05",
+      "cod_ciudad_envio": "05001"
+    }
   }
 ]
