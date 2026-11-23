@@ -16861,5 +16861,25 @@
         "molienda": "molido fino"
       }
     ]
+  },
+  {
+    "consecutivo": 3168,
+    "fecha": "2026-11-23",
+    "tercero": "Sergio Carvajal",
+    "identificacion": "1143468393",
+    "productos": "PNA 250g x250",
+    "domicilio": "Local Mensajero",
+    "total": 90000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "PNA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
