@@ -35198,5 +35198,51 @@
       "valor": 225000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 3173,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1072749518",
+    "nombre_tercero": "Eduardo Vallejo",
+    "fecha_elaboracion": "2026-11-24",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 4952.380952380952,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 117999.99999999999
+    },
+    "observaciones": "Enviar a Fernelis Bermúdez\nCalle 49AC 95B-18\nFloresta metropolitano\n31258059977"
   }
 ]
