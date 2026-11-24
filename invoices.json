@@ -35065,8 +35065,7 @@
         "valor_unitario": 131.65266106442579,
         "iva": 2238.0952380952385,
         "iva_pct": 5,
-        "total": 47000.00000000001,
-        "molienda": "grano"
+        "total": 47000.00000000001
       },
       {
         "sku": "DOM",
@@ -35085,5 +35084,31 @@
       "valor": 61000.00000000001
     },
     "observaciones": "Brandon Reyes 1143384572 pvbedoyag@gmail.com  Calle 34d #91-08 apto 303 (por favor llamar, timbre no sirve) Barrio Santa Mónica, Medellín  301 4574970"
+  },
+  {
+    "consecutivo": 3171,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1110505698",
+    "nombre_tercero": "Holman Jussept Irreño Perdomo",
+    "fecha_elaboracion": "2026-11-24",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "BNA120",
+        "producto": "Blend Natural 120h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 2000,
+        "iva_pct": 5,
+        "total": 42000
+      }
+    ],
+    "iva_total": 2000,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 42000
+    },
+    "observaciones": ""
   }
 ]
