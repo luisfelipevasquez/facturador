@@ -1135,5 +1135,55 @@
       "wamid": "wamid.HBgMNTczMTA1MDU3OTI0FQIAERgSNzFBQ0QyNDI0RTM2N0Q1ODAzAA==",
       "to": "573105057924"
     }
+  },
+  {
+    "id": "SOL-1795548103970-mtl6e",
+    "estado": "pendiente",
+    "creado": "2026-11-24T19:21:43.970Z",
+    "cliente": {
+      "nombre": "Daniela",
+      "tipo_documento": "13",
+      "documento": "1238938046",
+      "email": "danielachaverrabenitez@gmail.com",
+      "celular": "3182351920",
+      "ciudad": "Medellín",
+      "direccion": "Cra 86A # 42C 15 (301) La America",
+      "observaciones": ""
+    },
+    "productos": [
+      {
+        "sku": "CMA",
+        "nombre": "Maracuyá",
+        "presentacion": "500g",
+        "molienda": "grano",
+        "cantidad": 1,
+        "precio": 89000
+      },
+      {
+        "sku": "DOM",
+        "nombre": "Domicilio",
+        "presentacion": "Envío AM por Transportadora",
+        "molienda": "",
+        "cantidad": 1,
+        "precio": 10000
+      }
+    ],
+    "total_estimado": 99000,
+    "siigo_customer_found": false,
+    "siigo_customer_id": "",
+    "envio": {
+      "registered_address": "Cra 86A # 42C 15 (301) La America",
+      "shipping_address_same_as_registered": true,
+      "shipping_address": "Cra 86A # 42C 15 (301) La America",
+      "customer_overrode_address": false,
+      "shipping_method": "Envío Área Metropolitana por Transportadora",
+      "shipping_base_cost": 10000,
+      "shipping_cost": 10000,
+      "free_shipping": false,
+      "shipping_departamento": "Antioquia",
+      "shipping_ciudad": "Medellín",
+      "cod_dpto_envio": "05",
+      "cod_ciudad_envio": "05001"
+    }
   }
 ]
