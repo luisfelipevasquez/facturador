@@ -35065,7 +35065,8 @@
         "valor_unitario": 131.65266106442579,
         "iva": 2238.0952380952385,
         "iva_pct": 5,
-        "total": 47000.00000000001
+        "total": 47000.00000000001,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -35083,6 +35084,6 @@
       "codigo": 3,
       "valor": 61000.00000000001
     },
-    "observaciones": ""
+    "observaciones": "Brandon Reyes 1143384572 pvbedoyag@gmail.com  Calle 34d #91-08 apto 303 (por favor llamar, timbre no sirve) Barrio Santa Mónica, Medellín  301 4574970"
   }
 ]
