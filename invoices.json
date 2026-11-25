@@ -35261,7 +35261,21 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999
+        "total": 51999.99999999999,
+        "molienda": "molido medio"
+      },
+      {
+        "sku": "BHO",
+        "producto": "Blend Honey 56h",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 160,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 40000,
+        "molienda": "molido medio"
       }
     ],
     "iva_total": 2476.190476190476,
@@ -35269,7 +35283,7 @@
       "codigo": 3,
       "valor": 51999.99999999999
     },
-    "observaciones": ""
+    "observaciones": "Redime 250h honey56"
   },
   {
     "consecutivo": 3175,
@@ -35287,7 +35301,8 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000
+        "total": 76000,
+        "molienda": "grano"
       },
       {
         "sku": "DOM",
@@ -35309,7 +35324,8 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 36190.47619047619
+        "descuento_valor": 36190.47619047619,
+        "molienda": "grano"
       }
     ],
     "iva_total": 3619.0476190476193,
