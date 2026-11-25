@@ -1191,5 +1191,63 @@
       "wamid": "wamid.HBgMNTczMTgyMzUxOTIwFQIAERgSODc1NjM5QjMzMTQzRTYzMEI2AA==",
       "to": "573182351920"
     }
+  },
+  {
+    "id": "SOL-1795628610102-wyeel",
+    "estado": "pendiente",
+    "creado": "2026-11-25T17:43:30.102Z",
+    "cliente": {
+      "nombre": "Lucas Ochoa Pérez",
+      "tipo_documento": "13",
+      "documento": "1037585897",
+      "email": "lucas8a1000@hotmail.com",
+      "celular": "57 3217805821",
+      "ciudad": "Medellín",
+      "direccion": "Carrera 15a #9a23 apto 1201 Aniz",
+      "observaciones": ""
+    },
+    "productos": [
+      {
+        "sku": "KIT-HONEYS",
+        "nombre": "Kit Honeys",
+        "presentacion": "Kit",
+        "molienda": "grano",
+        "cantidad": 1,
+        "precio": 57000
+      },
+      {
+        "sku": "KIT-NOVENARIO-2026",
+        "nombre": "Novenario 2026",
+        "presentacion": "Kit",
+        "molienda": "grano",
+        "cantidad": 1,
+        "precio": 198000
+      },
+      {
+        "sku": "KIT-CLASICO",
+        "nombre": "Kit Clásico",
+        "presentacion": "Kit",
+        "molienda": "grano",
+        "cantidad": 1,
+        "precio": 118000
+      }
+    ],
+    "total_estimado": 373000,
+    "siigo_customer_found": true,
+    "siigo_customer_id": "f1f7bfef-d4ad-43ea-8b12-5034571e76d5",
+    "envio": {
+      "registered_address": "Carrera 15a #9a23 apto 1201 Aniz",
+      "shipping_address_same_as_registered": true,
+      "shipping_address": "Carrera 15a #9a23 apto 1201 Aniz",
+      "customer_overrode_address": false,
+      "shipping_method": "Envío Área Metropolitana por Transportadora",
+      "shipping_base_cost": 10000,
+      "shipping_cost": 0,
+      "free_shipping": true,
+      "shipping_departamento": "Antioquia",
+      "shipping_ciudad": "Medellín",
+      "cod_dpto_envio": "05",
+      "cod_ciudad_envio": "05001"
+    }
   }
 ]
