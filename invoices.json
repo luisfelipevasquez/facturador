@@ -35215,8 +35215,7 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999,
-        "molienda": "grano"
+        "total": 51999.99999999999
       },
       {
         "sku": "CMA",
@@ -35226,8 +35225,7 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999,
-        "molienda": "grano"
+        "total": 51999.99999999999
       },
       {
         "sku": "DOM",
@@ -35246,5 +35244,31 @@
       "valor": 117999.99999999999
     },
     "observaciones": "Enviar a Fernelis Bermúdez Calle 49AC 95B-18Floresta metropolitano 3158059977"
+  },
+  {
+    "consecutivo": 3174,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "43220408",
+    "nombre_tercero": "Carolina Arias Botero",
+    "fecha_elaboracion": "2026-11-24",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CGA",
+        "producto": "Cofermentado Galleta",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      }
+    ],
+    "iva_total": 2476.190476190476,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 51999.99999999999
+    },
+    "observaciones": ""
   }
 ]
