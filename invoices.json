@@ -35270,5 +35270,53 @@
       "valor": 51999.99999999999
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 3175,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1002208215",
+    "nombre_tercero": "Sebastián Enrique Santander",
+    "fecha_elaboracion": "2026-11-25",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "MNA",
+        "producto": "Maragogype Natural",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 289.5238095238095,
+        "iva": 3619.0476190476193,
+        "iva_pct": 5,
+        "total": 76000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      },
+      {
+        "sku": "RLAA",
+        "producto": "Regional Lavado Andes",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 144.76190476190476,
+        "iva": 0,
+        "iva_pct": 5,
+        "total": 0,
+        "descuento_pct": 100,
+        "descuento_valor": 36190.47619047619
+      }
+    ],
+    "iva_total": 3619.0476190476193,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 90000
+    },
+    "observaciones": "Redime regional lavado. Enviar tarjeta nueva con 1 sticker"
   }
 ]
