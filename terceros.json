@@ -3022,5 +3022,21 @@
     "Teléfono móvil de contacto": "3105057924",
     "Estado": "Activo",
     "siigoId": "5fafb284-c766-4acf-b2b4-0ba3f5fc68f4"
+  },
+  {
+    "Nombre tercero": "Daniela Chaverra Benitez",
+    "Tipo de identificación": "13",
+    "Identificación": "1238938046",
+    "Dirección": "Cra 86A # 42C 15 (301) La America",
+    "Ciudad": "Medellín",
+    "Código departamento": "05",
+    "Código ciudad": "05001",
+    "Teléfono.": "3182351920",
+    "Correo electrónico": "danielachaverrabenitez@gmail.com",
+    "Nombres contacto": "Daniela",
+    "Teléfono de oficina contacto": null,
+    "Teléfono móvil de contacto": "3182351920",
+    "Estado": "Activo",
+    "siigoId": "273531b2-0c57-4bb1-ac98-7d5b8e830a28"
   }
 ]
