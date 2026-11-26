@@ -1035,7 +1035,7 @@
   },
   {
     "id": "SOL-1795431710436-3lifj",
-    "estado": "pendiente",
+    "estado": "completado",
     "creado": "2026-11-23T11:01:50.436Z",
     "cliente": {
       "nombre": "Sara Cobaleda",
@@ -1087,7 +1087,8 @@
       "status": "sent",
       "wamid": "wamid.HBgMNTczMTA1MDU3OTI0FQIAERgSNzFBQ0QyNDI0RTM2N0Q1ODAzAA==",
       "to": "573105057924"
-    }
+    },
+    "actualizado": "2026-11-26T13:40:34.589Z"
   },
   {
     "id": "SOL-1795548103970-mtl6e",
