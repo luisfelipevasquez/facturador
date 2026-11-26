@@ -1092,7 +1092,7 @@
   },
   {
     "id": "SOL-1795548103970-mtl6e",
-    "estado": "pendiente",
+    "estado": "completado",
     "creado": "2026-11-24T19:21:43.970Z",
     "cliente": {
       "nombre": "Daniela",
@@ -1144,7 +1144,8 @@
       "status": "sent",
       "wamid": "wamid.HBgMNTczMTgyMzUxOTIwFQIAERgSODc1NjM5QjMzMTQzRTYzMEI2AA==",
       "to": "573182351920"
-    }
+    },
+    "actualizado": "2026-11-26T17:31:43.314Z"
   },
   {
     "id": "SOL-1795628610102-wyeel",
