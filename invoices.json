@@ -35452,5 +35452,41 @@
       "valor": 192000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 3178,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1036611868",
+    "nombre_tercero": "Felipe Moreno",
+    "fecha_elaboracion": "2026-11-26",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "PANA",
+        "producto": "Papayo Natural",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 264.76190476190476,
+        "iva": 6619.047619047618,
+        "iva_pct": 5,
+        "total": 139000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Local Mensajero",
+        "cantidad": 1,
+        "valor_unitario": 14000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 14000
+      }
+    ],
+    "iva_total": 6619.047619047618,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 153000
+    },
+    "observaciones": ""
   }
 ]
