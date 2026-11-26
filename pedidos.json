@@ -17070,7 +17070,7 @@
   {
     "consecutivo": 3176,
     "fecha": "2026-11-26",
-    "tercero": "1238938046",
+    "tercero": "Daniela Chaverra Benitez",
     "identificacion": "1238938046",
     "productos": "CMA 500g x500",
     "domicilio": "Envío AM por Transportadora",
@@ -17083,6 +17083,51 @@
       {
         "sku": "CMA",
         "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
+  },
+  {
+    "consecutivo": 3177,
+    "fecha": "2026-11-26",
+    "tercero": "Lucas Ochoa Pérez",
+    "identificacion": "1037585897",
+    "productos": "BHO 100g x100, BHO72 100g x100, BHO120 100g x100, BNA120 250g x250, RLAA 250g x250, PANA 100g x100",
+    "domicilio": "Local Mensajero",
+    "total": 192000,
+    "forma_pago": "Efectivo",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "BHO",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO72",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BHO120",
+        "presentacion": "100g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "BNA120",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "RLAA",
+        "presentacion": "250g",
+        "molienda": "grano"
+      },
+      {
+        "sku": "PANA",
+        "presentacion": "100g",
         "molienda": "grano"
       }
     ]
