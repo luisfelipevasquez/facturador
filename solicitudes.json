@@ -1148,7 +1148,7 @@
   },
   {
     "id": "SOL-1795628610102-wyeel",
-    "estado": "pendiente",
+    "estado": "completado",
     "creado": "2026-11-25T17:43:30.102Z",
     "cliente": {
       "nombre": "Lucas Ochoa Pérez",
@@ -1208,6 +1208,7 @@
       "status": "sent",
       "wamid": "wamid.HBgMNTczMjE3ODA1ODIxFQIAERgSRUM0MjQyOTFBRUU3N0RFNUU2AA==",
       "to": "573217805821"
-    }
+    },
+    "actualizado": "2026-11-26T17:31:28.002Z"
   }
 ]
