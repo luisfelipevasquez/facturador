@@ -17131,5 +17131,25 @@
         "molienda": "grano"
       }
     ]
+  },
+  {
+    "consecutivo": 3178,
+    "fecha": "2026-11-26",
+    "tercero": "Felipe Moreno",
+    "identificacion": "1036611868",
+    "productos": "PANA 500g x500",
+    "domicilio": "Local Mensajero",
+    "total": 153000,
+    "forma_pago": "T. Débito",
+    "status": "En proceso",
+    "client_type": "Antiguo",
+    "recoge": "No",
+    "items_molienda": [
+      {
+        "sku": "PANA",
+        "presentacion": "500g",
+        "molienda": "grano"
+      }
+    ]
   }
 ]
