@@ -35261,8 +35261,7 @@
         "valor_unitario": 198.09523809523807,
         "iva": 2476.190476190476,
         "iva_pct": 5,
-        "total": 51999.99999999999,
-        "molienda": "molido medio"
+        "total": 51999.99999999999
       },
       {
         "sku": "BHO",
@@ -35274,8 +35273,7 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 40000,
-        "molienda": "molido medio"
+        "descuento_valor": 40000
       }
     ],
     "iva_total": 2476.190476190476,
@@ -35301,8 +35299,7 @@
         "valor_unitario": 289.5238095238095,
         "iva": 3619.0476190476193,
         "iva_pct": 5,
-        "total": 76000,
-        "molienda": "grano"
+        "total": 76000
       },
       {
         "sku": "DOM",
@@ -35324,8 +35321,7 @@
         "iva_pct": 5,
         "total": 0,
         "descuento_pct": 100,
-        "descuento_valor": 36190.47619047619,
-        "molienda": "grano"
+        "descuento_valor": 36190.47619047619
       }
     ],
     "iva_total": 3619.0476190476193,
@@ -35334,5 +35330,41 @@
       "valor": 90000
     },
     "observaciones": "Redime regional lavado. Enviar tarjeta nueva con 1 sticker"
+  },
+  {
+    "consecutivo": 3176,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1238938046",
+    "nombre_tercero": "Daniela Chaverra",
+    "fecha_elaboracion": "2026-11-26",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "500g",
+        "cantidad": 500,
+        "valor_unitario": 169.52380952380952,
+        "iva": 4238.0952380952385,
+        "iva_pct": 5,
+        "total": 89000
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Envío AM por Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 10000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 10000
+      }
+    ],
+    "iva_total": 4238.0952380952385,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 99000
+    },
+    "observaciones": ""
   }
 ]
