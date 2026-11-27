@@ -35488,5 +35488,41 @@
       "valor": 153000
     },
     "observaciones": ""
+  },
+  {
+    "consecutivo": 3179,
+    "tipo_comprobante": 2,
+    "identificacion_tercero": "1018412104",
+    "nombre_tercero": "Pedro Pablo Camacho Agudelo",
+    "fecha_elaboracion": "2026-11-27",
+    "identificacion_vendedor": "901906362",
+    "items": [
+      {
+        "sku": "CMA",
+        "producto": "Cofermentado Maracuyá",
+        "presentacion": "250g",
+        "cantidad": 250,
+        "valor_unitario": 198.09523809523807,
+        "iva": 2476.190476190476,
+        "iva_pct": 5,
+        "total": 51999.99999999999
+      },
+      {
+        "sku": "DOM",
+        "producto": "Domicilio",
+        "presentacion": "Nacional Transportadora",
+        "cantidad": 1,
+        "valor_unitario": 18000,
+        "iva": 0,
+        "iva_pct": 0,
+        "total": 18000
+      }
+    ],
+    "iva_total": 2476.190476190476,
+    "forma_pago": {
+      "codigo": 3,
+      "valor": 70000
+    },
+    "observaciones": ""
   }
 ]
